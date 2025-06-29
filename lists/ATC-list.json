@@ -1,0 +1,2997 @@
+﻿[
+    {
+        "card_name": "Annual Abduction",
+        "number": 3,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "\nThalassophobia",
+        "number": 57,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bad Land Scavengers",
+        "number": 113,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Abraham Lincoln",
+        "number": 169,
+        "shape": "planeswalker",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Arboreal Indoctrination",
+        "number": 221,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Banana Guard 500",
+        "number": 4,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "3D Print",
+        "number": 58,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bridge Shades",
+        "number": 114,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Blastronaut",
+        "number": 170,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Breakfast Afterglow",
+        "number": 222,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Banana Man",
+        "number": 5,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Astral Brojection",
+        "number": 59,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Chthonian Nightmare",
+        "number": 115,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Blazing Rage",
+        "number": 171,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Briberry",
+        "number": 223,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bird Squadron",
+        "number": 6,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Astral Epiphany",
+        "number": 60,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Citric Oppression",
+        "number": 116,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bugbear Brawlers",
+        "number": 172,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bucket Knight",
+        "number": 224,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Breakfast in Bed",
+        "number": 7,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bureaucratic Burg",
+        "number": 61,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clumsy Skeleton",
+        "number": 117,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Burn Down the Town",
+        "number": 173,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Chalk Outline",
+        "number": 225,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Breezy, Reluctant Heir",
+        "number": 8,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bypass",
+        "number": 62,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Crab Demon",
+        "number": 118,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Cadebra, Novice Magician",
+        "number": 174,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Confront the Forgotten",
+        "number": 226,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bubblegum's Command",
+        "number": 9,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Canyon, Billy's Ex",
+        "number": 63,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Crabbit Familiar",
+        "number": 119,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dancing Bug",
+        "number": 175,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Confront the Past",
+        "number": 227,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Catalyst Comet",
+        "number": 10,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Chart a Course",
+        "number": 64,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Death, Soul Gardener",
+        "number": 120,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Demon-Blood Sword",
+        "number": 176,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dimpled Sprout",
+        "number": 228,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Cinnamon Bun, Half Baked",
+        "number": 11,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Choose Goose",
+        "number": 65,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Depressing Edict",
+        "number": 121,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Deranged Drum Solo",
+        "number": 177,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Donny, Beligerant Ogre",
+        "number": 229,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clown Nurse",
+        "number": 12,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Complex Equation",
+        "number": 66,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dr. Gross, Amoral Genetisist",
+        "number": 122,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Electric Eels",
+        "number": 178,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Eerie Onlooker",
+        "number": 230,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Destroy Evil",
+        "number": 13,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Con Wizard",
+        "number": 67,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dream Parisite",
+        "number": 123,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ember Wolves",
+        "number": 179,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Elise, Ailing Mother",
+        "number": 231,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Duke of Nuts",
+        "number": 14,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Conjecture Beast",
+        "number": 68,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "End of the Line",
+        "number": 124,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Exposed Entity",
+        "number": 180,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fiona Campbell",
+        "number": 232,
+        "shape": "planeswalker",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dum Dum Juiced",
+        "number": 15,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Evil Ocean",
+        "number": 69,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Entropic Amalgam",
+        "number": 125,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Firecrown Berserker",
+        "number": 181,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Goo Skulls",
+        "number": 233,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Foodboys",
+        "number": 16,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Exhaustive Analysis",
+        "number": 70,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Famished Moldos",
+        "number": 126,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fireskull",
+        "number": 182,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grass Demon",
+        "number": 234,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Forge the Guardians",
+        "number": 17,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fractalize",
+        "number": 71,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fatal Push",
+        "number": 127,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flame Guards",
+        "number": 183,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grass Sword",
+        "number": 235,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Friend",
+        "number": 18,
+        "shape": "aftermath",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ghost Fly",
+        "number": 72,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fight King's Arena",
+        "number": 128,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flame Jester",
+        "number": 184,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grass Wizard",
+        "number": 236,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ghost Princess",
+        "number": 19,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ghost of Drop Ball",
+        "number": 73,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Frighten",
+        "number": 129,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flame Princess",
+        "number": 185,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grassy Gatekeeper",
+        "number": 237,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Giant Lemon Snail",
+        "number": 20,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Glacial Armor",
+        "number": 74,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fruit Witch",
+        "number": 130,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flamethrower",
+        "number": 186,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Honey Man",
+        "number": 238,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gummy Bear",
+        "number": 21,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Glasses of Nerdicon",
+        "number": 75,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gaze of the Worm",
+        "number": 131,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flametongue Newt in Boots",
+        "number": 187,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hurricane",
+        "number": 239,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Haphazard Excavation",
+        "number": 22,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grand Wizard",
+        "number": 76,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Glassassin",
+        "number": 132,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Frightening Bolt",
+        "number": 188,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Inquisitive Whywolf",
+        "number": 240,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Haughty Glassware",
+        "number": 23,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gumcrafting",
+        "number": 77,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Greedy Eyes",
+        "number": 133,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Glass Boy",
+        "number": 189,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lard Shepherd",
+        "number": 241,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Here All Along",
+        "number": 24,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gunter, The First Bearer",
+        "number": 78,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Grody Spirit",
+        "number": 134,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hair Ape",
+        "number": 190,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Life, Soul Sculpter",
+        "number": 242,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Heroic Tutor",
+        "number": 25,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ice King",
+        "number": 79,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Harrowing Premonition",
+        "number": 135,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Itchy-Butt Dragon",
+        "number": 191,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Marrow Muncher",
+        "number": 243,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hot Dog Knights",
+        "number": 26,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ice Plague",
+        "number": 80,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hateful Faeries",
+        "number": 136,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Jake Junior, Bohemian",
+        "number": 192,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Muscle Princess",
+        "number": 244,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "James, Willing Sacrifice",
+        "number": 27,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ice Scouts",
+        "number": 81,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Horde of Oozers",
+        "number": 137,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Jermaine, Abstract Artist",
+        "number": 193,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Overflowing Mimic",
+        "number": 245,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Kim Kil Whan, Landlord",
+        "number": 28,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Inquisitive Looting",
+        "number": 82,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Horrify",
+        "number": 138,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Kick in the Boingloings",
+        "number": 194,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Party Pat",
+        "number": 246,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lady Rainicorn",
+        "number": 29,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lub-Glubs",
+        "number": 83,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hugo, Scheming Industrialist",
+        "number": 139,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Knife Storm",
+        "number": 195,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Persistant Raccoon",
+        "number": 247,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lemoncrafting",
+        "number": 30,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lurking Guardian",
+        "number": 84,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Inevitable Return",
+        "number": 140,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Magic Man, Transmografier",
+        "number": 196,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Pond Nymphs",
+        "number": 248,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lemonshrieker",
+        "number": 31,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Magi of Life Giving",
+        "number": 85,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "King of Ooo",
+        "number": 141,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Manish Man",
+        "number": 197,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Rampant Regrowth",
+        "number": 249,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Minervabot",
+        "number": 32,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mass Surveillance",
+        "number": 86,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lesson on the Premundane",
+        "number": 142,
+        "shape": "saga",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mistaken Identity",
+        "number": 198,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Rapping at the Window",
+        "number": 250,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mo, Paternal Roboticist",
+        "number": 33,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Movie Night",
+        "number": 87,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Lich",
+        "number": 143,
+        "shape": "planeswalker",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Nudumancer",
+        "number": 199,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Risky Scrounging",
+        "number": 251,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Morrow",
+        "number": 34,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Octopolitician",
+        "number": 88,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lich Hand",
+        "number": 144,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Old Wizards",
+        "number": 200,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Roughousing",
+        "number": 252,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mother Jiggler",
+        "number": 35,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ongoing Investigation",
+        "number": 89,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Maja the Sky Witch",
+        "number": 145,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Party God's Ire",
+        "number": 201,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Shelby",
+        "number": 253,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mr. Cupcake",
+        "number": 36,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Orb Wizard",
+        "number": 90,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Malefic Tutor",
+        "number": 146,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Saltburn",
+        "number": 202,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sign Zombies",
+        "number": 254,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mr. Fox, Loneliest Being",
+        "number": 37,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Out Sick",
+        "number": 91,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Martin, Slippery Scoundrel",
+        "number": 147,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Secret Wizard Handshake",
+        "number": 203,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Signature Slam",
+        "number": 255,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Overcome Evil",
+        "number": 38,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Overstretch",
+        "number": 92,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Me-Mow, Second Class",
+        "number": 148,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Shell Slinger",
+        "number": 204,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Slime Princess",
+        "number": 256,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Overripe Banana Guards",
+        "number": 39,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Patience's Patient Plan",
+        "number": 93,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Morbid Butterfly",
+        "number": 149,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sizzling Slap",
+        "number": 205,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Space Elves",
+        "number": 257,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "PB's Special Sweater",
+        "number": 40,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Petrikov's Descent",
+        "number": 94,
+        "shape": "saga",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Newborn Marauder",
+        "number": 150,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Snatching Cyclops",
+        "number": 206,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Stretch Around",
+        "number": 258,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Porcelain Lamb",
+        "number": 41,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Portent of Calamity",
+        "number": 95,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Nightmare Princess",
+        "number": 151,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Spader Peterson",
+        "number": 207,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Stylish Scorpion",
+        "number": 259,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Root Beer Guy",
+        "number": 42,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Power Shriek",
+        "number": 96,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Peppermint Butler",
+        "number": 152,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Stickytongue Lizard",
+        "number": 208,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Susan Strong, Seeker",
+        "number": 260,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Scarab",
+        "number": 43,
+        "shape": "planeswalker",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Probable Cause",
+        "number": 97,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Psychic Worm",
+        "number": 153,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Storytelling",
+        "number": 209,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sweet P, Precious Boy",
+        "number": 261,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Settle Beyond Reality",
+        "number": 44,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Psychic Stalemate",
+        "number": 98,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Raid the Fridge",
+        "number": 154,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Strangle",
+        "number": 210,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tiny Tiller",
+        "number": 262,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Slumber Party",
+        "number": 45,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Reach Through Time",
+        "number": 99,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ravenous Grumbo",
+        "number": 155,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "System Sabotage",
+        "number": 211,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Trail of Spoor",
+        "number": 263,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sonic Blast",
+        "number": 46,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Science Cat",
+        "number": 100,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Reign of Gunters",
+        "number": 156,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Take a Seat",
+        "number": 212,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tree Trunks",
+        "number": 264,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Space Lard",
+        "number": 47,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Science, Sweet Familiar",
+        "number": 101,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Risen Horde",
+        "number": 157,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Thunder Boar",
+        "number": 213,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Turn to Seed",
+        "number": 265,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Space Moth",
+        "number": 48,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sea Lard",
+        "number": 102,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ruby Brain Beast",
+        "number": 158,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tiny, Micro Manticore",
+        "number": 214,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Up All Night Grinding",
+        "number": 266,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Starchy the Gravedigger",
+        "number": 49,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Seeded Digsite",
+        "number": 103,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Secret Wizard Oath",
+        "number": 159,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Toothy Sword",
+        "number": 215,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Verdant Cyclops",
+        "number": 267,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Sticky Prison",
+        "number": 50,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Shower Thoughts",
+        "number": 104,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Shadow Ritual",
+        "number": 160,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Volcanic Tutor",
+        "number": 216,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Viola, Aspiring Actress",
+        "number": 268,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Syr Rattleballs",
+        "number": 51,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Simon Petrikov",
+        "number": 105,
+        "shape": "planeswalker",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Shambling Oozers",
+        "number": 161,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Volcanic Vision",
+        "number": 217,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Warped Coyote",
+        "number": 269,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tax Collection",
+        "number": 52,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Skyhooks",
+        "number": 106,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Soul Suck",
+        "number": 162,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Weapon Head",
+        "number": 218,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Weapons Cashe",
+        "number": 270,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Time Bubble",
+        "number": 53,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Snooping Pastry",
+        "number": 107,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Special Sentient Sandwiches",
+        "number": 163,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wild Ride",
+        "number": 219,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wildberry Princess",
+        "number": 271,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tyranny to Transendentalism",
+        "number": 54,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Snow Golem",
+        "number": 108,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Syr Slicer",
+        "number": 164,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Xergiok, The Flagelator",
+        "number": 220,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wolf Lard Pack",
+        "number": 272,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wrath of Glob Gob Glod Grod",
+        "number": 55,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Somatic inversion",
+        "number": 109,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Thoughtseize",
+        "number": 165,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fire",
+        "number": 319,
+        "shape": "fuse split",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Y5, Formerly Y4",
+        "number": 56,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Time Warp",
+        "number": 110,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tragic Slip",
+        "number": 166,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Pacifism",
+        "number": 427,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Unsettling Reproductions",
+        "number": 111,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Vampire King",
+        "number": 167,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wizard City Po-Po",
+        "number": 112,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Viral Outbreak",
+        "number": 168,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Captive Research",
+        "number": 273,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lich's Influence",
+        "number": 275,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Marceline, Vampire Queen",
+        "number": 277,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flute Duet",
+        "number": 278,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Billy, Retired Hero",
+        "number": 298,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Princess Bubblegum",
+        "number": 274,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Uncle Gumbald",
+        "number": 276,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bandit Princess",
+        "number": 292,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Jake, The Dog",
+        "number": 279,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Breakfast Princess",
+        "number": 299,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Crystal Jailers",
+        "number": 288,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ricardio, The Heart Guy",
+        "number": 290,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Flame King",
+        "number": 293,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Giant Ant Creature",
+        "number": 296,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Festive Nutler",
+        "number": 300,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "I'm Jaking It",
+        "number": 289,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Speak Through Another",
+        "number": 291,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lyrical Duet",
+        "number": 294,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Huntress Wizard",
+        "number": 297,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Party Bear",
+        "number": 301,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Son of Rap Bear",
+        "number": 295,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Earl of Lemongrab",
+        "number": 280,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Iced Lightning",
+        "number": 281,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Darren, Ancient Sleeper",
+        "number": 282,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "String Duet",
+        "number": 284,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mystic Virus",
+        "number": 285,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lemonhope",
+        "number": 302,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Betty Grof, Magic Woman",
+        "number": 304,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Mushroom War",
+        "number": 283,
+        "shape": "saga",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bronwyn, Skater Pup",
+        "number": 309,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "T.V., Pup Detective",
+        "number": 286,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lemonjohn, Zesty Titan",
+        "number": 303,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Class Project",
+        "number": 305,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mother Varmint",
+        "number": 307,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Example Examination",
+        "number": 310,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Charlie, Cardomancer",
+        "number": 313,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Repressed Duet",
+        "number": 306,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Spider Spewing",
+        "number": 308,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Finn, The Human",
+        "number": 311,
+        "shape": "adventure",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Marcy's Concert Tee",
+        "number": 312,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Spaghettification",
+        "number": 287,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bufo, Former Dark Wizard",
+        "number": 314,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Death's Metal",
+        "number": 315,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Delivery Drone",
+        "number": 316,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Humiliating Minstrel",
+        "number": 317,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Next-Level Super Organism",
+        "number": 318,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "GOLB, Entropy Manifest",
+        "number": 1,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lumpy Space Princess",
+        "number": 2,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Altar of GOLB",
+        "number": 320,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bathroom Mirror",
+        "number": 321,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "BMO",
+        "number": 322,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bubblegum's Altar",
+        "number": 323,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bubblegum's Rockets",
+        "number": 324,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Candy Seeds",
+        "number": 325,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "CGO, Bootleg Bot",
+        "number": 326,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Crucible of Worlds",
+        "number": 327,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Dad's Holomessage",
+        "number": 328,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Deed to The Treehouse",
+        "number": 329,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Dungeon Train",
+        "number": 330,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Enchiridion",
+        "number": 331,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Everything Burrito",
+        "number": 332,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Feral Pageling",
+        "number": 333,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Finn Sword",
+        "number": 334,
+        "shape": "transform double faced",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Giuseppe's Signet",
+        "number": 335,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "GOLB's Bauble",
+        "number": 336,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hambo, Beloved Teddy",
+        "number": 337,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Holotome",
+        "number": 338,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hot Daniel",
+        "number": 339,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mom's Holomessage",
+        "number": 340,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Mother Gum",
+        "number": 341,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "N.E.P.T.Y.R.",
+        "number": 342,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Olive, Service Droid",
+        "number": 343,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Questing Orb",
+        "number": 344,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Raggedy Princess",
+        "number": 345,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ramshackle Flute",
+        "number": 346,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Soul Stone",
+        "number": 347,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Tome of Golb",
+        "number": 348,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Whisper Dan, Silent King",
+        "number": 349,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gold Pan",
+        "number": 428,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->land",
+    {
+        "card_name": "Finn's Tower",
+        "number": 371,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ice Kingdom",
+        "number": 383,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hive of the Star",
+        "number": 380,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Living Mountain",
+        "number": 390,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hall of Egress",
+        "number": 379,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Candy Kingdom",
+        "number": 358,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Ghost Ship Vortex",
+        "number": 374,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fire Kingdom",
+        "number": 372,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mt. Cragdor",
+        "number": 393,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Breakfast Kingdom",
+        "number": 357,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Up-Ton",
+        "number": 401,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gumbaldia",
+        "number": 378,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Nightosphere",
+        "number": 394,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wildberry Kingdom",
+        "number": 407,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Verdant Plains",
+        "number": 403,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Castle Lemongrab",
+        "number": 359,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wiz Arts",
+        "number": 408,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Lich's Lair",
+        "number": 389,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Glass Kingdom",
+        "number": 375,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Beautopia",
+        "number": 353,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Death's Garden",
+        "number": 365,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wizard City",
+        "number": 409,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Slime Kingdom",
+        "number": 398,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Junktown",
+        "number": 386,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hub Island",
+        "number": 382,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "50th Dead World",
+        "number": 350,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Abyssal Hollow",
+        "number": 351,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Balmy Beach",
+        "number": 352,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Blackscape",
+        "number": 354,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bluescape",
+        "number": 355,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Box Kingdom",
+        "number": 356,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clearcut Patch",
+        "number": 360,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Cliffside Treehouse",
+        "number": 361,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Cloudy Montane",
+        "number": 362,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Coastal Fringe",
+        "number": 363,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Crystal Citadel",
+        "number": 364,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Deepwater Rig",
+        "number": 366,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Depleted Field",
+        "number": 367,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Drift",
+        "number": 368,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Eroded Metropolis",
+        "number": 369,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Fabled Passage",
+        "number": 370,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Frigid Caldera",
+        "number": 373,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Gloomy Wetland",
+        "number": 376,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Greenscape",
+        "number": 377,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Hostile Menagerie",
+        "number": 381,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Industrial Seaport",
+        "number": 384,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Jagged Crag",
+        "number": 385,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lady's House",
+        "number": 387,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Library of Ooo",
+        "number": 388,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Lumpy Space",
+        "number": 391,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mountain Pass",
+        "number": 392,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Pillowtown",
+        "number": 395,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Place of Learning",
+        "number": 396,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Redscape",
+        "number": 397,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Subsuming Morass",
+        "number": 399,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "The Treehouse",
+        "number": 400,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Vacant Valley",
+        "number": 402,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Vespertine Vista",
+        "number": 404,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Well Worn Road",
+        "number": 405,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Whitescape",
+        "number": 406,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wooded Lagoon",
+        "number": 410,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 412,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Plains",
+        "number": 413,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Plains",
+        "number": 414,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Island",
+        "number": 415,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Island",
+        "number": 416,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Island",
+        "number": 417,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 418,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 419,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 420,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 421,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 422,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 423,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Forest",
+        "number": 424,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Forest",
+        "number": 425,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Forest",
+        "number": 426,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wastes",
+        "number": 411,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "CUSTOM MECHANICS",
+        "number": 1,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Spirit",
+        "number": 2,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "TWO COLOR ARCHETYPES",
+        "number": 3,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 13,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 14,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 15,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 16,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
+        "number": 17,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Equipment",
+        "number": 18,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Food",
+        "number": 19,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Food",
+        "number": 20,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Food",
+        "number": 21,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Robot",
+        "number": 22,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 23,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 24,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 25,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 26,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 27,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Simon Petrikov",
+        "number": 28,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Candy Citizen",
+        "number": 4,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Candy Soldier",
+        "number": 5,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bird Army",
+        "number": 6,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Vampire",
+        "number": 7,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Elemental Soldier",
+        "number": 8,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Goblin",
+        "number": 9,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Wizard",
+        "number": 10,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Bear",
+        "number": 11,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Coyote Mutant",
+        "number": 12,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

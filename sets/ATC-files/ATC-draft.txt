@@ -1,0 +1,5057 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Arboreal Indoctrination",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/221_Arboreal Indoctrination.png"
+			}
+		},
+		{
+			"name": "Bad Land Scavengers",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/113_Bad Land Scavengers.png"
+			}
+		},
+		{
+			"name": "Bureaucratic Burg",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/61_Bureaucratic Burg_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/61_Bureaucratic Burg_front.png"
+			}
+		},
+		{
+			"name": "Chalk Outline",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/225_Chalk Outline.png"
+			}
+		},
+		{
+			"name": "Confront the Forgotten",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/226_Confront the Forgotten.png"
+			}
+		},
+		{
+			"name": "Conjecture Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/68_Conjecture Beast.png"
+			}
+		},
+		{
+			"name": "Complex Equation",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/66_Complex Equation.png"
+			}
+		},
+		{
+			"name": "Crabbit Familiar",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Bird Rabbit",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/119_Crabbit Familiar.png"
+			}
+		},
+		{
+			"name": "Crucible of Worlds",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/327_Crucible of Worlds.png"
+			}
+		},
+		{
+			"name": "Crystal Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/364_Crystal Citadel.png"
+			}
+		},
+		{
+			"name": "Dad's Holomessage",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue Map",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/328_Dad's Holomessage.png"
+			}
+		},
+		{
+			"name": "Death's Metal",
+			"rarity": "special",
+			"mana_cost": "{3}{W/B}{B/R}",
+			"type": "Sorcery",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/315_Death's Metal.png"
+			}
+		},
+		{
+			"name": "Deed to The Treehouse",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/329_Deed to The Treehouse.png"
+			}
+		},
+		{
+			"name": "Depleted Field",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/367_Depleted Field.png"
+			}
+		},
+		{
+			"name": "Depressing Edict",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/121_Depressing Edict.png"
+			}
+		},
+		{
+			"name": "Destroy Evil",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/13_Destroy Evil.png"
+			}
+		},
+		{
+			"name": "The Dungeon Train",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/330_The Dungeon Train.png"
+			}
+		},
+		{
+			"name": "Fatal Push",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/127_Fatal Push.png"
+			}
+		},
+		{
+			"name": "Finn's Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/371_Finn's Tower.png"
+			}
+		},
+		{
+			"name": "Repressed Duet",
+			"rarity": "special",
+			"mana_cost": "{U/R}",
+			"type": "Enchantment — Music",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/306_Repressed Duet.png"
+			}
+		},
+		{
+			"name": "Frigid Caldera",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/373_Frigid Caldera.png"
+			}
+		},
+		{
+			"name": "Goo Skulls",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Skeleton Ooze",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/233_Goo Skulls.png"
+			}
+		},
+		{
+			"name": "Greedy Eyes",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/133_Greedy Eyes.png"
+			}
+		},
+		{
+			"name": "Horde of Oozers",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/137_Horde of Oozers.png"
+			}
+		},
+		{
+			"name": "Ice Plague",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/80_Ice Plague.png"
+			}
+		},
+		{
+			"name": "Iced Lightning",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Snow Instant",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/281_Iced Lightning.png"
+			}
+		},
+		{
+			"name": "Jagged Crag",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/385_Jagged Crag.png"
+			}
+		},
+		{
+			"name": "Kick in the Boingloings",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/194_Kick in the Boingloings.png"
+			}
+		},
+		{
+			"name": "Lady's House",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/387_Lady's House.png"
+			}
+		},
+		{
+			"name": "Lumpy Space",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/391_Lumpy Space.png"
+			}
+		},
+		{
+			"name": "Me-Mow, Second Class",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Cat Assassin",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/148_Me-Mow, Second Class.png"
+			}
+		},
+		{
+			"name": "Mom's Holomessage",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/340_Mom's Holomessage.png"
+			}
+		},
+		{
+			"name": "Mother Jiggler",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/35_Mother Jiggler.png"
+			}
+		},
+		{
+			"name": "Movie Night",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/87_Movie Night.png"
+			}
+		},
+		{
+			"name": "Mountain Pass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/392_Mountain Pass.png"
+			}
+		},
+		{
+			"name": "Ongoing Investigation",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/89_Ongoing Investigation.png"
+			}
+		},
+		{
+			"name": "Out Sick",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/91_Out Sick.png"
+			}
+		},
+		{
+			"name": "Overflowing Mimic",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Treasure",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/245_Overflowing Mimic.png"
+			}
+		},
+		{
+			"name": "Party God's Ire",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/201_Party God's Ire.png"
+			}
+		},
+		{
+			"name": "Petrikov's Descent",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/94_Petrikov's Descent.png"
+			}
+		},
+		{
+			"name": "Pillowtown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/395_Pillowtown.png"
+			}
+		},
+		{
+			"name": "Raid the Fridge",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/154_Raid the Fridge.png"
+			}
+		},
+		{
+			"name": "Rampant Regrowth",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/249_Rampant Regrowth.png"
+			}
+		},
+		{
+			"name": "Reign of Gunters",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/156_Reign of Gunters.png"
+			}
+		},
+		{
+			"name": "Reach Through Time",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/99_Reach Through Time.png"
+			}
+		},
+		{
+			"name": "Risen Horde",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/157_Risen Horde.png"
+			}
+		},
+		{
+			"name": "Root Beer Guy",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Candy Detective",
+			"collector_number": "42",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/42_Root Beer Guy_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/42_Root Beer Guy_front.png"
+			}
+		},
+		{
+			"name": "Roughousing",
+			"rarity": "special",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/252_Roughousing.png"
+			}
+		},
+		{
+			"name": "Settle Beyond Reality",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/44_Settle Beyond Reality.png"
+			}
+		},
+		{
+			"name": "Sizzling Slap",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/205_Sizzling Slap.png"
+			}
+		},
+		{
+			"name": "Somatic inversion",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/109_Somatic inversion.png"
+			}
+		},
+		{
+			"name": "Special Sentient Sandwiches",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact — Food",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/163_Special Sentient Sandwiches.png"
+			}
+		},
+		{
+			"name": "Sticky Prison",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/50_Sticky Prison.png"
+			}
+		},
+		{
+			"name": "Stretch Around",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/258_Stretch Around.png"
+			}
+		},
+		{
+			"name": "Horrify",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/138_Horrify.png"
+			}
+		},
+		{
+			"name": "The Lich",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Lich",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/143_The Lich.png"
+			}
+		},
+		{
+			"name": "The Treehouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/400_The Treehouse.png"
+			}
+		},
+		{
+			"name": "Thoughtseize",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/165_Thoughtseize.png"
+			}
+		},
+		{
+			"name": "Thunder Boar",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Boar",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/213_Thunder Boar.png"
+			}
+		},
+		{
+			"name": "Tragic Slip",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/166_Tragic Slip.png"
+			}
+		},
+		{
+			"name": "Toothy Sword",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Equipment Shark",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/215_Toothy Sword.png"
+			}
+		},
+		{
+			"name": "Vacant Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/402_Vacant Valley.png"
+			}
+		},
+		{
+			"name": "Volcanic Vision",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/217_Volcanic Vision.png"
+			}
+		},
+		{
+			"name": "Wizard City Po-Po",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wizard Detective",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/112_Wizard City Po-Po.png"
+			}
+		},
+		{
+			"name": "Wooded Lagoon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/410_Wooded Lagoon.png"
+			}
+		},
+		{
+			"name": "Clearcut Patch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/360_Clearcut Patch.png"
+			}
+		},
+		{
+			"name": "Martin, Slippery Scoundrel",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/147_Martin, Slippery Scoundrel.png"
+			}
+		},
+		{
+			"name": "Fruit Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Warlock",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/130_Fruit Witch.png"
+			}
+		},
+		{
+			"name": "Newborn Marauder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Berserker",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/150_Newborn Marauder.png"
+			}
+		},
+		{
+			"name": "Lich Hand",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/144_Lich Hand.png"
+			}
+		},
+		{
+			"name": "Marrow Muncher",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Horror",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/243_Marrow Muncher.png"
+			}
+		},
+		{
+			"name": "Bridge Shades",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Shade",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/114_Bridge Shades.png"
+			}
+		},
+		{
+			"name": "Morbid Butterfly",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Skeleton",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/149_Morbid Butterfly.png"
+			}
+		},
+		{
+			"name": "Ruby Brain Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Snake Horror",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/158_Ruby Brain Beast.png"
+			}
+		},
+		{
+			"name": "Glassassin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Golem Assassin",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/132_Glassassin.png"
+			}
+		},
+		{
+			"name": "Psychic Worm",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Worm",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/153_Psychic Worm.png"
+			}
+		},
+		{
+			"name": "Ravenous Grumbo",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Candy Beast",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/155_Ravenous Grumbo.png"
+			}
+		},
+		{
+			"name": "Dr. Gross, Amoral Genetisist",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/122_Dr. Gross, Amoral Genetisist.png"
+			}
+		},
+		{
+			"name": "Shambling Oozers",
+			"rarity": "special",
+			"mana_cost": "{6}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/161_Shambling Oozers.png"
+			}
+		},
+		{
+			"name": "Maja the Sky Witch",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Warlock",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/145_Maja the Sky Witch.png"
+			}
+		},
+		{
+			"name": "Peppermint Butler",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Candy Warlock",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/152_Peppermint Butler.png"
+			}
+		},
+		{
+			"name": "Stylish Scorpion",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Scorpion",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/259_Stylish Scorpion.png"
+			}
+		},
+		{
+			"name": "Tree Trunks",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elephant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/264_Tree Trunks.png"
+			}
+		},
+		{
+			"name": "Space Elves",
+			"rarity": "special",
+			"mana_cost": "{C/G}",
+			"type": "Creature — Alien Elf",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/257_Space Elves.png"
+			}
+		},
+		{
+			"name": "Donny, Beligerant Ogre",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Plant Ogre",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/229_Donny, Beligerant Ogre.png"
+			}
+		},
+		{
+			"name": "Mother Varmint",
+			"rarity": "special",
+			"mana_cost": "{2}{B/G}{G}",
+			"type": "Creature — Varmint",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/307_Mother Varmint.png"
+			}
+		},
+		{
+			"name": "Life, Soul Sculpter",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Snake Avatar",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/242_Life, Soul Sculpter.png"
+			}
+		},
+		{
+			"name": "Fireskull",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Skeleton",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/182_Fireskull.png"
+			}
+		},
+		{
+			"name": "Manish Man",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/197_Manish Man.png"
+			}
+		},
+		{
+			"name": "Orb Wizard",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/90_Orb Wizard.png"
+			}
+		},
+		{
+			"name": "Ice King",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Snow Creature — Wizard Noble",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/79_Ice King.png"
+			}
+		},
+		{
+			"name": "Octopolitician",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/88_Octopolitician.png"
+			}
+		},
+		{
+			"name": "Science Cat",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Scientist",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/100_Science Cat.png"
+			}
+		},
+		{
+			"name": "Choose Goose",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Bird Peasant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/65_Choose Goose.png"
+			}
+		},
+		{
+			"name": "Con Wizard",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wizard Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/67_Con Wizard.png"
+			}
+		},
+		{
+			"name": "Grand Wizard",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/76_Grand Wizard.png"
+			}
+		},
+		{
+			"name": "Unsettling Reproductions",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/111_Unsettling Reproductions.png"
+			}
+		},
+		{
+			"name": "PB's Special Sweater",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/40_PB's Special Sweater.png"
+			}
+		},
+		{
+			"name": "Volcanic Tutor",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/216_Volcanic Tutor.png"
+			}
+		},
+		{
+			"name": "Weapon Head",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/218_Weapon Head.png"
+			}
+		},
+		{
+			"name": "Shell Slinger",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Alien Soldier",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/204_Shell Slinger.png"
+			}
+		},
+		{
+			"name": "Stickytongue Lizard",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/208_Stickytongue Lizard.png"
+			}
+		},
+		{
+			"name": "Weapons Cashe",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/270_Weapons Cashe.png"
+			}
+		},
+		{
+			"name": "Trail of Spoor",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/263_Trail of Spoor.png"
+			}
+		},
+		{
+			"name": "Soul Suck",
+			"rarity": "special",
+			"mana_cost": "{X}{B}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/162_Soul Suck.png"
+			}
+		},
+		{
+			"name": "Signature Slam",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/255_Signature Slam.png"
+			}
+		},
+		{
+			"name": "Banana Guard 500",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/4_Banana Guard 500.png"
+			}
+		},
+		{
+			"name": "Y5, Formerly Y4",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rabbit Scout",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/56_Y5, Formerly Y4.png"
+			}
+		},
+		{
+			"name": "Bird Squadron",
+			"rarity": "special",
+			"mana_cost": "{7}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/6_Bird Squadron.png"
+			}
+		},
+		{
+			"name": "Annual Abduction",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/3_Annual Abduction.png"
+			}
+		},
+		{
+			"name": "Party Bear",
+			"rarity": "special",
+			"mana_cost": "{2}{G/W}",
+			"type": "Creature — Bear",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/301_Party Bear.png"
+			}
+		},
+		{
+			"name": "Sonic Blast",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/46_Sonic Blast.png"
+			}
+		},
+		{
+			"name": "Ghost Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/19_Ghost Princess.png"
+			}
+		},
+		{
+			"name": "Catalyst Comet",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/10_Catalyst Comet.png"
+			}
+		},
+		{
+			"name": "Wrath of Glob Gob Glod Grod",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/55_Wrath of Glob Gob Glod Grod.png"
+			}
+		},
+		{
+			"name": "Lemonshrieker",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Candy",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/31_Lemonshrieker.png"
+			}
+		},
+		{
+			"name": "Fractalize",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/71_Fractalize.png"
+			}
+		},
+		{
+			"name": "Chart a Course",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/64_Chart a Course.png"
+			}
+		},
+		{
+			"name": "Mass Surveillance",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/86_Mass Surveillance.png"
+			}
+		},
+		{
+			"name": "Power Shriek",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/96_Power Shriek.png"
+			}
+		},
+		{
+			"name": "
+Thalassophobia",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/57_
+Thalassophobia.png"
+			}
+		},
+		{
+			"name": "Breakfast Afterglow",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/222_Breakfast Afterglow.png"
+			}
+		},
+		{
+			"name": "Evil Ocean",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/69_Evil Ocean.png"
+			}
+		},
+		{
+			"name": "N.E.P.T.Y.R.",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/342_N.E.P.T.Y.R..png"
+			}
+		},
+		{
+			"name": "The Finn Sword",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "334",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/334_The Finn Sword_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/334_The Finn Sword_front.png"
+			}
+		},
+		{
+			"name": "Flame Guards",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/183_Flame Guards.png"
+			}
+		},
+		{
+			"name": "Firecrown Berserker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Berserker",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/181_Firecrown Berserker.png"
+			}
+		},
+		{
+			"name": "Cliffside Treehouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/361_Cliffside Treehouse.png"
+			}
+		},
+		{
+			"name": "Coastal Fringe",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/363_Coastal Fringe.png"
+			}
+		},
+		{
+			"name": "Deepwater Rig",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/366_Deepwater Rig.png"
+			}
+		},
+		{
+			"name": "Cloudy Montane",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/362_Cloudy Montane.png"
+			}
+		},
+		{
+			"name": "Well Worn Road",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains Swamp",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/405_Well Worn Road.png"
+			}
+		},
+		{
+			"name": "Eroded Metropolis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/369_Eroded Metropolis.png"
+			}
+		},
+		{
+			"name": "Hostile Menagerie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/381_Hostile Menagerie.png"
+			}
+		},
+		{
+			"name": "Ice Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Snow Land — Kingdom",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/383_Ice Kingdom.png"
+			}
+		},
+		{
+			"name": "Library of Ooo",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/388_Library of Ooo.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/370_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Son of Rap Bear",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B/R}",
+			"type": "Legendary Creature — Bear Bard",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/295_Son of Rap Bear.png"
+			}
+		},
+		{
+			"name": "Lich's Influence",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/275_Lich's Influence.png"
+			}
+		},
+		{
+			"name": "GOLB's Bauble",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/336_GOLB's Bauble.png"
+			}
+		},
+		{
+			"name": "Hambo, Beloved Teddy",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact — Toy",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/337_Hambo, Beloved Teddy.png"
+			}
+		},
+		{
+			"name": "Whisper Dan, Silent King",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Golem Noble",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/349_Whisper Dan, Silent King.png"
+			}
+		},
+		{
+			"name": "Ghost Ship Vortex",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Swamp",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/374_Ghost Ship Vortex.png"
+			}
+		},
+		{
+			"name": "Mt. Cragdor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain Forest",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/393_Mt. Cragdor.png"
+			}
+		},
+		{
+			"name": "The Lich's Lair",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Forest",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/389_The Lich's Lair.png"
+			}
+		},
+		{
+			"name": "The Verdant Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Plains",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/403_The Verdant Plains.png"
+			}
+		},
+		{
+			"name": "Death's Garden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Swamp",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/365_Death's Garden.png"
+			}
+		},
+		{
+			"name": "The Nightosphere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Mountain",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/394_The Nightosphere.png"
+			}
+		},
+		{
+			"name": "Time Bubble",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/53_Time Bubble.png"
+			}
+		},
+		{
+			"name": "Olive, Service Droid",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/343_Olive, Service Droid.png"
+			}
+		},
+		{
+			"name": "Clumsy Skeleton",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/117_Clumsy Skeleton.png"
+			}
+		},
+		{
+			"name": "Fire",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/319_Fire.png"
+			}
+		},
+		{
+			"name": "Princess Bubblegum",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Candy Scientist Noble",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/274_Princess Bubblegum.png"
+			}
+		},
+		{
+			"name": "Speak Through Another",
+			"rarity": "special",
+			"mana_cost": "{U/B}{U/B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/291_Speak Through Another.png"
+			}
+		},
+		{
+			"name": "Bandit Princess",
+			"rarity": "special",
+			"mana_cost": "{1}{B/R}",
+			"type": "Legendary Creature — Rogue Noble",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/292_Bandit Princess.png"
+			}
+		},
+		{
+			"name": "Mystic Virus",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Artifact",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/285_Mystic Virus.png"
+			}
+		},
+		{
+			"name": "Turn to Seed",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/265_Turn to Seed.png"
+			}
+		},
+		{
+			"name": "Bathroom Mirror",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/321_Bathroom Mirror.png"
+			}
+		},
+		{
+			"name": "Canyon, Billy's Ex",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elemental Giant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/63_Canyon, Billy's Ex.png"
+			}
+		},
+		{
+			"name": "Marceline, Vampire Queen",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Vampire Bard Noble",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/277_Marceline, Vampire Queen.png"
+			}
+		},
+		{
+			"name": "Verdant Cyclops",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cyclops Plant",
+			"collector_number": "267",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/267_Verdant Cyclops_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/267_Verdant Cyclops_front.png"
+			}
+		},
+		{
+			"name": "Spider Spewing",
+			"rarity": "special",
+			"mana_cost": "{1}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/308_Spider Spewing.png"
+			}
+		},
+		{
+			"name": "Inquisitive Whywolf",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Whywolf",
+			"collector_number": "240",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/240_Inquisitive Whywolf_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/240_Inquisitive Whywolf_front.png"
+			}
+		},
+		{
+			"name": "Industrial Seaport",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/384_Industrial Seaport.png"
+			}
+		},
+		{
+			"name": "The Porcelain Lamb",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/41_The Porcelain Lamb.png"
+			}
+		},
+		{
+			"name": "Gummy Bear",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Bear Candy",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/21_Gummy Bear.png"
+			}
+		},
+		{
+			"name": "Heroic Tutor",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/25_Heroic Tutor.png"
+			}
+		},
+		{
+			"name": "Exhaustive Analysis",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/70_Exhaustive Analysis.png"
+			}
+		},
+		{
+			"name": "Finn, The Human",
+			"rarity": "special",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/311_Finn, The Human.png"
+			}
+		},
+		{
+			"name": "Bronwyn, Skater Pup",
+			"rarity": "special",
+			"mana_cost": "{2}{R/W}{W}",
+			"type": "Legendary Creature — Dog",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/309_Bronwyn, Skater Pup.png"
+			}
+		},
+		{
+			"name": "Hub Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Island",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/382_Hub Island.png"
+			}
+		},
+		{
+			"name": "Up-Ton",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Island",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/401_Up-Ton.png"
+			}
+		},
+		{
+			"name": "Wiz Arts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Mountain",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/408_Wiz Arts.png"
+			}
+		},
+		{
+			"name": "Wildberry Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/407_Wildberry Kingdom.png"
+			}
+		},
+		{
+			"name": "Castle Lemongrab",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/359_Castle Lemongrab.png"
+			}
+		},
+		{
+			"name": "Beautopia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/353_Beautopia.png"
+			}
+		},
+		{
+			"name": "Junktown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain Plains",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/386_Junktown.png"
+			}
+		},
+		{
+			"name": "Slime Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/398_Slime Kingdom.png"
+			}
+		},
+		{
+			"name": "Death, Soul Gardener",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Specter Avatar",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/120_Death, Soul Gardener.png"
+			}
+		},
+		{
+			"name": "Wizard City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/409_Wizard City.png"
+			}
+		},
+		{
+			"name": "Fire Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/372_Fire Kingdom.png"
+			}
+		},
+		{
+			"name": "Gumbaldia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/378_Gumbaldia.png"
+			}
+		},
+		{
+			"name": "Glass Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/375_Glass Kingdom.png"
+			}
+		},
+		{
+			"name": "Candy Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/358_Candy Kingdom.png"
+			}
+		},
+		{
+			"name": "Breakfast Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/357_Breakfast Kingdom.png"
+			}
+		},
+		{
+			"name": "Box Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/356_Box Kingdom.png"
+			}
+		},
+		{
+			"name": "Balmy Beach",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/352_Balmy Beach.png"
+			}
+		},
+		{
+			"name": "Gloomy Wetland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/376_Gloomy Wetland.png"
+			}
+		},
+		{
+			"name": "Place of Learning",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/396_Place of Learning.png"
+			}
+		},
+		{
+			"name": "Abyssal Hollow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/351_Abyssal Hollow.png"
+			}
+		},
+		{
+			"name": "Subsuming Morass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/399_Subsuming Morass.png"
+			}
+		},
+		{
+			"name": "The Vampire King",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Cat Vampire",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/167_The Vampire King.png"
+			}
+		},
+		{
+			"name": "Dream Parisite",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/123_Dream Parisite.png"
+			}
+		},
+		{
+			"name": "Dancing Bug",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/175_Dancing Bug.png"
+			}
+		},
+		{
+			"name": "Grass Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Wizard",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/236_Grass Wizard.png"
+			}
+		},
+		{
+			"name": "Huntress Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{R/G}{R/G}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/297_Huntress Wizard.png"
+			}
+		},
+		{
+			"name": "The Mother Gum",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Candy",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/341_The Mother Gum.png"
+			}
+		},
+		{
+			"name": "Itchy-Butt Dragon",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/191_Itchy-Butt Dragon.png"
+			}
+		},
+		{
+			"name": "Flame Jester",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/184_Flame Jester.png"
+			}
+		},
+		{
+			"name": "Here All Along",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/24_Here All Along.png"
+			}
+		},
+		{
+			"name": "Bubblegum's Rockets",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/324_Bubblegum's Rockets.png"
+			}
+		},
+		{
+			"name": "Hot Daniel",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/339_Hot Daniel.png"
+			}
+		},
+		{
+			"name": "Questing Orb",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/344_Questing Orb.png"
+			}
+		},
+		{
+			"name": "Giuseppe's Signet",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/335_Giuseppe's Signet.png"
+			}
+		},
+		{
+			"name": "Science, Sweet Familiar",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Candy Rat Scientist",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/101_Science, Sweet Familiar.png"
+			}
+		},
+		{
+			"name": "Syr Rattleballs",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact Creature — Candy Knight",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/51_Syr Rattleballs.png"
+			}
+		},
+		{
+			"name": "3D Print",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/58_3D Print.png"
+			}
+		},
+		{
+			"name": "Bubblegum's Altar",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/323_Bubblegum's Altar.png"
+			}
+		},
+		{
+			"name": "Delivery Drone",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}{W/U}",
+			"type": "Artifact Creature — Thopter",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/316_Delivery Drone.png"
+			}
+		},
+		{
+			"name": "I'm Jaking It",
+			"rarity": "special",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/289_I'm Jaking It.png"
+			}
+		},
+		{
+			"name": "Earl of Lemongrab",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Candy Noble",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/280_Earl of Lemongrab.png"
+			}
+		},
+		{
+			"name": "Entropic Amalgam",
+			"rarity": "special",
+			"mana_cost": "{7}{C/B}{C/B}",
+			"type": "Creature — Horror",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/125_Entropic Amalgam.png"
+			}
+		},
+		{
+			"name": "Feral Pageling",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/333_Feral Pageling.png"
+			}
+		},
+		{
+			"name": "Probable Cause",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/97_Probable Cause.png"
+			}
+		},
+		{
+			"name": "Seeded Digsite",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/103_Seeded Digsite.png"
+			}
+		},
+		{
+			"name": "Ramshackle Flute",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/346_Ramshackle Flute.png"
+			}
+		},
+		{
+			"name": "Breezy, Reluctant Heir",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/8_Breezy, Reluctant Heir_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/8_Breezy, Reluctant Heir_front.png"
+			}
+		},
+		{
+			"name": "Mr. Cupcake",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/36_Mr. Cupcake.png"
+			}
+		},
+		{
+			"name": "Holotome",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/338_Holotome.png"
+			}
+		},
+		{
+			"name": "Deranged Drum Solo",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/177_Deranged Drum Solo.png"
+			}
+		},
+		{
+			"name": "Snooping Pastry",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Candy Rogue",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/107_Snooping Pastry.png"
+			}
+		},
+		{
+			"name": "Astral Epiphany",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/60_Astral Epiphany.png"
+			}
+		},
+		{
+			"name": "Captive Research",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/273_Captive Research.png"
+			}
+		},
+		{
+			"name": "Overripe Banana Guards",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/39_Overripe Banana Guards.png"
+			}
+		},
+		{
+			"name": "Dum Dum Juiced",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/15_Dum Dum Juiced.png"
+			}
+		},
+		{
+			"name": "Inevitable Return",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/140_Inevitable Return.png"
+			}
+		},
+		{
+			"name": "Harrowing Premonition",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/135_Harrowing Premonition.png"
+			}
+		},
+		{
+			"name": "Grass Sword",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/235_Grass Sword.png"
+			}
+		},
+		{
+			"name": "Eerie Onlooker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/230_Eerie Onlooker.png"
+			}
+		},
+		{
+			"name": "Susan Strong, Seeker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/260_Susan Strong, Seeker.png"
+			}
+		},
+		{
+			"name": "Honey Man",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/238_Honey Man.png"
+			}
+		},
+		{
+			"name": "Rapping at the Window",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/250_Rapping at the Window.png"
+			}
+		},
+		{
+			"name": "Knife Storm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/195_Knife Storm.png"
+			}
+		},
+		{
+			"name": "Nudumancer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/199_Nudumancer.png"
+			}
+		},
+		{
+			"name": "Blazing Rage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/171_Blazing Rage.png"
+			}
+		},
+		{
+			"name": "Strangle",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/210_Strangle.png"
+			}
+		},
+		{
+			"name": "Psychic Stalemate",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/98_Psychic Stalemate.png"
+			}
+		},
+		{
+			"name": "Tome of Golb",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/348_Tome of Golb.png"
+			}
+		},
+		{
+			"name": "Glasses of Nerdicon",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/75_Glasses of Nerdicon.png"
+			}
+		},
+		{
+			"name": "Slime Princess",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Ooze Noble",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/256_Slime Princess.png"
+			}
+		},
+		{
+			"name": "Spaghettification",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/287_Spaghettification.png"
+			}
+		},
+		{
+			"name": "Haughty Glassware",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Golem Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/23_Haughty Glassware.png"
+			}
+		},
+		{
+			"name": "Tax Collection",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/52_Tax Collection.png"
+			}
+		},
+		{
+			"name": "System Sabotage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/211_System Sabotage.png"
+			}
+		},
+		{
+			"name": "Duke of Nuts",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Plant Noble",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/14_Duke of Nuts.png"
+			}
+		},
+		{
+			"name": "Breakfast in Bed",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/7_Breakfast in Bed.png"
+			}
+		},
+		{
+			"name": "Mr. Fox, Loneliest Being",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Fox",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/37_Mr. Fox, Loneliest Being.png"
+			}
+		},
+		{
+			"name": "Betty Grof, Magic Woman",
+			"rarity": "special",
+			"mana_cost": "{1}{U/R}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/304_Betty Grof, Magic Woman.png"
+			}
+		},
+		{
+			"name": "Ricardio, The Heart Guy",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U/B}",
+			"type": "Legendary Creature — Thrull Scientist",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/290_Ricardio, The Heart Guy.png"
+			}
+		},
+		{
+			"name": "Uncle Gumbald",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Candy Scientist",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/276_Uncle Gumbald.png"
+			}
+		},
+		{
+			"name": "Flametongue Newt in Boots",
+			"rarity": "special",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/187_Flametongue Newt in Boots.png"
+			}
+		},
+		{
+			"name": "Mistaken Identity",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/198_Mistaken Identity.png"
+			}
+		},
+		{
+			"name": "Up All Night Grinding",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/266_Up All Night Grinding.png"
+			}
+		},
+		{
+			"name": "Crystal Jailers",
+			"rarity": "special",
+			"mana_cost": "{1}{W/U}{W/U}",
+			"type": "Creature — Golem",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/288_Crystal Jailers.png"
+			}
+		},
+		{
+			"name": "Skyhooks",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/106_Skyhooks.png"
+			}
+		},
+		{
+			"name": "Time Warp",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/110_Time Warp.png"
+			}
+		},
+		{
+			"name": "Shower Thoughts",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/104_Shower Thoughts.png"
+			}
+		},
+		{
+			"name": "Magic Man, Transmografier",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/196_Magic Man, Transmografier.png"
+			}
+		},
+		{
+			"name": "Bypass",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/62_Bypass.png"
+			}
+		},
+		{
+			"name": "Breakfast Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G/W}{G/W}",
+			"type": "Legendary Creature — Noble",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/299_Breakfast Princess.png"
+			}
+		},
+		{
+			"name": "Shadow Ritual",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/160_Shadow Ritual.png"
+			}
+		},
+		{
+			"name": "Clown Nurse",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Clown Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/12_Clown Nurse.png"
+			}
+		},
+		{
+			"name": "Malefic Tutor",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/146_Malefic Tutor.png"
+			}
+		},
+		{
+			"name": "Flame King",
+			"rarity": "special",
+			"mana_cost": "{4}{B/R}{R}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/293_Flame King.png"
+			}
+		},
+		{
+			"name": "Flamethrower",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/186_Flamethrower.png"
+			}
+		},
+		{
+			"name": "Frightening Bolt",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/188_Frightening Bolt.png"
+			}
+		},
+		{
+			"name": "50th Dead World",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/350_50th Dead World.png"
+			}
+		},
+		{
+			"name": "Viral Outbreak",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/168_Viral Outbreak.png"
+			}
+		},
+		{
+			"name": "Flute Duet",
+			"rarity": "special",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment — Music",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/278_Flute Duet.png"
+			}
+		},
+		{
+			"name": "Lyrical Duet",
+			"rarity": "special",
+			"mana_cost": "{B/R}",
+			"type": "Enchantment — Music",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/294_Lyrical Duet.png"
+			}
+		},
+		{
+			"name": "String Duet",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Enchantment — Music",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/284_String Duet.png"
+			}
+		},
+		{
+			"name": "Forge the Guardians",
+			"rarity": "special",
+			"mana_cost": "{10}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/17_Forge the Guardians.png"
+			}
+		},
+		{
+			"name": "Vespertine Vista",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/404_Vespertine Vista.png"
+			}
+		},
+		{
+			"name": "Patience's Patient Plan",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/93_Patience's Patient Plan.png"
+			}
+		},
+		{
+			"name": "Portent of Calamity",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/95_Portent of Calamity.png"
+			}
+		},
+		{
+			"name": "King of Ooo",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Rogue",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/141_King of Ooo.png"
+			}
+		},
+		{
+			"name": "Friend",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/18_Friend.png"
+			}
+		},
+		{
+			"name": "Bucket Knight",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/224_Bucket Knight.png"
+			}
+		},
+		{
+			"name": "Nightmare Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Nightmare Noble",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/151_Nightmare Princess.png"
+			}
+		},
+		{
+			"name": "Demon-Blood Sword",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Artifact — Blood Equipment",
+			"collector_number": "176",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/176_Demon-Blood Sword_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/176_Demon-Blood Sword_front.png"
+			}
+		},
+		{
+			"name": "Blastronaut",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/170_Blastronaut.png"
+			}
+		},
+		{
+			"name": "Wild Ride",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/219_Wild Ride.png"
+			}
+		},
+		{
+			"name": "Ice Scouts",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Creature — Elemental",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/81_Ice Scouts.png"
+			}
+		},
+		{
+			"name": "Glacial Armor",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/74_Glacial Armor.png"
+			}
+		},
+		{
+			"name": "Simon Petrikov",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Planeswalker — Simon",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/105_Simon Petrikov.png"
+			}
+		},
+		{
+			"name": "Soul Stone",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/347_Soul Stone.png"
+			}
+		},
+		{
+			"name": "Foodboys",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Food Golem",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/16_Foodboys.png"
+			}
+		},
+		{
+			"name": "Frighten",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/129_Frighten.png"
+			}
+		},
+		{
+			"name": "Tyranny to Transendentalism",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/54_Tyranny to Transendentalism.png"
+			}
+		},
+		{
+			"name": "Confront the Past",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/227_Confront the Past.png"
+			}
+		},
+		{
+			"name": "Tiny Tiller",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Peasant",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/262_Tiny Tiller.png"
+			}
+		},
+		{
+			"name": "Overcome Evil",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/38_Overcome Evil.png"
+			}
+		},
+		{
+			"name": "Sign Zombies",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/254_Sign Zombies.png"
+			}
+		},
+		{
+			"name": "Chthonian Nightmare",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/115_Chthonian Nightmare.png"
+			}
+		},
+		{
+			"name": "Storytelling",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/209_Storytelling.png"
+			}
+		},
+		{
+			"name": "Crab Demon",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Crab Demon",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/118_Crab Demon.png"
+			}
+		},
+		{
+			"name": "Gumcrafting",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/77_Gumcrafting.png"
+			}
+		},
+		{
+			"name": "Raggedy Princess",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Scarecrow Noble",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/345_Raggedy Princess.png"
+			}
+		},
+		{
+			"name": "Hateful Faeries",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/136_Hateful Faeries.png"
+			}
+		},
+		{
+			"name": "End of the Line",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/124_End of the Line.png"
+			}
+		},
+		{
+			"name": "Flame Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/185_Flame Princess.png"
+			}
+		},
+		{
+			"name": "Snow Golem",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Elemental Golem",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/108_Snow Golem.png"
+			}
+		},
+		{
+			"name": "Tiny, Micro Manticore",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Manticore",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/214_Tiny, Micro Manticore.png"
+			}
+		},
+		{
+			"name": "Pond Nymphs",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/248_Pond Nymphs.png"
+			}
+		},
+		{
+			"name": "Gunter, The First Bearer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Dinosaur",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/78_Gunter, The First Bearer.png"
+			}
+		},
+		{
+			"name": "Ghost Fly",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "72",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/72_Ghost Fly_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/72_Ghost Fly_front.png"
+			}
+		},
+		{
+			"name": "Giant Lemon Snail",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Candy Snail",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/20_Giant Lemon Snail.png"
+			}
+		},
+		{
+			"name": "Lemoncrafting",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/30_Lemoncrafting.png"
+			}
+		},
+		{
+			"name": "Candy Seeds",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/325_Candy Seeds.png"
+			}
+		},
+		{
+			"name": "Ember Wolves",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elemental Wolf",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/179_Ember Wolves.png"
+			}
+		},
+		{
+			"name": "Persistant Raccoon",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Raccoon",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/247_Persistant Raccoon.png"
+			}
+		},
+		{
+			"name": "Overstretch",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/92_Overstretch.png"
+			}
+		},
+		{
+			"name": "Ghost of Drop Ball",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/73_Ghost of Drop Ball.png"
+			}
+		},
+		{
+			"name": "T.V., Pup Detective",
+			"rarity": "special",
+			"mana_cost": "{G}{U}",
+			"type": "Legendary Creature — Dog Dectective",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/286_T.V., Pup Detective.png"
+			}
+		},
+		{
+			"name": "Shelby",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Worm",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/253_Shelby.png"
+			}
+		},
+		{
+			"name": "Jake, The Dog",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Dog Hero",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/279_Jake, The Dog.png"
+			}
+		},
+		{
+			"name": "BMO",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/322_BMO.png"
+			}
+		},
+		{
+			"name": "Space Lard",
+			"rarity": "special",
+			"mana_cost": "{1}{C/W}",
+			"type": "Creature — Lard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/47_Space Lard.png"
+			}
+		},
+		{
+			"name": "Bluescape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/355_Bluescape.png"
+			}
+		},
+		{
+			"name": "Greenscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/377_Greenscape.png"
+			}
+		},
+		{
+			"name": "Redscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/397_Redscape.png"
+			}
+		},
+		{
+			"name": "Whitescape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/406_Whitescape.png"
+			}
+		},
+		{
+			"name": "Blackscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/354_Blackscape.png"
+			}
+		},
+		{
+			"name": "Hive of the Star",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/380_Hive of the Star.png"
+			}
+		},
+		{
+			"name": "Lub-Glubs",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/83_Lub-Glubs.png"
+			}
+		},
+		{
+			"name": "Cinnamon Bun, Half Baked",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "11",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/11_Cinnamon Bun, Half Baked_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/11_Cinnamon Bun, Half Baked_front.png"
+			}
+		},
+		{
+			"name": "James, Willing Sacrifice",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/27_James, Willing Sacrifice.png"
+			}
+		},
+		{
+			"name": "GOLB, Entropy Manifest",
+			"rarity": "special",
+			"mana_cost": "{20}",
+			"type": "Legendary Creature — Avatar God",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/1_GOLB, Entropy Manifest.png"
+			}
+		},
+		{
+			"name": "The Scarab",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Scarab",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/43_The Scarab.png"
+			}
+		},
+		{
+			"name": "Slumber Party",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/45_Slumber Party.png"
+			}
+		},
+		{
+			"name": "Haphazard Excavation",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/22_Haphazard Excavation.png"
+			}
+		},
+		{
+			"name": "Old Wizards",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/200_Old Wizards.png"
+			}
+		},
+		{
+			"name": "Hair Ape",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ape",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/190_Hair Ape.png"
+			}
+		},
+		{
+			"name": "Bubblegum's Command",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/9_Bubblegum's Command.png"
+			}
+		},
+		{
+			"name": "The Morrow",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/34_The Morrow.png"
+			}
+		},
+		{
+			"name": "Fiona Campbell",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Fiona",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/232_Fiona Campbell.png"
+			}
+		},
+		{
+			"name": "Briberry",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Soldier",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/223_Briberry.png"
+			}
+		},
+		{
+			"name": "Next-Level Super Organism",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}{W/B}",
+			"type": "Creature — Fungus",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/318_Next-Level Super Organism.png"
+			}
+		},
+		{
+			"name": "Lemonhope",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/302_Lemonhope.png"
+			}
+		},
+		{
+			"name": "Electric Eels",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Fish",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/178_Electric Eels.png"
+			}
+		},
+		{
+			"name": "Saltburn",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/202_Saltburn.png"
+			}
+		},
+		{
+			"name": "Secret Wizard Handshake",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/203_Secret Wizard Handshake.png"
+			}
+		},
+		{
+			"name": "Abraham Lincoln",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Planeswalker — Abraham",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/169_Abraham Lincoln.png"
+			}
+		},
+		{
+			"name": "Giant Ant Creature",
+			"rarity": "special",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Insect",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/296_Giant Ant Creature.png"
+			}
+		},
+		{
+			"name": "Jake Junior, Bohemian",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Dog Bard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/192_Jake Junior, Bohemian.png"
+			}
+		},
+		{
+			"name": "Cadebra, Novice Magician",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Wizard Performer",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/174_Cadebra, Novice Magician.png"
+			}
+		},
+		{
+			"name": "Grassy Gatekeeper",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/237_Grassy Gatekeeper.png"
+			}
+		},
+		{
+			"name": "Party Pat",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Bear",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/246_Party Pat.png"
+			}
+		},
+		{
+			"name": "Charlie, Cardomancer",
+			"rarity": "special",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Legendary Creature — Dog Shaman",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/313_Charlie, Cardomancer.png"
+			}
+		},
+		{
+			"name": "Burn Down the Town",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/173_Burn Down the Town.png"
+			}
+		},
+		{
+			"name": "Minervabot",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/32_Minervabot.png"
+			}
+		},
+		{
+			"name": "Kim Kil Whan, Landlord",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Dog Advisor",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/28_Kim Kil Whan, Landlord.png"
+			}
+		},
+		{
+			"name": "Lady Rainicorn",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rainicorn",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/29_Lady Rainicorn.png"
+			}
+		},
+		{
+			"name": "Snatching Cyclops",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cyclops Rogue",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/206_Snatching Cyclops.png"
+			}
+		},
+		{
+			"name": "Dimpled Sprout",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant",
+			"collector_number": "228",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/228_Dimpled Sprout_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/228_Dimpled Sprout_front.png"
+			}
+		},
+		{
+			"name": "Muscle Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Warrior Noble",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/244_Muscle Princess.png"
+			}
+		},
+		{
+			"name": "Bugbear Brawlers",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Berserker",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/172_Bugbear Brawlers.png"
+			}
+		},
+		{
+			"name": "Festive Nutler",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Plant",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/300_Festive Nutler.png"
+			}
+		},
+		{
+			"name": "Humiliating Minstrel",
+			"rarity": "special",
+			"mana_cost": "{R/G}{R/W}",
+			"type": "Creature — Bard",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/317_Humiliating Minstrel.png"
+			}
+		},
+		{
+			"name": "Grass Demon",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Plant Demon",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/234_Grass Demon.png"
+			}
+		},
+		{
+			"name": "Darren, Ancient Sleeper",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/282_Darren, Ancient Sleeper.png"
+			}
+		},
+		{
+			"name": "The Mushroom War",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/283_The Mushroom War.png"
+			}
+		},
+		{
+			"name": "Glass Boy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact Creature — Golem Bard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/189_Glass Boy.png"
+			}
+		},
+		{
+			"name": "Class Project",
+			"rarity": "special",
+			"mana_cost": "{1}{U/R}",
+			"type": "Creature — Egg Lesson",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/305_Class Project.png"
+			}
+		},
+		{
+			"name": "Astral Brojection",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/59_Astral Brojection.png"
+			}
+		},
+		{
+			"name": "Example Examination",
+			"rarity": "special",
+			"mana_cost": "{R/W}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/310_Example Examination.png"
+			}
+		},
+		{
+			"name": "Everything Burrito",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Food",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/332_Everything Burrito.png"
+			}
+		},
+		{
+			"name": "The Enchiridion",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/331_The Enchiridion.png"
+			}
+		},
+		{
+			"name": "Viola, Aspiring Actress",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Dog Performer",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/268_Viola, Aspiring Actress.png"
+			}
+		},
+		{
+			"name": "Jermaine, Abstract Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dog Bard",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/193_Jermaine, Abstract Artist.png"
+			}
+		},
+		{
+			"name": "Lumpy Space Princess",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Legendary Creature — Lumpy Noble",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/2_Lumpy Space Princess.png"
+			}
+		},
+		{
+			"name": "Citric Oppression",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment Creature",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/116_Citric Oppression.png"
+			}
+		},
+		{
+			"name": "Gaze of the Worm",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/131_Gaze of the Worm.png"
+			}
+		},
+		{
+			"name": "Syr Slicer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Knight",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/164_Syr Slicer.png"
+			}
+		},
+		{
+			"name": "Altar of GOLB",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/320_Altar of GOLB.png"
+			}
+		},
+		{
+			"name": "Banana Man",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Candy Pilot",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/5_Banana Man.png"
+			}
+		},
+		{
+			"name": "Hall of Egress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/379_Hall of Egress.png"
+			}
+		},
+		{
+			"name": "Elise, Ailing Mother",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "231",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://mse-hub/sets/ATC-files/img/231_Elise, Ailing Mother_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/231_Elise, Ailing Mother_front.png"
+			}
+		},
+		{
+			"name": "Lurking Guardian",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/84_Lurking Guardian.png"
+			}
+		},
+		{
+			"name": "Magi of Life Giving",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/85_Magi of Life Giving.png"
+			}
+		},
+		{
+			"name": "Sea Lard",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Lard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/102_Sea Lard.png"
+			}
+		},
+		{
+			"name": "Wolf Lard Pack",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Artifact Creature — Wolf Lard",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/272_Wolf Lard Pack.png"
+			}
+		},
+		{
+			"name": "Wildberry Princess",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Plant Noble",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/271_Wildberry Princess.png"
+			}
+		},
+		{
+			"name": "Lard Shepherd",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Alien Octopus",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/241_Lard Shepherd.png"
+			}
+		},
+		{
+			"name": "Xergiok, The Flagelator",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Goblin Wizard",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/220_Xergiok, The Flagelator.png"
+			}
+		},
+		{
+			"name": "Mo, Paternal Roboticist",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/33_Mo, Paternal Roboticist.png"
+			}
+		},
+		{
+			"name": "Starchy the Gravedigger",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/49_Starchy the Gravedigger.png"
+			}
+		},
+		{
+			"name": "Space Moth",
+			"rarity": "special",
+			"mana_cost": "{1}{C/W}{C/W}",
+			"type": "Creature — Alien Insect",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/48_Space Moth.png"
+			}
+		},
+		{
+			"name": "Hot Dog Knights",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Coward Knight",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/26_Hot Dog Knights.png"
+			}
+		},
+		{
+			"name": "Exposed Entity",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Alien Elemental",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/180_Exposed Entity.png"
+			}
+		},
+		{
+			"name": "Spader Peterson",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/207_Spader Peterson.png"
+			}
+		},
+		{
+			"name": "Warped Coyote",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Coyote Mutant",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/269_Warped Coyote.png"
+			}
+		},
+		{
+			"name": "Living Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/390_Living Mountain.png"
+			}
+		},
+		{
+			"name": "Lemonjohn, Zesty Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W/B}",
+			"type": "Legendary Creature — Candy Giant",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/303_Lemonjohn, Zesty Titan.png"
+			}
+		},
+		{
+			"name": "Bufo, Former Dark Wizard",
+			"rarity": "special",
+			"mana_cost": "{2}{U/B}{U/R}",
+			"type": "Legendary Creature — Frog Wizard",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/314_Bufo, Former Dark Wizard.png"
+			}
+		},
+		{
+			"name": "Billy, Retired Hero",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G/W}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/298_Billy, Retired Hero.png"
+			}
+		},
+		{
+			"name": "Secret Wizard Oath",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/159_Secret Wizard Oath.png"
+			}
+		},
+		{
+			"name": "Take a Seat",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery — Lesson",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/212_Take a Seat.png"
+			}
+		},
+		{
+			"name": "Inquisitive Looting",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/82_Inquisitive Looting.png"
+			}
+		},
+		{
+			"name": "Lesson on the Premundane",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/142_Lesson on the Premundane.png"
+			}
+		},
+		{
+			"name": "Famished Moldos",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Fungus",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/126_Famished Moldos.png"
+			}
+		},
+		{
+			"name": "Fight King's Arena",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/128_Fight King's Arena.png"
+			}
+		},
+		{
+			"name": "Hugo, Scheming Industrialist",
+			"rarity": "special",
+			"mana_cost": "{3}{C/B}{C/B}",
+			"type": "Legendary Creature — Alien Elf Scientist",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/139_Hugo, Scheming Industrialist.png"
+			}
+		},
+		{
+			"name": "The Drift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/368_The Drift.png"
+			}
+		},
+		{
+			"name": "Risky Scrounging",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/251_Risky Scrounging.png"
+			}
+		},
+		{
+			"name": "Hurricane",
+			"rarity": "special",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/239_Hurricane.png"
+			}
+		},
+		{
+			"name": "CGO, Bootleg Bot",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/326_CGO, Bootleg Bot.png"
+			}
+		},
+		{
+			"name": "Marcy's Concert Tee",
+			"rarity": "special",
+			"mana_cost": "{1}{R/W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/312_Marcy's Concert Tee.png"
+			}
+		},
+		{
+			"name": "Sweet P, Precious Boy",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/261_Sweet P, Precious Boy.png"
+			}
+		},
+		{
+			"name": "Grody Spirit",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/134_Grody Spirit.png"
+			}
+		},
+		{
+			"name": "Bear",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/11_Bear.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/412_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/413_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/414_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/415_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/416_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/417_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/418_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/419_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/420_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/421_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/422_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/423_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/424_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/425_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/426_Forest.png"
+			}
+		},
+		{
+			"name": "Simon Petrikov",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Emblem — Simon",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/28_Simon Petrikov.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Basic Land — Wastes",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/411_Wastes.png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/9_Goblin.png"
+			}
+		},
+		{
+			"name": "Vampire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/7_Vampire.png"
+			}
+		},
+		{
+			"name": "Bird Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Army",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/6_Bird Army.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/10_Wizard.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/22_Robot.png"
+			}
+		},
+		{
+			"name": "Coyote Mutant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Coyote Mutant",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/12_Coyote Mutant.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Spirit",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/2_Spirit.png"
+			}
+		},
+		{
+			"name": "Elemental Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/8_Elemental Soldier.png"
+			}
+		},
+		{
+			"name": "Candy Citizen",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Candy Citizen",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/4_Candy Citizen.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/19_Food.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/20_Food.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/21_Food.png"
+			}
+		},
+		{
+			"name": "Gold Pan",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/428_Gold Pan.png"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/427_Pacifism.png"
+			}
+		},
+		{
+			"name": "Equipment",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/18_Equipment.png"
+			}
+		},
+		{
+			"name": "Candy Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Candy Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/5_Candy Soldier.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/13_Clue.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/14_Clue.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/15_Clue.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/16_Clue.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/17_Clue.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/23_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/24_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/25_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/26_Treasure.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/27_Treasure.png"
+			}
+		},
+		{
+			"name": "CUSTOM MECHANICS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/1_CUSTOM MECHANICS.png"
+			}
+		},
+		{
+			"name": "TWO COLOR ARCHETYPES",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://mse-hub/sets/ATC-files/img/3_TWO COLOR ARCHETYPES.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Arboreal Indoctrination
+	1 Bad Land Scavengers
+	1 Bureaucratic Burg
+	1 Chalk Outline
+	1 Confront the Forgotten
+	1 Conjecture Beast
+	1 Complex Equation
+	1 Crabbit Familiar
+	1 Crucible of Worlds
+	1 Crystal Citadel
+	1 Dad's Holomessage
+	1 Death's Metal
+	1 Deed to The Treehouse
+	1 Depleted Field
+	1 Depressing Edict
+	1 Destroy Evil
+	1 The Dungeon Train
+	1 Fatal Push
+	1 Finn's Tower
+	1 Repressed Duet
+	1 Frigid Caldera
+	1 Goo Skulls
+	1 Greedy Eyes
+	1 Horde of Oozers
+	1 Ice Plague
+	1 Iced Lightning
+	1 Jagged Crag
+	1 Kick in the Boingloings
+	1 Lady's House
+	1 Lumpy Space
+	1 Me-Mow, Second Class
+	1 Mom's Holomessage
+	1 Mother Jiggler
+	1 Movie Night
+	1 Mountain Pass
+	1 Ongoing Investigation
+	1 Out Sick
+	1 Overflowing Mimic
+	1 Party God's Ire
+	1 Petrikov's Descent
+	1 Pillowtown
+	1 Raid the Fridge
+	1 Rampant Regrowth
+	1 Reign of Gunters
+	1 Reach Through Time
+	1 Risen Horde
+	1 Root Beer Guy
+	1 Roughousing
+	1 Settle Beyond Reality
+	1 Sizzling Slap
+	1 Somatic inversion
+	1 Special Sentient Sandwiches
+	1 Sticky Prison
+	1 Stretch Around
+	1 Horrify
+	1 The Lich
+	1 The Treehouse
+	1 Thoughtseize
+	1 Thunder Boar
+	1 Tragic Slip
+	1 Toothy Sword
+	1 Vacant Valley
+	1 Volcanic Vision
+	1 Wizard City Po-Po
+	1 Wooded Lagoon
+	1 Clearcut Patch
+	1 Martin, Slippery Scoundrel
+	1 Fruit Witch
+	1 Newborn Marauder
+	1 Lich Hand
+	1 Marrow Muncher
+	1 Bridge Shades
+	1 Morbid Butterfly
+	1 Ruby Brain Beast
+	1 Glassassin
+	1 Psychic Worm
+	1 Ravenous Grumbo
+	1 Dr. Gross, Amoral Genetisist
+	1 Shambling Oozers
+	1 Maja the Sky Witch
+	1 Peppermint Butler
+	1 Stylish Scorpion
+	1 Tree Trunks
+	1 Space Elves
+	1 Donny, Beligerant Ogre
+	1 Mother Varmint
+	1 Life, Soul Sculpter
+	1 Fireskull
+	1 Manish Man
+	1 Orb Wizard
+	1 Ice King
+	1 Octopolitician
+	1 Science Cat
+	1 Choose Goose
+	1 Con Wizard
+	1 Grand Wizard
+	1 Unsettling Reproductions
+	1 PB's Special Sweater
+	1 Volcanic Tutor
+	1 Weapon Head
+	1 Shell Slinger
+	1 Stickytongue Lizard
+	1 Weapons Cashe
+	1 Trail of Spoor
+	1 Soul Suck
+	1 Signature Slam
+	1 Banana Guard 500
+	1 Y5, Formerly Y4
+	1 Bird Squadron
+	1 Annual Abduction
+	1 Party Bear
+	1 Sonic Blast
+	1 Ghost Princess
+	1 Catalyst Comet
+	1 Wrath of Glob Gob Glod Grod
+	1 Lemonshrieker
+	1 Fractalize
+	1 Chart a Course
+	1 Mass Surveillance
+	1 Power Shriek
+	1 
+Thalassophobia
+	1 Breakfast Afterglow
+	1 Evil Ocean
+	1 N.E.P.T.Y.R.
+	1 The Finn Sword
+	1 Flame Guards
+	1 Firecrown Berserker
+	1 Cliffside Treehouse
+	1 Coastal Fringe
+	1 Deepwater Rig
+	1 Cloudy Montane
+	1 Well Worn Road
+	1 Eroded Metropolis
+	1 Hostile Menagerie
+	1 Ice Kingdom
+	1 Library of Ooo
+	1 Fabled Passage
+	1 Son of Rap Bear
+	1 Lich's Influence
+	1 GOLB's Bauble
+	1 Hambo, Beloved Teddy
+	1 Whisper Dan, Silent King
+	1 Ghost Ship Vortex
+	1 Mt. Cragdor
+	1 The Lich's Lair
+	1 The Verdant Plains
+	1 Death's Garden
+	1 The Nightosphere
+	1 Time Bubble
+	1 Olive, Service Droid
+	1 Clumsy Skeleton
+	1 Fire
+	1 Princess Bubblegum
+	1 Speak Through Another
+	1 Bandit Princess
+	1 Mystic Virus
+	1 Turn to Seed
+	1 Bathroom Mirror
+	1 Canyon, Billy's Ex
+	1 Marceline, Vampire Queen
+	1 Verdant Cyclops
+	1 Spider Spewing
+	1 Inquisitive Whywolf
+	1 Industrial Seaport
+	1 The Porcelain Lamb
+	1 Gummy Bear
+	1 Heroic Tutor
+	1 Exhaustive Analysis
+	1 Finn, The Human
+	1 Bronwyn, Skater Pup
+	1 Hub Island
+	1 Up-Ton
+	1 Wiz Arts
+	1 Wildberry Kingdom
+	1 Castle Lemongrab
+	1 Beautopia
+	1 Junktown
+	1 Slime Kingdom
+	1 Death, Soul Gardener
+	1 Wizard City
+	1 Fire Kingdom
+	1 Gumbaldia
+	1 Glass Kingdom
+	1 Candy Kingdom
+	1 Breakfast Kingdom
+	1 Box Kingdom
+	1 Balmy Beach
+	1 Gloomy Wetland
+	1 Place of Learning
+	1 Abyssal Hollow
+	1 Subsuming Morass
+	1 The Vampire King
+	1 Dream Parisite
+	1 Dancing Bug
+	1 Grass Wizard
+	1 Huntress Wizard
+	1 The Mother Gum
+	1 Itchy-Butt Dragon
+	1 Flame Jester
+	1 Here All Along
+	1 Bubblegum's Rockets
+	1 Hot Daniel
+	1 Questing Orb
+	1 Giuseppe's Signet
+	1 Science, Sweet Familiar
+	1 Syr Rattleballs
+	1 3D Print
+	1 Bubblegum's Altar
+	1 Delivery Drone
+	1 I'm Jaking It
+	1 Earl of Lemongrab
+	1 Entropic Amalgam
+	1 Feral Pageling
+	1 Probable Cause
+	1 Seeded Digsite
+	1 Ramshackle Flute
+	1 Breezy, Reluctant Heir
+	1 Mr. Cupcake
+	1 Holotome
+	1 Deranged Drum Solo
+	1 Snooping Pastry
+	1 Astral Epiphany
+	1 Captive Research
+	1 Overripe Banana Guards
+	1 Dum Dum Juiced
+	1 Inevitable Return
+	1 Harrowing Premonition
+	1 Grass Sword
+	1 Eerie Onlooker
+	1 Susan Strong, Seeker
+	1 Honey Man
+	1 Rapping at the Window
+	1 Knife Storm
+	1 Nudumancer
+	1 Blazing Rage
+	1 Strangle
+	1 Psychic Stalemate
+	1 Tome of Golb
+	1 Glasses of Nerdicon
+	1 Slime Princess
+	1 Spaghettification
+	1 Haughty Glassware
+	1 Tax Collection
+	1 System Sabotage
+	1 Duke of Nuts
+	1 Breakfast in Bed
+	1 Mr. Fox, Loneliest Being
+	1 Betty Grof, Magic Woman
+	1 Ricardio, The Heart Guy
+	1 Uncle Gumbald
+	1 Flametongue Newt in Boots
+	1 Mistaken Identity
+	1 Up All Night Grinding
+	1 Crystal Jailers
+	1 Skyhooks
+	1 Time Warp
+	1 Shower Thoughts
+	1 Magic Man, Transmografier
+	1 Bypass
+	1 Breakfast Princess
+	1 Shadow Ritual
+	1 Clown Nurse
+	1 Malefic Tutor
+	1 Flame King
+	1 Flamethrower
+	1 Frightening Bolt
+	1 50th Dead World
+	1 Viral Outbreak
+	1 Flute Duet
+	1 Lyrical Duet
+	1 String Duet
+	1 Forge the Guardians
+	1 Vespertine Vista
+	1 Patience's Patient Plan
+	1 Portent of Calamity
+	1 King of Ooo
+	1 Friend
+	1 Bucket Knight
+	1 Nightmare Princess
+	1 Demon-Blood Sword
+	1 Blastronaut
+	1 Wild Ride
+	1 Ice Scouts
+	1 Glacial Armor
+	1 Simon Petrikov
+	1 Soul Stone
+	1 Foodboys
+	1 Frighten
+	1 Tyranny to Transendentalism
+	1 Confront the Past
+	1 Tiny Tiller
+	1 Overcome Evil
+	1 Sign Zombies
+	1 Chthonian Nightmare
+	1 Storytelling
+	1 Crab Demon
+	1 Gumcrafting
+	1 Raggedy Princess
+	1 Hateful Faeries
+	1 End of the Line
+	1 Flame Princess
+	1 Snow Golem
+	1 Tiny, Micro Manticore
+	1 Pond Nymphs
+	1 Gunter, The First Bearer
+	1 Ghost Fly
+	1 Giant Lemon Snail
+	1 Lemoncrafting
+	1 Candy Seeds
+	1 Ember Wolves
+	1 Persistant Raccoon
+	1 Overstretch
+	1 Ghost of Drop Ball
+	1 T.V., Pup Detective
+	1 Shelby
+	1 Jake, The Dog
+	1 BMO
+	1 Space Lard
+	1 Bluescape
+	1 Greenscape
+	1 Redscape
+	1 Whitescape
+	1 Blackscape
+	1 Hive of the Star
+	1 Lub-Glubs
+	1 Cinnamon Bun, Half Baked
+	1 James, Willing Sacrifice
+	1 GOLB, Entropy Manifest
+	1 The Scarab
+	1 Slumber Party
+	1 Haphazard Excavation
+	1 Old Wizards
+	1 Hair Ape
+	1 Bubblegum's Command
+	1 The Morrow
+	1 Fiona Campbell
+	1 Briberry
+	1 Next-Level Super Organism
+	1 Lemonhope
+	1 Electric Eels
+	1 Saltburn
+	1 Secret Wizard Handshake
+	1 Abraham Lincoln
+	1 Giant Ant Creature
+	1 Jake Junior, Bohemian
+	1 Cadebra, Novice Magician
+	1 Grassy Gatekeeper
+	1 Party Pat
+	1 Charlie, Cardomancer
+	1 Burn Down the Town
+	1 Minervabot
+	1 Kim Kil Whan, Landlord
+	1 Lady Rainicorn
+	1 Snatching Cyclops
+	1 Dimpled Sprout
+	1 Muscle Princess
+	1 Bugbear Brawlers
+	1 Festive Nutler
+	1 Humiliating Minstrel
+	1 Grass Demon
+	1 Darren, Ancient Sleeper
+	1 The Mushroom War
+	1 Glass Boy
+	1 Class Project
+	1 Astral Brojection
+	1 Example Examination
+	1 Everything Burrito
+	1 The Enchiridion
+	1 Viola, Aspiring Actress
+	1 Jermaine, Abstract Artist
+	1 Lumpy Space Princess
+	1 Citric Oppression
+	1 Gaze of the Worm
+	1 Syr Slicer
+	1 Altar of GOLB
+	1 Banana Man
+	1 Hall of Egress
+	1 Elise, Ailing Mother
+	1 Lurking Guardian
+	1 Magi of Life Giving
+	1 Sea Lard
+	1 Wolf Lard Pack
+	1 Wildberry Princess
+	1 Lard Shepherd
+	1 Xergiok, The Flagelator
+	1 Mo, Paternal Roboticist
+	1 Starchy the Gravedigger
+	1 Space Moth
+	1 Hot Dog Knights
+	1 Exposed Entity
+	1 Spader Peterson
+	1 Warped Coyote
+	1 Living Mountain
+	1 Lemonjohn, Zesty Titan
+	1 Bufo, Former Dark Wizard
+	1 Billy, Retired Hero
+	1 Secret Wizard Oath
+	1 Take a Seat
+	1 Inquisitive Looting
+	1 Lesson on the Premundane
+	1 Famished Moldos
+	1 Fight King's Arena
+	1 Hugo, Scheming Industrialist
+	1 The Drift
+	1 Risky Scrounging
+	1 Hurricane
+	1 CGO, Bootleg Bot
+	1 Marcy's Concert Tee
+	1 Sweet P, Precious Boy
+	1 Grody Spirit
+	1 Gold Pan
+	1 Pacifism
