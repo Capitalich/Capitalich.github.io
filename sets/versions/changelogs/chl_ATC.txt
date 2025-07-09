@@ -1,4 +1,1849 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Thalassaphobia added.
+N.E.P.T.R. added.
+Claim the Firstborn added.
+Precious Candy Seeds added.
+James, Willing Decoy added.
+Scarab, God Auditor added.
+Starchy, The Gravedigger added.
+Grody Ghost added.
+Farmers Market added.
+Catpile added.
+Devious Prank added.
+Floop the Pig added.
+Bleached Expanse added.
+Eerie Woods added.
+Foggy Cemetary added.
+Open Ocean added.
+Glimpse the Multiverse added.
+
+
+Thalassophobia removed.
+N.E.P.T.Y.R. removed.
+Mistaken Identity removed.
+Candy Seeds removed.
+James, Willing Sacrifice removed.
+The Scarab removed.
+Starchy the Gravedigger removed.
+Grody Spirit removed.
+
+Arboreal Indoctrination
+
+Bad Land Scavengers
+
+Bureaucratic Burg
+rules_text: This artifact enters the battlefield with four ice counters on it
+Whenever you cast a noncreature spell, remove an ice counter from Bureaucratic Burg. Then if it has no ice counters on it, transform this creature. => This creature enters the battlefield with four ice counters on it
+Whenever you cast a noncreature spell, remove an ice counter from this creature. Then if it has no ice counters on it, transform it.
+
+Chalk Outline
+
+Confront the Forgotten
+
+Conjecture Beast
+rules_text: When Conjecture Beast enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. => When this creature enters, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+
+Complex Equation
+rules_text: Draw two cards
+Mathematical [i](When you cast this spell, copy it for each spell you have cast before it this turn.)[/i] => Draw two cards
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+type: Artifact — Clue Map => Artifact — Clue
+rules_text: When Dad's Holomessage enters the battlefield, surveil 1.
+{2}, {T}, Sacrifice Dad's Holomessage: Draw a card, then target creature you control explores. => When this artifact enters, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{2}, Sacrifice this artifact: Draw a card.
+
+Death's Metal
+rules_text: Death's Metal deals 2 damage to any target and you gain 2 life.
+Mathematical [i](When you cast this spell, copy it for each spell you have cast before it this turn.You may choose new targets for the copies)[/i] => Death's Metal deals 2 damage to any target and you gain 2 life.
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies)[/i]
+
+Deed to The Treehouse
+rules_text: {1}, Sacrifice Deed to The Treehouse: Search your library for a legendary land card, put it into your hand, then shuffle. => {1}, Sacrifice Deed to The Treehouse: Search your library for a legendary land card, reveal it, put it into your hand, then shuffle.
+
+Depleted Field
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains or Swamp, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Depressing Edict
+rules_text: Target opponent sacrifices a creature.
+Mathematical [i](When you cast this spell, copy it for each spell you have cast before it this turn.You may choose new targets for the copies)[/i] => Target opponent sacrifices a creature.
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies)[/i]
+
+Destroy Evil
+
+The Dungeon Train
+rules_text: At the beginning of your upkeep, roll a d20.
+[b]1-5 [/b]| Create a Treasure token.
+[b]6-10 [/b]| Gear up.
+[b]11-15 [/b]| Draw a card.
+[b]16-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three d20. => At the beginning of your upkeep, roll a d20.
+[b]1-5 [/b]| Create a Treasure token.
+[b]6-10 [/b]| Gear up.
+[b]11-15 [/b]| Investigate.
+[b]16-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times.
+
+Fatal Push
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island or Mountain, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for an Island or Mountain card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Goo Skulls
+rules_text: Escape—{3}{G}, Exile three other cards from your graveyard.
+This creature escapes with a +1/+1 counter on it. When it enters this way, destroy target relic or creature with flying. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Whenever this creature enters, if it entered from your graveyard, destroy target relic or creature with flying.
+Escape—{3}{G}, Exile two other cards from your graveyard.
+
+Greedy Eyes
+rules_text: Whenever a relic enters under your control, Greedy Eyes becomes a 3/3 black Lard creature with flying and has “this creature can't block” until end of turn.
+{3}{B}, Exile Greedy Eyes from your graveyard: Investigate, gear up, and create a treasure token. => Whenever a relic enters under your control, this enchantment becomes a 3/3 black Lard creature with flying until end of turn.
+{3}{B}, Exile this card from your graveyard: Investigate, gear up, and create a treasure token.
+
+Horde of Oozers
+cost: {X}{X}{B} => {X}{B}{B}
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp or Mountain, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Kick in the Boingloings
+rules_text: Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Kick in the Boingloings deals 2 damage to target creature or planeswalker. If it was kicked, it deals 3 damage instead. => Kicker {1}{R} [i](You may pay an additional {1}{R} as you cast this spell.)[/i]
+Kick in the Boingloings deals 2 damage to target creature or planeswalker. If this spell was kicked, it deals 3 damage instead.
+
+Lady's House
+
+Lumpy Space
+
+Me-Mow, Second Class
+rules_text: Ninjutsu {2}{B}{B}
+Deathtouch, Toxic 2
+When Me-Mow enters or attacks, put a bounty counter on target creature an opponent controls.
+Creatures with Bounty counters on them get -X/-X, where X is the number of poison counters its controller has. => Ninjutsu {2}{B}{B}
+Deathtouch, Toxic 2
+When Me-Mow deals combat damage to a player, put a bounty counter on target creature that player controls.
+Creatures with bounty counters on them get -1/-1 for each poison counter their controller has.
+
+Mom's Holomessage
+rules_text: When Mom's Holomessage enters, create a Food token.
+{2}, Sacrifice Mom's Holomessage: Draw a card. => When this artifact enters, create a Food token.
+{2}, Sacrifice this artifact: Draw a card.
+
+Mother Jiggler
+rules_text: This creature has hexproof as long as it's your turn.
+Other creatures you control get +1/+1.
+When Mother Jiggler enters, create five 0/0 white Beast creature tokens named Jiggler. => This creature has hexproof during your turn.
+Other creatures you control get +1/+1.
+When Mother Jiggler enters, create five 0/0 white Beast creature tokens named Jiggler.
+
+Movie Night
+
+Mountain Pass
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain or Forest, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Ongoing Investigation
+
+Out Sick
+rules_text: Counter target Adventure or Creature spell. => Counter target creature or adventure spell.
+
+Overflowing Mimic
+rules_text: Flash
+[i]Enrage[/i] — Whenever Overflowing Mimic is dealt damage, create a treasure token.
+{T}, Sacrifice Overflowing Mimic: Add one mana of any color. => Flash
+Whenever this creature is dealt damage, create a treasure token.
+{T}, Sacrifice this creature: Add one mana of any color.
+
+Party God's Ire
+
+Petrikov's Descent
+special_text: 
+I — Draw three cards and create a treasure token.
+II — Discard a card.
+III — Discard two cards. => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Pillowtown
+rules_text: Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+{T}: Add one mana of any color.
+Whenever this land leaves the battlefield, draw a card. => Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+{T}: Add one mana of any color.
+Whenever Pillowtown leaves the battlefield, draw a card.
+
+Raid the Fridge
+rules_text: Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+[i]Raid[/i] — If you attacked with a creature this turn, create a food token. => Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
+[i]Raid[/i] — If you attacked with a creature this turn, create a Food token.
+
+Rampant Regrowth
+
+Reign of Gunters
+rules_text: At the beginning of your upkeep, you lose 1 life and amass Birds 1. [i](Put a +1/+1 counter on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever an army you control with power 6 or greater attacks, each opponent sacrifices a nonland permanent. => At the beginning of your upkeep, you lose 1 life and amass Birds 1. [i](Put a +1/+1 counter on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever an Army you control with power 6 or greater attacks, each opponent sacrifices a nonland permanent.
+
+Reach Through Time
+
+Risen Horde
+rules_text: Return target creature with mana value 2 or less from your graveyard to the battlefield.
+Overload {4}{B} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Return target creature with mana value 3 or less from your graveyard to the battlefield.
+Overload {4}{B}{B} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Root Beer Guy
+rules_text: When Root Beer Guy enters, investigate.
+Disturb {4}{B}, Sacrifice a Relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Root Beer Guy enters, investigate.
+Disturb {4}{B}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Roughousing
+rules_text: When you cast Roughousing, copy it X times. You may choose new targets for the copies.
+Target creature you control fights target creature an opponent controls. => X Target creatures you control fights target creature an opponent controls. You may not choose the same target twice.
+
+Settle Beyond Reality
+
+Sizzling Slap
+
+Somatic inversion
+
+Special Sentient Sandwiches
+rules_text: Devour 2
+When Special Sentient Sandwiches is put into a graveyard from the battlefield, draw a card for each +1/+1 counter on it.
+{2}, {T}, Sacrifice this permanent: Gain 3 life. => Devour 2
+When this artifact is put into a graveyard from the battlefield, draw a card for each +1/+1 counter on it.
+{2}, {T}, Sacrifice this artifact: Gain 3 life.
+
+Sticky Prison
+
+Stretch Around
+rules_text: Target creature gets +2/+2 and gains hexproof and reach until the end of the turn. => Target creature gets +2/+2 and gains hexproof and reach until end of turn.
+
+Horrify
+
+The Lich
+special_text: [+1]: Draw a card, then you get two rad counters
+[-1]: You may exile a creature from your graveyard. If you do, destroy target creature with mana value less than or equal to the exiled card.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape 2BB, Exile four other cards from your graveyard. => Whenever you mill a nonland card, put a loyalty counter on The Lich and you gain 1 life.
+[+0]: You get two rad counters
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature or planeswalker.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile three other cards from your graveyard.
+
+The Treehouse
+rules_text: {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast Adventure spells, spells that have an Adventure, or legendary spells. => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast an Adventure, a spell that has an Adventure, or a legendary spell.
+
+Thoughtseize
+
+Thunder Boar
+rules_text: Trample
+When Thunder Boar dies, create a treasure token. => Trample
+When this creature dies, create a Treasure token.
+
+Tragic Slip
+
+Toothy Sword
+
+Vacant Valley
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain or Plains, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Mountain or Plains card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Volcanic Vision
+
+Wizard City Po-Po
+rules_text: When Wizard City Po-Po enters, you may return target creature to its owners hand.
+Madness {3}{U} => When this creature enters, you may return target creature to its owners hand.
+Madness {3}{U}
+
+Wooded Lagoon
+
+Clearcut Patch
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Forest or Plains, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Forest or Plains card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Martin, Slippery Scoundrel
+rules_text: Whenever Martin, Slippery Scoundrel becomes blocked, shuffle it into your library. If you do, discover 3. => Whenever Martin becomes blocked, shuffle it into your library. If you do, discover 3.
+
+Fruit Witch
+rules_text: When Fruit Witch enters, create a food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -1/-1 until the end of the turn. If the sacrificed relic was legendary, that creature gets -3/-3 instead. Activate as a sorcery. => When this creature enters, create a Food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -2/-2 until the end of the turn. If the sacrificed relic was legendary, that creature gets -4/-4 instead. Activate as a sorcery.
+
+Newborn Marauder
+rules_text: When Newborn Marauder enters, each player sacrifices a nontoken creature.
+Blitz {4}{B} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i] => When this creature enters, each player sacrifices a nontoken creature.
+Blitz {4}{B} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+
+Lich Hand
+rules_text: Lich Hand can't block.
+Whenever Lich Hand leaves your graveyard and you control a swamp, you may put it onto the battlefield. If you do, you lose 1 life.
+Dredge 2 => This creature can't block.
+When this card leaves your graveyard, if you control a swamp, you may put it onto the battlefield. If you do, you lose 1 life.
+Dredge 2
+
+Marrow Muncher
+
+Bridge Shades
+rules_text: {B}: Bridge Shades gets +1/+1 until the end of the turn. => {B}: This creature gets +1/+1 until the end of the turn.
+
+Morbid Butterfly
+rules_text: Flying
+When Morbid Butterfly enters or dies, mill 2. => Flying
+When this creature enters or dies, mill two cards.
+
+Ruby Brain Beast
+rules_text: Ruby Brain Beast has deathtouch and lifelink as long as an opponent has two or fewer cards in their hand. => This creature has deathtouch and lifelink as long as an opponent has two or fewer cards in their hand.
+
+Glassassin
+rules_text: Bundle 2 [i](When you draft this card you get two additional copies.)[/i]
+When this creature enters, surveil 2.
+When this creature deals damage to an opponent, you may return any number of cards named Glassassin from your graveyard to the battlefield. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this creature enters, surveil 1.
+When this creature deals damage to an opponent, you may return any number of target cards named Glassassin from your graveyard to your hand.
+
+Psychic Worm
+rules_text: Squad {2}{B}
+When Psychic Worm enters, choose one:
+• Draw a card and and you lose 1 life.
+• Target player discards a card and loses 1 life. => Squad {2}{B}
+When this creature enters, choose one:
+• Draw a card and and you lose 1 life.
+• Target player discards a card and loses 1 life.
+
+Ravenous Grumbo
+rules_text: Devour 1
+When Ravenous Grumbo enters, destroy target creature, then Investigate for each creature that has died this turn. => Devour 1
+When this creature enters, destroy target creature, then Investigate for each creature that has died this turn.
+
+Dr. Gross, Amoral Genetisist
+rules_text: Pay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card.
+{B}{B}, Discard a card, Exile two creatures from your graveyard: Create a token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card. => Pay 1 life, Sacrifice another creature: Put a -1/-1 counter on up to one target creature and draw a card. Activate as a sorcery.
+{B}{B}, Discard a card, Exile two creatures from your graveyard: Create a tapped token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card.
+pt: 2/4 => 3/4
+
+Shambling Oozers
+rules_text: Delve
+When Shambling Oozers enters, if you spent 5 or more mana to cast it, create a 2/2 black zombie creature token. => Delve
+When this creature enters, if five or more mana was spent to cast it, create a 2/2 black Zombie creature token.
+
+Maja the Sky Witch
+rules_text: Flying
+{B}, {T}, Sacrifice a relic: Draw a card. If the sacrificed relic was legendary, each opponent loses 2 life and sacrifices a creature, then untap Maja the Sky Witch. => Flying, prowess
+{B}, {T}, Sacrifice a relic: Draw a card. If the sacrificed permanent was legendary, each opponent loses 2 life and sacrifices a creature, then untap Maja.
+
+Peppermint Butler
+
+Stylish Scorpion
+rules_text: Deathtouch
+{1}: Exile Stylish Scorpion from your graveyard: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Deathtouch
+{1}: Exile this card from your graveyard: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+
+Tree Trunks
+
+Space Elves
+
+Donny, Beligerant Ogre
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+rules_text: When Fireskull dies, it deals damage equal to its power to target creature you don't control.
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature dies, it deals damage equal to its power to target creature you don't control.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Manish Man
+
+Orb Wizard
+rules_text: Prowess
+When Orb Wizard dies, investigate. => Prowess
+When this creature dies, investigate.
+
+Ice King
+
+Octopolitician
+rules_text: When Octopolitician enters the battlefield, Surveil 2. => When this creature enters, Surveil 2.
+
+Science Cat
+rules_text: When Science Cat enters, investigate.
+Activated abilities of cards you control cost {1} less to activate. This effect can't reduce the cost to less than one mana. => When this creature enters, investigate.
+Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+
+Choose Goose
+rules_text: {T}: Draw a card. Then discard a card unless a nonland permanent you control has the same mana cost as a nonland card in your graveyard. => {T}: Draw a card. Then discard a card unless a nonland permanent you control has the a mana cost equal to a nonland card in your graveyard. [i](For example, 1U and 1U are the same cost.)[/i]
+
+Con Wizard
+rules_text: Prowess
+Whenever Con Wizard deals damage to an opponent, draw a card.
+Discard a card: Con Wizard can't be blocked this turn. => Prowess
+Whenever this creature deals damage to an opponent, draw a card.
+Discard a card: This creature can't be blocked this turn.
+
+Grand Wizard
+rules_text: Flying
+Wizards you control have prowess.
+{T}, Discard a card: Copy target instant or sorcery you control. You may choose new targets for the copies. => Flying
+Wizards you control have prowess.
+{T}, Discard a card: Copy target instant or sorcery spell you control. You may choose new targets for the copies.
+
+Unsettling Reproductions
+rules_text: You may have this creature enter as a copy of any creature, except it isn't legendary. => You may have this creature enter as a copy of any creature on the battlefield, except it isn't legendary.
+
+PB's Special Sweater
+rules_text: Flash, Snap-on
+Equipped creature has hexproof and indestructible as long as PB's Special Sweater entered this turn.
+Equipped creature has ward {3}.
+Equip {1} => Flash, Snap-on
+Equipped creature has hexproof and indestructible as long as PB's Special Sweater entered this turn.
+Equipped creature gets +1/+1.
+Equip {2}
+
+Volcanic Tutor
+
+Weapon Head
+rules_text: Haste, Ward—Pay 3 life.
+When Weapon Head attacks, you may attach any number of equipment you control to it
+{1}{R}: Discard a card: Gear up twice. => Haste, Ward—Pay 3 life.
+When Weapon Head attacks, you may attach any number of Equipment you control to it
+{1}{R}: Discard a card: Gear up twice.
+
+Shell Slinger
+rules_text: When Shell Slinger enters, gear up then attach that equipment to Shell Slinger.
+{3}, {T}: Unattach an equipment from Shell Slinger: It deals damage equal to the value of that equipment's equip cost to any target. Activate as a sorcery. => When this creature enters, gear up then attach that equipment to this creature..
+{3}, {T}: Unattach an equipment from this creature: This creature Deals 2 damage to any target. Activate only as a sorcery.
+
+Stickytongue Lizard
+rules_text: {1}, Sacrifice an Artifact: Stickytongue Lizard deals 1 damage to target player or planeswalker. => {1}, Sacrifice an Artifact: This creature deals 1 damage to any target.
+
+Weapons Cashe
+rules_text: {T}: Add {C}.
+{2}, {T}: Gear up. [i](Create an artifact equipment with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => {T}: Add {C}.
+{2}, {T}: Gear up. [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+
+Trail of Spoor
+rules_text: Whenever a creature you control dies, investigate.
+{X}{G}{G}, Sacrifice three clues: Search your library for a creature with mana value X or less, put it onto the battlefield, then shuffle. Activate as a sorcery. => Whenever a creature you control dies, investigate.
+{X}{G}{G}, Sacrifice three Clues: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.
+
+Soul Suck
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Target creature gets -X/-X until the end of the turn and you gain X life. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Target creature gets -X/-X until end of turn. You gain X life.
+
+Signature Slam
+
+Banana Guard 500
+rules_text: Flying
+When Banana Guard 500 enters, create a 2/2 white Candy Soldier creature token. => Flying
+When this creature enters, create a 2/2 white Candy Soldier creature token.
+
+Y5, Formerly Y4
+
+Bird Squadron
+rules_text: Convoke
+Flying
+When Bird Squadron enters, untap all creatures you control => Convoke
+Flying
+When this creature enters, untap all creatures you control
+
+Annual Abduction
+
+Party Bear
+rules_text: Convoke
+When Party Bear enters, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Convoke
+When this creature enters, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+
+Sonic Blast
+
+Ghost Princess
+cost: {3}{W} => {3}{W}{W}
+rules_text: Flying
+When Ghost Princess enters, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.
+Whenever a creature enters under your control, gain 1 life. => Flying
+When Ghost Princess enters, exile any number of other nonland permanents you own and control. Return those cards to the battlefield at the beginning of the next end step.
+Whenever another creature enters under your control, you gain 1 life.
+
+Catalyst Comet
+rules_text: Suspend 3 {1}{W}{W}
+Destroy all nonland permanents. If you cast Catalyst Comet from exile, search your library for a legendary creature, shuffle, then put it on top of your library. => Suspend 3 {1}{W}{W}
+Destroy all creatures. If this spell was cast from exile, search your library for a legendary creature, shuffle, then put it on top of your library.
+
+Wrath of Glob Gob Glod Grod
+
+Lemonshrieker
+
+Fractalize
+rules_text: Counter target spell
+Madness {U}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Counter target spell.
+Madness {U}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Chart a Course
+
+Mass Surveillance
+rules_text: Whenever a creature enters, surveil 1.
+When Mass Surveillance leaves the battlefield, return up to three instant, sorcery, and/or relics from your graveyard to your hand. => Whenever a creature enters, surveil 1.
+When this enchantment leaves the battlefield, return up to three instant, sorcery, and/or relic cards from your graveyard to your hand.
+
+Power Shriek
+rules_text: Target creature gets -10/-0 until the end of the turn.
+Draw a card, then discard a card.
+Madness {1}{U} => Target creature gets -10/-0 until the end of turn.
+Draw a card, then discard a card.
+Madness {1}{U}
+
+Breakfast Afterglow
+
+Evil Ocean
+rules_text: Defender
+Prowess
+As long as you've cast a noncreature spell this turn, Evil Ocean can attack as though it didn't have defender. => Defender
+Prowess
+As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender.
+
+The Finn Sword
+
+Flame Guards
+rules_text: Double strike
+When this creature enters, gear up twice. [i](Create an artifact equipment with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => Double strike
+When this creature enters, gear up twice. [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+
+Firecrown Berserker
+rules_text: When Firecrown Berserker dies, gear up. [i](Create an artifact equipment with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => When this creature dies, gear up. [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+rules_text: {T}: Add {U}.
+Whenever you discard a card, untap this land. => {T}: Add {U}.
+Whenever you discard a card, untap Ice Kingdom.
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+rules_text: Enchant creature
+Ward {2}
+You control enchanted creature. It has prowess. => Enchant creature
+Ward {2}
+You control enchanted creature.
+Enchanted creature has prowess.
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+rules_text: When Hambo, Beloved Teddy enters your graveyard from anywhere, draw a card. => When Hambo is put into your graveyard from anywhere, draw a card.
+
+Whisper Dan, Silent King
+rules_text: When Whisper Dan, Silent King enters or leaves the battlefield, choose one that hasn't been chosen:
+• Create a 1/1 red Goblin creature token.
+• Put a +1/+1 card on target creature.
+• Draw a card. => When Whisper Dan enters or leaves the battlefield, choose one that hasn't been chosen:
+• Create a 1/1 red Goblin creature token.
+• Put a +1/+1 card on target creature.
+• Draw a card.
+
+Ghost Ship Vortex
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {U} or {B}.)[/i]
+Ghost Ship Vortex enters tapped if you control another legendary land.
+
+Mt. Cragdor
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {R} or {G}.)[/i]
+Mt. Cragdor enters tapped if you control another legendary land.
+
+The Lich's Lair
+rules_text: [i]({T}: Add {B} or {G}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {B} or {G}.)[/i]
+The Lich's Lair enters tapped if you control another legendary land.
+
+The Verdant Plains
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {G} or {W}.)[/i]
+The Verdant Plains enters tapped if you control another legendary land.
+
+Death's Garden
+rules_text: [i]({T}: Add {W} or {B}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {W} or {B}.)[/i]
+Death's Garden enters tapped if you control another legendary land.
+
+The Nightosphere
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {B} or {R}.)[/i]
+The Nightosphere enters tapped if you control another legendary land.
+
+Time Bubble
+rules_text: Vanishing 4
+When this enchantment enters or you remove a time counter from it, exile target nonland permanent. When this enchantment leaves the battlefield, return all cards exiled with it to the battlefield under their owners control. => Vanishing 3
+When this enchantment enters and whenever you remove a time counter from it, exile another target nonland permanent until this enchantment leaves the battlefield.
+
+Olive, Service Droid
+rules_text: Flying
+When Olive, Service Droid Enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle. => Flying
+When Olive Enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+
+Clumsy Skeleton
+rules_text: When Clumsy Skeleton enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{2}{B}: Return Clumsy Skeleton from your graveyard to your hand. => When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{2}{B}: Return Clumsy Skeleton from your graveyard to your hand.
+
+Fire
+
+Princess Bubblegum
+rules_text: When this creature enters, confect twice.
+At the beginning each combat step, Candy creatures you control get +1/+1 until the end of the turn.
+{5}{WU}: Draw a card. => When Princess Bubblegum enters, confect twice.
+At the beginning each combat step, Candy creatures you control get +1/+1 until end of turn.
+{5}{WU}: Create a 2/2 white Candy Soldier creature token.
+
+Speak Through Another
+rules_text: Enchant creature
+Whenever this enchantment enters or enchanted creature deals damage to an opponent, exile the top card of target opponent's library. You may play that card as long as it remains exiled and you may spend mana of any color to cast spells this way. => Enchant creature
+Whenever this Aura enters or enchanted creature deals damage to an opponent, exile the top card of target opponent's library. You may play that card for as long as it remains exiled and mana of any type may be spent to cast it.
+
+Bandit Princess
+rules_text: Whenever this creature is blocked, it deals 1 damage to target creature blocking it.
+Whenever you commit a crime, choose one that hasn't been chosen this turn:
+• Freestyle.
+• Gear up.
+• Create a treasure token. => Whenever this Bandit Princess is blocked, it deals 1 damage to target creature blocking it.
+Whenever you commit a crime, choose one that hasn't been chosen this turn:
+• Freestyle.
+• Gear up.
+• Create a Treasure token.
+
+Mystic Virus
+rules_text: Flash
+When Mystic Virus enters, you may counter target spell.
+Whenever this artifact or another relic enters, you may have this artifact become a 2/2 Construct creature with flying in addition to its other types until the end of the turn. => Flash
+When this artifact enters, you may counter target spell.
+Whenever this artifact or another relic enters, you may have this artifact become a 2/2 Construct creature with flying in addition to its other types until the end of the turn.
+
+Turn to Seed
+rules_text: As an additional cost to cast this spell, sacrifice a creature.
+You gain X life and draw X cards, where X is the sacrificed creature's power. Return a land card from your graveyard to the battlefield. => As a cost to cast, sacrifice a creature.
+You gain X life and draw X cards, where X is the sacrificed creature's power. Return a land card from your graveyard to the battlefield.
+
+Bathroom Mirror
+rules_text: {2}: Bathroom Mirror becomes a copy of target creature until end of turn except it isn't legendary if the creature is legendary. => {2}: This artifact becomes a copy of target creature until end of turn except it isn't legendary.
+
+Canyon, Billy's Ex
+rules_text: Ward {3}
+When Canyon, Billy's Ex enters and whenever you cast a noncreature spell, tap target creature and put a stun counter on it. => Ward {3}
+When Canyon enters and whenever you cast a noncreature spell, tap target creature and put a stun counter on it.
+
+Marceline, Vampire Queen
+rules_text: Flying, haste
+Whenever Marceline, Vampire Queen deals damage to an opponent, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Whenever you cast a red spell, add {C}. => Flying, haste
+Whenever Marceline deals damage to an opponent, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Whenever you cast a red spell, add {C}.
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+rules_text: Whenever this creature enters or transforms into Inquisitive Whywolf, investigate.
+At the beginning of each upkeep, if no spells were cast last turn, transform Inquisitive Whywolf. => Whenever this creature enters or transforms into Inquisitive Whywolf, investigate.
+At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
+
+Industrial Seaport
+
+The Porcelain Lamb
+rules_text: When The Porcelain Lamb enters, exile target creature you don't control.
+When this artifact leaves the battlefield, return the exiled card to the battlefield under its owners control. => When The Porcelain Lamb enters, exile target creature you don't control.
+When this The Porcelain Lamb leaves the battlefield, return the exiled card to the battlefield under its owners control.
+
+Gummy Bear
+type: Creature — Bear Candy => Creature — Candy Bear
+
+Heroic Tutor
+rules_text: Search your library for a legendary card, put that card into your hand, then shuffle. => Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+
+Exhaustive Analysis
+
+Finn, The Human
+rules_text: Whenever this creature attacks, choose a permanent you control that has an adventure. Until the end of the turn, you may cast a copy of that permanent's adventure. => Whenever Finn attacks, choose a permanent you control that has an Adventure. Copy that Adventure. You may cast the copy.
+
+Bronwyn, Skater Pup
+rules_text: Spells you cast from exile cost {1} less to cast.
+Whenever you play a card from exile, choose one you haven't chosen this turn:
+• Bronwyn gains flying and gets +1/+1 until the end of the turn.
+• Exile target nonland permanent. Return it to the battlefield during the next end step. => Spells you cast from exile cost {1} less to cast.
+Whenever you play a card from exile, choose one that hasn't been chosen this turn—
+• Bronwyn gains flying and gets +1/+1 until the end of the turn.
+• Exile target nonland permanent. Return it to the battlefield during the next end step.
+
+Hub Island
+rules_text: [i]({T}: Add {G} or {U}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {G} or {U}.)[/i]
+Hub Island enters tapped if you control another legendary land.
+
+Up-Ton
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {W} or {U}.)[/i]
+Up-Ton enters tapped if you control another legendary land.
+
+Wiz Arts
+rules_text: [i]({T}: Add {U} or {R})[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {U} or {R})[/i]
+Wiz Arts enters tapped if you control another legendary land.
+
+Wildberry Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, put a +1+1 counter on target creature.
+{T}: Add {R} or {G}. => Wildberry Kingdom enters tapped.
+When Wildberry Kingdom enters, you may put a stun counter on it. When you do, put a +1+1 counter on target creature.
+{T}: Add {R} or {G}.
+
+Castle Lemongrab
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, it deals 1 damage to target player and you gain 1 life.
+{T}: Add {W} or {B}. => Castle Lemongrab enters tapped.
+When Castle Lemongrab enters, you may put a stun counter on it. If you do, it deals 1 damage to target player and you gain 1 life.
+{T}: Add {W} or {B}.
+
+Beautopia
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, investigate.
+{T}: Add {G} or {U} => Beautopia enters tapped.
+When Beautopia enters, you may put a stun counter on it. If you do, investigate.
+{T}: Add {G} or {U}
+
+Junktown
+rules_text: [i]({T}: Add {R} or {W}.)[/i]
+This land enters tapped if you control another legendary land. => [i]({T}: Add {R} or {W}.)[/i]
+Junktown enters tapped if you control another legendary land.
+
+Slime Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, put a permanent card from your graveyard on top of your library.
+{T}: Add {B} or {G}. => Slime Kingdom land enters tapped.
+When Slime Kingdom enters, you may put a stun counter on it. If you do, put a permanent card from your graveyard on top of your library.
+{T}: Add {B} or {G}.
+
+Death, Soul Gardener
+rules_text: Ward—Sacrifice a creature
+Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.
+Whenever a creature leaves your graveyard, surveil 3. => Ward—Sacrifice a creature
+Whenever one or more other creatures die, draw a card. This ability triggers only once each turn.
+Whenever one or more creature cards leave your graveyard, surveil 1.
+
+Wizard City
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, draw a card then discard a card.
+{T}: Add {U} or {R}. => Wizard City enters tapped.
+When Wizard City enters, you may put a stun counter on it. If you do, draw a card then discard a card.
+{T}: Add {U} or {R}.
+
+Fire Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, it deals 1 damage to any target.
+{T}: Add {B} or {R}. => Fire Kingdom enters tapped.
+When Fire Kingdom enters, you may put a stun counter on it. If you do, it deals 1 damage to any target.
+{T}: Add {B} or {R}.
+
+Gumbaldia
+rules_text: This land enters tapped.
+When Gumbaldia enters, you may put a stun counter on it. If you do, surveil 2.
+{T}: Add {U} or {B}. => Gumbaldia enters tapped.
+When Gumbaldia enters, you may put a stun counter on it. If you do, surveil 2.
+{T}: Add {U} or {B}.
+
+Glass Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, freestyle.
+{T}: Add {R} or {W}. => Glass Kingdom enters tapped.
+When Glass Kingdom enters, you may put a stun counter on it. If you do, freestyle.
+{T}: Add {R} or {W}.
+
+Candy Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, confect.
+{T}: Add {W} or {U}. => Candy Kingdom enters tapped.
+When Candy Kingdom enters, you may put a stun counter on it. If you do, confect.
+{T}: Add {W} or {U}.
+
+Breakfast Kingdom
+rules_text: This land enters tapped.
+When this land enters, you may put a stun counter on it. If you do, create a food token.
+{T}: Add {G} or {W}. => Breakfast Kingdom enters tapped.
+When Breakfast Kingdom enters, you may put a stun counter on it. If you do, create a food token.
+{T}: Add {G} or {W}.
+
+Box Kingdom
+
+Balmy Beach
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains or Island, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it.
+
+Gloomy Wetland
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp or Forest, put it onto the battlefield tapped, then shuffle. Then if the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it
+
+Place of Learning
+
+Abyssal Hollow
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island or Swamp, put it onto the battlefield tapped, then shuffle. If the land is basic, untap it. => When this land enters, sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield tapped, then shuffle. Then if that land is basic, untap it.
+
+Subsuming Morass
+
+The Vampire King
+rules_text: Flying
+{1}, Sacrifice another creature, Discard a card: Draw a card.
+Whenever you cast a noncreature spell, create a 1/1 black vampire creature token with lifelink. => Flying
+{1}, Sacrifice another creature, Discard a card: Draw a card.
+Whenever you cast a noncreature spell, create a 1/1 black Vampire creature token with lifelink.
+
+Dream Parisite
+rules_text: Ward—Discard a card.
+When Dream Parisite enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Dream Parisite leaves the battlefield. => Ward—Discard a card.
+When this creature enters, target opponent reveals their hand and you choose a nonland card from it. Exile that card until this creature leaves the battlefield.
+
+Dancing Bug
+rules_text: Haste
+Whenever Dancing Bug attacks, Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Haste
+Whenever this creature attacks, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+
+Grass Wizard
+rules_text: When Grass Wizard enters the battlefield, gear up.
+{2}{G}: Target relic or modified creature becomes a 4/4 green Plant creature in addition to its other types until the end of the turn. => When this creature enters, gear up.
+{2}{G}: Target relic or modified creature becomes a 4/4 green Plant creature in addition to its other types until end of turn.
+
+Huntress Wizard
+rules_text: Reach
+When Huntress Wizard enters, it deals 2 damage to any target.
+Whenever a creature dealt damage by this creature this turn dies, gear up.
+Madness {2}{RG}{RG} => Reach
+When Huntress Wizard enters, it deals 2 damage to any target.
+Whenever a creature dealt damage by Huntress Wizard this turn dies, gear up.
+Madness {2}{RG}{RG}
+
+The Mother Gum
+rules_text: {T}: Add {C}.
+{5}, Pay 1 Life: Confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i] => {T}: Add {C}.
+{5}, Pay 1 life: Confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+
+Itchy-Butt Dragon
+rules_text: Flying
+{R}: Itchy-Butt Dragon gets +1/+0 until the end of the turn. => Flying
+{R}: This creature gets +1/+0 until the end of the turn.
+
+Flame Jester
+rules_text: {1}, Sacrifice Flame Jester: Discard a card, then draw a card. => {1}, Sacrifice this creature: Discard a card, then draw a card.
+
+Here All Along
+rules_text: Vanishing 3
+Hideaway 5
+When Here All Along leaves the battlefield, you may play the exiled card without paying it's mana cost. => Vanishing 3
+Hideaway 5
+When this enchantment leaves the battlefield, you may play the exiled card without paying its mana cost.
+
+Bubblegum's Rockets
+rules_text: {2}, {T}, Sacrifice Bubblegum's Rockets: Add two mana of any one color.
+When Bubblegum's Rockets is put into a graveyard from the battlefield, draw a card. => {2}, {T}, Sacrifice this artifact: Add two mana of any one color.
+When this artifact is put into a graveyard from the battlefield, draw a card.
+
+Hot Daniel
+
+Questing Orb
+rules_text: {2}, Sacrifice Questing Orb: Draw a card.
+{3}{W}, {T}, Sacrifice Questing Orb: Reveal cards from the top of your library until you reveal a legendary relic card. Put that card into your hand and the rest on the bottom of your library in a random order. => {2}, Sacrifice this artifact: Draw a card.
+{1}{W}, {T}, Sacrifice this artifact: Seek a legendary relic. [i](Reveal cards from the top of your library until you reveal a legendary relic card. Put that card into your hand and the rest on the bottom of your library in a random order.)[/i]
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+rules_text: Activated abilities of cards you control cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy. => Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy.
+
+Syr Rattleballs
+rules_text: First strike, Mentor
+Whenever Syr Rattleballs mentors a creature, that creature gains first strike until the end of the turn. => First strike, Mentor
+Whenever Syr Rattleballs mentors a creature, that creature gains first strike until end of turn.
+
+3D Print
+type: Instant => Sorcery
+rules_text: Kicker {2}
+Draw a card. If the kicker cost was paid, create a token that's a copy of target relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Kicker {2}
+Draw a card. If this spell was kicked, create a token that's a copy of target relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Bubblegum's Altar
+rules_text: Sacrifice a relic: Until the end of the turn, activated abilities of cards you control cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+{3}, {T}, Sacrifice a relic: Create a 2/2 white Candy creature token. Activate only as a sorcery. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Sacrifice a relic: Until end of turn, abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+{3}, {T}, Sacrifice a relic: Create a 2/2 white Candy creature token. Activate only as a sorcery. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Delivery Drone
+rules_text: Flying
+When Delivery Drone enters, reveal the top two cards of your library. Put one of them into your hand and the other into your graveyard. If you put a relic card into your hand this way, you gain 3 life. => Flying
+When this creature enters, reveal the top two cards of your library. Put one of them into your hand and the other into your graveyard. If you put a relic card into your hand this way, you gain 3 life.
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Entropic Amalgam
+rules_text: Delve
+Deathtouch
+When Entropic Amalgam enters, destroy target land an opponent controls, then each player creates a Wastes token. => Delve
+Deathtouch
+When this creature enters, destroy target land an opponent controls, then each player creates a Wastes token.
+
+Feral Pageling
+rules_text: When Feral Pageling enters, you may discard a card then draw a card.
+Unearth—Sacrifice a relic => When this creature enters, you may discard a card then draw a card.
+Unearth—Sacrifice a relic
+
+Probable Cause
+
+Seeded Digsite
+rules_text: At the beginning of your end step, choose one:
+• Return target relic with mana value 1 or less from your graveyard to the battlefield.
+• Learn. => At the beginning of your end step, choose one:
+• Return target relic with mana value 1 or less from your graveyard to the battlefield.
+• Learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Ramshackle Flute
+rules_text: {T}, Sacrifice Ramshackle Flute: Freestyle.
+Unearth {2} [i]({2}: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i] => {T}, Sacrifice this artifact: Freestyle.
+Unearth {2} [i]({2}: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)[/i]
+
+Breezy, Reluctant Heir
+rules_text: Flying
+{2}, Sacrifice a relic: Gain 3 life. If the sacrificed relic was legendary, this creature transforms. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Flying
+{2}, Sacrifice a relic: You gain 3 life. If the sacrificed relic was legendary, transform Breezy. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Mr. Cupcake
+cost: {2}{W} => {1}{W}{W}
+rules_text: When Mr. Cupcake enters or attacks, confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+Mr. Cupcake has power equal to the number of creatures you control. => Vigilance
+When Mr. Cupcake enters or attacks, confect.
+Mr. Cupcake power is equal to the number of creatures you control.
+
+Holotome
+cost: {1} => {3}
+rules_text: {3}, {T}: Scry 1. This ability costs {1} less for each other relic you control.
+{5}, {T}: Draw a card. This ability costs {1} less for each other relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => {3}, {T}: Scry 1. This ability costs {1} less to activate for each other relic you control.
+{5}, {T}: Draw a card. This ability costs {1} less to activate for each other relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Deranged Drum Solo
+rules_text: Deranged Drum Solo deals 1 damage to any target.
+Mathematical
+Madness {2}{R} => Deranged Drum Solo deals 1 damage to any target.
+Mathematical
+Madness {1}{R}
+
+Snooping Pastry
+rules_text: Snooping Pastry is unblockable.
+{2}, {T}, Sacrifice Snooping Pastry: Counter target noncreature spell unless its controller pays {3}. => This creature can't be blocked.
+{2}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {3}.
+
+Astral Epiphany
+
+Captive Research
+rules_text: Counter target creature spell. At the beginning of your next main phase, add {C}{C}{C}. Spend mana made this way only to activate abilities. => Counter target creature spell. At the beginning of your next main phase, add {C}{C}{C}. Spend this mana only to activate abilities.
+
+Overripe Banana Guards
+rules_text: Outlast {2} [i]({2}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+{2}, {T}, Remove a +1/+1 counter from Overripe Banana Guards: Put a +1/+1 counter on each other creature you control. => Outlast {2} [i]({2}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+{T}, Remove a +1/+1 counter from this creature: Put a +1/+1 counter on each other creature you control. Activate as a sorcery.
+
+Dum Dum Juiced
+rules_text: Exile target creature. It's controller confects. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i] => Exile target creature. Its controller confects. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+rules_text: Surveil 2, then manifest dread. => Surveil 2, then manifest dread. [i](Look at the top two cards of your library, then put one onto the battlefield face down as a 2/2 creature and the other into your graveyard. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Susan Strong, Seeker
+rules_text: Whenever a land enters under your control, investigate and put a +1/+1 counter on Susan.
+Whenever this creature attacks, you may sacrifice a clue. When you do, choose a permanent card type. Reveal cards from the top of your library until you reveal a card with that type, put it into your hand, then shuffle. => Whenever a land enters under your control, investigate.
+Whenever Susan Strong attacks, you may sacrifice a Clue. When you do, choose a permanent card type. Seek a card of that type, then put a +1+1 counter on Susan Strong
+
+Honey Man
+
+Rapping at the Window
+
+Knife Storm
+rules_text: Gear up, then you may attach that artifact to target creature you control. [i](Create an artifact equipment with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature. => Gear up, then you may attach that equipment to target creature you control. [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature.
+
+Nudumancer
+
+Blazing Rage
+rules_text: Target creature you control gets +2/+0 until the end of turn.
+Overload {2}{R}{R}
+Mathematical => Target creature you control gets +2/+0 until the end of turn.
+Overload {2}{R}{R} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+Mathematical
+
+Strangle
+
+Psychic Stalemate
+rules_text: If you control an island, you may exile a nontoken creature you control rather than pay this spell's mana cost.
+Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. => If you control an Island, you may exile a nontoken creature you control rather than pay this spell's mana cost.
+Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+
+Tome of Golb
+
+Glasses of Nerdicon
+rules_text: You have no maximum hand size.
+When equipped creature attacks, investigate.
+Equip {2} => You have no maximum hand size.
+When equipped creature attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Equip {2}
+
+Slime Princess
+cost: {2}{G}{G} => {1}{G}{G}
+rules_text: {G}: Exile target card from a graveyard. If it was a relic, put a +1/+1 counter on this creature. Otherwise, gain 1 life. => {G}: Exile target card from a graveyard. If it was a relic card, put a +1/+1 counter on Slime Princess. Otherwise, you gain 1 life.
+
+Spaghettification
+
+Haughty Glassware
+rules_text: Noncreature spells your opponents cast cost {1} more to cast.
+Whenever an opponent casts a spell on your turn, draw a card. => Noncreature spells your opponents cast cost {1} more to cast.
+Whenever an opponent casts a spell during your turn, draw a card.
+
+Tax Collection
+rules_text: Whenever this enchantment enters or an opponent casts a spell, put a tax counter on Tax Collection.
+Remove a tax counter: Add {C}. You can't spend this mana to cast spells.
+{6}: Create a treasure token. => Whenever this enchantment enters and whenever an opponent casts a spell, put a tax counter on Tax Collection.
+Remove a tax counter from this enchantment: Add {C}. You can't spend this mana to cast spells.
+{5}{W}: Create a treasure token.
+
+System Sabotage
+
+Duke of Nuts
+rules_text: When Duke of Nuts enters, create a food token.
+{1}, Sacrifice a food: Another target creature gets protection from the color of your choice until the end of the turn. => When Duke of Nuts enters, create a Food token.
+{1}, Sacrifice a Food: Another target creature gets protection from the color of your choice until the end of the turn.
+
+Breakfast in Bed
+rules_text: When Breakfast in Bed enters, create a food token.
+Whenever you gain your third life each turn, tap target permanent. => When Breakfast in Bed enters, create a food token.
+Whenever you gain your third life each turn, you may tap target permanent.
+
+Mr. Fox, Loneliest Being
+rules_text: When this creature enters, you may return target creature you control to its owners hand. If you do, put a +1/+1 counter on Mr. Fox, Loneliest Being.
+Mr. Fox, Loneliest Being gets -1/-1 for each other creature you control. => When this Mr. Fox enters, you may return target creature you control to its owners hand. If you do, put a +1/+1 counter on Mr. Fox.
+Mr. Fox gets -1/-1 for each other creature you control.
+
+Betty Grof, Magic Woman
+rules_text: Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend only to cast noncreature spells.”
+{UR}, Discard a card: Investigate
+Madness {2}{UR}{U} => Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend only to cast noncreature spells.”
+{UR}, Discard a card: Investigate.
+Madness {2}{UR}{U}
+
+Ricardio, The Heart Guy
+rules_text: When Ricardio, The Heart Guy enters, gain control of target creature. That creature can't attack or block. When Ricardio, The Heart Guy leaves the battlefield, return that creature to its owners hand.
+Activated abilities of cards you control cost {1} less to activate. This effect can't reduce the cost to less than one mana. => When Ricardio enters, gain control of target creature. That creature can't attack or block. When Ricardio leaves the battlefield, return that creature to its owners hand.
+Abilities you activate cost {1} less. This effect can't reduce the cost to less than one mana.
+
+Uncle Gumbald
+rules_text: Whenever you cast a noncreature spell, confect.
+{3}, Exile a noncreature nonland card from your graveyard: Create a 2/2 white Candy Soldier creature token. => Whenever you cast a noncreature spell, confect.
+{3}, Exile a noncreature, nonland card from your graveyard: Create a 2/2 white Candy Soldier creature token.
+
+Flametongue Newt in Boots
+rules_text: Affinity for Equipment
+When Flametongue Newt in Boots enters, it deals 4 damage to target creature an opponent controls. => Affinity for Equipment
+When this creature enters, it deals 4 damage to target creature an opponent controls.
+
+Up All Night Grinding
+rules_text: At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a treasure token, gear up, or investigate. => At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a Treasure token, gear up, or investigate.
+
+Crystal Jailers
+rules_text: Flash
+Vigilance
+When Crystal Jailers enters, exile target spell. When Crystal Jailers leaves the battlefield, return the exiled spell to its owners hand. => Flash
+Vigilance
+When this creature enters, exile target spell. When this creature leaves the battlefield, return the exiled spell to its owners hand.
+
+Skyhooks
+
+Time Warp
+
+Shower Thoughts
+
+Magic Man, Transmografier
+rules_text: When this creature enters or attacks, you may exile target nonland permanent. If you do, its owner reveals cards from the top of their library until they reveal a card that shares a card type with the exiled card. That player puts that card onto the battlefield and shuffles the exiled card into their library.
+Madness {3}{R} => When Magic Man enters or leaves the battlefield, exile another target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.
+Madness {3}{R}
+
+Bypass
+
+Breakfast Princess
+rules_text: When Breakfast Princess enters, create a food token for each noble and kingdom you control.
+Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until the end of the turn. => When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until the end of the turn.
+
+Shadow Ritual
+
+Clown Nurse
+rules_text: Lifelink
+Whenever you gain your third life on your turn, return target creature with mana value 2 or less to your hand. => Lifelink
+Whenever you gain your third life each turn, return target creature card with mana value 2 or less to your hand.
+
+Malefic Tutor
+rules_text: Search your library for a card, then shuffle and put that card on top. You lose 2 life.
+Escape {2}{B}, Exile three other cards from your graveyard. => Search your library for a card, then shuffle and put that card on top. You lose 2 life.
+Escape—{2}{B}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Flame King
+rules_text: Menace
+When Flame King enters or attacks, surveil 1 then you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying it's mana cost. If that spell would be put into your graveyard, exile it instead. => Menace
+Whenever Flame King enters or attacks, surveil 1 then you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying it's mana cost. If that spell would be put into your graveyard, exile it instead.
+
+Flamethrower
+rules_text: Flash
+Snap-on
+When Flamethrower snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until the end of the turn. => Flash
+Snap-on
+When this equipment snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until the end of the turn.
+
+Frightening Bolt
+rules_text: Frightening Bolt costs {2} less if a creature died this turn.
+Frightening Bolt deals 3 damage to any target => This spell costs {2} less to cast if a creature died this turn.
+Frightening Bolt deals 3 damage to any target
+
+50th Dead World
+rules_text: {T}: Add {C}.
+Whenever this land or another land you control enters, if you control six or more lands with different names, create a 1/1 white Spirit creature token with flying. => {T}: Add {C}.
+Whenever 50th Dead World or another land you control enters, if you control six or more lands with different names, create a 1/1 white Spirit creature token with flying.
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+rules_text: {1}, Sacrifice this enchantment: Freestyle
+Mathematical [i](When you cast this spell, copy it for each spell you have cast before it this turn. Copies become tokens.)[/i] => {1}, Sacrifice this enchantment: Freestyle
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn. Copies become tokens.)[/i]
+
+String Duet
+
+Forge the Guardians
+rules_text: Affinity for Candy, Nobles, and Kingdoms [i](Candy nobles count twice.)[/i]
+Create two 4/4 blue Candy Giant artifact creatures. => Affinity for Candy
+Affinity for Nobles
+Affinity for Kingdoms
+Create two 4/4 blue Candy Giant artifact creatures.
+
+Vespertine Vista
+
+Patience's Patient Plan
+rules_text: Bundle 2 [i](When you draft this card you get two additional copies.)[/i]
+When this enchantment leaves the battlefield, draw cards equal to the number of cards named Patience's Patient Plan in your graveyard. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When Patience's Patient Plan leaves the battlefield, draw cards equal to the number of cards named Patience's Patient Plan in your graveyard.
+
+Portent of Calamity
+
+King of Ooo
+rules_text: This creature can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, that player sacrifices a nonland permanent. If they sacrificed a relic you create a treasure token, otherwise confect. => King of Ooo can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, they may sacrifice a nontoken permanent. If they don't, create a Treasure token and confect.
+
+Friend
+
+Bucket Knight
+rules_text: Trample
+{3}{G}: Double Bucket Knight's power until the end of the turn. This ability costs {1} less for each relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Trample
+{3}{G}: Double this creature's power until the end of the turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Nightmare Princess
+rules_text: Flying
+This creature's power and toughness are each equal to the number of swamps you control.
+Whenever a Swamp you control enters, choose one —
+• You draw a card and you lose 1 life.
+• This creature deals 2 damage to any target and you gain 2 life. => Flying
+Nightmare Princess's power and toughness are each equal to the number of Swamps you control.
+Whenever a Swamp you control enters, choose one —
+• You draw a card and you lose 1 life.
+• This creature deals 2 damage to any target and you gain 2 life.
+
+Demon-Blood Sword
+rules_text: Equipped creature gets +3/+3 and has trample.
+{2}{R}{R}, {T}, Discard a card, Sacrifice Demon-Blood Sword: Draw a card.
+When this permanent leaves the battlefield, return it to the battlefield transformed.
+Equip {2} => Equipped creature gets +3/+3 and has trample.
+{1}, {T}, Discard a card, Sacrifice Demon-Blood Sword: Draw a card.
+Equip {2}
+Disturb {2}{R}{R}
+
+Blastronaut
+rules_text: When Blastronaut enters, gear up, then gear up a number of times equal to the number of modified creatures you control. => When this creature enters, gear up, then gear up a number of times equal to the number of modified creatures you control.
+pt: 3/2 => 3/1
+
+Wild Ride
+
+Ice Scouts
+rules_text: Prowess, Prowess
+Madness {2}{U} => Prowess, prowess [i](Each instance of prowess triggers separately.)[/i]
+Madness {2}{U}
+
+Glacial Armor
+rules_text: Target creature you control gets +0/+3, gains hexproof, and gains “Whenever a creature an opponent controls deals damage to this creature, put a stun counter on that creature.” until the end of the turn. => Until end of turn, target creature you control gets +0/+3, gains hexproof, and gains “Whenever a creature an opponent controls deals damage to this creature, put two stun counters on that creature.”
+
+Simon Petrikov
+
+Soul Stone
+rules_text: {T}: Add {C}.
+{4}, {T}: Sacrifice this artifact: Draw a card.
+When Soul Stone leaves the battlefield, draw a card. => {T}: Add {C}.
+{4}, {T}: Sacrifice this artifact: Draw a card.
+When this artifact leaves the battlefield, draw a card.
+
+Foodboys
+type: Creature — Food Golem => Artifact Creature — Food Golem
+rules_text: {2}, {T}, Sacrifice Foodboys: You gain 3 life. => {2}, {T}, Sacrifice this creature: You gain 3 life.
+
+Frighten
+rules_text: Target creature gets -1/-1 until the end of the turn.
+Draw a card. => Target creature gets -1/-1 until end of the turn.
+Draw a card.
+
+Tyranny to Transendentalism
+rules_text: Exile target creature an opponent controls. It's controller discovers 3. => Exile target creature an opponent controls. Its controller discovers 3.
+
+Confront the Past
+
+Tiny Tiller
+rules_text: When Tiny Tiller enters, you may sacrifice a land. If you do, search your library for a land card and put it onto the battlefield tapped.
+Tiny Tiller gets +1/+1 for each land card in your graveyard. => When this creature enters, you may sacrifice a land. If you do, search your library for a land card and put it onto the battlefield tapped.
+This creature gets +1/+1 for each land card in your graveyard.
+
+Overcome Evil
+rules_text: As a cost to cast, pay {4} or sacrifice a relic.
+Exile target creature or planeswalker. If the sacrificed permanent was legendary, draw a card and you gain 3 life. => As a cost to cast, sacrifice a relic.
+Exile target creature or planeswalker. If the sacrificed relic was legendary, draw a card.
+
+Sign Zombies
+rules_text: Deathtouch
+When Sign Zombies enters or dies, mill 2. => Deathtouch
+When this creature enters or dies, mill two cards.
+
+Chthonian Nightmare
+rules_text: When Chthonian Nightmare enters, you get {E}{E}{E}.
+Pay X {E}, Sacrifice a creature, Return Chthonian Nightmare to its owners hand: Return target creature with mana value X or less from your graveyard to your hand. Activate only as a sorcery. => When this enchantment enters, you get {E}{E}{E}.
+Pay X {E}, Sacrifice a creature, Return this enchantment to its owners hand: Return target creature with mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Storytelling
+rules_text: When Storytelling enters, discover 3.
+Whenever you cast an adventure spell, return Storytelling to your hand. => When Storytelling enters, discover 3.
+Whenever you cast an Adventure spell, return Storytelling to your hand.
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+End of the Line
+rules_text: Enchant creature
+At the beginning of the end step of enchanted creatures controller, exile enchanted creature and its controller loses 2 life. => Enchant creature
+Enchanted creature can't attack, block, and loses all abilities.
+At the beginning of your upkeep, destroy enchanted creature.
+
+Flame Princess
+
+Snow Golem
+rules_text: Whenever you cast this spell from exile or play another a card from exile, put a stun counter on target permanent. => When you cast this spell from exile or play another a card from exile, put a stun counter on target permanent.
+
+Tiny, Micro Manticore
+rules_text: Flying, haste
+This creature can't block.
+This creature escapes with a +1/+1 counter on it.
+Escape {R}{R}, Discard a card => Flying, haste
+This creature can't block.
+This creature escapes with a +1/+1 counter on it.
+Escape—{R}{R}, Discard a card [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Pond Nymphs
+rules_text: Bestow {1}{G}
+{T}: Add one mana of any color a land you control could produce.
+Enchanted creature gets +1/+1 and has “{T}: Add one mana of any color a land you control could produce.” => Bestow {G}
+{T}: Add one mana of any color. Activate only if Pond Nymphs is a creature.
+Enchanted creature gets +1/+1 and has “{T}: Add one mana of any color.”
+
+Gunter, The First Bearer
+rules_text: When Gunter, The First Bearer dies, you may discard a card. If you do, reveal a card you own from outside the game and put it into your hand. => When Gunter dies, you may discard a card. If you do, reveal a card you own from outside the game and put it into your hand.
+
+Ghost Fly
+rules_text: Flying
+At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature spell was revealed this way, put a +1/+1 counter on this creature.
+Disturb {1}{U} => Flying
+At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature, nonland card was was revealed this way, put a +1/+1 counter on this creature.
+Disturb {1}{U}
+
+Giant Lemon Snail
+rules_text: When Giant Lemon Snail enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i] => When this creature enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+
+Lemoncrafting
+rules_text: Choose one:
+• Create a 2/2 white candy soldier creature token.
+• Confect twice.
+Entwine {2}, Sacrifice a relic => Choose one —
+• Create a 2/2 white candy soldier creature token.
+• Confect twice.
+Entwine—Pay {2}, Sacrifice a relic
+
+Ember Wolves
+rules_text: Discard a card: Ember Wolves gets +2/+0 until the end of the turn.
+Madness {2}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Discard a card: This creature gets +2/+0 until end of turn.
+Madness {2}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Persistant Raccoon
+cost: {2}{G} => {2}{G}{G}
+rules_text: Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever Persistant Raccoon or another creature card leaves your graveyard, manifest dread. => Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever one or more creatures enters under your control, if it entered from your graveyard, manifest dread.
+
+Overstretch
+
+Ghost of Drop Ball
+
+T.V., Pup Detective
+rules_text: Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a clue: Reveal cards from the top of your library until you reveal a creature card, put it into your hand, then shuffle. => Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Seek a creature card. [i](Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.)[/i]
+
+Shelby
+
+Jake, The Dog
+rules_text: Creatures you control have trample and menace if their power is 5 or greater
+Creatures you control have reach and hexproof if their toughness is 5 or greater
+{R}: Jake gets +1/-1 until the end of the turn.
+{G}: Jake gets -1/+1 until the end of the turn. => Creatures you control with power 5 or greater have trample and menace.
+Creatures you control with toughness 5 or greater have reach and hexproof.
+{R}: Jake gets +1/-1 until the end of the turn.
+{G}: Jake gets -1/+1 until the end of the turn.
+
+BMO
+rules_text: When BMO enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{W}{U}{B}{R}{G}: Discover 6 => When BMO enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{2}{W}{U}{B}{R}{G}: Exile the top five cards of your library. Until end of turn, you may cast a spell from among those exiled cards without paying its mana cost.
+
+Space Lard
+cost: {1}{CW} => {2}{CW}
+rules_text: Devoid
+Flying
+When this creature attacks while saddled, exile up to one creature that saddled it. If you do, return that creature to the battlefield under its owners control at the beginning of the next end step.
+Saddle 1 => Flying
+When this creature attacks while saddled, exile up to one creature that saddled it this turn. If you do, return that creature to the battlefield under its owners control at the beginning of the next end step.
+Saddle 1
+
+Bluescape
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island, put it onto the battlefield, then shuffle. => When this land enters, sacrifice it. When you do, search your library for an Island card, put it onto the battlefield, then shuffle.
+
+Greenscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Forest, put it onto the battlefield, then shuffle. => When this land enters, sacrifice it. When you do, search your library for a Forest card, put it onto the battlefield, then shuffle.
+
+Redscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain, put it onto the battlefield, then shuffle. => When this land enters, sacrifice it. When you do, search your library for a Mountain card, put it onto the battlefield, then shuffle.
+
+Whitescape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains, put it onto the battlefield, then shuffle. => When this land enters, sacrifice it. When you do, search your library for a Plains card, put it onto the battlefield, then shuffle.
+
+Blackscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp, put it onto the battlefield, then shuffle. => When this land enters, sacrifice it. When you do, search your library for a Swamp card, put it onto the battlefield, then shuffle.
+
+Hive of the Star
+
+Lub-Glubs
+rules_text: This creature has flash if you cast it for it's emerge cost.
+Emerge from relic {4}{U}{U} [i](You may cast this spell by sacrificing a relic and paying the emerge cost reduced by that relic's mana value.)[/i]
+When this creature enters, creatures your opponents control get -1/-0 until the end of the turn. => Flash
+Emerge from relic {3}{U}{U}
+When this creature enters, return target creature an opponent controls to its owners hand. If this creature emerged, put that creature on top of its owners library instead.
+pt: 3/3 => 3/2
+
+Cinnamon Bun, Half Baked
+rules_text: Whenever you cast a spell from exile, transform this creature. => Whenever you cast a spell from exile, transform Cinnamon Bun.
+
+GOLB, Entropy Manifest
+
+Slumber Party
+rules_text: When this enchantment enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+Whenever you cast an adventure spell, return this enchantment to its owners hand. => When this enchantment enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+Whenever you cast an Adventure spell, return this enchantment to its owners hand.
+
+Haphazard Excavation
+rules_text: Choose one:
+• Destroy target relic. If a relic you controlled was destroyed this way, draw a card.
+• Return target relic from your graveyard to your hand.
+Entwine {2} => Choose one:
+• Destroy target relic. If a permanent you controlled was destroyed this way, draw a card.
+• Return target relic card from your graveyard to your hand.
+Entwine {2}
+
+Old Wizards
+rules_text: Flying
+Prowess
+Madness {3}{R}{R} => Flying
+Prowess
+Madness {2}{R}{R}
+
+Hair Ape
+rules_text: When Hair Ape dies, create a treasure token. => When this creature dies, create a treasure token.
+
+Bubblegum's Command
+rules_text: Choose two:
+• Until the end of the turn, whenever you would create a token, creature twice that many tokens instead.
+• Create a 2/2 white Candy Soldier creature token.
+• Confect twice.
+• Bubblegum's Command deals damage equal to the number of creatures you control to target creature or planeswalker. => Choose two:
+• Until the end of the turn, whenever you would create a token, create twice that many tokens instead.
+• Create a 2/2 white Candy Soldier creature token.
+• Confect twice.
+• Bubblegum's Command deals damage equal to the number of creatures you control to target creature or planeswalker.
+
+The Morrow
+rules_text: Flying
+Whenever The Morrow attacks while saddled, create a 2/2 white Candy Soldier creature token.
+Saddle—Tap an untapped Noble => Flying
+Whenever The Morrow attacks while saddled, create a 2/2 white Candy Soldier creature token.
+Saddle—Tap an untapped Noble you control
+
+Fiona Campbell
+special_text: When Fiona Campbell enters and at the beginning of your upkeep, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.
+[+1]: Untap target permanent.
+[-3]: Put two +1/+1 counter on target creature you control. If the creature was named Cake, you may have it fight target creature. => When Fiona Campbell enters and at the beginning of your upkeep, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.
+[+1]: Untap target permanent.
+[-3]: Put two +1/+1 counter on target creature you control. If the creature's name is Cake, you may have it fight another target creature.
+
+Briberry
+rules_text: Sacrifice a relic: This creature gets +2/+2 until the end of the turn. Activate only once per turn. => Sacrifice a relic: This creature gets +2/+2 until end of turn. Activate only once per turn.
+
+Next-Level Super Organism
+rules_text: Flying, vigilance
+Devour relic 2 [i](As this enters the battlefield, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, create Food token for each relic it devoured. => Flying, vigilance
+Devour relic 2 [i](As this enters the battlefield, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, create a Food token for each relic it devoured.
+
+Lemonhope
+rules_text: {3}{W}: Each player discards a card then confects. Activate only if Lemonhope has attacked this turn.
+{3}{B}: Each player sacrifices a creature and draws a card. Activate only if Lemonhope has attacked this turn. => {1}{W}: Each player draws a card. Activate only if Lemonhope attacked this turn.
+{1}{B}: Each player discards a card. Activate only if Lemonhope attacked this turn.
+
+Electric Eels
+
+Saltburn
+
+Secret Wizard Handshake
+
+Abraham Lincoln
+special_text: Whenever you cast a red spell, put a loyalty counter on Abraham Lincoln.
+[+0]: Create a treasure token.
+[-3]: Deal X damage to target creature, where X is your devotion to red. => Whenever you cast a red spell, put a loyalty counter on Abraham.
+[+0]: Create a treasure token.
+[-3]: Abraham deals X damage to target creature, where X is your devotion to red as this ability is activated. Excess damage is dealt to that creature's controller instead.
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+rules_text: Prowess
+Whenever this creature attacks, you may discard a card. When you do, Reveal cards from the top of your library until you reveal a card that shares a card type with this discarded card, put it into your hand, then shuffle. => Prowess
+Whenever Cadebra attacks, you may discard a card. If you do, seek a card that doesn't share a card type with the discarded card.
+
+Grassy Gatekeeper
+rules_text: Grassy Gatekeeper can't be countered.
+Vigilance, Trample
+When Grassy Gatekeeper enters or attacks you may mill two cards, then return target land from your graveyard to the battlefield. => Grassy Gatekeeper can't be countered.
+Vigilance, Trample
+Whenever this creature enters or attacks, you may mill two cards, then return target land from your graveyard to the battlefield.
+
+Party Pat
+rules_text: Convoke
+When this creature enters, create a 2/2 green bear creature token, then create a copy of each token you control. => Convoke
+When Party Pat enters, create a 2/2 green Bear creature token, then for each token you control, create a token that's a copy of that permanent.
+
+Charlie, Cardomancer
+rules_text: When Charlie, Cardomancer enters, investigate.
+Whenever you would draw your first card each turn, instead surveil 1 then draw a card. => When Charlie enters, investigate.
+If you would draw a card for the first time each turn, instead surveil 1, then draw a card.
+
+Burn Down the Town
+rules_text: Choose one:
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical [i](When you cast this spell, copy it for each spell you have cast before it this turn.)[/i] => Choose one:
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Minervabot
+rules_text: Bundle 2 [i](When you draft this card you get two additional copies.)[/i]
+When Minervabot enters, you may pay {2}. If you do, draw a card. => Bundle 2
+When Minervabot enters, you may pay {2}. If you do, draw a card.
+
+Kim Kil Whan, Landlord
+rules_text: Vigilance
+Whenever an opponent plays a land, they may pay {1}. If they don't, the land enters tapped. => Vigilance
+Whenever an opponent plays a land, they may pay {1}. If they don't, that land enters tapped.
+
+Lady Rainicorn
+rules_text: Flying, vigilance
+{2}: Add one mana of any color.
+{W}{U}{B}{R}{G}: This creature gets +5/+5 until the end of the turn. => Flying, vigilance
+{2}: Add one mana of any color.
+{W}{U}{B}{R}{G}: Lady Rainicorn gets +5/+5 until the end of the turn.
+
+Snatching Cyclops
+
+Dimpled Sprout
+rules_text: At the beginning of your upkeep, mill 1.
+{2}, Exile two cards from your graveyard: Transform this creature. => At the beginning of your upkeep, mill a card.
+{2}, Exile two cards from your graveyard: Transform this creature.
+
+Muscle Princess
+
+Bugbear Brawlers
+rules_text: When this creature enters, gear up.
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When this creature enters, gear up. [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Festive Nutler
+
+Humiliating Minstrel
+cost: {RG}{RW} => {BR}{RG}
+rules_text: When Humiliating Minstrel enters, discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => When this creature enters, discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+Grass Demon
+rules_text: Bestow {2}{G}
+This creature and enchanted creature can't be blocked by creatures with power 2 or less.
+Whenever a modified creature you control deals damage to an opponent, draw a card. => Bestow {1}{G}
+Enchanted creature gets +1/+1.
+Whenever a modified creature you control deals damage to an opponent, draw a card.
+
+Darren, Ancient Sleeper
+rules_text: When Darren, Ancient Sleeper enters, sacrifice it unless it escaped.
+Whenever Darren enters or attacks, destroy target nonland permanent with mana value 3 or less an opponent controls.
+Escape—{B}{B}{G}{G}, Exile five other cards from your graveyard => When Darren enters, sacrifice it unless it escaped.
+Whenever Darren enters or attacks, destroy target nonland permanent with mana value 3 or less an opponent controls.
+Escape—{B}{B}{G}{G}, Exile five other cards from your graveyard
+
+The Mushroom War
+special_text: 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until the end of turn, whenever you mill a creature card create a black 2/2 Zombie creature token.
+III — Each player gains 1 life for each rad counter they have. => 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life.
+
+Glass Boy
+rules_text: Haste
+Training
+Remove a +1/+1 counter from Glass Boy: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Haste
+Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+Remove a +1/+1 counter from Glass Boy: Freestyle.
+
+Class Project
+cost: {1}{UR} => {X}{2}
+rules_text: If {U} was spent to cast Class Project, it enters with a prowess counter on it.
+If {R} was spent to cast Class Project, it enters with a menace counter on it. => For each color spent to cast this spell, this creature enters with the following counter:
+{W}—Flying
+{U}—Prowess
+{B}—Menace
+{R}—Haste
+{G}—Deathtouch
+
+Astral Brojection
+
+Example Examination
+cost: {RW} => {X}{2}
+rules_text: If {R} was spent to cast Example Examination, gear up then equip the token to target creature you control.
+If {W} was spent to cast Example Examination, return a relic with mana value 3 or less from your graveyard to the battlefield. => For each color spent to cast this spell, add the following words—
+{W}—Return a relic card with mana value 3 or less from your graveyard to your hand.
+{U}—Investigate.
+{B}—Create a Treasure token.
+{R}—Gear up.
+{G}—Target creature you control explores.
+
+Everything Burrito
+rules_text: When this artifact enters, draw a card then you may put a counter of your choice onto target creature from among haste, trample, prowess, flying, and vigilance.
+{2}, {T}, Sacrifice Everything Burrito: You gain 3 life. => When Everything Burrito enters, draw a card then you may put a counter of your choice onto target creature from among haste, trample, prowess, flying, and vigilance.
+{2}, {T}, Sacrifice Everything Burrito: You gain 3 life.
+
+The Enchiridion
+rules_text: {1}, {T}: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}, {T}, Sacrifice this artifact: Discover 1, discover 2, discover 3, discover 4, discover 5. => {1}, {T}: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}, {T}, Sacrifice The Enchiridion: Discover 1, discover 2, discover 3, discover 4, discover 5.
+
+Viola, Aspiring Actress
+rules_text: When this creature enters, put a +1/+1 counter on another target creature you control.
+Viola has all abilities of modified creatures you control. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When this Viola enters, put a +1/+1 counter on another target creature you control.
+Viola has all abilities of modified creatures you control. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+pt: 2/2 => 1/1
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Gaze of the Worm
+rules_text: Target opponent may discard a card. If they don't, they lose 3 life and you draw three cards.
+Flashback {4}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Target opponent may discard a card. If they don't, they lose 3 life and you draw two cards.
+Flashback {4}{B} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+rules_text: When this creature enters, investigate.
+This creature crews Vehicles as though its power were 2 greater.
+{W}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => This creature crews Vehicles as though its power were 2 greater.
+{1}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+Hall of Egress
+
+Elise, Ailing Mother
+rules_text: When this creature enters or dies, surveil 2.
+Disturb {G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Elise enters or dies, surveil 2.
+Disturb {G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Lurking Guardian
+cost: {4}{U}{U} => {5}{U}{U}
+rules_text: Flash
+When this creature enters, you may cast target instant or instant adventure card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. => Flash
+When this creature enters, choose one—
+• You may cast target instant or sorcery card from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
+• Choose target card with an adventure in your graveyard. You may cast it as an adventure without paying its mana cost.
+
+Magi of Life Giving
+rules_text: {4}: Put two +1/+1 counters on target relic. If the relic was legendary, put four +1/+1 counters on it instead. It becomes a creature in addition to its other types. Activate as a sorcery.
+Madness {U} => {4}: Put two +1/+1 counters on target relic permanent. If the permanent was legendary, put four +1/+1 counters on it instead. It becomes a creature in addition to its other types. Activate only as a sorcery.
+Madness {U}
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+rules_text: This creature enters with a +1/+1 counter on it.
+If this creature would be dealt damage or destroyed, remove a counter from it instead. If you do, create a food token. => Wildberry Princess enters with a +1/+1 counter on it.
+If Wildberry Princess would be dealt damage or destroyed, remove a counter from it instead. If you do, create a food token.
+
+Lard Shepherd
+
+Xergiok, The Flagelator
+rules_text: When this creature enters and whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}{R}, Sacrifice another creature: This creature deals 2 damage to any target.
+Madness {2}{R}, Sacrifice a creature => When Xergiok enters and whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}{R}, Sacrifice another creature: Xergiok deals 2 damage to any target.
+Madness {2}{R}, Sacrifice a creature
+
+Mo, Paternal Roboticist
+rules_text: Whenever you cast a spell from exile, Create a 0/0 colorless Robot artifact creature token with “this creature gets +1/+1 for each artifact you control.”
+{T}: Add {C} for each Robot creature you control. => Whenever you cast a spell from exile, Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{T}: Add {C} for each Robot creature you control.
+
+Space Moth
+
+Hot Dog Knights
+rules_text: Sacrifice Hot Dog Knights: Copy target Adventure spell. => Sacrifice this creature: Copy target Adventure spell.
+
+Exposed Entity
+
+Spader Peterson
+
+Warped Coyote
+rules_text: When this creature enters, draw a card.
+{1}{G}, Exile this card from your graveyard: Create a 1/1 green Coyote Mutant creature token and draw a card. Activate as a sorcery. => When this creature enters, draw a card.
+{2}{G}, Exile this card from your graveyard: Create a 1/1 green Coyote Mutant creature token and draw a card. Activate only as a sorcery.
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+rules_text: Whenever this creature enters or attacks, confect twice.
+Pay 2 life, sacrifice a Candy creature: Create a Food token. => Whenever Lemonjohn enters or attacks, confect twice.
+Sacrifice Lemonjohn: Create four Food tokens.
+
+Bufo, Former Dark Wizard
+rules_text: Prowess
+As long as it's your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Madness {U}{B}{R} => Prowess
+During your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Madness {U}{B}{R}
+
+Billy, Retired Hero
+rules_text: When this creature enters, create a Pacifism token attached to it.
+You may play an additional land each turn. => When Billy enters, create a Pacifism token attached to it.
+You may play an additional land each turn.
+
+Secret Wizard Oath
+
+Take a Seat
+type: Sorcery — Lesson => Sorcery
+rules_text: Bundle 2 [i](When you draft this card you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R}, Discard a card => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess, then learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Inquisitive Looting
+
+Lesson on the Premundane
+type: Enchantment — Saga => Enchantment — Saga Lesson
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — [i]Before there was time, before there was anything, there was nothing.[/i]
+II — Create a 4/4 black horror creature token with Menace
+III — Create a treasure token.
+[i]Designed by Ellie Day[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — [i]Before there was time, before there was anything, there was nothing.[/i]
+II — Create a 4/4 black horror creature token with Menace
+III — Create a Treasure token.
+[i]Designed by Ellie Day[/i]
+
+Famished Moldos
+
+Fight King's Arena
+rules_text: At the beginning of your upkeep, put a rage counter on this enchantment, then you draw a card and you lose 2 life.
+When this enchantment leaves the battlefield, gain 2 life for each rage counter on it. => At the beginning of your upkeep, put a rage counter on this enchantment, then you draw a card and you lose 2 life.
+When this enchantment leaves the battlefield, gain 1 life for each rage counter on it.
+
+Hugo, Scheming Industrialist
+
+The Drift
+
+Risky Scrounging
+rules_text: Create a 2/2 black Zombie creature token.
+{4}{G}, Exile this card from your graveyard: Discover 5. Activate as a sorcery. => Create a 2/2 black Zombie creature token.
+{4}{G}, Exile this card from your graveyard: Discover 5. Activate only as a sorcery. [i](To discover 5, exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+Hurricane
+
+CGO, Bootleg Bot
+rules_text: When this creature enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.
+Whenever this creature dies or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value. => When this CGO enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.
+Whenever this creature dies or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.
+
+Marcy's Concert Tee
+rules_text: Whenever you play a card from exile, put a +1/+1 counter on equipped creature.
+When this artifact leaves the battlefield, draw a card.
+Equip—{1} => Whenever you play a card from exile, put a +1/+1 counter on equipped creature.
+When Marcy's Concert Tee leaves the battlefield, draw a card.
+Equip—{1}
+
+Sweet P, Precious Boy
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Elemental Soldier
+
+Food
+
+Food
+
+Food
+
+Gold Pan
+
+Pacifism
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an artifact equipment with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL[/b] [i](When you cast this spell, copy it for each spell you have cast before it this turn.You may choose new targets for the copies Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this equipment enters the battlefield, equip it to target creature you control.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL[/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this equipment enters the battlefield, equip it to target creature you control.)[/i]
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
