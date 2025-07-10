@@ -1,4 +1,508 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Nightcrawlers added.
+Worm added.
+Fiery Theater added.
+Scrounging Spot added.
+Music added.
+Grapple added.
+
+Psychic Worm removed.
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Destroy Evil
+
+The Dungeon Train
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Iced Lightning
+
+Jagged Crag
+
+Lady's House
+
+Lumpy Space
+
+Mom's Holomessage
+
+Mountain Pass
+
+Overflowing Mimic
+
+Petrikov's Descent
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Pillowtown
+
+Rampant Regrowth
+
+Roughousing
+
+Stretch Around
+
+The Treehouse
+
+Vacant Valley
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Marrow Muncher
+
+Dr. Gross, Amoral Genetisist
+cost: {2}{B}{B} => {4}{B}{B}
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+PB's Special Sweater
+
+Weapons Cashe
+
+Trail of Spoor
+
+Signature Slam
+
+Annual Abduction
+
+Ghost Princess
+
+Catalyst Comet
+
+Power Shriek
+cost: {U} => {1}{U}
+rules_text: Target creature gets -10/-0 until the end of turn.
+Draw a card, then discard a card.
+Madness {U} => Discard a card, then draw a card.
+Counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U}
+
+N.E.P.T.R.
+
+The Finn Sword
+rules_text: When this artifact enters, exile target creature from your graveyard.
+Equipped creature gets +1/+1 and has all abilities of creatures exiled with it.
+Equip {2}
+{2}{G}, Exile an enchantment you control or from your graveyard: Transform this artifact. Activate only as a sorcery. => When The Finn Sword enters, exile target creature from your graveyard.
+Equipped creature has all abilities of cards exiled with it.
+Equip {4}
+{2}{G}, Exile an enchantment you control or from your graveyard: Transform this artifact. Activate only as a sorcery.
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+
+Whisper Dan, Silent King
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Olive, Service Droid
+
+Fire
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Turn to Seed
+
+Bathroom Mirror
+
+Marceline, Vampire Queen
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+Gummy Bear
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+Grass Wizard
+
+Huntress Wizard
+
+The Mother Gum
+
+Bubblegum's Rockets
+
+Hot Daniel
+
+Questing Orb
+
+Giuseppe's Signet
+
+Bubblegum's Altar
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Feral Pageling
+
+Ramshackle Flute
+
+Holotome
+
+Astral Epiphany
+
+Captive Research
+
+Harrowing Premonition
+
+Grass Sword
+
+Susan Strong, Seeker
+
+Honey Man
+
+Rapping at the Window
+
+Psychic Stalemate
+
+Tome of Golb
+
+Slime Princess
+
+Spaghettification
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Breakfast Princess
+
+Clown Nurse
+
+Flame King
+
+50th Dead World
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Vespertine Vista
+
+Friend
+
+Nightmare Princess
+
+Soul Stone
+
+Tiny Tiller
+
+Sign Zombies
+
+Raggedy Princess
+
+Pond Nymphs
+
+Precious Candy Seeds
+
+Persistant Raccoon
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Cinnamon Bun, Half Baked
+
+Bubblegum's Command
+
+Next-Level Super Organism
+
+Lemonhope
+
+Giant Ant Creature
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Muscle Princess
+
+Festive Nutler
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life. => 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life.
+
+Everything Burrito
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Altar of GOLB
+
+Hall of Egress
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Lard Shepherd
+
+Starchy, The Gravedigger
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+The Drift
+
+Risky Scrounging
+
+Hurricane
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental Soldier
+
+Candy Citizen
+
+Food
+
+Food
+
+Food
+
+Pacifism
+
+Equipment
+
+Candy Soldier
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+TWO COLOR ARCHETYPES
+
+Farmers Market
+
+Catpile
+
+Bleached Expanse
+
+Eerie Woods
+
+Foggy Cemetary
+
+Open Ocean
+
+Feed the Flies
+
+Talented Banana Guard
+special_text: Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-4] Whenever this creature levels up, create a 2/2 white Candy soldier creature token. [2/2]
+[level 5+] Creatures you control get +1/+1. [2/2] => Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-4] Whenever this creature levels up, create a 2/2 white Candy soldier creature token.
+[level 5+] Creatures you control get +1/+1.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Bear Emcee added.
