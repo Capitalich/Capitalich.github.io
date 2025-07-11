@@ -1,4 +1,939 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Lemonhope, Sour Savior added.
+Gloat added.
+Cross Blades added.
+Pulp Artist added.
+
+Lemonhope removed.
+
+Arboreal Indoctrination
+
+Bad Land Scavengers
+
+Bureaucratic Burg
+
+Chalk Outline
+
+Confront the Forgotten
+
+Conjecture Beast
+
+Complex Equation
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+
+Destroy Evil
+
+The Dungeon Train
+
+Fatal Push
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+rules_text: Whenever this creature enters, destroy target enchantment, artifact, or creature with flying.
+Escape—{3}{G}, Exile two other cards from your graveyard. => Whenever this creature enters, destroy target artifact, enchantment, or creature with flying.
+Escape—{3}{G}, Exile two other cards from your graveyard.
+
+Greedy Eyes
+
+Horde of Oozers
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lady's House
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mom's Holomessage
+
+Mother Jiggler
+
+Movie Night
+
+Mountain Pass
+
+Ongoing Investigation
+
+Out Sick
+
+Overflowing Mimic
+
+Party God's Ire
+
+Petrikov's Descent
+
+Pillowtown
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Reign of Gunters
+
+Reach Through Time
+
+Risen Horde
+
+Root Beer Guy
+
+Roughousing
+cost: {X}{X}{G} => {X}{X}{G}{G}
+rules_text: When you cast this spell, copy it X times. You may choose new targ => When you cast this spell, copy it X times. You may choose new targets for the copies.
+Put a +1/+1 counter on target creature you control, then it fights target creature you don't control.
+
+Settle Beyond Reality
+
+Sizzling Slap
+
+Somatic inversion
+
+Special Sentient Sandwiches
+
+Sticky Prison
+
+Stretch Around
+
+Horrify
+
+The Lich
+
+The Treehouse
+
+Thoughtseize
+
+Thunder Boar
+
+Tragic Slip
+
+Toothy Sword
+
+Vacant Valley
+
+Volcanic Vision
+
+Wizard City Po-Po
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+
+Fruit Witch
+
+Newborn Marauder
+
+Lich Hand
+
+Marrow Muncher
+
+Bridge Shades
+
+Morbid Butterfly
+
+Ruby Brain Beast
+
+Glassassin
+
+Nightcrawlers
+
+Ravenous Grumbo
+rules_text: Devour 1
+When this creature enters, destroy target creature, then Investigate for each creature that has died this turn. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature, then Investigate for each creature that has died this turn.
+
+Dr. Gross, Amoral Genetisist
+
+Shambling Oozers
+
+Maja the Sky Witch
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Donny, Beligerant Ogre
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+
+Manish Man
+
+Orb Wizard
+
+Ice King
+
+Octopolitician
+
+Science Cat
+
+Choose Goose
+
+Con Wizard
+
+Grand Wizard
+
+Unsettling Reproductions
+
+PB's Special Sweater
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+rules_text: When this creature enters, gear up then attach that equipment to this creature..
+{3}, {T}: Unattach an equipment from this creature: This creature Deals 2 damage to any target. Activate only as a sorcery. => When this creature enters, gear up then attach that equipment to this creature.
+{3}, {T}: Unattach an equipment from this creature: This creature Deals 2 damage to any target. Activate only as a sorcery.
+
+Stickytongue Lizard
+
+Weapons Cashe
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Banana Guard 500
+
+Y5, Formerly Y4
+
+Bird Squadron
+
+Annual Abduction
+
+Bear Emcee
+
+Sonic Blast
+rules_text: Destroy target attacking or blocking creature. => Choose one:
+• Destroy target attacking creature.
+• Counter target spell unless its controller pays {1}.
+
+Ghost Princess
+
+Catalyst Comet
+
+Wrath of Glob Gob Glod Grod
+
+Lemonshrieker
+
+Fractalize
+
+Chart a Course
+
+Mass Surveillance
+
+Power Shriek
+cost: {1}{U} => {U}{U}
+rules_text: Discard a card, then draw a card.
+Counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U} => Draw a card, then discard a card.
+Counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U}
+
+Thalassaphobia
+
+Breakfast Afterglow
+
+Evil Ocean
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Flame Guards
+
+Firecrown Berserker
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+
+Whisper Dan, Silent King
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Time Bubble
+
+Olive, Service Droid
+
+Clumsy Skeleton
+
+Fire
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Turn to Seed
+
+Bathroom Mirror
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+The Porcelain Lamb
+
+Gummy Bear
+
+Heroic Tutor
+
+Exhaustive Analysis
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+The Vampire King
+
+Dream Parisite
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+The Mother Gum
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Here All Along
+
+Bubblegum's Rockets
+
+Hot Daniel
+
+Questing Orb
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Syr Rattleballs
+
+3D Print
+
+Bubblegum's Altar
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Entropic Amalgam
+cost: {7}{G}{G} => {6}{C}{C}
+rules_text: Delve
+Deathtouch
+When this creature enters, destroy target land an opponent controls, then each player creates a Wastes token. => Annihilator 2 [i](Whenever this creature attacks, defending player sacrifices two permanents.)[/i]
+pt: 5/5 => 7/6
+
+Feral Pageling
+
+Probable Cause
+
+Seeded Digsite
+
+Ramshackle Flute
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+
+Holotome
+
+Deranged Drum Solo
+rules_text: Deranged Drum Solo deals 1 damage to any target.
+Mathematical
+Madness {1}{R} => Freestyle
+Mathematical
+Madness {R}
+
+Snooping Pastry
+
+Astral Epiphany
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Rapping at the Window
+
+Knife Storm
+
+Nudumancer
+
+Blazing Rage
+
+Strangle
+
+Psychic Stalemate
+
+Tome of Golb
+
+Glasses of Nerdicon
+
+Slime Princess
+
+Spaghettification
+
+Haughty Glassware
+
+Tax Collection
+
+System Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Mr. Fox, Loneliest Being
+
+Betty Grof, Magic Woman
+rules_text: Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend only to cast noncreature spells.”
+{UR}, Discard a card: Investigate.
+Madness {2}{UR}{U} => Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend only to cast noncreature spells.”
+{UR}, Discard a card: Investigate.
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Claim the Firstborn
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Time Warp
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Bypass
+
+Breakfast Princess
+cost: {3}{G}{GW}{GW} => {4}{G}{W}
+
+Shadow Ritual
+
+Clown Nurse
+
+Malefic Tutor
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Portent of Calamity
+
+King of Ooo
+
+Friend
+
+Bucket Knight
+
+Nightmare Princess
+
+Demon-Blood Sword
+
+Blastronaut
+
+Wild Ride
+
+Ice Scouts
+
+Glacial Armor
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Overcome Evil
+
+Sign Zombies
+
+Chthonian Nightmare
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+End of the Line
+
+Flame Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Precious Candy Seeds
+
+Ember Wolves
+
+Persistant Raccoon
+
+Overstretch
+
+Ghost of Drop Ball
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+James, Willing Decoy
+
+GOLB, Entropy Manifest
+
+Scarab, God Auditor
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fiona Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Electric Eels
+
+Saltburn
+
+Secret Wizard Handshake
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Minervabot
+
+Kim Kil Whan, Landlord
+
+Lady Rainicorn
+
+Snatching Cyclops
+
+Dimpled Sprout
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+cost: {4}{B}{G} => {4}{B}{BG}
+
+Glass Boy
+
+Astral Brojection
+
+Example Examination
+
+Everything Burrito
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Gaze of the Worm
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Lard Shepherd
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Hot Dog Knights
+
+Exposed Entity
+
+Spader Peterson
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Secret Wizard Oath
+
+Take a Seat
+
+Inquisitive Looting
+
+Lesson on the Premundane
+
+Famished Moldos
+
+Fight King's Arena
+
+Hugo, Scheming Industrialist
+
+The Drift
+
+Risky Scrounging
+
+Hurricane
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL[/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this equipment enters the battlefield, equip it to target creature you control.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL[/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this equipment enters the battlefield, attach it to target creature you control.)[/i]
+
+Farmers Market
+
+Catpile
+rules_text: Target creature you control gets +2/+1 and gains indestructible until the end of the turn.
+Overload {3}{GW}{GW}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Target creature you control gets +2/+1 and gains indestructible until the end of the turn.
+Overload {3}{GW}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Devious Prank
+
+Floop the Pig
+
+Bleached Expanse
+
+Eerie Woods
+
+Foggy Cemetary
+
+Open Ocean
+
+Glimpse the Multiverse
+
+Cripple
+
+Decapitate
+
+Feed the Flies
+rules_text: Kicker—Sacrifice a relic
+Destroy target creature or enchantment You lose life equal to that permanent's mana value unless this spell was kicked. => Kicker—Sacrifice a relic
+Destroy target creature or enchantment. You lose life equal to that permanent's mana value unless this spell was kicked.
+
+Snuff
+
+Lich's Command
+
+Searing Lick
+
+Talented Banana Guard
+special_text: Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-4] Whenever this creature levels up, create a 2/2 white Candy soldier creature token.
+[level 5+] Creatures you control get +1/+1. => Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-2] Whenever this creature levels up, create a 2/2 white Candy soldier creature token. [2/2]
+[level 3+] Creatures you control get +1/+1. [2/2]
+
+Banana Soloist
+rules_text: Whenever another creature enters under your control, create a music token. => Whenever another creature enters under your control, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+
+Fiery Theater
+
+Scrounging Spot
+
+Grapple
+
+New Death
+
+
+VERSION 6 CHANGELOG
 ====================
 
 No changes.
