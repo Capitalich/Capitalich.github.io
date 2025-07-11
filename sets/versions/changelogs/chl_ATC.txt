@@ -1,4 +1,551 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+New Death added.
+
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+rules_text: Target opponent sacrifices a creature.
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies)[/i] => Each opponent sacrifices a creature. If that permanent was a token, its controller loses 2 life.
+Mathematical [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Destroy Evil
+
+The Dungeon Train
+
+Fatal Push
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+
+Greedy Eyes
+
+Horde of Oozers
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lady's House
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mom's Holomessage
+
+Mountain Pass
+
+Overflowing Mimic
+
+Petrikov's Descent
+special_text: 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Pillowtown
+
+Rampant Regrowth
+
+Roughousing
+
+Settle Beyond Reality
+
+Sizzling Slap
+
+Sticky Prison
+
+Stretch Around
+
+Horrify
+
+The Lich
+
+The Treehouse
+
+Tragic Slip
+
+Vacant Valley
+
+Volcanic Vision
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+
+Fruit Witch
+
+Lich Hand
+
+Marrow Muncher
+
+Morbid Butterfly
+
+Glassassin
+
+Ravenous Grumbo
+
+Maja the Sky Witch
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Unsettling Reproductions
+
+Weapons Cashe
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Sonic Blast
+
+Wrath of Glob Gob Glod Grod
+
+Lemonshrieker
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+
+Whisper Dan, Silent King
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Olive, Service Droid
+
+Fire
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Turn to Seed
+
+Bathroom Mirror
+
+Marceline, Vampire Queen
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+The Porcelain Lamb
+cost: {1}{W} => {2}{W}
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+Grass Wizard
+
+Huntress Wizard
+
+The Mother Gum
+
+Itchy-Butt Dragon
+
+Bubblegum's Rockets
+
+Hot Daniel
+
+Questing Orb
+
+Giuseppe's Signet
+
+Bubblegum's Altar
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Entropic Amalgam
+cost: {7}{CB}{CB} => {7}{G}{G}
+pt: 6/4 => 5/5
+
+Feral Pageling
+
+Ramshackle Flute
+
+Holotome
+
+Deranged Drum Solo
+
+Captive Research
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Susan Strong, Seeker
+
+Honey Man
+
+Rapping at the Window
+
+Knife Storm
+
+Strangle
+
+Tome of Golb
+
+Slime Princess
+
+Spaghettification
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Breakfast Princess
+
+Clown Nurse
+rules_text: Lifelink
+Whenever you gain your third life each turn, return target creature card with mana value 3 or less to your hand. => Lifelink
+
+Malefic Tutor
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Vespertine Vista
+
+King of Ooo
+
+Friend
+
+Soul Stone
+
+Foodboys
+type: Artifact Creature — Food Golem => Creature — Golem
+rules_text: {2}, {T}, Sacrifice this creature: You gain 3 life. => 
+
+Frighten
+
+Tyranny to Transendentalism
+
+Tiny Tiller
+
+Overcome Evil
+
+Sign Zombies
+
+Raggedy Princess
+
+Hateful Faeries
+
+End of the Line
+
+Pond Nymphs
+
+Precious Candy Seeds
+
+Persistant Raccoon
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Scarab, God Auditor
+
+Hair Ape
+
+Bubblegum's Command
+
+Fiona Campbell
+
+Next-Level Super Organism
+
+Lemonhope
+
+Saltburn
+rules_text: Saltburn deals 2 damage to target creature. If that creature would die this turn, exile it instead. => Saltburn deals 2 damage to target creature or planeswalker. If that creature would die this turn, exile it instead.
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+type: Legendary Creature — Dog Bard => Legendary Creature — Dog Rogue
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Minervabot
+
+Muscle Princess
+
+Festive Nutler
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+special_text: 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life.
+
+Everything Burrito
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Gaze of the Worm
+
+Altar of GOLB
+
+Hall of Egress
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Lard Shepherd
+
+Space Moth
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Lesson on the Premundane
+
+Famished Moldos
+
+Fight King's Arena
+
+Hugo, Scheming Industrialist
+
+The Drift
+
+Risky Scrounging
+
+Hurricane
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Farmers Market
+
+Catpile
+
+Devious Prank
+
+Bleached Expanse
+
+Eerie Woods
+
+Foggy Cemetary
+
+Open Ocean
+
+Glimpse the Multiverse
+
+Cripple
+
+Decapitate
+
+Feed the Flies
+
+Snuff
+
+Lich's Command
+
+Searing Lick
+
+Fiery Theater
+
+Scrounging Spot
+
+Grapple
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Nightcrawlers added.
