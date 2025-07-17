@@ -1,4 +1,914 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Unlimited Party Energy added.
+Thalassophobia added.
+Spader Peterson, Star Pupil added.
+Detective added.
+Royal Regiment added.
+
+Party God's Ire removed.
+Thalassaphobia removed.
+Spader Peterson removed.
+
+Arboreal Indoctrination
+
+Bad Land Scavengers
+
+Bureaucratic Burg
+
+Chalk Outline
+
+Confront the Forgotten
+
+Conjecture Beast
+
+Complex Equation
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+
+The Dungeon Train
+
+Fatal Push
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+
+Greedy Eyes
+
+Horde of Oozers
+cost: {X}{B}{B} => {X}{X}{B}
+rules_text: Create X 2/2 black Zombie creature tokens and you get X rad counters.
+Flashback {2}{B}{B}, Exile X creatures from your graveyard. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Create X 2/2 black Zombie creature tokens, then each player gets X rad counters. X can't be 0.
+Flashback {2}{B}{B}, Exile X creature cards from your graveyard. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lady's House
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mom's Holomessage
+
+Movie Night
+
+Mountain Pass
+
+Ongoing Investigation
+
+Out Sick
+rules_text: Counter target creature or adventure spell. => Counter target creature or Adventure spell.
+
+Overflowing Mimic
+
+Petrikov's Descent
+
+Pillowtown
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Reign of Gunters
+
+Reach Through Time
+
+Risen Horde
+
+Roughousing
+
+Settle Beyond Reality
+
+Sizzling Slap
+
+Somatic inversion
+
+Special Sentient Sandwiches
+
+Sticky Prison
+rules_text: Enchant land
+When this enchantment enters, exile target creature an opponent controls.
+When this enchantment leaves the battlefield, return the exiled card to the battlefield under its owners control. => Enchant land
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+Stretch Around
+
+Horrify
+
+The Lich
+special_text: [+1]: You gain 2 life and get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile three other cards from your graveyard. => [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile four other cards from your graveyard.
+
+The Treehouse
+
+Thoughtseize
+
+Tragic Slip
+
+Vacant Valley
+
+Volcanic Vision
+
+Wizard City Po-Po
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+rules_text: Whenever Martin becomes blocked, shuffle it into your library. If you do, discover 3. => Whenever Martin becomes blocked, shuffle him into your library. If you do, discover 3.
+
+Fruit Witch
+rules_text: When this creature enters, create a Food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -2/-2 until the end of the turn. If the sacrificed relic was legendary, that creature gets -4/-4 instead. Activate as a sorcery. => When this creature enters, create a Food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -1/-1 until the end of the turn. If the sacrificed relic was legendary, that creature gets -3/-3 instead. Activate as a sorcery.
+
+Newborn Marauder
+
+Lich Hand
+
+Marrow Muncher
+
+Bridge Shades
+
+Morbid Butterfly
+
+Ruby Brain Beast
+
+Glassassin
+pt: 2/2 => 2/1
+
+Nightcrawlers
+
+Ravenous Grumbo
+
+Dr. Gross, Amoral Genetisist
+
+Shambling Oozers
+
+Maja the Sky Witch
+rules_text: Flying, prowess
+{B}, {T}, Sacrifice a relic: Draw a card. If the sacrificed permanent was legendary, each opponent loses 2 life and sacrifices a creature, then untap Maja. => Flying
+{3}{B}, {T}, Sacrifice a relic: Return target creature card from your graveyard to the battlefield. You lose life equal to it's mana value unless the sacrificed permanent was legendary. Activate only as a sorcery.
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Donny, Beligerant Ogre
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+
+Manish Man
+
+Orb Wizard
+
+Ice King
+rules_text: Flying
+Protection from Nobles.
+{2}{U}, Discard a card: Tap target creature and put a stun counter on it. => Flying
+Protection from Nobles
+{2}{U}, Discard a card: Tap target creature and put a stun counter on it.
+
+Octopolitician
+
+Science Cat
+
+Choose Goose
+
+Con Wizard
+
+Grand Wizard
+rules_text: Flying
+Wizards you control have prowess.
+{T}, Discard a card: Copy target instant or sorcery spell you control. You may choose new targets for the copies. => Vigilance
+Discard a card: Wizards you control gain flying until the end of the turn.
+pt: 4/4 => 3/4
+
+Unsettling Reproductions
+
+PB's Special Sweater
+rules_text: Flash, Snap-on
+Equipped creature has hexproof and indestructible as long as PB's Special Sweater entered this turn.
+Equipped creature gets +1/+1.
+Equip {2} => Flash, Snap-on
+When PB's Special Sweater snaps on, equipped creature gains hexproof and indestructible until end of turn.
+Equipped creature gets +1/+1.
+Equip {2}
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+
+Weapons Cashe
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Y5, Formerly Y4
+
+Annual Abduction
+type: Instant => Sorcery
+rules_text: Exile up to one target creature. Return it to the battlefield at the beginning of the next end step. Exile Annual Abduction with two suspend counters on it.
+Suspend 2—Tap an untapped white creature you control. => Exile up to one target creature. Return it to the battlefield at the beginning of the next end step. 
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Bear Emcee
+
+Sonic Blast
+
+Wrath of Glob Gob Glod Grod
+
+Lemonshrieker
+
+Fractalize
+
+Chart a Course
+
+Mass Surveillance
+
+Power Shriek
+
+Breakfast Afterglow
+
+Evil Ocean
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Flame Guards
+
+Firecrown Berserker
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+
+Whisper Dan, Silent King
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Time Bubble
+
+Olive, Service Droid
+
+Clumsy Skeleton
+rules_text: When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{2}{B}: Return Clumsy Skeleton from your graveyard to your hand. => When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{2}{B}: Return this creature from your graveyard to your hand.
+
+Fire
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Turn to Seed
+
+Bathroom Mirror
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+Heroic Tutor
+type: Sorcery => Legendary Sorcery
+cost: {2}{W} => {1}{W}
+rules_text: Search your library for a legendary card, reveal it, put it into your hand, then shuffle. => [i](You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)[/i]
+Search your library for a legendary card, reveal it, put it into your hand, then shuffle.
+
+Exhaustive Analysis
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+The Vampire King
+
+Dream Parisite
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+The Mother Gum
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Bubblegum's Rockets
+
+Hot Daniel
+
+Questing Orb
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Syr Rattleballs
+
+3D Print
+
+Bubblegum's Altar
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Feral Pageling
+
+Probable Cause
+
+Seeded Digsite
+
+Ramshackle Flute
+
+Holotome
+
+Deranged Drum Solo
+
+Snooping Pastry
+
+Astral Epiphany
+
+Captive Research
+
+Inevitable Return
+
+Harrowing Premonition
+rules_text: Up to one target creature gets -3/-3 until the end of the turn. 
+{B}, Exile Harrowing Premonition from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. => Up to one target creature gets -3/-3 until the end of the turn. 
+{B}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle.
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Rapping at the Window
+
+Knife Storm
+
+Nudumancer
+rules_text: Madness costs of cards you own cost {1} less.
+Madness {1}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Madness costs of cards you own cost {1} less.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Blazing Rage
+
+Psychic Stalemate
+
+Tome of Golb
+
+Glasses of Nerdicon
+
+Slime Princess
+
+Spaghettification
+
+Tax Collection
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Claim the Firstborn
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Time Warp
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Bypass
+
+Breakfast Princess
+
+Shadow Ritual
+
+Malefic Tutor
+
+Flame King
+
+Flamethrower
+rules_text: Flash
+Snap-on
+When this equipment snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until the end of the turn. => Flash, Snap-on
+When this equipment snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until the end of the turn.
+Equip {1}
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Portent of Calamity
+
+King of Ooo
+
+Bucket Knight
+
+Nightmare Princess
+
+Demon-Blood Sword
+
+Blastronaut
+
+Wild Ride
+
+Ice Scouts
+rules_text: Prowess, prowess [i](Each instance of prowess triggers separately.)[/i]
+Madness {2}{U} => Prowess, prowess [i](Each instance of prowess triggers separately.)[/i]
+Madness {1}{U}
+
+Glacial Armor
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Sign Zombies
+
+Chthonian Nightmare
+
+Storytelling
+rules_text: When Storytelling enters, discover 3.
+Whenever you cast an Adventure spell, return Storytelling to your hand. => When this enchantment enters, discover 3.
+Whenever you cast an Adventure spell, return this enchantment to its owners hand.
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+rules_text: Flying
+When Hateful Faeries enters, if a creature died this turn, add {B}{B}{B}. => Flying
+When this creature enters, if a creature died this turn, add {B}{B}{B}.
+
+End of the Line
+
+Flame Princess
+
+Snow Golem
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Precious Candy Seeds
+
+Ember Wolves
+
+Persistant Raccoon
+
+Overstretch
+
+Ghost of Drop Ball
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Scarab, God Auditor
+
+Slumber Party
+
+Old Wizards
+
+Hair Ape
+
+Fiona Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Electric Eels
+
+Saltburn
+
+Secret Wizard Handshake
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Snatching Cyclops
+
+Dimpled Sprout
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life. => 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life.
+
+Glass Boy
+
+Astral Brojection
+
+Everything Burrito
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Citric Oppression
+
+Gaze of the Worm
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+rules_text: This creature crews Vehicles as though its power were 2 greater.
+{1}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => Banana Man crews Vehicles as though his power were 2 greater.
+{1}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Lard Shepherd
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+rules_text: Whenever you cast a spell from exile, Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{T}: Add {C} for each Robot creature you control. => Whenever you play a card from exile, Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{T}: Add {C} for each Robot creature you control.
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Exposed Entity
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+cost: {2}{UB}{UR} => {2}{UB}{BR}{UR}
+
+Billy, Hero of Legend
+
+Secret Wizard Oath
+
+Inquisitive Looting
+
+Lesson on the Premundane
+
+Famished Moldos
+
+Fight King's Arena
+
+Hugo, Scheming Industrialist
+
+The Drift
+
+Risky Scrounging
+
+Hurricane
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Simon Petrikov
+
+Robot
+
+Food
+
+Food
+
+Food
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Farmers Market
+
+Catpile
+
+Devious Prank
+
+Bleached Expanse
+
+Eerie Woods
+
+Foggy Cemetary
+
+Open Ocean
+
+Glimpse the Multiverse
+rules_text: Exile the top ten cards from each players library. For each player, choose nonland card exiled that way. You may cast both spells without paying their mana costs. => Exile the top ten cards from each players library. For each player, you may cast a card exiled this way without paying it's mana cost.
+
+Cripple
+
+Decapitate
+
+Feed the Flies
+
+Snuff
+
+Lich's Command
+
+Searing Lick
+
+Talented Banana Guard
+special_text: Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-2] Whenever this creature levels up, create a 2/2 white Candy soldier creature token. [2/2]
+[level 3+] Creatures you control get +1/+1. [2/2] => Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-2] Whenever this creature levels up, create a 2/2 white Candy soldier creature token.
+[level 3+] Creatures you control get +1/+1.
+
+Banana Soloist
+
+Fiery Theater
+
+Scrounging Spot
+
+Grapple
+
+New Death
+
+Gloat
+
+Cross Blades
+
+Pulp Artist
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Lemonhope, Sour Savior added.
