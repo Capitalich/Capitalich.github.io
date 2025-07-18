@@ -1,4 +1,900 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Finn, Seasoned Adventurer added.
+DNA Seeker added.
+Cousin Chicle added.
+Aunt Lolly added.
+
+
+Arboreal Indoctrination
+
+Bad Land Scavengers
+
+Bureaucratic Burg
+
+Chalk Outline
+
+Confront the Forgotten
+
+Conjecture Beast
+
+Complex Equation
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Dad's Holomessage
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+
+Destroy Evil
+
+The Dungeon Train
+
+Fatal Push
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+rules_text: Whenever this creature enters, destroy target artifact, enchantment, or creature with flying.
+Escape—{3}{G}, Exile two other cards from your graveyard. => Reach
+When this creature enters, destroy target artifact, enchantment, or creature with flying.
+Scavenge {2}{G}{G} [i]({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+pt: 2/2 => 2/1
+
+Greedy Eyes
+
+Horde of Oozers
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lady's House
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mom's Holomessage
+
+Mother Jiggler
+
+Movie Night
+
+Mountain Pass
+
+Ongoing Investigation
+
+Out Sick
+
+Overflowing Mimic
+
+Unlimited Party Energy
+
+Petrikov's Descent
+
+Pillowtown
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Reign of Gunters
+
+Reach Through Time
+
+Risen Horde
+
+Root Beer Guy
+
+Roughousing
+
+Settle Beyond Reality
+
+Sizzling Slap
+
+Somatic inversion
+
+Special Sentient Sandwiches
+
+Sticky Prison
+
+Stretch Around
+
+Horrify
+
+The Lich
+
+The Treehouse
+
+Thoughtseize
+
+Thunder Boar
+
+Tragic Slip
+
+Toothy Sword
+
+Vacant Valley
+
+Volcanic Vision
+
+Wizard City Po-Po
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+
+Fruit Witch
+
+Newborn Marauder
+
+Lich Hand
+
+Marrow Muncher
+
+Bridge Shades
+
+Morbid Butterfly
+
+Ruby Brain Beast
+
+Glassassin
+
+Nightcrawlers
+
+Ravenous Grumbo
+
+Dr. Gross, Amoral Genetisist
+
+Shambling Oozers
+
+Maja the Sky Witch
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Donny, Beligerant Ogre
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+
+Manish Man
+
+Orb Wizard
+
+Ice King
+
+Octopolitician
+
+Science Cat
+
+Choose Goose
+
+Con Wizard
+
+Grand Wizard
+
+Unsettling Reproductions
+
+PB's Special Sweater
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+
+Stickytongue Lizard
+
+Weapons Cashe
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Banana Guard 500
+
+Y5, Formerly Y4
+
+Bird Squadron
+
+Bear Emcee
+
+Sonic Blast
+
+Ghost Princess
+
+Catalyst Comet
+
+Wrath of Glob Gob Glod Grod
+
+Lemonshrieker
+
+Fractalize
+
+Chart a Course
+
+Mass Surveillance
+
+Power Shriek
+
+Thalassophobia
+
+Breakfast Afterglow
+
+Evil Ocean
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Flame Guards
+
+Firecrown Berserker
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Lich's Influence
+rules_text: Enchant creature
+Ward {2}
+You control enchanted creature.
+Enchanted creature has prowess. => Enchant creature
+Ward {2} [i](Ward is not granted to enchanted creature.)[/i]
+You control enchanted creature.
+Enchanted creature has prowess.
+
+GOLB's Bauble
+
+Hambo, Beloved Teddy
+
+Whisper Dan, Silent King
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Time Bubble
+
+Olive, Service Droid
+
+Clumsy Skeleton
+
+Fire
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+cost: {1}{BR} => {BR}{BR}
+
+Mystic Virus
+
+Turn to Seed
+
+Bathroom Mirror
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+cost: {2}{B}{R} => {2}{R}{R}
+
+Verdant Cyclops
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+The Porcelain Lamb
+
+Gummy Bear
+
+Heroic Tutor
+
+Exhaustive Analysis
+
+Finn, The Human
+cost: {1}{RW}{RW} => {1}{R}{RW}
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+The Vampire King
+
+Dream Parisite
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+cost: {1}{RG}{RG} => {1}{R}{RG}
+rules_text: Reach
+When Huntress Wizard enters, it deals 2 damage to any target.
+Whenever a creature dealt damage by Huntress Wizard this turn dies, gear up.
+Madness {2}{RG}{RG} => Reach
+When Huntress Wizard enters, it deals 2 damage to any target.
+Whenever a creature dealt damage by Huntress Wizard this turn dies, gear up.
+Madness {3}{RG}
+
+The Mother Gum
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Here All Along
+
+Bubblegum's Rockets
+
+Hot Daniel
+
+Questing Orb
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Syr Rattleballs
+
+3D Print
+
+Bubblegum's Altar
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Feral Pageling
+
+Probable Cause
+
+Seeded Digsite
+
+Ramshackle Flute
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+
+Holotome
+
+Deranged Drum Solo
+
+Snooping Pastry
+
+Astral Epiphany
+
+Captive Research
+cost: {W}{U} => {WU}{U}
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Rapping at the Window
+
+Knife Storm
+
+Nudumancer
+
+Blazing Rage
+
+Strangle
+
+Psychic Stalemate
+
+Tome of Golb
+
+Glasses of Nerdicon
+
+Slime Princess
+
+Spaghettification
+
+Haughty Glassware
+
+Tax Collection
+
+System Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Mr. Fox, Loneliest Being
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+cost: {2}{U}{B} => {2}{UB}{B}
+
+Flametongue Newt in Boots
+
+Claim the Firstborn
+
+Up All Night Grinding
+
+Crystal Jailers
+cost: {1}{WU}{WU} => {1}{W}{WU}
+
+Skyhooks
+
+Time Warp
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Bypass
+
+Breakfast Princess
+
+Shadow Ritual
+
+Clown Nurse
+
+Malefic Tutor
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Portent of Calamity
+
+King of Ooo
+
+Friend
+
+Bucket Knight
+
+Nightmare Princess
+
+Demon-Blood Sword
+
+Blastronaut
+
+Wild Ride
+
+Ice Scouts
+
+Glacial Armor
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Overcome Evil
+
+Sign Zombies
+
+Chthonian Nightmare
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+End of the Line
+
+Flame Princess
+rules_text: Whenever you play a spell from exile, create a 3/1 red Elemental Citizen creature token with haste and decayed. => Whenever you play a card from exile, create a 3/1 red Elemental Citizen creature token with haste and decayed.
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Precious Candy Seeds
+
+Ember Wolves
+
+Persistant Raccoon
+
+Overstretch
+
+Ghost of Drop Ball
+
+T.V., Pup Detective
+cost: {G}{U} => {G}{GU}
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+James, Willing Decoy
+
+Scarab, God Auditor
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fiona Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Electric Eels
+
+Saltburn
+
+Secret Wizard Handshake
+
+Abraham Lincoln
+
+Giant Ant Creature
+cost: {2}{RG}{RG} => {2}{RG}{G}
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Burn Down the Town
+
+Minervabot
+
+Kim Kil Whan, Landlord
+
+Lady Rainicorn
+
+Snatching Cyclops
+
+Dimpled Sprout
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+special_text: 
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets 4 rad counters.
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life.
+
+Glass Boy
+
+Astral Brojection
+
+Everything Burrito
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Citric Oppression
+
+Gaze of the Worm
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Lard Shepherd
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Hot Dog Knights
+
+Exposed Entity
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+
+Secret Wizard Oath
+
+Take a Seat
+
+Inquisitive Looting
+
+Lesson on the Premundane
+
+Famished Moldos
+
+Fight King's Arena
+
+Hugo, Scheming Industrialist
+
+The Drift
+
+Risky Scrounging
+
+Hurricane
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+cost: {1}{RW} => {2}
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Farmers Market
+
+Devious Prank
+
+Floop the Pig
+
+Bleached Expanse
+
+Eerie Woods
+
+Foggy Cemetary
+
+Open Ocean
+
+Glimpse the Multiverse
+
+Cripple
+
+Decapitate
+
+Feed the Flies
+
+Snuff
+
+Lich's Command
+
+Searing Lick
+
+Talented Banana Guard
+special_text: Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-2] Whenever this creature levels up, create a 2/2 white Candy soldier creature token.
+[level 3+] Creatures you control get +1/+1. => Level up {3} [i]({3}: Put a level counter on this. Level up only as a sorcery.)[/i]
+[level 0-2] Whenever this creature levels up, create a 2/2 white Candy soldier creature token. [2/2]
+[level 3+] Creatures you control get +1/+1. [2/2]
+
+Banana Soloist
+
+Fiery Theater
+
+Scrounging Spot
+
+Grapple
+
+New Death
+
+Gloat
+
+Cross Blades
+
+Pulp Artist
+
+Royal Regiment
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Unlimited Party Energy added.
