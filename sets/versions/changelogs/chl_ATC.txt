@@ -1,4 +1,278 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CUSTOM MECHANICS I added.
+Spider added.
+Radiation added.
+CANON MECHANICS added.
+CUSTOM MECHANICS II added.
+
+CUSTOM MECHANICS removed.
+
+Death's Metal
+cost: {3}{WB}{BR} => {2}{WB}{BR}
+
+Root Beer Guy
+rules_text: When Root Beer Guy enters, investigate.
+Disturb {4}{B}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Root Beer Guy enters, investigate.
+Disturb {4}{W}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Somatic inversion
+rules_text: Switch target creature's power and toughness until the end of the turn.
+Draw a card.
+Madness {U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Switch target creature's power and toughness until end of turn.
+Draw a card.
+Madness {U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Fruit Witch
+rules_text: When this creature enters, create a Food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -1/-1 until the end of the turn. If the sacrificed relic was legendary, that creature gets -3/-3 instead. Activate as a sorcery. => When this creature enters, create a Food token.
+{B}, {T}, Sacrifice a relic: Target creature gets -1/-1 until end of turn. If the sacrificed relic was legendary, that creature gets -3/-3 instead. Activate as a sorcery.
+
+Bridge Shades
+rules_text: {B}: This creature gets +1/+1 until the end of the turn. => {B}: This creature gets +1/+1 until end of turn.
+
+Donny, Beligerant Ogre
+
+Grand Wizard
+rules_text: Vigilance
+Discard a card: Wizards you control gain flying until the end of the turn. => Vigilance
+Discard a card: Wizards you control gain flying until end of turn.
+
+Stickytongue Lizard
+
+Whisper Dan, Silent King
+rules_text: When Whisper Dan enters or leaves the battlefield, choose one that hasn't been chosen:
+• Create a 1/1 red Goblin creature token.
+• Put a +1/+1 card on target creature.
+• Draw a card. => When Whisper Dan enters or leaves the battlefield, choose one that hasn't been chosen:
+• Create a 1/1 red Goblin creature token.
+• Put a +1/+1 counter on target creature.
+• Draw a card.
+pt: 3/3 => 2/2
+
+Mystic Virus
+rules_text: Flash
+When this artifact enters, you may counter target spell.
+Whenever this artifact or another relic enters, you may have this artifact become a 2/2 Construct creature with flying in addition to its other types until the end of the turn. => Flash
+When this artifact enters, you may counter target spell.
+Whenever this artifact or another relic enters, you may have this artifact become a 2/2 Construct creature with flying in addition to its other types until end of turn.
+
+Gummy Bear
+rules_text: Vigilance
+Other candy creatures you control have vigilance.
+{5}: Creatures you control get +1/+1 until the end of the turn. => Vigilance
+Other candy creatures you control have vigilance.
+{5}: Creatures you control get +1/+1 until end of turn.
+
+Bronwyn, Skater Pup
+rules_text: Spells you cast from exile cost {1} less to cast.
+Whenever you play a card from exile, choose one that hasn't been chosen this turn—
+• Bronwyn gains flying and gets +1/+1 until the end of the turn.
+• Exile target nonland permanent. Return it to the battlefield during the next end step. => Spells you cast from exile cost {1} less to cast.
+Whenever you play a card from exile, choose one that hasn't been chosen this turn—
+• Bronwyn gains flying and gets +1/+1 until end of turn.
+• Exile target nonland permanent. Return it to the battlefield during the next end step.
+
+Itchy-Butt Dragon
+rules_text: Flying
+{R}: This creature gets +1/+0 until the end of the turn. => Flying
+{R}: This creature gets +1/+0 until end of turn.
+
+Syr Rattleballs
+
+Entropic Amalgam
+
+Seeded Digsite
+rules_text: At the beginning of your end step, choose one:
+• Return target relic with mana value 1 or less from your graveyard to the battlefield.
+• Learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => At the beginning of your end step, choose one:
+• Return target relic with mana value 1 or less from your graveyard to your hand.
+• Learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Harrowing Premonition
+rules_text: Up to one target creature gets -3/-3 until the end of the turn. 
+{B}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. => Up to one target creature gets -3/-3 until end of turn. 
+{B}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle.
+
+Slime Princess
+
+Duke of Nuts
+rules_text: When Duke of Nuts enters, create a Food token.
+{1}, Sacrifice a Food: Another target creature gets protection from the color of your choice until the end of the turn. => When Duke of Nuts enters, create a Food token.
+{1}, Sacrifice a Food: Another target creature gets protection from the color of your choice until end of turn.
+
+Skyhooks
+
+Breakfast Princess
+rules_text: When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until the end of the turn. => When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until end of turn.
+
+Flamethrower
+rules_text: Flash, Snap-on
+When this equipment snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until the end of the turn.
+Equip {1} => Flash, Snap-on
+When this equipment snaps on, equipped creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until end of turn.
+Equip {1}
+
+Bucket Knight
+rules_text: Trample
+{3}{G}: Double this creature's power until the end of the turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Trample
+{3}{G}: Double this creature's power until end of turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Demon-Blood Sword
+rules_text: Equipped creature gets +3/+3 and has trample.
+{1}, {T}, Discard a card, Sacrifice Demon-Blood Sword: Draw a card.
+Equip {2}
+Disturb {2}{R}{R} => Equipped creature gets +3/+3 and has trample.
+{1}, {T}, Discard a card, Sacrifice Demon-Blood Sword: Draw a card.
+Equip {2}
+Disturb {2}{B}{B}
+
+T.V., Pup Detective
+rules_text: Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Seek a creature card. [i](Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.)[/i] => Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Seek a creature. [i](Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.)[/i]
+
+Jake, The Dog
+rules_text: Creatures you control with power 5 or greater have trample and menace.
+Creatures you control with toughness 5 or greater have reach and hexproof.
+{R}: Jake gets +1/-1 until the end of the turn.
+{G}: Jake gets -1/+1 until the end of the turn. => Creatures you control with power 5 or greater have trample and menace.
+Creatures you control with toughness 5 or greater have reach and hexproof.
+{R}: Jake gets +1/-1 until end of turn.
+{G}: Jake gets -1/+1 until end of turn.
+
+Cinnamon Bun, Half Baked
+
+Bubblegum's Command
+rules_text: Choose two:
+• Until the end of the turn, whenever you would create a token, create twice that many tokens instead.
+• Create a 2/2 white Candy Soldier creature token.
+• Confect twice.
+• Bubblegum's Command deals damage equal to the number of creatures you control to target creature or planeswalker. => Choose two:
+• Until end of turn, whenever you would create a token, create twice that many tokens instead.
+• Create a 2/2 white Candy Soldier creature token.
+• Confect twice.
+• Bubblegum's Command deals damage equal to the number of creatures you control to target creature or planeswalker.
+
+Minervabot
+
+Lady Rainicorn
+rules_text: Flying, vigilance
+{2}: Add one mana of any color.
+{W}{U}{B}{R}{G}: Lady Rainicorn gets +5/+5 until the end of the turn. => Flying, vigilance
+{2}: Add one mana of any color.
+{W}{U}{B}{R}{G}: Lady Rainicorn gets +5/+5 until end of turn.
+
+Hall of Egress
+rules_text: Dredge 1 [i](If you would draw a card, you may mill one card instead. If you do, return this card from your graveyard to your hand.)[/i]
+{T}, Pay 1 life, Sacrifice this land: Add {G}{G}. => Dredge 1 [i](If you would draw a card, you may mill one card instead. If you do, return this card from your graveyard to your hand.)[/i]
+{T}, Pay 1 life, Sacrifice Hall of Egress: Add {G}{G}.
+
+Sea Lard
+rules_text: Hexproof
+{2}: This creature can't be blocked until the end of the turn. => Hexproof
+{2}: This creature can't be blocked until end of turn.
+
+Living Mountain
+rules_text: [i]({T}: Add {R}.)[/i]
+Whenever you cast a land from exile, put a +1/+1 counter on this card and it becomes a 2/2 red Elemental creature with haste until the end of the turn. => [i]({T}: Add {R}.)[/i]
+Whenever you play a card from exile, put a +1/+1 counter on this card. It becomes a 2/2 red Elemental creature with haste until end of turn.
+
+Take a Seat
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess, then learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => Bundle 2
+Create a 2/1 red Wizard creature token with prowess. If you didn't cast this spell for it's madness cost, learn. [i](To learn, you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+Madness {1}{R}
+
+Hugo, Scheming Industrialist
+rules_text: {1}, Sacrifice a permanent: Tap Hugo. He gains indestructible until the end of the turn.
+{6}{B}{B}: Sacrifice a legendary relic: Destroy all creatures. => {1}, Sacrifice a permanent: Tap Hugo. He gains indestructible until end of turn.
+{6}{B}{B}: Sacrifice a legendary relic: Destroy all creatures.
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental Soldier
+
+Candy Citizen
+
+Food
+
+Food
+
+Food
+
+Pacifism
+
+Equipment
+
+Candy Soldier
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+TWO COLOR ARCHETYPES
+
+Catpile
+rules_text: Target creature you control gets +2/+1 and gains indestructible until the end of the turn.
+Overload {3}{GW}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Target creature you control gets +2/+1 and gains indestructible until end of turn.
+Overload {3}{GW}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Worm
+
+Music
+
+New Death
+rules_text: New Death gets +1/+1 for each creature you own in exile.
+When New Death dies, shuffle any number of cards you own in exile into your library. => New Death gets +1/+1 for each creature card you own in exile.
+When New Death dies, shuffle any number of cards you own in exile into your library.
+
+Detective
+
+Cousin Chicle
+rules_text: Whenever Cousin Chicle attacks, he deals X damage to each opponent and you gain X life, where X is the number of Candy creatures you control.
+{3}: Cousin Chicle gains shadow until the end of the turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => Whenever Cousin Chicle attacks, he deals X damage to each opponent and you gain X life, where X is the number of Candy creatures you control.
+{3}: Cousin Chicle gains shadow until end of turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Finn, Seasoned Adventurer added.
