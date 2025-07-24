@@ -1,4 +1,568 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+
+Complex Equation removed.
+Dad's Holomessage removed.
+Fatal Push removed.
+Greedy Eyes removed.
+Lady's House removed.
+Mom's Holomessage removed.
+Ongoing Investigation removed.
+Overflowing Mimic removed.
+Reign of Gunters removed.
+Settle Beyond Reality removed.
+Sizzling Slap removed.
+Stretch Around removed.
+Tragic Slip removed.
+Bridge Shades removed.
+Morbid Butterfly removed.
+Nightcrawlers removed.
+Dr. Gross, Amoral Genetisist removed.
+Shambling Oozers removed.
+Donny, Beligerant Ogre removed.
+Weapons Cashe removed.
+Ghost Princess removed.
+Chart a Course removed.
+GOLB's Bauble removed.
+Whisper Dan, Silent King removed.
+Time Bubble removed.
+Olive, Service Droid removed.
+Fire removed.
+Bathroom Mirror removed.
+Verdant Cyclops removed.
+The Mother Gum removed.
+Here All Along removed.
+Bubblegum's Rockets removed.
+Hot Daniel removed.
+Questing Orb removed.
+3D Print removed.
+Bubblegum's Altar removed.
+Feral Pageling removed.
+Ramshackle Flute removed.
+Deranged Drum Solo removed.
+Rapping at the Window removed.
+Tome of Golb removed.
+Glasses of Nerdicon removed.
+Spaghettification removed.
+Tax Collection removed.
+Mr. Fox, Loneliest Being removed.
+Claim the Firstborn removed.
+Bypass removed.
+Malefic Tutor removed.
+Portent of Calamity removed.
+King of Ooo removed.
+Friend removed.
+Demon-Blood Sword removed.
+Wild Ride removed.
+Glacial Armor removed.
+End of the Line removed.
+Precious Candy Seeds removed.
+Ghost of Drop Ball removed.
+Lub-Glubs removed.
+GOLB, Entropy Manifest removed.
+Secret Wizard Handshake removed.
+Minervabot removed.
+Kim Kil Whan, Landlord removed.
+Snatching Cyclops removed.
+Dimpled Sprout removed.
+Astral Brojection removed.
+Example Examination removed.
+Everything Burrito removed.
+Gaze of the Worm removed.
+Lard Shepherd removed.
+Starchy, The Gravedigger removed.
+Exposed Entity removed.
+Lesson on the Premundane removed.
+Hugo, Scheming Industrialist removed.
+Risky Scrounging removed.
+Hurricane removed.
+Marcy's Concert Tee removed.
+Farmers Market removed.
+Bleached Expanse removed.
+Eerie Woods removed.
+Foggy Cemetary removed.
+Open Ocean removed.
+Glimpse the Multiverse removed.
+Fiery Theater removed.
+Scrounging Spot removed.
+Aunt Lolly removed.
+Scorcher, Singed Hitman removed.
+
+Arboreal Indoctrination
+
+Chalk Outline
+
+Confront the Forgotten
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+The Dungeon Train
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lumpy Space
+
+Mountain Pass
+
+Unlimited Party Energy
+
+Pillowtown
+
+Rampant Regrowth
+
+Roughousing
+
+Special Sentient Sandwiches
+
+The Treehouse
+
+Thoughtseize
+
+Thunder Boar
+
+Toothy Sword
+
+Vacant Valley
+
+Volcanic Vision
+
+Wooded Lagoon
+
+Clearcut Patch
+
+Marrow Muncher
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+
+Manish Man
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+
+Stickytongue Lizard
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Bear Emcee
+
+Breakfast Afterglow
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Flame Guards
+
+Firecrown Berserker
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+Hambo, Beloved Teddy
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Turn to Seed
+
+Marceline, Vampire Queen
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Place of Learning
+
+Abyssal Hollow
+
+Subsuming Morass
+
+The Vampire King
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Giuseppe's Signet
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Holotome
+
+Captive Research
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+
+Nudumancer
+
+Blazing Rage
+
+Strangle
+
+Slime Princess
+
+System Sabotage
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Magic Man, Transmografier
+
+Breakfast Princess
+
+Shadow Ritual
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Vespertine Vista
+
+Bucket Knight
+
+Blastronaut
+
+Soul Stone
+
+Confront the Past
+
+Tiny Tiller
+
+Sign Zombies
+
+Storytelling
+
+Raggedy Princess
+
+Flame Princess
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Ember Wolves
+
+Persistant Raccoon
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Old Wizards
+
+Hair Ape
+
+Fiona Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Electric Eels
+
+Saltburn
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+
+Glass Boy
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Syr Slicer
+
+Altar of GOLB
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Warped Coyote
+
+Living Mountain
+
+Lemonjohn, Zesty Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Take a Seat
+
+The Drift
+
+CGO, Bootleg Bot
+
+Sweet P, Precious Boy
+
+Catpile
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Grapple
+
+Gloat
+
+Cross Blades
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Cousin Chicle
+
+
+type: Enchantment => 
+cost: {5}{G} => {WU}{UR}{RW}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+type: Enchantment => 
+cost: {5}{G} => {UB}{BG}{GU}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+type: Enchantment => 
+cost: {5}{G} => {WU}{UB}{WB}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+type: Enchantment => 
+cost: {5}{G} => {UR}{RG}{GU}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+type: Enchantment => 
+cost: {5}{G} => {UR}{R}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+type: Enchantment => 
+cost: {5}{G} => {RW}{RW}
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => 
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Mama Jiggler added.
