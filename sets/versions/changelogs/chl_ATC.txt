@@ -1,4 +1,127 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Improvised Smiting added.
+Elemental added.
+
+Overcome Evil removed.
+Elemental Soldier removed.
+
+Bureaucratic Burg
+
+Confront the Forgotten
+rules_text: Investigate, then target creature gets +1/+1 for each relic you control. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i] => Investigate, then target creature gets +1/+1 for each relic you control until end of turn. [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+
+Conjecture Beast
+
+Repressed Duet
+type: Enchantment — Music => Sorcery
+rules_text: When this enchantment enters, investigate.
+{1}, Sacrifice this enchantment: Freestyle.
+Madness {UR} => Investigate, then create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Madness {UR}
+
+Iced Lightning
+
+Mama Jiggler
+
+Shady Lagoon
+rules_text: When Shady Lagoon enters, sacrifice it. When you do, search your library for a Forest or Island, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => When this land enters, sacrifice it. When you do, search your library for a Forest or Island, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped.
+
+Lemonshrieker
+
+The Finn Sword
+rules_text: When The Finn Sword enters, exile target creature from your graveyard.
+Equipped creature has all abilities of cards exiled with it.
+Equip {4}
+{2}{G}, Exile an enchantment you control or from your graveyard: Transform this artifact. Activate only as a sorcery. => When The Finn Sword enters, exile target creature from your graveyard.
+Equipped creature has all abilities of cards exiled with it.
+Equip {4}
+{5}{G}, Exile an enchantment you control or from your graveyard: Transform The Finn Sword Activate only as a sorcery.
+
+Speak Through Another
+
+Bandit Princess
+
+Mystic Virus
+
+Syr Rattleballs
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Mr. Cupcake
+
+Captive Research
+
+Dum Dum Juiced
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Crystal Jailers
+
+Breakfast Princess
+
+Flame King
+
+Viral Outbreak
+
+Flute Duet
+type: Enchantment — Music => Sorcery
+rules_text: When this enchantment enters, you may play an additional land this turn.
+{1}, Sacrifice this enchantment: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Add {R}{G}. You may play an additional land this turn. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+
+Lyrical Duet
+type: Enchantment — Music => Sorcery
+cost: {BR} => {B}{R}
+rules_text: {1}, Sacrifice this enchantment: Freestyle
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn. Copies become tokens.)[/i] => Each opponent loses 1 life, then create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+String Duet
+type: Enchantment — Music => Sorcery
+rules_text: When this enchantment enters, it deals 2 damage to target creature and you gain 2 life.
+{1}, Sacrifice this enchantment: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => String Duet deals 2 damage to target creature and you gain 2 life. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+
+Lemoncrafting
+
+Jake, The Dog
+
+Cinnamon Bun, Half Baked
+rules_text: Whenever you cast a spell from exile, transform Cinnamon Bun. => Whenever you play a card from exile, transform Cinnamon Bun.
+
+James, Willing Decoy
+
+The Morrow
+
+Lady Rainicorn
+
+Darren, Ancient Sleeper
+cost: {B}{G} => {2}{B}{G}
+
+Viola, Aspiring Actress
+
+Banana Man
+type: Legendary Creature — Candy Pilot => Legendary Creature — Candy Artificer
+rules_text: Banana Man crews Vehicles as though his power were 2 greater.
+{1}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => When Banana Man enters, investigate.
+{2}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+Mo, Paternal Roboticist
+
+Spader Peterson, Star Pupil
+
+Living Mountain
+
+Lich's Command
+
+Talented Banana Guard
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Shady Lagoon added.
