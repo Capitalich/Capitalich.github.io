@@ -1,4 +1,415 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+
+Arboreal Indoctrination removed.
+Bad Land Scavengers removed.
+Bureaucratic Burg removed.
+Chalk Outline removed.
+Confront the Forgotten removed.
+Conjecture Beast removed.
+Crabbit Familiar removed.
+Crucible of Worlds removed.
+Crystal Citadel removed.
+Death's Metal removed.
+Deed to The Treehouse removed.
+Depleted Field removed.
+Depressing Edict removed.
+Destroy Evil removed.
+The Dungeon Train removed.
+Finn's Tower removed.
+Repressed Duet removed.
+Frigid Caldera removed.
+Goo Skulls removed.
+Horde of Oozers removed.
+Ice Plague removed.
+Iced Lightning removed.
+Jagged Crag removed.
+Kick in the Boingloings removed.
+Lumpy Space removed.
+Me-Mow, Second Class removed.
+Mama Jiggler removed.
+Movie Night removed.
+Mountain Pass removed.
+Out Sick removed.
+Unlimited Party Energy removed.
+Petrikov's Descent removed.
+Pillowtown removed.
+Raid the Fridge removed.
+Rampant Regrowth removed.
+Reach Through Time removed.
+Risen Horde removed.
+Root Beer Guy removed.
+Roughousing removed.
+Somatic inversion removed.
+Special Sentient Sandwiches removed.
+Sticky Prison removed.
+Horrify removed.
+The Lich removed.
+The Treehouse removed.
+Thoughtseize removed.
+Thunder Boar removed.
+Toothy Sword removed.
+Vacant Valley removed.
+Volcanic Vision removed.
+Wizard City Po-Po removed.
+Shady Lagoon removed.
+Clearcut Patch removed.
+Martin, Slippery Scoundrel removed.
+Fruit Witch removed.
+Newborn Marauder removed.
+Lich Hand removed.
+Marrow Muncher removed.
+Ruby Brain Beast removed.
+Glassassin removed.
+Ravenous Grumbo removed.
+Maja the Sky Witch removed.
+Peppermint Butler removed.
+Stylish Scorpion removed.
+Tree Trunks removed.
+Space Elves removed.
+Mother Varmint removed.
+Life, Soul Sculpter removed.
+Fireskull removed.
+Manish Man removed.
+Orb Wizard removed.
+Ice King removed.
+Octopolitician removed.
+Science Cat removed.
+Choose Goose removed.
+Con Wizard removed.
+Grand Wizard removed.
+Unsettling Reproductions removed.
+PB's Special Sweater removed.
+Volcanic Tutor removed.
+Weapon Head removed.
+Shell Slinger removed.
+Stickytongue Lizard removed.
+Trail of Spoor removed.
+Soul Suck removed.
+Signature Slam removed.
+Banana Guard 500 removed.
+Y5, Formerly Y4 removed.
+Bird Squadron removed.
+Annual Abduction removed.
+Bear Emcee removed.
+Sonic Blast removed.
+Catalyst Comet removed.
+Wrath of Glob Gob Glod Grod removed.
+Lemonshrieker removed.
+Fractalize removed.
+Mass Surveillance removed.
+Power Shriek removed.
+Thalassophobia removed.
+Breakfast Afterglow removed.
+Evil Ocean removed.
+N.E.P.T.R. removed.
+The Finn Sword removed.
+Flame Guards removed.
+Firecrown Berserker removed.
+Cliffside Treehouse removed.
+Coastal Fringe removed.
+Deepwater Rig removed.
+Cloudy Montane removed.
+Well Worn Road removed.
+Eroded Metropolis removed.
+Hostile Menagerie removed.
+Ice Kingdom removed.
+Library of Ooo removed.
+Fabled Passage removed.
+Son of Rap Bear removed.
+Lich's Influence removed.
+Hambo, Beloved Teddy removed.
+Ghost Ship Vortex removed.
+Mt. Cragdor removed.
+The Lich's Lair removed.
+The Verdant Plains removed.
+Death's Garden removed.
+The Nightosphere removed.
+Clumsy Skeleton removed.
+Princess Bubblegum removed.
+Speak Through Another removed.
+Bandit Princess removed.
+Mystic Virus removed.
+Turn to Seed removed.
+Canyon, Billy's Ex removed.
+Marceline, Vampire Queen removed.
+Spider Spewing removed.
+Inquisitive Whywolf removed.
+Industrial Seaport removed.
+The Porcelain Lamb removed.
+Gummy Bear removed.
+Heroic Tutor removed.
+Exhaustive Analysis removed.
+Finn, The Human removed.
+Bronwyn, Skater Pup removed.
+Hub Island removed.
+Up-Ton removed.
+Wiz Arts removed.
+Wildberry Kingdom removed.
+Castle Lemongrab removed.
+Beautopia removed.
+Junktown removed.
+Slime Kingdom removed.
+Death, Soul Gardener removed.
+Wizard City removed.
+Fire Kingdom removed.
+Gumbaldia removed.
+Glass Kingdom removed.
+Candy Kingdom removed.
+Breakfast Kingdom removed.
+Box Kingdom removed.
+Balmy Beach removed.
+Gloomy Wetland removed.
+Place of Learning removed.
+Abyssal Hollow removed.
+Subsuming Morass removed.
+The Vampire King removed.
+Dream Parisite removed.
+Dancing Bug removed.
+Grass Wizard removed.
+Huntress Wizard removed.
+Itchy-Butt Dragon removed.
+Flame Jester removed.
+Giuseppe's Signet removed.
+Science, Sweet Familiar removed.
+Syr Rattleballs removed.
+Delivery Drone removed.
+I'm Jaking It removed.
+Earl of Lemongrab removed.
+Entropic Amalgam removed.
+Probable Cause removed.
+Seeded Digsite removed.
+Breezy, Reluctant Heir removed.
+Mr. Cupcake removed.
+Holotome removed.
+Snooping Pastry removed.
+Astral Epiphany removed.
+Captive Research removed.
+Overripe Banana Guards removed.
+Dum Dum Juiced removed.
+Inevitable Return removed.
+Harrowing Premonition removed.
+Grass Sword removed.
+Eerie Onlooker removed.
+Susan Strong, Seeker removed.
+Honey Man removed.
+Knife Storm removed.
+Nudumancer removed.
+Blazing Rage removed.
+Strangle removed.
+Psychic Stalemate removed.
+Slime Princess removed.
+Haughty Glassware removed.
+System Sabotage removed.
+Duke of Nuts removed.
+Breakfast in Bed removed.
+Betty Grof, Magic Woman removed.
+Ricardio, The Heart Guy removed.
+Uncle Gumbald removed.
+Flametongue Newt in Boots removed.
+Up All Night Grinding removed.
+Crystal Jailers removed.
+Skyhooks removed.
+Time Warp removed.
+Shower Thoughts removed.
+Magic Man, Transmografier removed.
+Breakfast Princess removed.
+Shadow Ritual removed.
+Clown Nurse removed.
+Flame King removed.
+Flamethrower removed.
+Frightening Bolt removed.
+50th Dead World removed.
+Viral Outbreak removed.
+Flute Duet removed.
+Lyrical Duet removed.
+String Duet removed.
+Forge the Guardians removed.
+Vespertine Vista removed.
+Patience's Patient Plan removed.
+Bucket Knight removed.
+Nightmare Princess removed.
+Blastronaut removed.
+Ice Scouts removed.
+Soul Stone removed.
+Foodboys removed.
+Frighten removed.
+Tyranny to Transendentalism removed.
+Confront the Past removed.
+Tiny Tiller removed.
+Improvised Smiting removed.
+Sign Zombies removed.
+Chthonian Nightmare removed.
+Storytelling removed.
+Crab Demon removed.
+Gumcrafting removed.
+Raggedy Princess removed.
+Hateful Faeries removed.
+Flame Princess removed.
+Snow Golem removed.
+Tiny, Micro Manticore removed.
+Pond Nymphs removed.
+Gunter, The First Bearer removed.
+Ghost Fly removed.
+Giant Lemon Snail removed.
+Lemoncrafting removed.
+Ember Wolves removed.
+Persistant Raccoon removed.
+Overstretch removed.
+T.V., Pup Detective removed.
+Shelby removed.
+Jake, The Dog removed.
+BMO removed.
+Space Lard removed.
+Bluescape removed.
+Greenscape removed.
+Redscape removed.
+Whitescape removed.
+Blackscape removed.
+Hive of the Star removed.
+Cinnamon Bun, Half Baked removed.
+James, Willing Decoy removed.
+Scarab, God Auditor removed.
+Slumber Party removed.
+Haphazard Excavation removed.
+Old Wizards removed.
+Hair Ape removed.
+Bubblegum's Command removed.
+The Morrow removed.
+Fiona Campbell removed.
+Briberry removed.
+Next-Level Super Organism removed.
+Lemonhope, Sour Savior removed.
+Electric Eels removed.
+Saltburn removed.
+Abraham Lincoln removed.
+Giant Ant Creature removed.
+Jake Junior, Bohemian removed.
+Cadebra, Novice Magician removed.
+Grassy Gatekeeper removed.
+Party Pat removed.
+Charlie, Cardomancer removed.
+Burn Down the Town removed.
+Lady Rainicorn removed.
+Muscle Princess removed.
+Bugbear Brawlers removed.
+Festive Nutler removed.
+Humiliating Minstrel removed.
+Grass Demon removed.
+Darren, Ancient Sleeper removed.
+The Mushroom War removed.
+Glass Boy removed.
+The Enchiridion removed.
+Viola, Aspiring Actress removed.
+Jermaine, Abstract Artist removed.
+Lumpy Space Princess removed.
+Citric Oppression removed.
+Syr Slicer removed.
+Altar of GOLB removed.
+Banana Man removed.
+Hall of Egress removed.
+Elise, Ailing Mother removed.
+Lurking Guardian removed.
+Magi of Life Giving removed.
+Sea Lard removed.
+Wolf Lard Pack removed.
+Wildberry Princess removed.
+Xergiok, The Flagelator removed.
+Mo, Paternal Roboticist removed.
+Space Moth removed.
+Hot Dog Knights removed.
+Spader Peterson, Star Pupil removed.
+Warped Coyote removed.
+Living Mountain removed.
+Lemonjohn, Zesty Titan removed.
+Bufo, Former Dark Wizard removed.
+Billy, Hero of Legend removed.
+Secret Wizard Oath removed.
+Take a Seat removed.
+Inquisitive Looting removed.
+Famished Moldos removed.
+Fight King's Arena removed.
+The Drift removed.
+CGO, Bootleg Bot removed.
+Marcy's Concert Tee removed.
+Sweet P, Precious Boy removed.
+Grody Ghost removed.
+Simon Petrikov removed.
+Spirit removed.
+Catpile removed.
+Devious Prank removed.
+Floop the Pig removed.
+Cripple removed.
+Decapitate removed.
+Feed the Flies removed.
+Snuff removed.
+Lich's Command removed.
+Searing Lick removed.
+Talented Banana Guard removed.
+Banana Soloist removed.
+Worm removed.
+Music removed.
+Grapple removed.
+New Death removed.
+Gloat removed.
+Cross Blades removed.
+Pulp Artist removed.
+Royal Regiment removed.
+Finn, Seasoned Adventurer removed.
+DNA Seeker removed.
+Cousin Chicle removed.
+Aunt Lolly removed.
+The Farm, Unwreckable removed.
+James Baxter, Good Dude removed.
+Flaming Flex removed.
+Well of Power removed.
+
+Simon Petrikov
+type: Legendary Planeswalker — Simon => Emblem — Simon
+cost: {1}{U} => 
+rules_text:  => Abilities you activate cost {∞} less.
+special_text: Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Investigate.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => 
+loyalty: 0 => 
+
+Candy Citizen
+rules_text: “{T}: Add {C}. You can't spend this mana to cast spells.” => {T}: Add {C}. You can't spend this mana to cast spells.
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](To gear up, create an artifact Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and noncreature enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this Equipment enters the battlefield, attach it to target creature you control.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this Equipment enters the battlefield, attach it to target creature you control.)[/i]
+
+CANON MECHANICS
+rules_text: [b]DEVOUR X[/b] [i](As this enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As this enters the battlefield, you may sacrifice any number of CARDTYPEs. That creature enters the battlefield with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB [COST][/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK [COST][/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS [COST][/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b] [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+[b]SCAVENGE [COST][/b] [i]([COST], Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b] => [b]DEVOUR X[/b] [i](As this enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As this enters the battlefield, you may sacrifice any number of CARDTYPEs. That creature enters the battlefield with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB [COST][/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK [COST][/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS [COST][/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b]
+[b]SCAVENGE [COST][/b] [i]([COST], Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b]
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Improvised Smiting added.

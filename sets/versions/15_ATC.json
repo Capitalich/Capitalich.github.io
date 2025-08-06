@@ -1,7 +1,7 @@
 ﻿{
     "name": "Adventure Time Cube",
     "formats": "",
-    "trimmed": "y",
+    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "cube",
     "unpreviewed": "card back",
@@ -636,6 +636,5 @@
             "artist": "S10E13 \u2014 Come Along With Me",
             "notes": "Could be full art to match other tokens, but this gives you a good visual reminder of what it taps for"
         }
-    ],
-    "version": 15
+    ]
 }
