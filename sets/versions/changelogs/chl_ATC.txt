@@ -1,4 +1,381 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Arboreal Indoctrination added.
+Bad Land Scavengers added.
+Bureaucratic Burg added.
+Chalk Outline added.
+Confront the Forgotten added.
+Conjecture Beast added.
+Crabbit Familiar added.
+Crucible of Worlds added.
+Crystal Citadel added.
+Death's Metal added.
+Deed to The Treehouse added.
+Depleted Field added.
+Depressing Edict added.
+Destroy Evil added.
+The Dungeon Train added.
+Finn's Tower added.
+Repressed Duet added.
+Frigid Caldera added.
+Goo Skulls added.
+Horde of Oozers added.
+Ice Plague added.
+Iced Lightning added.
+Jagged Crag added.
+Kick in the Boingloings added.
+Lumpy Space added.
+Me-Mow, Second Class added.
+Mama Jiggler added.
+Movie Night added.
+Mountain Pass added.
+Out Sick added.
+Unlimited Party Energy added.
+Petrikov's Descent added.
+Pillowtown added.
+Raid the Fridge added.
+Rampant Regrowth added.
+Reach Through Time added.
+Risen Horde added.
+Root Beer Guy added.
+Roughousing added.
+Somatic inversion added.
+Special Sentient Sandwiches added.
+Sticky Prison added.
+Horrify added.
+The Lich added.
+The Treehouse added.
+Thoughtseize added.
+Thunder Boar added.
+Toothy Sword added.
+Vacant Valley added.
+Volcanic Vision added.
+Wizard City Po-Po added.
+Shady Lagoon added.
+Clearcut Patch added.
+Martin, Slippery Scoundrel added.
+Fruit Witch added.
+Newborn Marauder added.
+Lich Hand added.
+Marrow Muncher added.
+Ruby Brain Beast added.
+Glassassin added.
+Ravenous Grumbo added.
+Maja the Sky Witch added.
+Peppermint Butler added.
+Stylish Scorpion added.
+Tree Trunks added.
+Space Elves added.
+Mother Varmint added.
+Life, Soul Sculpter added.
+Fireskull added.
+Manish Man added.
+Orb Wizard added.
+Ice King added.
+Octopolitician added.
+Science Cat added.
+Choose Goose added.
+Con Wizard added.
+Grand Wizard added.
+Unsettling Reproductions added.
+PB's Special Sweater added.
+Volcanic Tutor added.
+Weapon Head added.
+Shell Slinger added.
+Stickytongue Lizard added.
+Trail of Spoor added.
+Soul Suck added.
+Signature Slam added.
+Banana Guard 500 added.
+Y5, Formerly Y4 added.
+Bird Squadron added.
+Annual Abduction added.
+Bear Emcee added.
+Sonic Blast added.
+Catalyst Comet added.
+Wrath of Glob Gob Glod Grod added.
+Lemonshrieker added.
+Fractalize added.
+Mass Surveillance added.
+Power Shriek added.
+Thalassophobia added.
+Breakfast Afterglow added.
+Evil Ocean added.
+N.E.P.T.R. added.
+The Finn Sword added.
+Flame Guards added.
+Firecrown Berserker added.
+Cliffside Treehouse added.
+Coastal Fringe added.
+Deepwater Rig added.
+Cloudy Montane added.
+Well Worn Road added.
+Eroded Metropolis added.
+Hostile Menagerie added.
+Ice Kingdom added.
+Library of Ooo added.
+Fabled Passage added.
+Son of Rap Bear added.
+Lich's Influence added.
+Hambo, Beloved Teddy added.
+Ghost Ship Vortex added.
+Mt. Cragdor added.
+The Lich's Lair added.
+The Verdant Plains added.
+Death's Garden added.
+The Nightosphere added.
+Clumsy Skeleton added.
+Princess Bubblegum added.
+Speak Through Another added.
+Bandit Princess added.
+Turn to Seed added.
+Canyon, Billy's Ex added.
+Marceline, Vampire Queen added.
+Spider Spewing added.
+Inquisitive Whywolf added.
+Industrial Seaport added.
+The Porcelain Lamb added.
+Gummy Bear added.
+Heroic Tutor added.
+Exhaustive Analysis added.
+Finn, The Human added.
+Bronwyn, Skater Pup added.
+Hub Island added.
+Up-Ton added.
+Wiz Arts added.
+Wildberry Kingdom added.
+Castle Lemongrab added.
+Beautopia added.
+Junktown added.
+Slime Kingdom added.
+Death, Soul Gardener added.
+Wizard City added.
+Fire Kingdom added.
+Gumbaldia added.
+Glass Kingdom added.
+Candy Kingdom added.
+Breakfast Kingdom added.
+Box Kingdom added.
+Balmy Beach added.
+Gloomy Wetland added.
+Place of Learning added.
+Abyssal Hollow added.
+Subsuming Morass added.
+The Vampire King added.
+Dream Parisite added.
+Dancing Bug added.
+Grass Wizard added.
+Huntress Wizard added.
+Itchy-Butt Dragon added.
+Flame Jester added.
+Giuseppe's Signet added.
+Science, Sweet Familiar added.
+Syr Rattleballs added.
+Delivery Drone added.
+I'm Jaking It added.
+Earl of Lemongrab added.
+Entropic Amalgam added.
+Probable Cause added.
+Seeded Digsite added.
+Breezy, Reluctant Heir added.
+Mr. Cupcake added.
+Holotome added.
+Snooping Pastry added.
+Astral Epiphany added.
+Captive Research added.
+Overripe Banana Guards added.
+Dum Dum Juiced added.
+Inevitable Return added.
+Harrowing Premonition added.
+Grass Sword added.
+Eerie Onlooker added.
+Susan Strong, Seeker added.
+Honey Man added.
+Knife Storm added.
+Nudumancer added.
+Blazing Rage added.
+Strangle added.
+Psychic Stalemate added.
+Slime Princess added.
+Haughty Glassware added.
+System Sabotage added.
+Duke of Nuts added.
+Breakfast in Bed added.
+Betty Grof, Magic Woman added.
+Ricardio, The Heart Guy added.
+Uncle Gumbald added.
+Flametongue Newt in Boots added.
+Up All Night Grinding added.
+Crystal Jailers added.
+Skyhooks added.
+Time Warp added.
+Shower Thoughts added.
+Magic Man, Transmografier added.
+Breakfast Princess added.
+Shadow Ritual added.
+Clown Nurse added.
+Flame King added.
+Flamethrower added.
+Frightening Bolt added.
+50th Dead World added.
+Viral Outbreak added.
+Flute Duet added.
+Lyrical Duet added.
+String Duet added.
+Forge the Guardians added.
+Vespertine Vista added.
+Patience's Patient Plan added.
+Bucket Knight added.
+Nightmare Princess added.
+Blastronaut added.
+Ice Scouts added.
+Soul Stone added.
+Foodboys added.
+Frighten added.
+Tyranny to Transendentalism added.
+Confront the Past added.
+Tiny Tiller added.
+Improvised Heroism added.
+Sign Zombies added.
+Chthonian Nightmare added.
+Storytelling added.
+Crab Demon added.
+Gumcrafting added.
+Raggedy Princess added.
+Hateful Faeries added.
+Flame Princess added.
+Snow Golem added.
+Tiny, Micro Manticore added.
+Pond Nymphs added.
+Gunter, The First Bearer added.
+Ghost Fly added.
+Giant Lemon Snail added.
+Lemoncrafting added.
+Ember Wolves added.
+Persistant Raccoon added.
+Overstretch added.
+T.V., Pup Detective added.
+Shelby added.
+Jake, The Dog added.
+BMO added.
+Space Lard added.
+Bluescape added.
+Greenscape added.
+Redscape added.
+Whitescape added.
+Blackscape added.
+Hive of the Star added.
+Lub-Glubs added.
+Cinnamon Bun, Half Baked added.
+James, Willing Decoy added.
+Scarab, God Auditor added.
+Slumber Party added.
+Haphazard Excavation added.
+Old Wizards added.
+Hair Ape added.
+Bubblegum's Command added.
+The Morrow added.
+Fiona Campbell added.
+Briberry added.
+Next-Level Super Organism added.
+Lemonhope, Sour Savior added.
+Electric Eels added.
+Saltburn added.
+Abraham Lincoln added.
+Giant Ant Creature added.
+Jake Junior, Bohemian added.
+Cadebra, Novice Magician added.
+Grassy Gatekeeper added.
+Party Pat added.
+Charlie, Cardomancer added.
+Burn Down the Town added.
+Lady Rainicorn added.
+Muscle Princess added.
+Bugbear Brawlers added.
+Festive Nutler added.
+Humiliating Minstrel added.
+Grass Demon added.
+Darren, Ancient Sleeper added.
+The Mushroom War added.
+Glass Boy added.
+The Enchiridion added.
+Viola, Aspiring Actress added.
+Jermaine, Abstract Artist added.
+Lumpy Space Princess added.
+Citric Oppression added.
+Syr Slicer added.
+Altar of GOLB added.
+Banana Man added.
+Hall of Egress added.
+Elise, Ailing Mother added.
+Lurking Guardian added.
+Magi of Life Giving added.
+Sea Lard added.
+Wolf Lard Pack added.
+Wildberry Princess added.
+Xergiok, The Flagelator added.
+Mo, Paternal Roboticist added.
+Space Moth added.
+Hot Dog Knights added.
+Spader Peterson, Star Pupil added.
+Warped Coyote added.
+Living Mountain added.
+Lemonjohn, Zesty Titan added.
+Bufo, Former Dark Wizard added.
+Billy, Hero of Legend added.
+Secret Wizard Oath added.
+Take a Seat added.
+Inquisitive Looting added.
+Famished Moldos added.
+Fight King's Arena added.
+The Drift added.
+CGO, Bootleg Bot added.
+Marcy's Concert Tee added.
+Sweet P, Precious Boy added.
+Grody Ghost added.
+Simon Petrikov added.
+Spirit added.
+Catpile added.
+Devious Prank added.
+Floop the Pig added.
+Cripple added.
+Decapitate added.
+Feed the Flies added.
+Snuff added.
+Lich's Command added.
+Searing Lick added.
+Banana Soloist added.
+Music added.
+Grapple added.
+New Death added.
+Gloat added.
+Cross Blades added.
+Pulp Artist added.
+Royal Regiment added.
+Finn, Seasoned Adventurer added.
+DNA Seeker added.
+Cousin Chicle added.
+Aunt Lolly added.
+The Farm, Unwreckable added.
+James Baxter, Good Dude added.
+Flaming Flex added.
+Well of Power added.
+Talented Banana Guard added.
+
+
+Simon Petrikov
+type: Emblem — Simon => Legendary Planeswalker — Simon
+cost:  => {1}{U}
+rules_text: Abilities you activate cost {∞} less. => 
+special_text:  => Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Investigate.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+loyalty:  => 0
+
+
+VERSION 15 CHANGELOG
 ====================
 
 
