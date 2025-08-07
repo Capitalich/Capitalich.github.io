@@ -1,4 +1,493 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+PB's Sweater added.
+Starchy, The Gravedigger added.
+Lemonjohn, Tart Titan added.
+
+PB's Special Sweater removed.
+James, Willing Decoy removed.
+Lemonjohn, Zesty Titan removed.
+
+Bureaucratic Burg
+
+Crucible of Worlds
+
+Death's Metal
+
+Deed to The Treehouse
+
+The Dungeon Train
+
+Repressed Duet
+
+Goo Skulls
+
+Iced Lightning
+
+Kick in the Boingloings
+
+Me-Mow, Second Class
+
+Mama Jiggler
+
+Unlimited Party Energy
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Risen Horde
+
+Root Beer Guy
+
+Roughousing
+
+Special Sentient Sandwiches
+
+The Lich
+special_text: [+1]: Draw a card, then you get two rad counters. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile four other cards from your graveyard. => [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile four other cards from your graveyard.
+
+Thoughtseize
+
+Thunder Boar
+
+Toothy Sword
+
+Volcanic Vision
+
+Martin, Slippery Scoundrel
+cost: {1}{B} => {B}{BR}
+rules_text: Whenever Martin becomes blocked, shuffle him into your library. If you do, discover 3. => Whenever Martin becomes blocked, shuffle him into your library. If you do, discover 3. [i](Exile cards from the top of your library until you exile a nonland card with mana value 3 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+pt: 2/1 => 3/1
+
+Newborn Marauder
+
+Marrow Muncher
+
+Ruby Brain Beast
+
+Ravenous Grumbo
+
+Peppermint Butler
+rules_text: {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
+{X}{B}{B}{B}{B}: Exile the top X cards of target players library. You may play land cards and cast spells exiled this way without paying their mana costs. => [i]Sentimental[/i] — {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
+{X}{B}{B}{B}{B}: Exile the top X cards of target players library. You may play land cards and cast spells exiled this way without paying their mana costs.
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+rules_text: Vigilance
+{1}{BG}: Exile a creature card from your graveyard: Create a 2/1 green Varmint creature token. Activate only if this creature has attacked this turn. => Vigilance
+Whenever this creature attacks, mill two cards.
+{2}, Exile a creature card from your graveyard: Create a tapped 2/1 green Varmint creature token.
+pt: 4/3 => 4/4
+
+Life, Soul Sculpter
+
+Manish Man
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+When this creature attacks, you may unattach an equipment from it. If you do, it deals 2 damage to any target. => When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+When this creature attacks, you may unattach an equipment from it. If you do, it deals 2 damage to any target.
+
+Stickytongue Lizard
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Y5, Formerly Y4
+rules_text: Spells in exile you cast cost {2} less to cast. => Spells you cast from exile cost {2} less to cast.
+
+Sonic Blast
+
+Lemonshrieker
+
+The Finn Sword
+cost: {2} => {G}
+rules_text: When The Finn Sword enters, exile target creature from your graveyard.
+Equipped creature has all abilities of cards exiled with it.
+Equip {4}
+{5}{G}, Exile an enchantment you control or from your graveyard: Transform The Finn Sword Activate only as a sorcery. => A The Finn Sword enters, exile a creature card from your graveyard.
+{2}: Equipped creature gains all abilities of the exiled creature and loses all other abilities until end of turn.
+Equip {1}
+
+Flame Guards
+rules_text: Double strike
+When this creature enters, gear up twice. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => Double strike
+When this creature enters, gear up twice. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Firecrown Berserker
+rules_text: When this creature dies, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => When this creature dies, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Son of Rap Bear
+cost: {1}{B}{BR} => {1}{B}{R}
+
+Lich's Influence
+
+Princess Bubblegum
+
+Speak Through Another
+
+Bandit Princess
+cost: {BR}{BR} => {BR}{R}
+
+Turn to Seed
+
+Marceline, Vampire Queen
+
+Spider Spewing
+rules_text: Delve
+Create a 1/2 green Spider creature token with reach for each creature card you own in exile.
+Flashback {5}{BG}{BG} => Delve
+Create a 1/2 green Spider creature token with reach for each creature card you own in exile.
+Flashback {3}{BG}{BG}{BG}
+
+Inquisitive Whywolf
+
+The Porcelain Lamb
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+The Vampire King
+
+Grass Wizard
+
+Huntress Wizard
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Itchy-Butt Dragon
+
+Delivery Drone
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Mr. Cupcake
+
+Captive Research
+
+Overripe Banana Guards
+
+Grass Sword
+cost: {2}{G} => {1}{G}
+rules_text: Flash
+When Grass Sword enters, you may have enchanted creature fight target creature an opponent controls. 
+Enchanted creature has haste, trample, and reach. => Flash
+Enchant creature
+Enchanted creature gets +1/+1 and has hexproof.
+{5}{G}, Exile Grass Sword from the battlefield or your graveyard: Transform target artifact named The Finn Sword.
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+rules_text: Gear up, then you may attach that equipment to target creature you control. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature. => Gear up, then you may attach that equipment to target creature you control. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature.
+
+Nudumancer
+
+Strangle
+
+Slime Princess
+
+System Sabotage
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+rules_text: At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a Treasure token, investigate, or gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a Treasure token, investigate, or gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Crystal Jailers
+
+Magic Man, Transmografier
+
+Breakfast Princess
+
+Shadow Ritual
+
+Flame King
+cost: {4}{BR}{R} => {4}{R}{R}
+
+Flamethrower
+
+Frightening Bolt
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+cost: {B}{R} => {BR}
+rules_text: Each opponent loses 1 life. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+String Duet
+
+Nightmare Princess
+
+Blastronaut
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Simon Petrikov
+special_text: Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Investigate.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => Simon Petrikov enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Investigate.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+
+Tiny Tiller
+
+Sign Zombies
+
+Storytelling
+
+Flame Princess
+
+Tiny, Micro Manticore
+rules_text: Flying, haste
+This creature can't block.
+This creature escapes with a +1/+1 counter on it.
+Escape—{R}{R}, Discard a card [i](You may cast this card from your graveyard for its escape cost.)[/i] => Flying, haste
+Tiny can't block.
+Tiny escapes with a +1/+1 counter on him.
+Escape—{R}{R}, Discard a card [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Pond Nymphs
+
+Lemoncrafting
+
+Persistant Raccoon
+
+T.V., Pup Detective
+pt: 3/3 => 2/3
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Lub-Glubs
+rules_text: Affinity for relics [i](This spell costs {1} less to cast for each relic you control.)[/i]
+Flash
+When this creature enters, return target creature an opponent controls to its owners hand. => Affinity for relics [i](This spell costs {1} less to cast for each relic you control.)[/i]
+Flash
+When this creature enters, you may return target creature an opponent controls to its owners hand.
+
+Scarab, God Auditor
+
+Slumber Party
+
+Old Wizards
+
+Hair Ape
+
+The Morrow
+
+Fiona Campbell
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Lady Rainicorn
+
+Muscle Princess
+
+Bugbear Brawlers
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Festive Nutler
+cost: {1}{GW} => {GW}{GW}
+pt: 3/1 => 3/2
+
+Humiliating Minstrel
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets 4 rad counters. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+II — Until end of turn, whenever a creature card is put into your graveyard from you library, create a black 2/2 Zombie creature token.
+III — Each player loses all rad counters and loses that much life. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets four rad counters.
+II — Each player gets two rad counters.
+III — Each player loses all rad counters.
+
+Glass Boy
+
+The Enchiridion
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on another target creature you control.
+Viola has all abilities of modified creatures you control. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Jermaine, Abstract Artist
+
+Syr Slicer
+
+Altar of GOLB
+
+Lurking Guardian
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+cost: {3}{R}{R} => {B}{B}
+rules_text: When Xergiok enters and whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}{R}, Sacrifice another creature: Xergiok deals 2 damage to any target.
+Madness {2}{R}, Sacrifice a creature => Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}, Sacrifice another Goblin: Each opponent loses 1 life.
+
+Mo, Paternal Roboticist
+
+Space Moth
+
+Warped Coyote
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Secret Wizard Oath
+
+Take a Seat
+
+CGO, Bootleg Bot
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this Equipment enters the battlefield, attach it to target creature you control.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this Equipment enters the battlefield, attach it to target creature you control.)[/i]
+
+Catpile
+
+Snuff
+
+Searing Lick
+
+Grapple
+
+New Death
+
+Gloat
+
+Cross Blades
+rules_text: Gear up twice, then Cross Blades deals damage to any target equal to the number of equipment you control. [i](Create an Equipment token with “Equipped creature gets +1/+1” and Equip {2}.)[/i] => Gear up twice, then Cross Blades deals damage to any target equal to the number of equipment you control. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Pulp Artist
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Cousin Chicle
+
+Aunt Lolly
+
+CANON MECHANICS
+rules_text: [b]DEVOUR X[/b] [i](As this enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As this enters the battlefield, you may sacrifice any number of CARDTYPEs. That creature enters the battlefield with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB [COST][/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK [COST][/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS [COST][/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b]
+[b]SCAVENGE [COST][/b] [i]([COST], Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b] => [b]DEVOUR X[/b] [i](As this enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As this enters the battlefield, you may sacrifice any number of CARDTYPEs. That creature enters the battlefield with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB [COST][/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK [COST][/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS [COST][/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b] [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+[b]SCAVENGE [COST][/b] [i]([COST], Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b]
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, creatures you control get +1/+1 and gain haste until end of turn. => [i]Adventurous[/i] — Whenever you play a card from exile, creatures you control get +1/+1 until end of turn.
+
+Flaming Flex
+
+Well of Power
+rules_text: {T}: Add {C}{C}. You gain one life and a rad counter*s. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead. => {T}: Add {C}{C}. You gain one life and a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 Arboreal Indoctrination added.
