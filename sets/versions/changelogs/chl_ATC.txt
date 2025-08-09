@@ -1,4 +1,72 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Mama Jiggler
+type: Creature — Beast => Creature — Jiggler
+cost: {X}{W}{W} => {3}{W}{W}
+rules_text: This creature has hexproof during your turn.
+Other creatures you control get +1/+1.
+When this creature enters, create X 0/0 white Beast creature tokens named Jiggler. => Hexproof from black
+Other creatures you control get +1/+1.
+When this creature enters, and at the beginning of each upkeep, create two 0/0 white Jiggler creature tokens.
+pt: 0/3 => 2/3
+
+Peppermint Butler
+rules_text: [i]Sentimental[/i] — {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
+{X}{B}{B}{B}{B}: Exile the top X cards of target players library. You may play land cards and cast spells exiled this way without paying their mana costs. => [i]Sentimental[/i] — {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
+{X}{B}{B}{B}{B}: Exile the top X cards of target players library. You may cast spells exiled this way without paying their mana costs.
+
+Betty Grof, Magic Woman
+rules_text: Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend only to cast noncreature spells.”
+{UR}, Discard a card: Investigate. => Flying, prowess
+Tap an untapped artifact you control: Add {C}. Spend this mana only to cast noncreature spells.
+{UR}, Discard a card: Investigate.
+
+Up All Night Grinding
+rules_text: At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a Treasure token, investigate, or gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a tapped Treasure token, investigate, or gear up.
+
+Xergiok, The Flagelator
+rules_text: Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}, Sacrifice another Goblin: Each opponent loses 1 life. => Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{2}, Sacrifice another Goblin: Each opponent loses 1 life.
+pt: 2/2 => 2/1
+
+Starchy, The Gravedigger
+cost: {W} => {1}{W}
+rules_text: When Starchy enters, return target creature card with mana value 1 or less from your graveyard to your hand. => When Starchy enters, return target creature card with mana value 3 or less from your graveyard to your hand.
+pt: 2/1 => 1/1
+
+Living Mountain
+rules_text: [i]({T}: Add {R}.)[/i]
+Whenever you play a card from exile, put a +1/+1 counter on this land. It becomes a 2/2 red Elemental creature with haste until end of turn. => [i]({T}: Add {R}.)[/i]
+[i]Adventurous[/i] — Whenever you play a card from exile, put a +1/+1 counter on this land. 
+{3}: Until end of turn, this land becomes a 2/2 red Elemental creature with haste. It's still a land.
+
+CGO, Bootleg Bot
+rules_text: When this CGO enters, you may search your library for an artifact card, put it into your graveyard, then shuffle.
+Whenever this creature dies or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value. => When CGO enters, mill four cards.
+Whenever CGO dies or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser mana value.
+
+New Death
+rules_text: New Death's power and toughness are each equal to the number of creatures in exile.
+When New Death dies, shuffle any number of cards you own in exile into your library. => New Death's power is equal to the number of creature cards in exile.
+When New Death dies, shuffle any number of cards you own in exile into your library.
+pt: */* => */6
+
+Princess Bubblegum
+rules_text: When Princess Bubblegum enters, confect twice.
+At the beginning each combat step, Candy creatures you control get +1/+1 until end of turn.
+{5}{WU}: Create a 2/2 white Candy Soldier creature token. => When Princess Bubblegum enters, confect twice.
+Tap another untapped Candy creature you control: Add {C}. Spend this mana only to cast a noncreature spell.
+pt: 1/1 => 1/3
+
+
+VERSION 17 CHANGELOG
 ====================
 
 PB's Sweater added.

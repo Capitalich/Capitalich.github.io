@@ -2356,12 +2356,6 @@
     },
     {
         "card_name": "Swamp",
-        "number": 369,
-        "shape": "normal",
-        "set": "ATC"
-    },
-    {
-        "card_name": "Swamp",
         "number": 367,
         "shape": "normal",
         "set": "ATC"
@@ -2373,8 +2367,14 @@
         "set": "ATC"
     },
     {
+        "card_name": "Swamp",
+        "number": 369,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
         "card_name": "Mountain",
-        "number": 372,
+        "number": 370,
         "shape": "normal",
         "set": "ATC"
     },
@@ -2386,7 +2386,13 @@
     },
     {
         "card_name": "Mountain",
-        "number": 370,
+        "number": 372,
+        "shape": "normal",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Forest",
+        "number": 373,
         "shape": "normal",
         "set": "ATC"
     },
@@ -2399,12 +2405,6 @@
     {
         "card_name": "Forest",
         "number": 375,
-        "shape": "normal",
-        "set": "ATC"
-    },
-    {
-        "card_name": "Forest",
-        "number": 373,
         "shape": "normal",
         "set": "ATC"
     },
