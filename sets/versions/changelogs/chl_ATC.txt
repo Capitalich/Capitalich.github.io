@@ -1,4 +1,311 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Fiery Greeting added.
+Varmint added.
+
+Flaming Flex removed.
+
+Arboreal Indoctrination
+rules_text: Convoke
+Permanents you control have “{T}: Add {G}.” => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Permanents you control have “{T}: Add {G}.”
+
+Chalk Outline
+
+Confront the Forgotten
+
+Repressed Duet
+
+Horde of Oozers
+rules_text: Create X 2/2 black Zombie creature tokens, then each player gets X rad counters. X can't be 0.[i][/i][i][/i][i][/i]
+Flashback {2}{B}{B}, Exile X creature cards from your graveyard. => Create X 2/2 black Zombie creature tokens, then each player gets X rad counters. X can't be 0. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+Flashback—{2}{B}{B}, Exile X creature cards from your graveyard.
+
+Iced Lightning
+
+Petrikov's Descent
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Reach Through Time
+rules_text: As a cost to cast, sacrifice a relic.
+[i]Sentimental[/i] — Look at the top seven cards of your library. Put two of them into your hand. Put the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary. => As a cost to cast, sacrifice a relic.
+[i]Sentimental[/i] — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary.
+
+Root Beer Guy
+rules_text: When Root Beer Guy enters, investigate.
+Disturb {4}{W}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Root Beer Guy enters, investigate.
+Disturb—{4}{W}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+The Lich
+special_text: [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{2}{B}{B}, Exile four other cards from your graveyard. => [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard.
+
+Martin, Slippery Scoundrel
+cost: {B}{BR} => {BR}{BR}
+
+Tree Trunks
+
+Mother Varmint
+cost: {2}{BG}{G} => {2}{BG}{BG}
+rules_text: Vigilance
+Whenever this creature attacks, mill two cards.
+{2}, Exile a creature card from your graveyard: Create a tapped 2/1 green Varmint creature token. => Whenever this creature attacks, mill two cards.
+{2}, Exile a creature card from your graveyard: Create a tapped 2/1 green Varmint creature token.
+
+Trail of Spoor
+
+Bird Squadron
+rules_text: Convoke
+Flying
+When this creature enters, untap all creatures you control => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Flying
+When this creature enters, untap all creatures you control
+
+Bear Emcee
+rules_text: Convoke
+When this creature enters, create a 2/2 green Bear creature token and a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i] => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, create a 2/2 green Bear creature token and a Music token.
+
+Breakfast Afterglow
+
+Son of Rap Bear
+
+Lich's Influence
+
+Speak Through Another
+
+Bandit Princess
+cost: {BR}{R} => {B}{R}
+
+Turn to Seed
+
+Spider Spewing
+
+Finn, The Human
+cost: {1}{R}{RW} => {1}{RW}{RW}
+
+Bronwyn, Skater Pup
+cost: {2}{RW}{W} => {2}{R}{W}
+
+Death, Soul Gardener
+rules_text: Whenever a creature leaves your graveyard, draw a card. This ability triggers only once each turn. => Whenever one or more creature cards leave your graveyard, draw a card. This ability triggers only once each turn.
+
+Huntress Wizard
+cost: {1}{R}{RG} => {1}{RG}{RG}
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Breezy, Reluctant Heir
+rules_text: Flying
+{2}, Sacrifice a relic: You gain 3 life. If the sacrificed relic was legendary, transform Breezy. [i](Noncreature artifacts and enchantments are relics.)[/i] => Flying
+[i]Sentimental[/i] — {2}, Sacrifice a relic: You gain 3 life. If the sacrificed relic was legendary, transform Breezy. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Captive Research
+cost: {WU}{U} => {W}{U}
+rules_text: Counter target creature spell. At the beginning of your next main phase, add {C}{C}{C}. Spend this mana only to activate abilities. => Counter target creature spell. At the beginning of your next main phase, add {C}{C}{C}. You can't spend this mana to cast spells.
+
+Harrowing Premonition
+rules_text: Up to one target creature gets -3/-3 until end of turn. 
+{B}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. => Up to one target creature gets -3/-3 until end of turn. 
+{3}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle.
+
+Eerie Onlooker
+cost: {1}{G} => {GU}{GU}
+
+Betty Grof, Magic Woman
+cost: {UR}{U} => {UR}{UR}
+rules_text: Flying, prowess
+Tap an untapped artifact you control: Add {C}. Spend this mana only to cast noncreature spells.
+{UR}, Discard a card: Investigate. => Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend this mana only to cast noncreature spells.”
+{UR}, Discard a card: Investigate.
+pt: 1/2 => 1/1
+
+Ricardio, The Heart Guy
+cost: {2}{U}{UB} => {2}{UB}{UB}
+
+Uncle Gumbald
+cost: {2}{UB}{B} => {2}{U}{B}
+rules_text: Whenever you cast a noncreature spell, confect.
+{3}, Exile a noncreature, nonland card from your graveyard: Create a 2/2 white Candy Soldier creature token. => Whenever you cast a noncreature spell, confect.
+{3}, Exile a noncreature, nonland card from your graveyard: Create a tapped 2/2 white Candy Soldier creature token.
+
+Up All Night Grinding
+
+Crystal Jailers
+cost: {1}{W}{WU} => {1}{WU}{WU}
+
+Breakfast Princess
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Bucket Knight
+
+Confront the Past
+
+Tiny Tiller
+
+Ghost Fly
+rules_text: Flying
+At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature, nonland card was was revealed this way, put a +1/+1 counter on this creature.
+Disturb {1}{U} => Flying
+At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature, nonland card was was revealed this way, put a +1/+1 counter on this creature.
+Disturb {U}{U}
+pt: 1/1 => 0/1
+
+Lemoncrafting
+type: Sorcery => Enchantment
+rules_text: Choose one —
+• Create a 2/2 white candy soldier creature token.
+• Confect twice.
+Entwine—Pay {2}, Sacrifice a relic => [i]Sentimental[/i] — When this enchantment enters and at the beginning of your upkeep, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life.
+
+T.V., Pup Detective
+cost: {G}{GU} => {G}{G}
+rules_text: Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Reveal cards from the top until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order. => Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.
+
+Jake, The Dog
+
+Briberry
+
+Lemonhope, Sour Savior
+type: Legendary Creature — Candy => Legendary Creature — Candy Citizen
+cost: {1}{WB} => {WB}
+rules_text: Boast — {1}{W}: Each player draws a card.
+Boast — {1}{B}: Each player discards a card. [i](Activate only if this creature attacked this turn and only once each turn.)[/i] => {WB}: If Lemonhope is a Citizen, put a +1/+1 counter on him and he becomes a Candy Rogue.
+{2}{WB}: If Lemonhope is a Rogue, put two +1/+1 counters on him and he becomes a Candy Hero.
+{4}{WB}{WB}, {T}: If Lemonhope is a Hero, exile target creature an opponent controls, then he becomes a Candy.
+pt: 2/2 => 1/1
+
+Giant Ant Creature
+cost: {2}{RG}{G} => {2}{RG}{RG}
+
+Jake Junior, Bohemian
+
+Party Pat
+rules_text: Convoke
+When Party Pat enters, create a 2/2 green Bear creature token, then for each token you control, create a token that's a copy of that permanent. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When Party Pat enters, create a 2/2 green Bear creature token, then for each token you control, create a token that's a copy of that permanent.
+
+Charlie, Cardomancer
+
+Festive Nutler
+
+Darren, Ancient Sleeper
+
+The Mushroom War
+cost: {4}{B}{BG} => {2}{B}{B}{G}
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy all creatures. Each player gets four rad counters.
+II — Each player gets two rad counters.
+III — Each player loses all rad counters. => [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+I — Destroy all creatures. Each player gets six rad counters.
+II — Until your next upkeep whenever a player loses a rad counter, they create a 2/2 black Zombie creature token.
+III — Each player loses all rad counters.
+
+Viola, Aspiring Actress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Wildberry Princess
+cost: {2}{G} => {1}{GW}{GW}
+rules_text: Wildberry Princess enters with a +1/+1 counter on it.
+If Wildberry Princess would be dealt damage or destroyed, remove a counter from it instead. If you do, create a food token. => Wildberry Princess enters with a +1/+1 counter on it.
+If Wildberry Princess would be dealt damaged or destroyed, remove a counter from her instead. If you do, create a food token.
+
+Warped Coyote
+rules_text: When this creature enters, draw a card.
+{2}{G}, Exile this card from your graveyard: Create a 1/1 green Coyote Mutant creature token and draw a card. Activate only as a sorcery. => When this creature enters, draw a card and create a 1/1 green Coyote Mutant creature token.
+Scavenge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Lemonjohn, Tart Titan
+cost: {4}{W}{WB} => {4}{WB}{WB}
+
+Billy, Hero of Legend
+cost: {1}{G}{GW} => {2}{G}
+
+Marcy's Concert Tee
+
+Sweet P, Precious Boy
+rules_text: When Sweet P enters, search your library for up to two creatures with mana value 1 or less, put them onto the battlefield, shuffle, then put a +1/+1 counter on each of those creatures.
+Modified creatures you control have hexproof. => When Sweet P enters, search your library for up to two creatures with mana value 1 or less, put them onto the battlefield, shuffle. Those creatures each enter with a +1/+1 counter on them.
+Other modified creatures you control have hexproof. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Simon Petrikov
+
+Robot
+
+Food
+
+Food
+
+Food
+
+Equipment
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+rules_text: Target creature you control gets +2/+1 and gains indestructible until end of turn.
+Overload {3}{GW}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Target creature you control gets +2/+1 and gains indestructible until end of turn.
+Overload {3}{G}{W} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Lich's Command
+cost: {3}{B}{B}{B} => {4}{B}{B}{B}
+rules_text: Choose two —
+• Until end of turn, whenever a nontoken creature enters a graveyard from anywhere, its owner creates a 2/2 black Zombie creature token.
+• Destroy all creatures.
+• Mill ten cards.
+• Return target creature or planeswalker from your graveyard to the battlefield. You lose life equal to it's mana value. => Choose two —
+• Until end of turn, whenever a nontoken creature enters a graveyard from anywhere, its owner creates a 2/2 black Zombie creature token.
+• Destroy all creatures.
+• Mill ten cards.
+• Return target creature or planeswalker from your graveyard to the battlefield.
+
+Detective
+
+DNA Seeker
+cost: {1}{GU}{U} => {1}{G}{U}
+
+Cousin Chicle
+cost: {2}{WB}{B} => {1}{W}{B}
+
+Princess Bubblegum
+
+
+VERSION 18 CHANGELOG
 ====================
 
 
