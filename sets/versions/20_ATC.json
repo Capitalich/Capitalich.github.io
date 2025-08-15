@@ -595,7 +595,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nI \u2014 Draw three cards and create a Treasure token.\nII \u2014 Discard a card.\nIII \u2014 Discard two cards.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Draw three cards and create a Treasure token.\nII \u2014 Discard a card.\nIII \u2014 Discard two cards.",
             "shape": "saga",
             "set": "ATC",
             "loyalty": "",

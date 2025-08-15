@@ -1,4 +1,19 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+Petrikov's Descent
+special_text: 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 Fiery Greeting added.
