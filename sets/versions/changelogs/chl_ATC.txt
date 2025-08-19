@@ -1,4 +1,47 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+
+Speak Through Another
+rules_text: Enchant creature
+Whenever this Aura enters or enchanted creature deals damage to an opponent, exile the top card of target opponent's library. You may play that card for as long as it remains exiled and mana of any type may be spent to cast it. => Flash
+Enchant creature
+Whenever enchanted creature deals damage to an opponent, exile the top card of their library. You may cast a spell exiled this way for as long as it remains exiled, and mana of any type may be spent to cast it.
+
+Finn, The Human
+
+Science, Sweet Familiar
+rules_text: Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy. => When Science enters, investigate.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy.
+
+Knife Storm
+
+Tyranny to Transendentalism
+rules_text: Exile target creature an opponent controls. Its controller discovers 3. => Exile target creature an opponent controls. Its controller discovers 3. [i](They exile cards from the top of their library until they exile a nonland card with mana value 3 or less. They cast it without paying its mana cost or put it into their hand. They put the rest on the bottom in a random order.)[/i]
+
+Lumpy Space Princess
+
+Detective
+pt:  => 2/2
+
+Finn, Seasoned Adventurer
+cost: {2}{RG}{GW}{RW} => {3}{RG}{GW}{RW}
+rules_text: Vigilance, trample
+When Finn enters, search your library for a card with an Adventure, reveal it, put it into your hand, then shuffle.
+Creatures you control that have Adventures get +1/+1 and have vigilance and trample. => First strike, vigilance, haste
+[i]Adventurous[/i] — Whenever you play a card from exile, draw a card.
+Creatures you control that have Adventures have first strike, vigilance, and haste.
+
+Princess Bubblegum
+rules_text: When Princess Bubblegum enters, confect twice.
+Tap another untapped Candy creature you control: Add {C}. Spend this mana only to cast a noncreature spell. => If you would investigate or confect, instead do both.
+{C}, {T}, Sacrifice a clue: Create a tapped 2/2 white Candy Soldier creature token.
+{C}{C}{C}, {T}, Sacrifice three clues: Draw three cards.
+
+
+VERSION 20 CHANGELOG
 ====================
 
 

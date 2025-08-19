@@ -2453,6 +2453,12 @@
     },
     {
         "card_name": "Clue",
+        "number": 19,
+        "shape": "token",
+        "set": "ATC"
+    },
+    {
+        "card_name": "Clue",
         "number": 20,
         "shape": "token",
         "set": "ATC"
@@ -2476,13 +2482,13 @@
         "set": "ATC"
     },
     {
-        "card_name": "Clue",
+        "card_name": "Equipment",
         "number": 24,
         "shape": "token",
         "set": "ATC"
     },
     {
-        "card_name": "Equipment",
+        "card_name": "Food",
         "number": 25,
         "shape": "token",
         "set": "ATC"
@@ -2500,13 +2506,13 @@
         "set": "ATC"
     },
     {
-        "card_name": "Food",
+        "card_name": "Robot",
         "number": 28,
         "shape": "token",
         "set": "ATC"
     },
     {
-        "card_name": "Robot",
+        "card_name": "Treasure",
         "number": 29,
         "shape": "token",
         "set": "ATC"
@@ -2536,7 +2542,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Wastes",
         "number": 34,
         "shape": "token",
         "set": "ATC"
@@ -2548,14 +2554,8 @@
         "set": "ATC"
     },
     {
-        "card_name": "Wastes",
-        "number": 36,
-        "shape": "token",
-        "set": "ATC"
-    },
-    {
         "card_name": "Simon Petrikov",
-        "number": 37,
+        "number": 36,
         "shape": "token",
         "set": "ATC"
     },
@@ -2591,49 +2591,49 @@
     },
     {
         "card_name": "Elemental",
-        "number": 12,
+        "number": 11,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Goblin",
-        "number": 13,
+        "number": 12,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Wizard",
-        "number": 14,
+        "number": 13,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Bear",
-        "number": 15,
+        "number": 14,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Coyote Mutant",
-        "number": 16,
+        "number": 15,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Spider",
-        "number": 17,
+        "number": 16,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Varmint",
-        "number": 18,
+        "number": 17,
         "shape": "token",
         "set": "ATC"
     },
     {
         "card_name": "Detective",
-        "number": 19,
+        "number": 18,
         "shape": "token",
         "set": "ATC"
     },

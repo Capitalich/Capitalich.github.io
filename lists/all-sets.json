@@ -1,1 +1,9 @@
-﻿{"sets": [{"set_code": "ATC", "set_name": "Adventure Time Cube", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "ATC",
+            "set_name": "Adventure Time Cube",
+            "formats": ""
+        }
+    ]
+}

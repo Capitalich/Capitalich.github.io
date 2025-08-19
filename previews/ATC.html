@@ -5,6 +5,10 @@
 	<link rel="stylesheet" href="/resources/header.css">
 	<title>ATC visual preview</title>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -82,7 +86,7 @@
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -118,33 +122,40 @@
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
-			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
@@ -176,9 +187,10 @@
 		</div>
 	</div>
 
-	<div class="icon-bar">
-			<div class="icon"><a href="ATC"><img src="/sets/ATC-files/icon.png"></img></a></div>
-
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="ATC"><img src="/sets/ATC-files/icon.png">Adventure Time Cube</a>
+	
 		</div>
 		<div class="banner">
 		<img class="logo" src="/sets/ATC-files/logo.png">
@@ -625,37 +637,37 @@
 				<div class="container"><img alt="/sets\ATC-files\img\3t_Music.png" id="3t_Music" data-flag="@X" onclick="openSidebar('3t_Music',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\4t_Spirit.png" id="4t_Spirit" data-flag="@X" onclick="openSidebar('4t_Spirit',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\5t_TWO COLOR ARCHETYPES.png" id="5t_TWO COLOR ARCHETYPES" data-flag="@X" onclick="openSidebar('5t_TWO COLOR ARCHETYPES',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\19t_Clue.png" id="19t_Clue" data-flag="@X" onclick="openSidebar('19t_Clue',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\20t_Clue.png" id="20t_Clue" data-flag="@X" onclick="openSidebar('20t_Clue',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\21t_Clue.png" id="21t_Clue" data-flag="@X" onclick="openSidebar('21t_Clue',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\22t_Clue.png" id="22t_Clue" data-flag="@X" onclick="openSidebar('22t_Clue',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\23t_Clue.png" id="23t_Clue" data-flag="@X" onclick="openSidebar('23t_Clue',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\24t_Clue.png" id="24t_Clue" data-flag="@X" onclick="openSidebar('24t_Clue',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\25t_Equipment.png" id="25t_Equipment" data-flag="@X" onclick="openSidebar('25t_Equipment',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\24t_Equipment.png" id="24t_Equipment" data-flag="@X" onclick="openSidebar('24t_Equipment',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\25t_Food.png" id="25t_Food" data-flag="@X" onclick="openSidebar('25t_Food',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\26t_Food.png" id="26t_Food" data-flag="@X" onclick="openSidebar('26t_Food',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\27t_Food.png" id="27t_Food" data-flag="@X" onclick="openSidebar('27t_Food',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\28t_Food.png" id="28t_Food" data-flag="@X" onclick="openSidebar('28t_Food',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\29t_Robot.png" id="29t_Robot" data-flag="@X" onclick="openSidebar('29t_Robot',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\28t_Robot.png" id="28t_Robot" data-flag="@X" onclick="openSidebar('28t_Robot',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\29t_Treasure.png" id="29t_Treasure" data-flag="@X" onclick="openSidebar('29t_Treasure',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\30t_Treasure.png" id="30t_Treasure" data-flag="@X" onclick="openSidebar('30t_Treasure',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\31t_Treasure.png" id="31t_Treasure" data-flag="@X" onclick="openSidebar('31t_Treasure',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\32t_Treasure.png" id="32t_Treasure" data-flag="@X" onclick="openSidebar('32t_Treasure',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\33t_Treasure.png" id="33t_Treasure" data-flag="@X" onclick="openSidebar('33t_Treasure',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\34t_Treasure.png" id="34t_Treasure" data-flag="@X" onclick="openSidebar('34t_Treasure',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\34t_Wastes.png" id="34t_Wastes" data-flag="@X" onclick="openSidebar('34t_Wastes',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\35t_Wastes.png" id="35t_Wastes" data-flag="@X" onclick="openSidebar('35t_Wastes',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\36t_Wastes.png" id="36t_Wastes" data-flag="@X" onclick="openSidebar('36t_Wastes',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\37t_Simon Petrikov.png" id="37t_Simon Petrikov" data-flag="@X" onclick="openSidebar('37t_Simon Petrikov',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\36t_Simon Petrikov.png" id="36t_Simon Petrikov" data-flag="@X" onclick="openSidebar('36t_Simon Petrikov',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\6t_Candy Citizen.png" id="6t_Candy Citizen" data-flag="@X" onclick="openSidebar('6t_Candy Citizen',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\7t_Candy Soldier.png" id="7t_Candy Soldier" data-flag="@X" onclick="openSidebar('7t_Candy Soldier',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\8t_Pacifism.png" id="8t_Pacifism" data-flag="@X" onclick="openSidebar('8t_Pacifism',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\9t_Bird Army.png" id="9t_Bird Army" data-flag="@X" onclick="openSidebar('9t_Bird Army',false)"></div>
 				<div class="container"><img alt="/sets\ATC-files\img\10t_Vampire.png" id="10t_Vampire" data-flag="@X" onclick="openSidebar('10t_Vampire',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\12t_Elemental.png" id="12t_Elemental" data-flag="@X" onclick="openSidebar('12t_Elemental',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\13t_Goblin.png" id="13t_Goblin" data-flag="@X" onclick="openSidebar('13t_Goblin',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\14t_Wizard.png" id="14t_Wizard" data-flag="@X" onclick="openSidebar('14t_Wizard',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\15t_Bear.png" id="15t_Bear" data-flag="@X" onclick="openSidebar('15t_Bear',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\16t_Coyote Mutant.png" id="16t_Coyote Mutant" data-flag="@X" onclick="openSidebar('16t_Coyote Mutant',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\17t_Spider.png" id="17t_Spider" data-flag="@X" onclick="openSidebar('17t_Spider',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\18t_Varmint.png" id="18t_Varmint" data-flag="@X" onclick="openSidebar('18t_Varmint',false)"></div>
-				<div class="container"><img alt="/sets\ATC-files\img\19t_Detective.png" id="19t_Detective" data-flag="@X" onclick="openSidebar('19t_Detective',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\11t_Elemental.png" id="11t_Elemental" data-flag="@X" onclick="openSidebar('11t_Elemental',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\12t_Goblin.png" id="12t_Goblin" data-flag="@X" onclick="openSidebar('12t_Goblin',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\13t_Wizard.png" id="13t_Wizard" data-flag="@X" onclick="openSidebar('13t_Wizard',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\14t_Bear.png" id="14t_Bear" data-flag="@X" onclick="openSidebar('14t_Bear',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\15t_Coyote Mutant.png" id="15t_Coyote Mutant" data-flag="@X" onclick="openSidebar('15t_Coyote Mutant',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\16t_Spider.png" id="16t_Spider" data-flag="@X" onclick="openSidebar('16t_Spider',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\17t_Varmint.png" id="17t_Varmint" data-flag="@X" onclick="openSidebar('17t_Varmint',false)"></div>
+				<div class="container"><img alt="/sets\ATC-files\img\18t_Detective.png" id="18t_Detective" data-flag="@X" onclick="openSidebar('18t_Detective',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
 				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
@@ -833,6 +845,24 @@
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {
