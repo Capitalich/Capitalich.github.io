@@ -1,4 +1,36 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+King of Ooo added.
+Boneyfly added.
+Kim Kil Whan, Landlord added.
+
+Speak Through Another removed.
+Hot Dog Knights removed.
+Secret Wizard Oath removed.
+
+Crabbit Familiar
+cost: {B} => {UB}
+rules_text: Flying
+Prowess => Flying
+Whenever you cast a noncreature spell, surveil 1.
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+[b]SNAP-ON[/b] [i](When this Equipment enters the battlefield, attach it to target creature you control.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+
+VERSION 21 CHANGELOG
 ====================
 
 

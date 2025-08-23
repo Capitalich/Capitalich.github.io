@@ -70,11 +70,11 @@
 		{
 			"name": "Crabbit Familiar",
 			"rarity": "special",
-			"mana_cost": "{B}",
+			"mana_cost": "{U/B}",
 			"type": "Creature — Bird Rabbit",
-			"collector_number": "103",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/103_Crabbit Familiar.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/259_Crabbit Familiar.png"
 			}
 		},
 		{
@@ -262,9 +262,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Cat Assassin",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/125_Me-Mow, Second Class.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/126_Me-Mow, Second Class.png"
 			}
 		},
 		{
@@ -342,9 +342,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/131_Raid the Fridge.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/132_Raid the Fridge.png"
 			}
 		},
 		{
@@ -372,9 +372,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/133_Risen Horde.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/134_Risen Horde.png"
 			}
 		},
 		{
@@ -449,9 +449,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Lich",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/121_The Lich.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/122_The Lich.png"
 			}
 		},
 		{
@@ -569,9 +569,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Berserker",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/127_Newborn Marauder.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/128_Newborn Marauder.png"
 			}
 		},
 		{
@@ -579,9 +579,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Zombie Horror",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/122_Lich Hand.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/123_Lich Hand.png"
 			}
 		},
 		{
@@ -599,9 +599,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Snake Horror",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/134_Ruby Brain Beast.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/135_Ruby Brain Beast.png"
 			}
 		},
 		{
@@ -619,9 +619,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Candy Beast",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/132_Ravenous Grumbo.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/133_Ravenous Grumbo.png"
 			}
 		},
 		{
@@ -629,9 +629,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Warlock",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/124_Maja the Sky Witch.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/125_Maja the Sky Witch.png"
 			}
 		},
 		{
@@ -639,9 +639,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Candy Warlock",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/129_Peppermint Butler.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/130_Peppermint Butler.png"
 			}
 		},
 		{
@@ -1266,19 +1266,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/101_Clumsy Skeleton.png"
-			}
-		},
-		{
-			"name": "Speak Through Another",
-			"rarity": "special",
-			"mana_cost": "{U/B}{U/B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "260",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/260_Speak Through Another.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/102_Clumsy Skeleton.png"
 			}
 		},
 		{
@@ -2050,9 +2040,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U/B}{U/B}",
 			"type": "Legendary Creature — Thrull Scientist",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/259_Ricardio, The Heart Guy.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/260_Ricardio, The Heart Guy.png"
 			}
 		},
 		{
@@ -2290,9 +2280,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Nightmare Noble",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/128_Nightmare Princess.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/129_Nightmare Princess.png"
 			}
 		},
 		{
@@ -2390,9 +2380,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/26_Improvised Heroism.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/25_Improvised Heroism.png"
 			}
 		},
 		{
@@ -2410,9 +2400,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/99_Chthonian Nightmare.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/100_Chthonian Nightmare.png"
 			}
 		},
 		{
@@ -2430,9 +2420,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Crab Demon",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/102_Crab Demon.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/103_Crab Demon.png"
 			}
 		},
 		{
@@ -3074,9 +3064,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/100_Citric Oppression.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/101_Citric Oppression.png"
 			}
 		},
 		{
@@ -3227,16 +3217,6 @@
 			}
 		},
 		{
-			"name": "Hot Dog Knights",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Creature — Coward Knight",
-			"collector_number": "25",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/25_Hot Dog Knights.png"
-			}
-		},
-		{
 			"name": "Spader Peterson, Star Pupil",
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
@@ -3294,16 +3274,6 @@
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/195_Billy, Hero of Legend.png"
-			}
-		},
-		{
-			"name": "Secret Wizard Oath",
-			"rarity": "special",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "135",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/135_Secret Wizard Oath.png"
 			}
 		},
 		{
@@ -3411,6 +3381,16 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/363_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
 			"collector_number": "361",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/361_Plains.png"
@@ -3424,16 +3404,6 @@
 			"collector_number": "362",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/362_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "363",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/363_Plains.png"
 			}
 		},
 		{
@@ -3471,9 +3441,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "367",
+			"collector_number": "369",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/367_Swamp.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/369_Swamp.png"
 			}
 		},
 		{
@@ -3491,19 +3461,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "369",
+			"collector_number": "367",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/369_Swamp.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "370",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/370_Mountain.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/367_Swamp.png"
 			}
 		},
 		{
@@ -3521,6 +3481,16 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/370_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
 			"collector_number": "372",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/372_Mountain.png"
@@ -3531,9 +3501,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "373",
+			"collector_number": "375",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/373_Forest.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/375_Forest.png"
 			}
 		},
 		{
@@ -3551,9 +3521,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "375",
+			"collector_number": "373",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/375_Forest.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/373_Forest.png"
 			}
 		},
 		{
@@ -3921,9 +3891,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/123_Lich's Command.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/124_Lich's Command.png"
 			}
 		},
 		{
@@ -3971,9 +3941,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Snake Specter",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/126_New Death.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/127_New Death.png"
 			}
 		},
 		{
@@ -4001,9 +3971,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Candy",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/130_Pulp Artist.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/131_Pulp Artist.png"
 			}
 		},
 		{
@@ -4172,6 +4142,36 @@
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/17_Varmint.png"
 			}
+		},
+		{
+			"name": "King of Ooo",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Rogue",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/121_King of Ooo.png"
+			}
+		},
+		{
+			"name": "Boneyfly",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Skeleton",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/99_Boneyfly.png"
+			}
+		},
+		{
+			"name": "Kim Kil Whan, Landlord",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dog Advisor",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/26_Kim Kil Whan, Landlord.png"
+			}
 		}
 	]
 
@@ -4301,7 +4301,6 @@
 	1 Death's Garden
 	1 The Nightosphere
 	1 Clumsy Skeleton
-	1 Speak Through Another
 	1 Bandit Princess
 	1 Turn to Seed
 	1 Canyon, Billy's Ex
@@ -4493,14 +4492,12 @@
 	1 Mo, Paternal Roboticist
 	1 Starchy, The Gravedigger
 	1 Space Moth
-	1 Hot Dog Knights
 	1 Spader Peterson, Star Pupil
 	1 Warped Coyote
 	1 Living Mountain
 	1 Lemonjohn, Tart Titan
 	1 Bufo, Former Dark Wizard
 	1 Billy, Hero of Legend
-	1 Secret Wizard Oath
 	1 Take a Seat
 	1 Inquisitive Looting
 	1 Famished Moldos
@@ -4536,3 +4533,6 @@
 	1 Well of Power
 	1 Talented Banana Guard
 	1 Princess Bubblegum
+	1 King of Ooo
+	1 Boneyfly
+	1 Kim Kil Whan, Landlord
