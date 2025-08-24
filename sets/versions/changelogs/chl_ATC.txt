@@ -1,4 +1,46 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+
+
+Son of Rap Bear
+rules_text: Whenever you cast a spell, freestyle.
+Whenever you play land from exile, each opponent loses 1 life for each spell you've cast this turn. => Whenever you cast a spell, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+Whenever you play land from exile, each opponent loses 1 life for each spell you've cast this turn.
+
+Bandit Princess
+cost: {B}{R} => {BR}{BR}
+rules_text: Whenever this Bandit Princess is blocked, it deals 1 damage to target creature blocking it.
+Whenever you commit a crime, choose one that hasn't been chosen this turn —
+• Freestyle.
+• Gear up.
+• Create a Treasure token. => Whenever this Bandit Princess is blocked, it deals 1 damage to target creature blocking it.
+Whenever you commit a crime, choose one that hasn't been chosen this turn —
+• Gear up.
+• Create a Treasure token.
+
+Wildberry Kingdom
+
+Glass Kingdom
+
+Honey Man
+rules_text: {1}, Sacrifice a relic: Freestyle. => {1}, Sacrifice a relic: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+
+Breakfast Princess
+rules_text: When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+[i]Snack[/i]—Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until end of turn. => When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+[i]Snack[/i]—Whenever you gain your third life each turn, creatures you control get +2/+2 and gain vigilance and trample until end of turn.
+
+Lyrical Duet
+cost: {BR} => {B}{R}
+rules_text: Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Each opponent loses 1 life. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Jake Junior, Bohemian
+
+
+VERSION 22 CHANGELOG
 ====================
 
 King of Ooo added.

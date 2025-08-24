@@ -1274,11 +1274,11 @@
 		{
 			"name": "Bandit Princess",
 			"rarity": "special",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Rogue Noble",
-			"collector_number": "242",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/242_Bandit Princess.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/261_Bandit Princess.png"
 			}
 		},
 		{
@@ -2218,11 +2218,11 @@
 		{
 			"name": "Lyrical Duet",
 			"rarity": "special",
-			"mana_cost": "{B/R}",
+			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "261",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/261_Lyrical Duet.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/242_Lyrical Duet.png"
 			}
 		},
 		{
