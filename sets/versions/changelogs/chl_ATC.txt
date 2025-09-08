@@ -1,4 +1,66 @@
-﻿VERSION 23 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Radiation added.
+
+
+Petrikov's Descent
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Space Elves
+cost: {CG} => {G}
+rules_text: {T}: Add {C} or {G}. => Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+{T}: Add {C}.
+
+Ice King
+rules_text: Flying
+Protection from Nobles
+Discard a card: Tap target creature.
+Madness {1}{U} => Flying, protection from Nobles
+Discard a card: Tap target creature.
+Madness {1}{U}
+
+Jake, The Dog
+cost: {3}{R}{G} => {3}{RG}{RG}
+rules_text: Creatures you control with power 5 or greater have trample and menace.
+Creatures you control with toughness 5 or greater have reach and hexproof.
+{R}: Jake gets +1/-1 until end of turn.
+{G}: Jake gets -1/+1 until end of turn. => [i]Adventurous[/i] — Whenever you play a card from exile, Jake gets +2/+2 until end of turn.
+{RG}: Jake gains reach or trample until end of turn.
+{1}: Jake gets +1/-1 or -1/+1 until end of turn.
+
+Lemonhope, Sour Savior
+rules_text: {WB}: If Lemonhope is a Citizen, put a +1/+1 counter on him and he becomes a Candy Rogue.
+{2}{WB}: If Lemonhope is a Rogue, put two +1/+1 counters on him and he becomes a Candy Hero.
+{4}{WB}{WB}, {T}: If Lemonhope is a Hero, exile target creature an opponent controls, then he becomes a Candy. => {WB}: If Lemonhope is a Citizen, put a +1/+1 counter on him and he becomes a Candy Rogue.
+{2}{WB}: If Lemonhope is a Rogue, put two +1/+1 counters on him and he becomes a Candy Hero.
+{4}{WB}{WB}, {T}: If Lemonhope is a Hero, exile target creature an opponent controls, then Lemonhope becomes a Candy. [i](No other types.)[/i]
+
+Giant Ant Creature
+cost: {2}{RG}{RG} => {2}{R}{G}
+rules_text: Haste, trample, hexproof => This spell can't be countered.
+Haste, trample
+Hexproof
+pt: 4/3 => 4/4
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability and is named Viola, Aspiring Actress. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Lumpy Space Princess
+
+James Baxter, Good Dude
+cost: {WU}{UR}{RW} => {1}{W}
+
+
+VERSION 23 CHANGELOG
 ====================
 
 
