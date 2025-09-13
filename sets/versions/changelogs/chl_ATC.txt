@@ -1,4 +1,214 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Stuck Together added.
+Wizard Streets added.
+
+Sticky Prison removed.
+Take a Seat removed.
+
+Bureaucratic Burg
+
+Crystal Citadel
+rules_text: {T}: Add {C}.
+{T}, Sacrifice Crystal Citadel: Shuffle any number of cards you own in exile into your library. => {T}: Add {C}.
+{T}, Sacrifice Crystal Citadel: Shuffle any number of creature cards you own in exile into your library.
+
+Repressed Duet
+rules_text: Investigate, then create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Madness {UR} => Investigate, then freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Madness {UR}
+
+Stylish Scorpion
+rules_text: Deathtouch
+{1}: Exile this card from your graveyard: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Deathtouch
+{2}, Exile this creature from your graveyard: Gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Ice King
+rules_text: Flying, protection from Nobles
+Discard a card: Tap target creature.
+Madness {1}{U} => Flying, protection from Nobles
+Discard a card: Put a stun counter on target creature.
+Madness {1}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Weapon Head
+cost: {2}{R} => {1}{R}{R}
+rules_text: Haste, Ward—Pay 3 life.
+When Weapon Head attacks, you may attach any number of Equipment you control to it
+{1}{R}: Discard a card: Gear up twice. => Haste
+When Weapon Head attacks, you may attach any number of Equipment you control to it
+{1}{R}: Discard a card: Gear up twice.
+pt: 2/2 => 3/3
+
+Bear Emcee
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, create a 2/2 green Bear creature token and a Music token. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, create a 2/2 green Bear creature token, then freestyle.
+
+Power Shriek
+cost: {U}{U} => {U}
+rules_text: Draw a card, then discard a card.
+Counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U} => You may discard a card, then counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U}
+
+Son of Rap Bear
+rules_text: Whenever you cast a spell, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+Whenever you play land from exile, each opponent loses 1 life for each spell you've cast this turn. => Whenever you cast a spell, exile the top card of your library. You may play that card this turn.
+Whenever you play land from exile, each opponent loses 1 life for each spell you've cast this turn.
+
+Canyon, Billy's Ex
+rules_text: Ward {3}
+When Canyon enters and whenever you cast a noncreature spell, tap target creature and put a stun counter on it. => Ward {3}
+When Canyon enters or attacks, you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying it's mana cost. If that spell would be put into your graveyard, exile it instead.
+
+Marceline, Vampire Queen
+rules_text: Flying, haste
+Whenever Marceline deals damage to an opponent, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Whenever you cast a red spell, add {C}. => Flying, haste
+Whenever Marceline deals damage to an opponent, freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Whenever you cast a red spell, add {C}.
+
+Bronwyn, Skater Pup
+cost: {2}{R}{W} => {1}{WU}{UR}{RW}
+
+Dancing Bug
+rules_text: Haste
+Whenever this creature attacks, freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => Haste
+Whenever this creature is blocked, freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Giuseppe's Signet
+rules_text: {T}: Add {C}.
+{T}, Discard a card: Add two mana in any combination of colors. => {T}: Add {C}.
+{T}, Discard a card: Add one mana of any color.
+
+Susan Strong, Seeker
+rules_text: Trample
+[i]Landfall[/i] — Whenever a land enters under your control, you may pay {1}. If you do investigate.
+Whenever a relic enters under your control, put a +1/+1 counter on Susan. => Trample
+[i]Landfall[/i] — Whenever a land enters under your control, investigate.
+Whenever a relic enters under your control, put a +1/+1 counter on Susan.
+
+Honey Man
+rules_text: {1}, Sacrifice a relic: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => {1}, Sacrifice a relic: Exile the top card of your library. You may play that card this turn.
+
+Haughty Glassware
+rules_text: Noncreature spells your opponents cast cost {1} more to cast.
+Whenever an opponent casts a spell during your turn, draw a card. => Whenever an opponent casts a spell during your turn, draw a card.
+
+Shower Thoughts
+rules_text: Draw three cards, then put two cards from your hand on top of your library in any order.
+Madness {U} => Draw three cards, then put two cards from your hand on top of your library in any order.
+Madness {U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Flame King
+rules_text: Menace
+Whenever Flame King enters or attacks, surveil 1 then you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying it's mana cost. If that spell would be put into your graveyard, exile it instead. => Whenever Flame King enters or attacks, create two 3/1 red Elemental Soldier creature tokens with haste and decayed. You may have them enter tapped and attacking if it is your combat step.
+Sacrifice an elemental: Add {R}.
+
+Frightening Bolt
+rules_text: [i]Morbid[/i] — This spell costs {2} less to cast if a creature died this turn.
+Frightening Bolt deals 3 damage to any target => This spell costs {2} less to cast if a creature died this turn.
+Frightening Bolt deals 3 damage to any target
+
+Flute Duet
+rules_text: Add {R}{G}. You may play an additional land this turn. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i] => Add {R}{G}. You may play an additional land this turn. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Lyrical Duet
+rules_text: Each opponent loses 1 life. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Add {B} or {R}. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+String Duet
+rules_text: String Duet deals 2 damage to target creature and you gain 2 life. Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i] => String Duet deals 2 damage to target creature and you gain 2 life. Freestyle [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Raggedy Princess
+rules_text: {1}, {T}: Add one mana of any color.
+{2}: Put target card from a graveyard on the bottom of its owners library.
+{6}: Put target card from your graveyard on top of your library. => {1}, {T}: Add one mana of any color.
+{2}: Put target card from a graveyard or exile on the bottom of its owners library.
+
+Flame Princess
+
+Snow Golem
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, you may cast this creature's adventure without paying it's mana cost. => [i]Adventurous[/i] — Whenever you play a card from exile, you may cast a copy of this creature's adventure without paying it's mana cost.
+
+T.V., Pup Detective
+rules_text: Whenever a nontoken relic enters under your control, investigate.
+{3}, Sacrifice a Clue: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order. => Whenever a nontoken relic enters under your control, investigate.
+
+Shelby
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, choose one:
+• Add {G}.
+• Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land enters under your control, add {G}. Then if this is the second time this ability has resolved this turn, freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Jake Junior, Bohemian
+
+Glass Boy
+rules_text: Haste
+Whenever Glass Boy attacks with another creature with greater power, put a +1/+1 counter on him.
+Remove a +1/+1 counter from Glass Boy: Freestyle. => Haste
+Whenever Glass Boy attacks with another creature with greater power, put a +1/+1 counter on him.
+Remove a +1/+1 counter from Glass Boy: Exile the top card of your library. You may play that card this turn.
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability and is named Viola, Aspiring Actress. [i](Equipment, Auras you control, and counters are modifications.)[/i] => {2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability and is named Viola, Aspiring Actress. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+pt: 1/1 => 2/2
+
+Jermaine, Abstract Artist
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, create a Treasure token.
+Discard a card: Freestyle [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => [i]Adventurous[/i] — Whenever you play a card from exile, create a Treasure token.
+Other creatures you control enter with an additional +1/+1 counter on them for each mana from a Treasure spent to cast them.
+
+Lumpy Space Princess
+
+Bufo, Former Dark Wizard
+rules_text: Prowess
+During your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Madness {U}{B}{R} => Prowess
+During your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+
+Famished Moldos
+
+Sweet P, Precious Boy
+rules_text: When Sweet P enters, search your library for up to two creatures with mana value 1 or less, put them onto the battlefield, shuffle. Those creatures each enter with a +1/+1 counter on them.
+Other modified creatures you control have hexproof. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Sweet P enters, search your library for up to two creatures with mana value 1 or less, put them onto the battlefield, shuffle. Those creatures each enter with a +1/+1 counter on them.
+Other modified creatures you control have hexproof.
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]FREESTYLE[/b] [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Searing Lick
+rules_text: Searing Lick deals 3 damage to target creature.
+Create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i] => Searing Lick deals 3 damage to target creature. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Banana Soloist
+rules_text: Whenever another creature enters under your control, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this enchantment: Freestyle”)[/i] => Whenever another creature enters under your control, freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Music
+rules_text: {1}, Sacrifice this enchantment: Freestyle. [i](Exile the top card of your library. You may play that card. At the beginning of the next end step, if that card is exiled, put it into your graveyard.)[/i] => {1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.
+
+James Baxter, Good Dude
+cost: {1}{W} => {R}{W}
+
+Well of Power
+rules_text: {T}: Add {C}{C}. You gain one life and a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead. => {T}: Add {C}{C}. You get a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead.
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Radiation added.
