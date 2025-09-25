@@ -4491,7 +4491,7 @@
             "number": 244,
             "color_identity": "RG",
             "cost": "{R}{G}",
-            "rules_text": "Ad three mana in any combination of {R} and/or {G}. Freestyle. [i](Create a Music token. It's an enchantment with \u201c{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.\u201d)[/i]",
+            "rules_text": "Add three mana in any combination of {R} and/or {G}. Freestyle. [i](Create a Music token. It's an enchantment with \u201c{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

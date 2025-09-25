@@ -1,4 +1,13 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+
+
+Flute Duet
+rules_text: Ad three mana in any combination of {R} and/or {G}. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i] => Add three mana in any combination of {R} and/or {G}. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Glimpse the Multiverse added.
