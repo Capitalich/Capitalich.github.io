@@ -202,9 +202,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{X}{B}",
 			"type": "Sorcery",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/118_Horde of Oozers.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/119_Horde of Oozers.png"
 			}
 		},
 		{
@@ -439,9 +439,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/119_Horrify.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/120_Horrify.png"
 			}
 		},
 		{
@@ -449,9 +449,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Lich",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/122_The Lich.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/123_The Lich.png"
 			}
 		},
 		{
@@ -579,9 +579,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Zombie Horror",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/123_Lich Hand.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/124_Lich Hand.png"
 			}
 		},
 		{
@@ -1662,7 +1662,7 @@
 			"name": "Huntress Wizard",
 			"rarity": "special",
 			"mana_cost": "{1}{R/G}{R/G}",
-			"type": "Legendary Creature — Wizard",
+			"type": "Legendary Creature — Wizard Druid",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/263_Huntress Wizard.png"
@@ -1828,7 +1828,7 @@
 		{
 			"name": "Astral Epiphany",
 			"rarity": "special",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
@@ -1870,9 +1870,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/120_Inevitable Return.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/121_Inevitable Return.png"
 			}
 		},
 		{
@@ -1880,9 +1880,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/116_Harrowing Premonition.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/117_Harrowing Premonition.png"
 			}
 		},
 		{
@@ -2078,8 +2078,8 @@
 		{
 			"name": "Crystal Jailers",
 			"rarity": "special",
-			"mana_cost": "{1}{W/U}{W/U}",
-			"type": "Creature — Golem",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "257",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/257_Crystal Jailers.png"
@@ -2450,9 +2450,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/117_Hateful Faeries.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/118_Hateful Faeries.png"
 			}
 		},
 		{
@@ -2615,7 +2615,7 @@
 		{
 			"name": "Space Lard",
 			"rarity": "special",
-			"mana_cost": "{2}{C/W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Lard",
 			"collector_number": "42",
 			"image_uris": {
@@ -2676,7 +2676,7 @@
 			"name": "Hive of the Star",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Legendary Land — Kingdom",
+			"type": "Legendary Land",
 			"collector_number": "331",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/331_Hive of the Star.png"
@@ -3209,7 +3209,7 @@
 		{
 			"name": "Space Moth",
 			"rarity": "special",
-			"mana_cost": "{1}{C/W}{C/W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Alien Insect",
 			"collector_number": "43",
 			"image_uris": {
@@ -3361,9 +3361,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/115_Grody Ghost.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/116_Grody Ghost.png"
 			}
 		},
 		{
@@ -3887,16 +3887,6 @@
 			}
 		},
 		{
-			"name": "Lich's Command",
-			"rarity": "special",
-			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/124_Lich's Command.png"
-			}
-		},
-		{
 			"name": "Searing Lick",
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
@@ -4148,9 +4138,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Rogue",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/121_King of Ooo.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/122_King of Ooo.png"
 			}
 		},
 		{
@@ -4181,6 +4171,16 @@
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/1_Radiation.png"
+			}
+		},
+		{
+			"name": "Glimpse the Multiverse",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/115_Glimpse the Multiverse.png"
 			}
 		}
 	]
@@ -4524,7 +4524,6 @@
 	1 Decapitate
 	1 Feed the Flies
 	1 Snuff
-	1 Lich's Command
 	1 Searing Lick
 	1 Banana Soloist
 	1 Grapple
@@ -4546,3 +4545,4 @@
 	1 King of Ooo
 	1 Boneyfly
 	1 Kim Kil Whan, Landlord
+	1 Glimpse the Multiverse

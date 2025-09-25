@@ -1,4 +1,172 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+Glimpse the Multiverse added.
+
+Lich's Command removed.
+
+Bureaucratic Burg
+
+Chalk Outline
+
+Crucible of Worlds
+
+Destroy Evil
+
+Lumpy Space
+rules_text: {T}: Add {C}.
+{T}: Add {C}{C}. Spend this mana only to cast Alien spells, colorless spells, or to activate abilities. => {T}: Add {C}.
+{T}: Add {C}{C}. Spend this mana only to cast colorless spells or to activate abilities of colorless permanents.
+
+Stuck Together
+rules_text: Enchant relic
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. => Enchant relic [i](Noncreature artifacts and enchantments are relics.)[/i]
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+
+Thoughtseize
+
+Volcanic Vision
+
+Choose Goose
+rules_text: {T}: Draw a card. Then discard a card unless a nonland permanent you control has the a mana cost equal to a nonland card in your graveyard. [i]({1}{U} and {U}{U} have different costs.)[/i] => {T}: Draw a card. Then discard a card unless a nonland permanent you control has a mana cost equal to a nonland card in your graveyard. [i]({1}{U} and {U}{U} have different costs.)[/i]
+
+Mass Surveillance
+rules_text: Whenever a creature enters, surveil 1.
+When this enchantment leaves the battlefield, return up to three instant, sorcery, and/or relic cards from your graveyard to your hand. => Whenever a creature enters, surveil 1.
+When this enchantment leaves the battlefield, return up to three instant, sorcery, and/or relic cards from your graveyard to your hand. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Power Shriek
+rules_text: You may discard a card, then counter target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U} => You may discard a card, then counter up to one target spell unless its controller pays {2} for each card you've discarded this turn.
+Madness {1}{U}
+
+Fabled Passage
+
+The Porcelain Lamb
+rules_text: When The Porcelain Lamb enters, exile target creature you don't control.
+When this The Porcelain Lamb leaves the battlefield, return the exiled card to the battlefield under its owners control. => When The Porcelain Lamb enters, exile target creature you don't control.
+When The Porcelain Lamb leaves the battlefield, return the exiled card to the battlefield under its owners control.
+
+Wizard City
+
+Huntress Wizard
+type: Legendary Creature — Wizard => Legendary Creature — Wizard Druid
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have reach. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have {T}: Add {R} or {G}. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Astral Epiphany
+cost: {U}{U} => {1}{U}{U}
+rules_text: Escalate {C}
+Choose one or more —
+• Counter target noncreature spell.
+• Return target nonland permanent to its owner's hand.
+• Create a tapped token that's a copy of target creature you control.
+• Target player draws a card. => Escalate {C} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Counter target spell.
+• Put target attacking creature on top of its owners library.
+• Create a tapped token that's a copy of target creature you control.
+• Draw two cards, then discard a card.
+
+Strangle
+
+Crystal Jailers
+type: Creature — Golem => Artifact Creature — Golem
+cost: {1}{WU}{WU} => {2}{WU}{WU}
+rules_text: Flash
+Vigilance
+When this creature enters, exile target spell. When this creature leaves the battlefield, return the exiled spell to its owners hand. => Flash
+Vigilance
+When this creature enters, exile target creature spell.
+When this creature leaves the battlefield, put the exiled card onto the battlefield tapped under its owners control.
+
+Time Warp
+
+Flute Duet
+rules_text: Add {R}{G}. You may play an additional land this turn. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i] => Ad three mana in any combination of {R} and/or {G}. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Lyrical Duet
+rules_text: Add {B} or {R}. Freestyle. [i](Create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Freestyle twice. [i](To freestyle, create a Music token. It's an enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Confront the Past
+rules_text: Investigate. You may mill cards equal to twice the number of relics you control, then you may return a creature or land card from your graveyard to your hand. => Investigate. You may mill cards equal to twice the number of relics you control, then you may return a creature or land card from your graveyard to your hand. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Chthonian Nightmare
+
+Ghost Fly
+pt: 0/1 => 1/1
+
+T.V., Pup Detective
+rules_text: Whenever a nontoken relic enters under your control, investigate. => Whenever a nontoken relic enters under your control, investigate. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Space Lard
+cost: {2}{CW} => {2}{W}
+rules_text: Flying
+When this creature attacks while saddled, exile up to one creature that saddled it this turn. If you do, return that creature to the battlefield under its owners control at the beginning of the next end step.
+Saddle 1 => Flying
+When this creature attacks exile up to one creature you control. If you do, return that creature to the battlefield under its owners control at the beginning of the next end step.
+
+Hive of the Star
+type: Legendary Land — Kingdom => Legendary Land
+
+The Mushroom War
+special_text: [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+I — Destroy all creatures. Each player gets six rad counters.
+II — Until your next upkeep whenever a player loses a rad counter, they create a 2/2 black Zombie creature token.
+III — Each player loses all rad counters. => [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+Destroy all creatures. Each player gets six rad counters.
+Until your next upkeep whenever a player loses a rad counter, they create a 2/2 black Zombie creature token.
+Each player loses all rad counters.
+
+Class Project
+rules_text: For each color spent to cast this spell, this creature enters with the following counter:
+{W}—Flying
+{U}—Prowess
+{B}—Menace
+{R}—Haste
+{G}—Deathtouch => This creature enters with the indicated counter on it for each color of mana spent to cast it:
+• {W} — Flying • {U} — Prowess
+• {B} — Menace • {R} — Haste
+• {G} — Deathtouch
+
+Viola, Aspiring Actress
+rules_text: {2}, {T}: Viola becomes a copy of target modified creature you control, except it has this ability and is named Viola, Aspiring Actress. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Viola enters, put a +1/+1 counter on target creature you control.
+{2}: Viola become a copy of target modified creature you control for as long as you control that creature, except it has this ability, is named Viola, Aspiring Actress, and is legendary.
+
+Lumpy Space Princess
+
+Elise, Ailing Mother
+
+Magi of Life Giving
+rules_text: {4}: Put two +1/+1 counters on target relic permanent. If the permanent was legendary, put four +1/+1 counters on it instead. It becomes a creature in addition to its other types. Activate only as a sorcery.
+Madness {U} => [i]Sentimental[/i] — {3}, Discard a card: Put two +1/+1 counters on target relic. If the permanent was legendary, put four +1/+1 counters on it instead. It becomes a creature in addition to its other types.
+
+Wildberry Princess
+rules_text: Wildberry Princess enters with a +1/+1 counter on it.
+If Wildberry Princess would be dealt damaged or destroyed, remove a counter from her instead. If you do, create a food token. => Wildberry Princess enters with a +1/+1 counter on it.
+If Wildberry Princess would be damaged or destroyed while she has one or more counters on her, remove one of those counters instead. If you do, create a Food token.
+
+Space Moth
+cost: {1}{CW}{CW} => {1}{W}{W}
+
+Pulp Artist
+rules_text: Whenever a relic enters your graveyard from the battlefield, each opponent loses 1 life and you gain 1 life. [i](Noncreature artifacts and enchantments are relics.)[/i] => Whenever a relic is put into your graveyard from the battlefield, each opponent loses 1 life and you gain 1 life. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Cousin Chicle
+rules_text: Whenever Cousin Chicle attacks, he deals X damage to each opponent and you gain X life, where X is the number of Candy creatures you control.
+{3}: Cousin Chicle gains shadow until end of turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i] => Whenever Cousin Chicle attacks, each opponent loses X life and you gain X life, where X is the number of Candy creatures you control.
+{3}: Cousin Chicle gains shadow until end of turn. [i](This creature can block or be blocked by only creatures with shadow.)[/i]
+
+King of Ooo
+rules_text: King of Ooo can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, they may sacrifice a nontoken permanent. If they don't, draw a card. => King of Ooo can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, they may sacrifice a nontoken permanent. If they don't, draw a card and confect.
+
+
+VERSION 25 CHANGELOG
 ====================
 
 Stuck Together added.

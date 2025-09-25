@@ -522,7 +522,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Grody Ghost",
+        "card_name": "Glimpse the Multiverse",
         "number": 115,
         "shape": "normal",
         "set": "ATC"
@@ -552,7 +552,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Harrowing Premonition",
+        "card_name": "Grody Ghost",
         "number": 116,
         "shape": "normal",
         "set": "ATC"
@@ -582,9 +582,9 @@
         "set": "ATC"
     },
     {
-        "card_name": "Hateful Faeries",
+        "card_name": "Harrowing Premonition",
         "number": 117,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC"
     },
     {
@@ -612,9 +612,9 @@
         "set": "ATC"
     },
     {
-        "card_name": "Horde of Oozers",
+        "card_name": "Hateful Faeries",
         "number": 118,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC"
     },
     {
@@ -642,7 +642,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Horrify",
+        "card_name": "Horde of Oozers",
         "number": 119,
         "shape": "normal",
         "set": "ATC"
@@ -672,7 +672,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Inevitable Return",
+        "card_name": "Horrify",
         "number": 120,
         "shape": "normal",
         "set": "ATC"
@@ -702,7 +702,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "King of Ooo",
+        "card_name": "Inevitable Return",
         "number": 121,
         "shape": "normal",
         "set": "ATC"
@@ -732,9 +732,9 @@
         "set": "ATC"
     },
     {
-        "card_name": "The Lich",
+        "card_name": "King of Ooo",
         "number": 122,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "ATC"
     },
     {
@@ -762,9 +762,9 @@
         "set": "ATC"
     },
     {
-        "card_name": "Lich Hand",
+        "card_name": "The Lich",
         "number": 123,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "ATC"
     },
     {
@@ -792,7 +792,7 @@
         "set": "ATC"
     },
     {
-        "card_name": "Lich's Command",
+        "card_name": "Lich Hand",
         "number": 124,
         "shape": "normal",
         "set": "ATC"
