@@ -1,4 +1,256 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Horror added.
+Wrath of Grob Gob Glob Grod added.
+Sabotage added.
+Abstract Nightmare added.
+Petrikov's Descent added.
+Zombie added.
+
+Horrify removed.
+Wrath of Glob Gob Glod Grod removed.
+System Sabotage removed.
+Chthonian Nightmare removed.
+Dementing Insight removed.
+Radiation removed.
+
+The Dungeon Train
+rules_text: At the beginning of your upkeep, roll a d20.
+[b]1-5 [/b]| Create a Treasure token.
+[b]6-10 [/b]| Gear up.
+[b]11-15 [/b]| Investigate.
+[b]16-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times. => At the beginning of your upkeep, roll a d20.
+[b]1-7 [/b]| Create a Treasure token.
+8[b]-13 [/b]| Gear up.
+[b]14-17 [/b]| Investigate.
+[b]18-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times.
+
+Me-Mow, Second Class
+rules_text: Ninjutsu {2}{B}{B} [i]({2}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)[/i]
+Deathtouch
+Whenever Me-Mow deals combat damage to a player, that players gets a poison counter, then you may destroy target creature with mana value less than or equal to the the number of poison counters its controller has. => Ninjutsu {2}{B}
+Deathtouch
+Whenever Me-Mow deals combat damage to a player, they get two poison counters, then put a bounty counter on target creature they control.
+Creatures with bounty counters on them get -1/-1 for each poison counter their controller has.
+
+Mama Jiggler
+rules_text: Hexproof from black
+Other creatures you control get +1/+1.
+When this creature enters, and at the beginning of each upkeep, create two 0/0 white Jiggler creature tokens. => Other creatures you control get +1/+1.
+At the beginning of you end step, create two 0/0 white Jiggler creature tokens.
+When this creature dies, creatures you control get +1/+1 until end of turn.
+pt: 2/3 => 3/4
+
+Pillowtown
+rules_text: Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+{T}: Add one mana of any color.
+Whenever Pillowtown leaves the battlefield, draw a card. => Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+{T}: Add one mana of any color.
+Whenever you sacrifice Pillowtown, draw a card.
+
+Stylish Scorpion
+rules_text: Deathtouch
+{2}, Exile this creature from your graveyard: Gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Deathtouch
+{2}, Exile this creature from your graveyard: Gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Manish Man
+
+Shell Slinger
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+When this creature attacks, you may unattach an equipment from it. If you do, it deals 2 damage to any target. => When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+When this creature attacks, you may unattach an equipment from it. If you do, it deals 2 damage to any target.
+
+Stickytongue Lizard
+
+Soul Suck
+type: Instant => Sorcery
+cost: {X}{B} => {X}{B}{B}
+
+Lemonshrieker
+
+The Finn Sword
+rules_text: A The Finn Sword enters, exile a creature card from your graveyard.
+{2}: Equipped creature gains all abilities of the exiled creature and loses all other abilities until end of turn.
+Equip {1} => As The Finn Sword enters, exile a creature card from your graveyard.
+Equipped creature has all abilities of exiled creature and loses all other abilities.
+Equip {1}
+
+Flame Guards
+rules_text: Double strike
+When this creature enters, gear up twice. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Double strike
+When this creature enters, gear up twice. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Firecrown Berserker
+rules_text: When this creature dies, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => When this creature dies, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Bronwyn, Skater Pup
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, choose one —
+• Bronwyn gains flying and gets +1/+1 until end of turn.
+• Exile target nonland permanent. Return it to the battlefield under its owners control at the beginning of the next end step. => During your turn, Bronwyn has flying.
+Whenever Bronwyn attacks, you may exile target nontoken, nonland permanent. For as long as that card remains in exile, its owner may cast it from exile it without paying it's mana cost.
+
+Huntress Wizard
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have {T}: Add {R} or {G}. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have {T}: Add {R} or {G}. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Susan Strong, Seeker
+rules_text: Trample
+[i]Landfall[/i] — Whenever a land enters under your control, investigate.
+Whenever a relic enters under your control, put a +1/+1 counter on Susan. => Trample
+[i]Landfall[/i] — Whenever a land enters under your control, investigate.
+Susan gets +1/+1 for each relic you control.
+pt: 2/2 => 1/1
+
+Knife Storm
+rules_text: Gear up, then you may attach that equipment to target creature you control. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature. => Gear up, then you may attach that equipment to target creature you control. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Knife Storm deals 3 damage to each creature.
+
+Nudumancer
+rules_text: Madness costs of cards you own cost {1} less.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Spells you cast from exile cost {1} less to cast.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Blazing Rage
+rules_text: Target creature you control gets +2/+0 for each spell you've cast this turn until end of turn.
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies.)[/i] => Target creature you control gets +2/+0 until end of turn.
+Overload {3}{R}{R}
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies.)[/i]
+
+Psychic Stalemate
+cost: {2}{U} => {1}{U}{U}
+
+Betty Grof, Magic Woman
+cost: {UR}{UR} => {1}{UR}{UR}
+rules_text: Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend this mana only to cast noncreature spells.”
+{UR}, Discard a card: Investigate. => Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend this mana only to cast instant and sorcery spells.
+{UR}, Discard a card: Investigate.
+
+Flametongue Newt in Boots
+cost: {5}{R} => {6}{R}{R}
+
+Magic Man, Transmografier
+rules_text: When Magic Man enters or leaves the battlefield, exile another target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.
+Madness {3}{R} => When Magic Man enters or leaves the battlefield, exile another target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.
+Madness {2}{R}
+pt: 4/3 => 3/3
+
+Flame King
+rules_text: Whenever Flame King enters or attacks, create two 3/1 red Elemental Soldier creature tokens with haste and decayed. You may have them enter tapped and attacking if it is your combat step.
+Sacrifice an elemental: Add {R}. => Menace
+Whenever Flame King enters or attacks, create two tapped 3/1 red Elemental creature tokens with haste and decayed.
+
+Flamethrower
+rules_text: Flash
+When this equipment enters, attach it to target creature you control. That creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until end of turn.
+Equip {1} => Flash
+When this Equipment enters, attach it to target creature you control. When you do, that creature deals damage equal to its power to target creature you don't control.
+{R}: Equipped creature gets +1/+0 until end of turn.
+Equip {1}
+
+Flute Duet
+rules_text: Add three mana in any combination of {R} and/or {G}. Create a Music tokens. [i](They're Music enchantments with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i] => Add three mana in any combination of {R} and/or {G}. Create a Music token. [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Blastronaut
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Foodboys
+
+Sign Zombies
+pt: 1/1 => 2/1
+
+Shelby
+pt: 2/1 => 1/1
+
+BMO
+rules_text: When BMO enters, you may search your library for a land card, reveal it, put it into your hand, then shuffle.
+{2}{W}{U}{B}{R}{G}: Exile the top five cards of your library. You may cast a spell from among the exiled cards without paying it's mana cost. Put the rest on the bottom of your library in a random order. => When BMO enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}{W}{U}{B}{R}{G}: Exile the top five cards of your library. You may cast a spell from among the exiled cards without paying it's mana cost. Put the rest on the bottom of your library in a random order.
+
+Next-Level Super Organism
+cost: {1}{G}{W} => {2}{G}{W}
+
+Bugbear Brawlers
+rules_text: When this creature enters, gear up. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Enchiridion
+cost: {1} => {3}
+rules_text: {1}, {T}: Add one mana of any color.
+{3}{W}{U}{B}{R}{G}, {T}, Sacrifice The Enchiridion: Discover 1, discover 2, discover 3, discover 4, discover 5. => {T}: Add one mana of any color.
+{2}{W}{U}{B}{R}{G}, {T}, Sacrifice The Enchiridion: Discover 3, Discover 4, Discover 5.
+
+Lumpy Space Princess
+
+Mo, Paternal Roboticist
+pt: 0/3 => 0/1
+
+Billy, Hero of Legend
+rules_text: When Billy enters, create a Pacifism token attached to it. [i](It's a {1}{W} enchantment Aura with “Enchant creature” and “Enchanted creature can't attack or block.”)[/i]
+You may play an additional land each turn. => When Billy enters, create a Pacifism token attached to it. [i](It's a {1}{W} Aura equipment with “Enchant creature” and “Enchanted creature can't attack or block.”)[/i]
+You may play an additional land each turn.
+
+Fight King's Arena
+rules_text: At the beginning of your upkeep, put a rage counter on this enchantment, then you draw a card and you lose 2 life.
+When this enchantment leaves the battlefield, gain 1 life for each rage counter on it. => At the beginning of your upkeep, you draw a card and you lose 2 life.
+
+Bird Army
+rules_text:  => [i](Penguins can't fly)[/i]
+
+Feed the Swarm
+rules_text: Destroy target creature or enchantment. You lose life equal to that permanent's mana value unless this spell was kicked. => Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.
+
+Snuff
+
+Cross Blades
+rules_text: Gear up twice, then Cross Blades deals damage to any target equal to the number of equipment you control. [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Gear up twice, then Cross Blades deals damage to any target equal to the number of equipment you control. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Royal Regiment
+rules_text: Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order. => Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Finn, Seasoned Adventurer
+rules_text: First strike, vigilance, haste
+[i]Adventurous[/i] — Whenever you play a card from exile, draw a card.
+Creatures you control that have Adventures have first strike, vigilance, and haste. => First strike, trample, haste
+Spells you cast from exile cost {W}{U}{B}{R}{G} less to cast. This effect reduces only the amount of colored mana you pay.
+Whenever Finn attacks, creatures you control that have Adventures get +1/+1 until end of turn.
+
+Well of Power
+type: Artifact => Legendary Artifact
+
+Kim Kil Whan, Landlord
+rules_text: Vigilance
+Whenever an opponent plays a land, they may pay {1}. If they don't, create a tapped treasure token. => Vigilance
+Lands enter tapped.
+
+Royal Regiment
+rules_text: Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order. => Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]Music Token[/b] [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+[b]GEAR UP[/b] [i](Create an Equipment token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i] => [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]CONFECT[/b] [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells.”)[/i]
+[b]Music Token[/b] [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+[b]GEAR UP[/b] [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+[b]MATHEMATICAL![/b] [i](When you cast this spell, copy it for each spell you cast before it this turn.You may choose new targets for the copies. Copies become tokens.)[/i]
+[b]RELIC[/b] [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Unrelenting Raccoon added.
