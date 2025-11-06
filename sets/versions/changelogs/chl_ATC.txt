@@ -1,4 +1,89 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+Prismo, The Wishmaster added.
+Ice-O-Pede added.
+Ongoing Mystery added.
+Raze the Roof added.
+Deathly Reunion added.
+Hilarious Slip added.
+GOLB, Entropy Manifest added.
+Out of Options added.
+Fire added.
+Donny, Beligerant Ogre added.
+Now added.
+Battle Preperations added.
+Dad's Holomessage added.
+GOLB's Bauble added.
+Mom's Holomessage added.
+Dr. Gross, Gene Splicer added.
+Bridge Shades added.
+Sizzling Slap added.
+Romantic Rendezvous added.
+Life added.
+Friend added.
+Candy Giant added.
+
+
+Iced Lightning
+type: Snow Instant => Snow Sorcery
+rules_text: Choose one:
+• Iced Lightning deals 3 damage to any target
+• Tap target nonland permanent and put three stun counters on it.
+Entwine {2}
+Madness {U}{R} => Choose one —
+• Iced Lightning deals 3 damage to any target
+• Tap target permanent and put two stun counters on it.
+Madness {U}{R}
+
+Rampant Regrowth
+rules_text: Choose one:
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+Entwine {1}{G} => Choose one —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+Entwine {1}{G} [i](Choose both if you pay the entwine cost.)[/i]
+
+The Finn Sword
+
+Breakfast Princess
+cost: {4}{G}{W} => {3}{G}{W}
+rules_text: When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+[i]Snack[/i]—Whenever you gain your third life each turn, creatures you control get +2/+2 and gain vigilance and trample until end of turn. => When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+[i]Snack[/i]—Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control.
+
+Bucket Knight
+rules_text: Trample
+{3}{G}: Double this creature's power until end of turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and enchantments are relics.)[/i] => Trample
+{5}{G}: Double this creature's power until end of turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Ice Scouts
+type: Snow Creature — Elemental => Snow Creature — Elemental Scout
+
+Haphazard Excavation
+rules_text: Choose one —
+• Destroy target relic. If a permanent you controlled was destroyed this way, draw a card.
+• Return target relic card from your graveyard to your hand.
+Entwine {2} => Choose one —
+• Destroy target relic. If a permanent you controlled was destroyed this way, draw a card.
+• Return target relic card from your graveyard to your hand.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i]
+
+Giant Ant Creature
+rules_text: This spell can't be countered.
+Haste, trample
+Hexproof => Flash
+Haste, trample
+This creature has hexproof if it hasn't dealt damage yet.
+
+Lumpy Space Princess
+
+Kim Kil Whan, Landlord
+pt: 1/3 => 2/2
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Horror added.
