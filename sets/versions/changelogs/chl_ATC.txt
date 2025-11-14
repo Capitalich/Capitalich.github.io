@@ -1,4 +1,170 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+Dad's Holomessage added.
+Malefic Tutor added.
+Risky Scrounging added.
+
+
+Chalk Outline
+rules_text: Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Whenever one or more creature cards leave your graveyard, create a 2/2 white and blue Detective creature token, then create a Clue token.
+
+Confront the Forgotten
+rules_text: Investigate, then target creature gets +1/+1 for each relic you control until end of turn. [i](Noncreature artifacts and enchantments are relics.)[/i] => Create a Clue token, then target creature gets +1/+1 for each relic you control until end of turn. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+The Dungeon Train
+rules_text: At the beginning of your upkeep, roll a d20.
+[b]1-7 [/b]| Create a Treasure token.
+8[b]-13 [/b]| Gear up.
+[b]14-17 [/b]| Investigate.
+[b]18-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times. => At the beginning of your upkeep, roll a d20.
+[b]1-7 [/b]| Create a Treasure token.
+8[b]-13 [/b]| Gear up.
+[b]14-17 [/b]| Create a Clue token.
+[b]18-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times.
+
+Repressed Duet
+rules_text: Investigate, then create a Music token. [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Madness {UR} => Create a Clue token and a Music token. [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Madness {UR}
+
+Movie Night
+rules_text: Amass Birds X [i](Put X +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Investigate. => Amass Birds X [i](Put X +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Create a Clue token.
+
+Root Beer Guy
+rules_text: When Root Beer Guy enters, investigate.
+Disturb—{4}{W}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Root Beer Guy enters, create a Clue token.
+Disturb—{4}{W}, Sacrifice a relic [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Marrow Muncher
+rules_text: When this creature enters, investigate.
+Sacrifice a relic: Put a +1/+1 counter on Marrow Muncher [i](Noncreature artifacts and enchantments are relics.)[/i] => When this creature enters, create a Clue token.
+Sacrifice a relic: Put a +1/+1 counter on Marrow Muncher [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Ravenous Grumbo
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature, then Investigate for each creature that has died this turn. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature, then create a Clue token for each creature that has died this turn.
+
+Orb Wizard
+rules_text: Prowess
+When this creature dies, investigate. => Prowess
+When this creature dies, create a Clue token.
+
+Science Cat
+rules_text: When this creature enters, investigate.
+Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana. => When this creature enters, create a Clue token.
+Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+
+Trail of Spoor
+rules_text: Whenever a creature you control dies, investigate.
+{X}{G}{G}, Sacrifice three Clues: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery. => Whenever a creature you control dies, create a Clue token.
+{X}{G}{G}, Sacrifice three Clues: Search your library for a creature card with mana value X or less, put it onto the battlefield, then shuffle. Activate only as a sorcery.
+
+Library of Ooo
+rules_text: {T}: Add {C}.
+{T}: Investigate. Activate only if you control exactly seven permanents. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => {T}: Add {C}.
+{T}: Create a Clue token. Activate only if you control exactly seven permanents.
+
+Inquisitive Whywolf
+rules_text: Whenever this creature enters or transforms into Inquisitive Whywolf, investigate.
+At the beginning of each upkeep, if no spells were cast last turn, transform this creature. => Whenever this creature enters or transforms into Inquisitive Whywolf, create a Clue token.
+At the beginning of each upkeep, if no spells were cast last turn, transform this creature.
+
+Beautopia
+
+Science, Sweet Familiar
+rules_text: When Science enters, investigate.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy. => When Science enters, create a Clue token.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy.
+
+Probable Cause
+rules_text: Investigate, then return target creature to its owners hand. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Create a Clue token, then return target creature to its owners hand.
+
+Susan Strong, Seeker
+rules_text: Trample
+[i]Landfall[/i] — Whenever a land enters under your control, investigate.
+Susan gets +1/+1 for each relic you control. => Trample
+[i]Landfall[/i] — Whenever a land enters under your control, create a Clue token.
+Susan gets +1/+1 for each relic you control.
+
+Betty Grof, Magic Woman
+rules_text: Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend this mana only to cast instant and sorcery spells.
+{UR}, Discard a card: Investigate. => Flying, prowess
+Artifacts you control have “{T}: Add {C}. Spend this mana only to cast instant and sorcery spells.
+{UR}, Discard a card: Create a Clue token.
+
+Up All Night Grinding
+rules_text: At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a tapped Treasure token, investigate, or gear up. => At the beginning of your end step, sacrifice this enchantment.
+Tap an untapped creature you control: Create a tapped Treasure token, create a Clue token, or gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+
+Simon Petrikov
+special_text: Simon Petrikov enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Investigate.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => Simon Petrikov enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+
+Confront the Past
+rules_text: Investigate. You may mill cards equal to twice the number of relics you control, then you may return a creature or land card from your graveyard to your hand. [i](Noncreature artifacts and enchantments are relics.)[/i] => Create a Clue token. You may mill cards equal to twice the number of relics you control, then you may return a creature or land card from your graveyard to your hand. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+T.V., Pup Detective
+rules_text: Whenever a nontoken relic enters under your control, investigate. [i](Noncreature artifacts and enchantments are relics.)[/i] => Whenever a nontoken relic enters under your control, create a Clue token. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Charlie, Cardomancer
+rules_text: When Charlie enters, investigate.
+If you would draw a card for the first time each turn, instead surveil 1, then draw a card. => When Charlie enters, create a Clue token.
+If you would draw a card for the first time each turn, instead surveil 1, then draw a card.
+
+Class Project
+
+Lumpy Space Princess
+
+Banana Man
+rules_text: When Banana Man enters, investigate.
+{2}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => When Banana Man enters, create a Clue token.
+{2}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield.
+
+Princess Bubblegum
+rules_text: If you would investigate or confect, instead do both.
+{C}, {T}, Sacrifice a clue: Create a tapped 2/2 white Candy Soldier creature token.
+{C}{C}{C}, {T}, Sacrifice three clues: Draw three cards. => If you would create a Clue token or confect, instead do both.
+{C}, {T}, Sacrifice a clue: Create a tapped 2/2 white Candy Soldier creature token.
+{C}{C}{C}, {T}, Sacrifice three clues: Draw three cards.
+
+Petrikov's Descent
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Ongoing Mystery
+rules_text: Whenever one or more creatures you control deal damage to a player, investigate.
+{2}, Exile a creature card from your graveyard: Investigate. => Whenever one or more creatures you control deal damage to a player, investigate.
+{2}, Exile a creature card from your graveyard: Create a Clue token.
+
+Now
+rules_text: Investigate X times. X can't be 0. => Create X Clue tokens. X can't be 0.
+
+Dad's Holomessage
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+{2}, Sacrifice this artifact: Draw a card. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 Prismo, The Wishmaster added.
