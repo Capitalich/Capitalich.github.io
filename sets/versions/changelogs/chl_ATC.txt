@@ -1,4 +1,48 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+
+Prismo, The Wishmaster removed.
+Ice-O-Pede removed.
+Ongoing Mystery removed.
+Raze the Roof removed.
+Deathly Reunion removed.
+Hilarious Slip removed.
+GOLB, Entropy Manifest removed.
+Out of Options removed.
+Fire removed.
+Donny, Beligerant Ogre removed.
+Now removed.
+Battle Preperations removed.
+GOLB's Bauble removed.
+Mom's Holomessage removed.
+Dr. Gross, Gene Splicer removed.
+Bridge Shades removed.
+Sizzling Slap removed.
+Romantic Rendezvous removed.
+Life removed.
+Friend removed.
+Dad's Holomessage removed.
+Malefic Tutor removed.
+Risky Scrounging removed.
+
+Lumpy Space Princess
+
+Decapitate
+type: Instant => Sorcery
+cost: {2}{B}{B} => {1}{B}{B}
+rules_text: Destroy target creature or planeswalker. If it had mana value 3 or less, its controller discards a card. => Choose one —
+• Destroy target creature.
+• Target player discards two cards.
+
+Dad's Holomessage
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card. => When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 Dad's Holomessage added.
