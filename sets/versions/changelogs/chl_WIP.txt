@@ -1,4 +1,35 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Tragic Slip added.
+Complex Equation added.
+Marrow Muncher added.
+Stretch Around added.
+Feral Pageling added.
+Olive, Service Droid added.
+Secret Wizard Handshake added.
+Bypass added.
+Thrumming Worm added.
+Wizardlings added.
+Portent of Calamity added.
+Spectral Drop-Baller added.
+Bubblegum's Rockets added.
+CGO, Bootleg Bot added.
+Settle Beyond Reality added.
+Thrumming Worm added.
+
+Friend removed.
+Risky Scrounging removed.
+
+Comedic Slip
+rules_text: Return target creature to its owners hand.
+[i]Morbid[/i] — If a creature died this turn, draw a card. => Return target creature an opponent controls to its owners hand.
+[i]Morbid[/i] — If a creature died this turn, that creature's owner puts it on the top or bottom of their library instead.
+
+Now
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

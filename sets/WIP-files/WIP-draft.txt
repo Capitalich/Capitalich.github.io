@@ -15,9 +15,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Snow Creature — Insect",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/5_Ice-O-Pede.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/7_Ice-O-Pede.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "special",
 			"mana_cost": "{G/U}{G/U}",
 			"type": "Enchantment",
-			"collector_number": "18",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/18_Ongoing Mystery.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/27_Ongoing Mystery.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R/G}{R/G}",
 			"type": "Sorcery",
-			"collector_number": "16",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/16_Raze the Roof.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/25_Raze the Roof.png"
 			}
 		},
 		{
@@ -45,9 +45,9 @@
 			"rarity": "special",
 			"mana_cost": "{W/B}",
 			"type": "Sorcery",
-			"collector_number": "17",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/17_Deathly Reunion.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/26_Deathly Reunion.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/4_Comedic Slip.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/5_Comedic Slip.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "10",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/10_Out of Options.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/14_Out of Options.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "19",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/19_Fire.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/28_Fire.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Plant Ogre",
-			"collector_number": "14",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/14_Donny, Beligerant Ogre.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/22_Donny, Beligerant Ogre.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/6_Now.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/10_Now.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/13_Battle Preperations.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/21_Battle Preperations.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue",
-			"collector_number": "21",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/21_Dad's Holomessage.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/32_Dad's Holomessage.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Artifact",
-			"collector_number": "22",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/22_GOLB's Bauble.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/34_GOLB's Bauble.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue",
-			"collector_number": "23",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/23_Mom's Holomessage.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/35_Mom's Holomessage.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "8",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/8_Dr. Gross, Gene Splicer.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/12_Dr. Gross, Gene Splicer.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Shade",
-			"collector_number": "7",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/7_Bridge Shades.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/11_Bridge Shades.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "12",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/12_Sizzling Slap.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/19_Sizzling Slap.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/11_Romantic Rendezvous.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/17_Romantic Rendezvous.png"
 			}
 		},
 		{
@@ -195,19 +195,9 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/20_Life.png"
-			}
-		},
-		{
-			"name": "Friend",
-			"rarity": "special",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "3",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/3_Friend.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/29_Life.png"
 			}
 		},
 		{
@@ -215,19 +205,169 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/9_Malefic Tutor.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/13_Malefic Tutor.png"
 			}
 		},
 		{
-			"name": "Risky Scrounging",
+			"name": "Tragic Slip",
 			"rarity": "special",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{B}",
 			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/16_Tragic Slip.png"
+			}
+		},
+		{
+			"name": "Complex Equation",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/6_Complex Equation.png"
+			}
+		},
+		{
+			"name": "Marrow Muncher",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Horror",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/24_Marrow Muncher.png"
+			}
+		},
+		{
+			"name": "Stretch Around",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/23_Stretch Around.png"
+			}
+		},
+		{
+			"name": "Feral Pageling",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/33_Feral Pageling.png"
+			}
+		},
+		{
+			"name": "Olive, Service Droid",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/36_Olive, Service Droid.png"
+			}
+		},
+		{
+			"name": "Secret Wizard Handshake",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/18_Secret Wizard Handshake.png"
+			}
+		},
+		{
+			"name": "Bypass",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/4_Bypass.png"
+			}
+		},
+		{
+			"name": "Thrumming Worm",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Worm",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/WIP-files/img/15_Risky Scrounging.png"
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/15_Thrumming Worm.png"
+			}
+		},
+		{
+			"name": "Wizardlings",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/20_Wizardlings.png"
+			}
+		},
+		{
+			"name": "Portent of Calamity",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/8_Portent of Calamity.png"
+			}
+		},
+		{
+			"name": "Spectral Drop-Baller",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/9_Spectral Drop-Baller.png"
+			}
+		},
+		{
+			"name": "Bubblegum's Rockets",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/30_Bubblegum's Rockets.png"
+			}
+		},
+		{
+			"name": "CGO, Bootleg Bot",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/31_CGO, Bootleg Bot.png"
+			}
+		},
+		{
+			"name": "Settle Beyond Reality",
+			"rarity": "special",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/3_Settle Beyond Reality.png"
+			}
+		},
+		{
+			"name": "Thrumming Worm",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Token Creature — Worm",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/WIP-files/img/1_Thrumming Worm.png"
 			}
 		}
 	]
@@ -253,6 +393,19 @@
 	1 Sizzling Slap
 	1 Romantic Rendezvous
 	1 Life
-	1 Friend
 	1 Malefic Tutor
-	1 Risky Scrounging
+	1 Tragic Slip
+	1 Complex Equation
+	1 Marrow Muncher
+	1 Stretch Around
+	1 Feral Pageling
+	1 Olive, Service Droid
+	1 Secret Wizard Handshake
+	1 Bypass
+	1 Thrumming Worm
+	1 Wizardlings
+	1 Portent of Calamity
+	1 Spectral Drop-Baller
+	1 Bubblegum's Rockets
+	1 CGO, Bootleg Bot
+	1 Settle Beyond Reality

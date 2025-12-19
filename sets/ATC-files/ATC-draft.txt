@@ -82,9 +82,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "291",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/291_Crucible of Worlds.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/290_Crucible of Worlds.png"
 			}
 		},
 		{
@@ -112,9 +112,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Legendary Artifact",
-			"collector_number": "292",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/292_Deed to The Treehouse.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/291_Deed to The Treehouse.png"
 			}
 		},
 		{
@@ -152,9 +152,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "293",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/293_The Dungeon Train.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/292_The Dungeon Train.png"
 			}
 		},
 		{
@@ -340,11 +340,11 @@
 		{
 			"name": "Rampant Regrowth",
 			"rarity": "special",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/218_Rampant Regrowth.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/217_Rampant Regrowth.png"
 			}
 		},
 		{
@@ -575,16 +575,6 @@
 			}
 		},
 		{
-			"name": "Marrow Muncher",
-			"rarity": "special",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Horror",
-			"collector_number": "214",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/214_Marrow Muncher.png"
-			}
-		},
-		{
 			"name": "Ruby Brain Beast",
 			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
@@ -679,9 +669,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Snake Avatar",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/213_Life, Soul Sculpter.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/212_Life, Soul Sculpter.png"
 			}
 		},
 		{
@@ -689,9 +679,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental Skeleton",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/156_Fireskull.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/155_Fireskull.png"
 			}
 		},
 		{
@@ -1019,9 +1009,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Construct",
-			"collector_number": "298",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/298_N.E.P.T.R..png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/297_N.E.P.T.R..png"
 			}
 		},
 		{
@@ -1046,9 +1036,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental Soldier",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/157_Flame Guards.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/156_Flame Guards.png"
 			}
 		},
 		{
@@ -1056,9 +1046,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Berserker",
-			"collector_number": "155",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/155_Firecrown Berserker.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/154_Firecrown Berserker.png"
 			}
 		},
 		{
@@ -1186,9 +1176,9 @@
 			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact — Toy",
-			"collector_number": "296",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/296_Hambo, Beloved Teddy.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/295_Hambo, Beloved Teddy.png"
 			}
 		},
 		{
@@ -1316,16 +1306,16 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Whywolf",
-			"collector_number": "212",
+			"collector_number": "211",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/212_Inquisitive Whywolf_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/211_Inquisitive Whywolf_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/212_Inquisitive Whywolf_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/211_Inquisitive Whywolf_front.png"
 			}
 		},
 		{
@@ -1652,7 +1642,7 @@
 			"name": "Huntress Wizard",
 			"rarity": "special",
 			"mana_cost": "{1}{R/G}{R/G}",
-			"type": "Legendary Creature — Wizard Druid",
+			"type": "Legendary Creature — Plant Wizard",
 			"collector_number": "273",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/273_Huntress Wizard.png"
@@ -1673,9 +1663,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Elemental Performer",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/158_Flame Jester.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/157_Flame Jester.png"
 			}
 		},
 		{
@@ -1683,9 +1673,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "295",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/295_Giuseppe's Signet.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/294_Giuseppe's Signet.png"
 			}
 		},
 		{
@@ -1790,9 +1780,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "297",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/297_Holotome.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/296_Holotome.png"
 			}
 		},
 		{
@@ -1898,11 +1888,11 @@
 		{
 			"name": "Honey Man",
 			"rarity": "special",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "211",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/211_Honey Man.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/166_Honey Man.png"
 			}
 		},
 		{
@@ -2040,9 +2030,9 @@
 			"rarity": "special",
 			"mana_cost": "{6}{R}{R}",
 			"type": "Creature — Salamander",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/162_Flametongue Newt in Boots.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/161_Flametongue Newt in Boots.png"
 			}
 		},
 		{
@@ -2140,9 +2130,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/159_Flame King.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/158_Flame King.png"
 			}
 		},
 		{
@@ -2150,9 +2140,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/161_Flamethrower.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/160_Flamethrower.png"
 			}
 		},
 		{
@@ -2160,9 +2150,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/163_Frightening Bolt.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/162_Frightening Bolt.png"
 			}
 		},
 		{
@@ -2300,9 +2290,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "300",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/300_Soul Stone.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/299_Soul Stone.png"
 			}
 		},
 		{
@@ -2410,9 +2400,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Legendary Artifact Creature — Scarecrow Noble",
-			"collector_number": "299",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/299_Raggedy Princess.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/298_Raggedy Princess.png"
 			}
 		},
 		{
@@ -2430,9 +2420,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Elemental Noble",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/160_Flame Princess.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/159_Flame Princess.png"
 			}
 		},
 		{
@@ -2460,9 +2450,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Nymph",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/217_Pond Nymphs.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/216_Pond Nymphs.png"
 			}
 		},
 		{
@@ -2517,9 +2507,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental Wolf",
-			"collector_number": "154",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/154_Ember Wolves.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/153_Ember Wolves.png"
 			}
 		},
 		{
@@ -2724,9 +2714,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Ape",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/166_Hair Ape.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/165_Hair Ape.png"
 			}
 		},
 		{
@@ -2787,16 +2777,6 @@
 			"collector_number": "278",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/278_Lemonhope, Sour Savior.png"
-			}
-		},
-		{
-			"name": "Electric Eels",
-			"rarity": "special",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Fish",
-			"collector_number": "153",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/153_Electric Eels.png"
 			}
 		},
 		{
@@ -2864,9 +2844,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Legendary Creature — Bear",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/216_Party Pat.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/215_Party Pat.png"
 			}
 		},
 		{
@@ -2904,9 +2884,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Warrior Noble",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/215_Muscle Princess.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/214_Muscle Princess.png"
 			}
 		},
 		{
@@ -2954,9 +2934,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Artifact Creature — Golem Bard",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/164_Glass Boy.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/163_Glass Boy.png"
 			}
 		},
 		{
@@ -2974,9 +2954,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "294",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/294_The Enchiridion.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/293_The Enchiridion.png"
 			}
 		},
 		{
@@ -3277,16 +3257,6 @@
 			}
 		},
 		{
-			"name": "CGO, Bootleg Bot",
-			"rarity": "special",
-			"mana_cost": "{3}",
-			"type": "Legendary Artifact Creature — Robot",
-			"collector_number": "290",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/290_CGO, Bootleg Bot.png"
-			}
-		},
-		{
 			"name": "Marcy's Concert Tee",
 			"rarity": "special",
 			"mana_cost": "{R/W}",
@@ -3331,9 +3301,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "362",
+			"collector_number": "363",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/362_Plains.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/363_Plains.png"
 			}
 		},
 		{
@@ -3341,9 +3311,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "363",
+			"collector_number": "362",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/363_Plains.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/362_Plains.png"
 			}
 		},
 		{
@@ -3361,16 +3331,6 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "364",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/364_Island.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
 			"collector_number": "365",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/365_Island.png"
@@ -3381,19 +3341,19 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "366",
+			"collector_number": "364",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/366_Island.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/364_Island.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Island",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "367",
+			"type": "Basic Land — Island",
+			"collector_number": "366",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/367_Swamp.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/366_Island.png"
 			}
 		},
 		{
@@ -3417,6 +3377,26 @@
 			}
 		},
 		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/367_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/370_Mountain.png"
+			}
+		},
+		{
 			"name": "Mountain",
 			"rarity": "special",
 			"mana_cost": "",
@@ -3437,23 +3417,13 @@
 			}
 		},
 		{
-			"name": "Mountain",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "370",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/370_Mountain.png"
-			}
-		},
-		{
 			"name": "Forest",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "375",
+			"collector_number": "373",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/375_Forest.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/373_Forest.png"
 			}
 		},
 		{
@@ -3471,9 +3441,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "373",
+			"collector_number": "375",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/373_Forest.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/375_Forest.png"
 			}
 		},
 		{
@@ -3851,9 +3821,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/165_Gloat.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/164_Gloat.png"
 			}
 		},
 		{
@@ -4272,6 +4242,36 @@
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/34_Dad's Holomessage.png"
 			}
+		},
+		{
+			"name": "Risky Scrounging",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/218_Risky Scrounging.png"
+			}
+		},
+		{
+			"name": "Mr. Pig",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Boar",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/213_Mr. Pig.png"
+			}
+		},
+		{
+			"name": "Whisper Dan, The Silent King",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Golem Noble",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/300_Whisper Dan, The Silent King.png"
+			}
 		}
 	]
 
@@ -4332,7 +4332,6 @@
 	1 Fruit Witch
 	1 Newborn Marauder
 	1 Lich Hand
-	1 Marrow Muncher
 	1 Ruby Brain Beast
 	1 Glassassin
 	1 Ravenous Grumbo
@@ -4550,7 +4549,6 @@
 	1 Briberry
 	1 Next-Level Super Organism
 	1 Lemonhope, Sour Savior
-	1 Electric Eels
 	1 Saltburn
 	1 Abraham Lincoln
 	1 Giant Ant Creature
@@ -4598,7 +4596,6 @@
 	1 Famished Moldos
 	1 Fight King's Arena
 	1 The Drift
-	1 CGO, Bootleg Bot
 	1 Marcy's Concert Tee
 	1 Sweet P, Precious Boy
 	1 Grody Ghost
@@ -4636,3 +4633,6 @@
 	1 Delivery Drone
 	1 Abstract Nightmare
 	1 Petrikov's Descent
+	1 Risky Scrounging
+	1 Mr. Pig
+	1 Whisper Dan, The Silent King

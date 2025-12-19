@@ -1,13 +1,13 @@
 ﻿[
     {
-        "card_name": "Friend",
+        "card_name": "Settle Beyond Reality",
         "number": 3,
-        "shape": "aftermath",
+        "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
-        "card_name": "Comedic Slip",
+        "card_name": "Bypass",
         "number": 4,
         "shape": "normal",
         "set": "WIP",
@@ -15,21 +15,83 @@
     },
     {
         "card_name": "Bridge Shades",
-        "number": 7,
+        "number": 11,
         "shape": "adventure",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "Romantic Rendezvous",
-        "number": 11,
+        "number": 17,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "Battle Preperations",
+        "number": 21,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Comedic Slip",
+        "number": 5,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Dr. Gross, Gene Splicer",
+        "number": 12,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Secret Wizard Handshake",
+        "number": 18,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Donny, Beligerant Ogre",
+        "number": 22,
+        "shape": "adventure",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Complex Equation",
+        "number": 6,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Malefic Tutor",
         "number": 13,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Sizzling Slap",
+        "number": 19,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Stretch Around",
+        "number": 23,
         "shape": "normal",
         "set": "WIP",
         "position": ""
@@ -39,54 +101,40 @@
     },
     {
         "card_name": "Ice-O-Pede",
-        "number": 5,
+        "number": 7,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
-        "card_name": "Dr. Gross, Gene Splicer",
+        "card_name": "Out of Options",
+        "number": 14,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Wizardlings",
+        "number": 20,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Portent of Calamity",
         "number": 8,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
-        "card_name": "Sizzling Slap",
-        "number": 12,
-        "shape": "normal",
-        "set": "WIP",
-        "position": ""
-    },
-    {
-        "card_name": "Donny, Beligerant Ogre",
-        "number": 14,
-        "shape": "adventure",
-        "set": "WIP",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Now",
-        "number": 6,
-        "shape": "fuse split",
-        "set": "WIP",
-        "position": ""
-    },
-    {
-        "card_name": "Malefic Tutor",
-        "number": 9,
-        "shape": "normal",
-        "set": "WIP",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Risky Scrounging",
+        "card_name": "Thrumming Worm",
         "number": 15,
         "shape": "normal",
         "set": "WIP",
@@ -99,11 +147,40 @@
         "card_name": "e"
     },
     {
-        "card_name": "Out of Options",
-        "number": 10,
+        "card_name": "e"
+    },
+    {
+        "card_name": "Spectral Drop-Baller",
+        "number": 9,
         "shape": "normal",
         "set": "WIP",
         "position": ""
+    },
+    {
+        "card_name": "Tragic Slip",
+        "number": 16,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Now",
+        "number": 10,
+        "shape": "fuse split",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -128,14 +205,18 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Marrow Muncher",
+        "number": 24,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Raze the Roof",
-        "number": 16,
+        "number": 25,
         "shape": "normal",
         "set": "WIP",
         "position": ""
@@ -160,21 +241,21 @@
     },
     {
         "card_name": "Deathly Reunion",
-        "number": 17,
+        "number": 26,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "Fire",
-        "number": 19,
+        "number": 28,
         "shape": "fuse split",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "Life",
-        "number": 20,
+        "number": 29,
         "shape": "fuse split",
         "set": "WIP",
         "position": ""
@@ -184,7 +265,7 @@
     },
     {
         "card_name": "Ongoing Mystery",
-        "number": 18,
+        "number": 27,
         "shape": "normal",
         "set": "WIP",
         "position": ""
@@ -217,25 +298,88 @@
         "position": ""
     },
     {
+        "card_name": "Bubblegum's Rockets",
+        "number": 30,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "CGO, Bootleg Bot",
+        "number": 31,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
         "card_name": "Dad's Holomessage",
-        "number": 21,
+        "number": 32,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "Feral Pageling",
+        "number": 33,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "GOLB's Bauble",
-        "number": 22,
+        "number": 34,
         "shape": "normal",
         "set": "WIP",
         "position": ""
     },
     {
         "card_name": "Mom's Holomessage",
-        "number": 23,
+        "number": 35,
         "shape": "normal",
         "set": "WIP",
         "position": ""
+    },
+    {
+        "card_name": "Olive, Service Droid",
+        "number": 36,
+        "shape": "normal",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Thrumming Worm",
+        "number": 1,
+        "shape": "token",
+        "set": "WIP",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"

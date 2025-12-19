@@ -1,4 +1,69 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Risky Scrounging added.
+Mr. Pig added.
+Whisper Dan, The Silent King added.
+
+Marrow Muncher removed.
+Electric Eels removed.
+CGO, Bootleg Bot removed.
+
+Rampant Regrowth
+cost: {1}{G} => {2}{G}{G}
+rules_text: Choose one —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+Entwine {1}{G} [i](Choose both if you pay the entwine cost.)[/i] => Choose one or both —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+
+Huntress Wizard
+type: Legendary Creature — Wizard Druid => Legendary Creature — Plant Wizard
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+Modified creatures you control have {T}: Add {R} or {G}. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Reach, trample
+[i]Adventurous[/i] — Whenever you play a card from exile, Huntress Wizard explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Honey Man
+cost: {1}{G} => {1}{R}
+
+50th Dead World
+rules_text: {T}: Add {C}.
+Whenever 50th Dead World or another land you control enters, if you control six or more lands with different names, create a 1/1 white Spirit creature token with flying. => {T}: Add {C}.
+Whenever 50th Dead World or another land you control enters, if you control seven or more lands with different names, create a 1/1 white Spirit creature token with flying.
+
+Hive of the Star
+rules_text: {T}: Add {C}.
+{T}: Add {B} for each Swamp you control minus each non-Swamp land you control. [i](Including this one.)[/i] => {T}: Add {C}.
+{T}: Add X {B}, where X is the number of Swamps you control minus the number of non-Swamp land you control. [i](Including this one.)[/i]
+
+Burn Down the Town
+rules_text: Choose one —
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical! => Wheneve you cast or copy this spell, choose one —
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical!
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on target creature you control.
+{2}: Viola become a copy of target modified creature you control for as long as you control that creature, except it has this ability, is named Viola, Aspiring Actress, and is legendary. => When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}: Viola becomes a copy of target modified creature you control for as long as you control that creature, except it has this ability, is named Viola, Aspiring Actress, and is legendary.
+
+Lumpy Space Princess
+
+Mo, Paternal Roboticist
+rules_text: [i]Adventurous[/i] — Whenever you play a card from exile, Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+{T}: Add {C} for each Robot creature you control. => [i]Adventurous[/i] — Whenever you play a card from exile, Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+
+Bufo, Former Dark Wizard
+rules_text: Prowess
+During your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i] => Prowess
+During your turn, each instant and sorcery card in your graveyard has jump-start. [i](You may cast a card with jump-start from your graveyard by discarding a card in addition to paying its other costs. Then exile the card.)[/i]
+
+
+VERSION 32 CHANGELOG
 ====================
 
 
