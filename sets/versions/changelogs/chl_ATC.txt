@@ -1,4 +1,195 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Remote Academy added.
+Fionna Campbell added.
+
+Place of Learning removed.
+Fiona Campbell removed.
+
+Depleted Field
+type: Land => Land — Plains Swamp
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {W} or {B}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+The Dungeon Train
+rules_text: At the beginning of your upkeep, roll a d20.
+[b]1-7 [/b]| Create a Treasure token.
+8[b]-13 [/b]| Gear up.
+[b]14-17 [/b]| Create a Clue token.
+[b]18-19 [/b]| Discover 3.
+[b]20 [/b]| Roll three more times. => After your draw step, roll a d20.
+[b]1-7 [/b]| Create a Treasure token.
+8[b]-13 [/b]| Gear up.
+[b]14-17 [/b]| Create a Clue token.
+[b]18-19 [/b]| Discover 3.
+[b]20 |[/b] Roll three more times.
+
+Frigid Caldera
+type: Land => Land — Island Mountain
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island or Mountain card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {U} or {R}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Jagged Crag
+type: Land => Land — Swamp Mountain
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {R}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Mountain Pass
+type: Land => Land — Mountain Forest
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {R} or {G}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Pillowtown
+rules_text: Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+{T}: Add one mana of any color.
+Whenever you sacrifice Pillowtown, draw a card. => Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Pillowtown leaves the battlefield, if it had no time counters on it, draw a card.
+{T}: Add one mana of any color.
+
+Vacant Valley
+type: Land => Land — Mountain Plains
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {R} or {W}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Shady Lagoon
+type: Land => Land — Forest Island
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Forest or Island, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {U}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Clearcut Patch
+type: Land => Land — Forest Plains
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Forest or Plains card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {G} or {W}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Banana Guard 500
+
+Catalyst Comet
+rules_text: Suspend 3 {1}{W}{W}
+Destroy all creatures. If this spell was cast from exile, search your library for a legendary creature, shuffle, then put it on top of your library. => Destroy all creatures, then each player that controlled a legendary creature destroyed this way scries 3. Put this card on the bottom of your library.
+
+Cliffside Treehouse
+rules_text: [i]({T}: Add {G}, {U}, or {R}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {G}, {U}, or {R}.)[/i]
+This land enters tapped.
+
+Coastal Fringe
+rules_text: [i]({T}: Add {G}, {W}, or {U}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {G}, {W}, or {U}.)[/i]
+This land enters tapped.
+
+Deepwater Rig
+rules_text: [i]({T}: Add {U}, {B}, or {R})[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {U}, {B}, or {R})[/i]
+This land enters tapped.
+
+Cloudy Montane
+rules_text: [i]({T}: Add {R}, {G}, or {W})[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {R}, {G}, or {W})[/i]
+This land enters tapped.
+
+Well Worn Road
+type: Land — Mountain Plains Swamp => Land — Swamp Plains Mountain
+rules_text: [i]({T}: Add {R}, {W}, or {B}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {B}, {W}, or {R}.)[/i]
+This land enters tapped.
+
+Eroded Metropolis
+rules_text: [i]({T}: Add {W}, {B}, or {G}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {W}, {B}, or {G}.)[/i]
+This land enters tapped.
+
+Hostile Menagerie
+rules_text: [i]({T}: Add {B}, {R} or {G}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {B}, {R}, or {G}.)[/i]
+This land enters tapped.
+
+Inquisitive Whywolf
+
+Industrial Seaport
+rules_text: [i]({T}: Add {B}, {G}, or {U}.)[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {U}, {G}, or {B}.)[/i]
+This land enters tapped.
+
+Balmy Beach
+type: Land => Land — Plains Island
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains or Island card, put it onto the battlefield tapped, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {W} or {U}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Gloomy Wetland
+type: Land => Land — Swamp Forest
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {B} or {G}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Abyssal Hollow
+type: Land => Land — Island Swamp
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island or Swamp card, put it onto the battlefield, then shuffle. As that land enters, you may pay 2 life. If you don't, it enters tapped. => [i]({T}: Add {U} or {B}.)[/i]
+As this land enters, you may tap an untapped creature you control. If you don't, it enters tapped.
+
+Subsuming Morass
+rules_text: [i]({T}: Add {W}, {U}, or {B})[/i]
+This land enters tapped unless you control three or more other lands. => [i]({T}: Add {W}, {U}, or {B})[/i]
+This land enters tapped.
+
+Clown Nurse
+
+Simon Petrikov
+special_text: Simon Petrikov enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+
+Foodboys
+type: Creature — Golem => Artifact Creature — Golem
+
+Ghost Fly
+rules_text: Flying
+At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If a noncreature, nonland card was was revealed this way, put a +1/+1 counter on this creature.
+Disturb {U}{U} => Flying
+After your draw step, mill a card. If a noncreature, nonland card was was milled this way, put a +1/+1 counter on this creature.
+Disturb {U}{U}
+
+Lemoncrafting
+rules_text: [i]Sentimental[/i] — When this enchantment enters and at the beginning of your upkeep, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life. => [i]Sentimental[/i] — When this enchantment enters and after your draw step, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life.
+
+Bluescape
+rules_text: When this land enters, sacrifice it. When you do, search your library for an Island card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Island. => {T}, Sacrifice this land: Search your library for an Island card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Island. Activate only as a sorcery.
+
+Greenscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Forest card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Forest. => {T}, Sacrifice this land: Search your library for a Forest card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Forest. Activate only as a sorcery.
+
+Redscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Mountain card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Mountain. => {T}, Sacrifice this land: Search your library for a Mountain card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Mountain. Activate only as a sorcery.
+
+Whitescape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Plains card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Plains. => {T}, Sacrifice this land: Search your library for a Plains card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Plains. Activate only as a sorcery.
+
+Blackscape
+rules_text: When this land enters, sacrifice it. When you do, search your library for a Swamp card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Swamp. => {T}, Sacrifice this land: Search your library for a Swamp card, put it onto the battlefield, then shuffle. It enters tapped unless you control another Swamp. Activate only as a sorcery.
+
+Lumpy Space Princess
+
+Fight King's Arena
+cost: {1}{B} => {B}{B}
+rules_text: At the beginning of your upkeep, you draw a card and you lose 2 life. => After your draw step, you draw a card and you lose 2 life.
+
+Floop the Pig
+cost: {3}{W} => {2}{W}
+
+Petrikov's Descent
+special_text: 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+
+VERSION 33 CHANGELOG
 ====================
 
 Risky Scrounging added.

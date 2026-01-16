@@ -121,7 +121,7 @@
 			"name": "Depleted Field",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Plains Swamp",
 			"collector_number": "318",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/318_Depleted Field.png"
@@ -181,7 +181,7 @@
 			"name": "Frigid Caldera",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Island Mountain",
 			"collector_number": "324",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/324_Frigid Caldera.png"
@@ -231,7 +231,7 @@
 			"name": "Jagged Crag",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Swamp Mountain",
 			"collector_number": "336",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/336_Jagged Crag.png"
@@ -291,7 +291,7 @@
 			"name": "Mountain Pass",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Mountain Forest",
 			"collector_number": "342",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/342_Mountain Pass.png"
@@ -488,7 +488,7 @@
 			"name": "Vacant Valley",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Mountain Plains",
 			"collector_number": "353",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/353_Vacant Valley.png"
@@ -518,7 +518,7 @@
 			"name": "Shady Lagoon",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Forest Island",
 			"collector_number": "348",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/348_Shady Lagoon.png"
@@ -528,7 +528,7 @@
 			"name": "Clearcut Patch",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Forest Plains",
 			"collector_number": "311",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/311_Clearcut Patch.png"
@@ -1095,7 +1095,7 @@
 			"name": "Well Worn Road",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains Swamp",
+			"type": "Land — Swamp Plains Mountain",
 			"collector_number": "356",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/356_Well Worn Road.png"
@@ -1552,7 +1552,7 @@
 			"name": "Balmy Beach",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Plains Island",
 			"collector_number": "303",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/303_Balmy Beach.png"
@@ -1562,27 +1562,27 @@
 			"name": "Gloomy Wetland",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Swamp Forest",
 			"collector_number": "327",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/327_Gloomy Wetland.png"
 			}
 		},
 		{
-			"name": "Place of Learning",
+			"name": "Remote Academy",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain Plains",
-			"collector_number": "346",
+			"collector_number": "347",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/346_Place of Learning.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/347_Remote Academy.png"
 			}
 		},
 		{
 			"name": "Abyssal Hollow",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Island Swamp",
 			"collector_number": "302",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/302_Abyssal Hollow.png"
@@ -2299,7 +2299,7 @@
 			"name": "Foodboys",
 			"rarity": "special",
 			"mana_cost": "{W}",
-			"type": "Creature — Golem",
+			"type": "Artifact Creature — Golem",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/18_Foodboys.png"
@@ -2607,9 +2607,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "347",
+			"collector_number": "346",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/347_Redscape.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/346_Redscape.png"
 			}
 		},
 		{
@@ -2740,13 +2740,13 @@
 			}
 		},
 		{
-			"name": "Fiona Campbell",
+			"name": "Fionna Campbell",
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Fiona",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/204_Fiona Campbell.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/204_Fionna Campbell.png"
 			}
 		},
 		{
@@ -3239,7 +3239,7 @@
 		{
 			"name": "Fight King's Arena",
 			"rarity": "special",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Legendary Enchantment",
 			"collector_number": "110",
 			"image_uris": {
@@ -3719,7 +3719,7 @@
 		{
 			"name": "Floop the Pig",
 			"rarity": "special",
-			"mana_cost": "{3}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "17",
 			"image_uris": {
@@ -4430,7 +4430,7 @@
 	1 Box Kingdom
 	1 Balmy Beach
 	1 Gloomy Wetland
-	1 Place of Learning
+	1 Remote Academy
 	1 Abyssal Hollow
 	1 Subsuming Morass
 	1 The Vampire King
@@ -4545,7 +4545,7 @@
 	1 Hair Ape
 	1 Bubblegum's Command
 	1 The Morrow
-	1 Fiona Campbell
+	1 Fionna Campbell
 	1 Briberry
 	1 Next-Level Super Organism
 	1 Lemonhope, Sour Savior
