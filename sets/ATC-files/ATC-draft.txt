@@ -1,0 +1,4620 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Arboreal Indoctrination",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Enchantment",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/0.png"
+			}
+		},
+		{
+			"name": "Bad Land Scavengers",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Rogue",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/1.png"
+			}
+		},
+		{
+			"name": "Bureaucratic Burg",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/2.png"
+			}
+		},
+		{
+			"name": "Chalk Outline",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/3.png"
+			}
+		},
+		{
+			"name": "Confront the Forgotten",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/4.png"
+			}
+		},
+		{
+			"name": "Conjecture Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/5.png"
+			}
+		},
+		{
+			"name": "Crabbit Familiar",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird Rabbit",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/6.png"
+			}
+		},
+		{
+			"name": "Crucible of Worlds",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/7.png"
+			}
+		},
+		{
+			"name": "Crystal Citadel",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/8.png"
+			}
+		},
+		{
+			"name": "Death's Metal",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/9.png"
+			}
+		},
+		{
+			"name": "Deed to The Treehouse",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Legendary Artifact",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/10.png"
+			}
+		},
+		{
+			"name": "Depleted Field",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/11.png"
+			}
+		},
+		{
+			"name": "Depressing Edict",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/12.png"
+			}
+		},
+		{
+			"name": "Destroy Evil",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/13.png"
+			}
+		},
+		{
+			"name": "The Dungeon Train",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/14.png"
+			}
+		},
+		{
+			"name": "Finn's Tower",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/15.png"
+			}
+		},
+		{
+			"name": "Repressed Duet",
+			"rarity": "special",
+			"mana_cost": "{U/R}",
+			"type": "Sorcery",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/16.png"
+			}
+		},
+		{
+			"name": "Frigid Caldera",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/17.png"
+			}
+		},
+		{
+			"name": "Goo Skulls",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Skeleton Ooze",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/18.png"
+			}
+		},
+		{
+			"name": "Horde of Oozers",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/19.png"
+			}
+		},
+		{
+			"name": "Ice Plague",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/20.png"
+			}
+		},
+		{
+			"name": "Iced Lightning",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Snow Sorcery",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/21.png"
+			}
+		},
+		{
+			"name": "Jagged Crag",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/22.png"
+			}
+		},
+		{
+			"name": "Kick in the Boingloings",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/23.png"
+			}
+		},
+		{
+			"name": "Lumpy Space",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/24.png"
+			}
+		},
+		{
+			"name": "Me-Mow, Second Class",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Legendary Creature — Cat Assassin",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/25.png"
+			}
+		},
+		{
+			"name": "Mama Jiggler",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Jiggler",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/26.png"
+			}
+		},
+		{
+			"name": "Movie Night",
+			"rarity": "special",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/27.png"
+			}
+		},
+		{
+			"name": "Mountain Pass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/28.png"
+			}
+		},
+		{
+			"name": "Out Sick",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/29.png"
+			}
+		},
+		{
+			"name": "Unlimited Party Energy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/30.png"
+			}
+		},
+		{
+			"name": "Pillowtown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/31.png"
+			}
+		},
+		{
+			"name": "Raid the Fridge",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/32.png"
+			}
+		},
+		{
+			"name": "Rampant Regrowth",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/33.png"
+			}
+		},
+		{
+			"name": "Reach Through Time",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/34.png"
+			}
+		},
+		{
+			"name": "Risen Horde",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/35.png"
+			}
+		},
+		{
+			"name": "Root Beer Guy",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Candy Detective",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/36.png"
+			}
+		},
+		{
+			"name": "Roughousing",
+			"rarity": "special",
+			"mana_cost": "{X}{X}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/37.png"
+			}
+		},
+		{
+			"name": "Somatic inversion",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/38.png"
+			}
+		},
+		{
+			"name": "Special Sentient Sandwiches",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Artifact — Food",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/39.png"
+			}
+		},
+		{
+			"name": "Stuck Together",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/40.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/41.png"
+			}
+		},
+		{
+			"name": "The Lich",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Lich",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/42.png"
+			}
+		},
+		{
+			"name": "The Treehouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/43.png"
+			}
+		},
+		{
+			"name": "Thoughtseize",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/44.png"
+			}
+		},
+		{
+			"name": "Thunder Boar",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Boar",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/45.png"
+			}
+		},
+		{
+			"name": "Toothy Sword",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Equipment Shark",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/46.png"
+			}
+		},
+		{
+			"name": "Vacant Valley",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/47.png"
+			}
+		},
+		{
+			"name": "Volcanic Vision",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/48.png"
+			}
+		},
+		{
+			"name": "Wizard City Po-Po",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wizard Detective",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/49.png"
+			}
+		},
+		{
+			"name": "Shady Lagoon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/50.png"
+			}
+		},
+		{
+			"name": "Clearcut Patch",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/51.png"
+			}
+		},
+		{
+			"name": "Martin, Slippery Scoundrel",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/52.png"
+			}
+		},
+		{
+			"name": "Fruit Witch",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Warlock",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/53.png"
+			}
+		},
+		{
+			"name": "Newborn Marauder",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Berserker",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/54.png"
+			}
+		},
+		{
+			"name": "Lich Hand",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Zombie Horror",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/55.png"
+			}
+		},
+		{
+			"name": "Ruby Brain Beast",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Snake Horror",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/56.png"
+			}
+		},
+		{
+			"name": "Glassassin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Golem Assassin",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/57.png"
+			}
+		},
+		{
+			"name": "Ravenous Grumbo",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Candy Beast",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/58.png"
+			}
+		},
+		{
+			"name": "Maja the Sky Witch",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Warlock",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/59.png"
+			}
+		},
+		{
+			"name": "Peppermint Butler",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Candy Warlock",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/60.png"
+			}
+		},
+		{
+			"name": "Stylish Scorpion",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Scorpion",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/61.png"
+			}
+		},
+		{
+			"name": "Tree Trunks",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Creature — Elephant",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/62.png"
+			}
+		},
+		{
+			"name": "Space Elves",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Alien Elf",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/63.png"
+			}
+		},
+		{
+			"name": "Mother Varmint",
+			"rarity": "special",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Varmint",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/64.png"
+			}
+		},
+		{
+			"name": "Life, Soul Sculpter",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Snake Avatar",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/65.png"
+			}
+		},
+		{
+			"name": "Fireskull",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Skeleton",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/66.png"
+			}
+		},
+		{
+			"name": "Manish Man",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/67.png"
+			}
+		},
+		{
+			"name": "Orb Wizard",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wizard",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/68.png"
+			}
+		},
+		{
+			"name": "Ice King",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Snow Creature — Wizard Noble",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/69.png"
+			}
+		},
+		{
+			"name": "Octopolitician",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Octopus",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/70.png"
+			}
+		},
+		{
+			"name": "Science Cat",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Cat Scientist",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/71.png"
+			}
+		},
+		{
+			"name": "Choose Goose",
+			"rarity": "special",
+			"mana_cost": "{U}{U}",
+			"type": "Legendary Creature — Bird Peasant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/72.png"
+			}
+		},
+		{
+			"name": "Con Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Wizard Rogue",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/73.png"
+			}
+		},
+		{
+			"name": "Grand Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/74.png"
+			}
+		},
+		{
+			"name": "Unsettling Reproductions",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/75.png"
+			}
+		},
+		{
+			"name": "PB's Sweater",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/76.png"
+			}
+		},
+		{
+			"name": "Volcanic Tutor",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/77.png"
+			}
+		},
+		{
+			"name": "Weapon Head",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/78.png"
+			}
+		},
+		{
+			"name": "Shell Slinger",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Alien Soldier",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/79.png"
+			}
+		},
+		{
+			"name": "Stickytongue Lizard",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/80.png"
+			}
+		},
+		{
+			"name": "Trail of Spoor",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/81.png"
+			}
+		},
+		{
+			"name": "Soul Suck",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/82.png"
+			}
+		},
+		{
+			"name": "Signature Slam",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/83.png"
+			}
+		},
+		{
+			"name": "Banana Guard 500",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/84.png"
+			}
+		},
+		{
+			"name": "Y5, Formerly Y4",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rabbit Scout",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/85.png"
+			}
+		},
+		{
+			"name": "Bird Squadron",
+			"rarity": "special",
+			"mana_cost": "{7}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/86.png"
+			}
+		},
+		{
+			"name": "Annual Abduction",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/87.png"
+			}
+		},
+		{
+			"name": "Bear Emcee",
+			"rarity": "special",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Bear",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/88.png"
+			}
+		},
+		{
+			"name": "Sonic Blast",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/89.png"
+			}
+		},
+		{
+			"name": "Catalyst Comet",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/90.png"
+			}
+		},
+		{
+			"name": "Wrath of Grob Gob Glob Grod",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/91.png"
+			}
+		},
+		{
+			"name": "Lemonshrieker",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Candy",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/92.png"
+			}
+		},
+		{
+			"name": "Fractalize",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/93.png"
+			}
+		},
+		{
+			"name": "Mass Surveillance",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/94.png"
+			}
+		},
+		{
+			"name": "Power Shriek",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/95.png"
+			}
+		},
+		{
+			"name": "Thalassophobia",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/96.png"
+			}
+		},
+		{
+			"name": "Breakfast Afterglow",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/97.png"
+			}
+		},
+		{
+			"name": "Evil Ocean",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/98.png"
+			}
+		},
+		{
+			"name": "N.E.P.T.R.",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Construct",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/99.png"
+			}
+		},
+		{
+			"name": "The Finn Sword",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "202",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/100_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/100_front.png"
+			}
+		},
+		{
+			"name": "Flame Guards",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Soldier",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/101.png"
+			}
+		},
+		{
+			"name": "Firecrown Berserker",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Berserker",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/102.png"
+			}
+		},
+		{
+			"name": "Cliffside Treehouse",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island Mountain",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/103.png"
+			}
+		},
+		{
+			"name": "Coastal Fringe",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/104.png"
+			}
+		},
+		{
+			"name": "Deepwater Rig",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/105.png"
+			}
+		},
+		{
+			"name": "Cloudy Montane",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/106.png"
+			}
+		},
+		{
+			"name": "Well Worn Road",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Plains Mountain",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/107.png"
+			}
+		},
+		{
+			"name": "Eroded Metropolis",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp Forest",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/108.png"
+			}
+		},
+		{
+			"name": "Hostile Menagerie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/109.png"
+			}
+		},
+		{
+			"name": "Ice Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Snow Land — Kingdom",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/110.png"
+			}
+		},
+		{
+			"name": "Library of Ooo",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/111.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/112.png"
+			}
+		},
+		{
+			"name": "Son of Rap Bear",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Bear Bard",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/113.png"
+			}
+		},
+		{
+			"name": "Lich's Influence",
+			"rarity": "special",
+			"mana_cost": "{7}{U}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/114.png"
+			}
+		},
+		{
+			"name": "Hambo, Beloved Teddy",
+			"rarity": "special",
+			"mana_cost": "{0}",
+			"type": "Legendary Artifact — Toy",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/115.png"
+			}
+		},
+		{
+			"name": "Ghost Ship Vortex",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Swamp",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/116.png"
+			}
+		},
+		{
+			"name": "Mt. Cragdor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain Forest",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/117.png"
+			}
+		},
+		{
+			"name": "The Lich's Lair",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Forest",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/118.png"
+			}
+		},
+		{
+			"name": "The Verdant Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Plains",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/119.png"
+			}
+		},
+		{
+			"name": "Death's Garden",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Swamp",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/120.png"
+			}
+		},
+		{
+			"name": "The Nightosphere",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Swamp Mountain",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/121.png"
+			}
+		},
+		{
+			"name": "Clumsy Skeleton",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Skeleton",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/122.png"
+			}
+		},
+		{
+			"name": "Bandit Princess",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}",
+			"type": "Legendary Creature — Rogue Noble",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/123.png"
+			}
+		},
+		{
+			"name": "Turn to Seed",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/124.png"
+			}
+		},
+		{
+			"name": "Canyon, Billy's Ex",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Elemental Giant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/125.png"
+			}
+		},
+		{
+			"name": "Marceline, Vampire Queen",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Vampire Bard Noble",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/126.png"
+			}
+		},
+		{
+			"name": "Spider Spewing",
+			"rarity": "special",
+			"mana_cost": "{1}{B/G}",
+			"type": "Sorcery",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/127.png"
+			}
+		},
+		{
+			"name": "Inquisitive Whywolf",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Whywolf",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/128.png"
+			}
+		},
+		{
+			"name": "Industrial Seaport",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest Island",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/129.png"
+			}
+		},
+		{
+			"name": "The Porcelain Lamb",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/130.png"
+			}
+		},
+		{
+			"name": "Gummy Bear",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Candy Bear",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/131.png"
+			}
+		},
+		{
+			"name": "Heroic Tutor",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/132.png"
+			}
+		},
+		{
+			"name": "Exhaustive Analysis",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/133.png"
+			}
+		},
+		{
+			"name": "Finn, The Human",
+			"rarity": "special",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/134.png"
+			}
+		},
+		{
+			"name": "Bronwyn, Skater Pup",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Dog",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/135.png"
+			}
+		},
+		{
+			"name": "Hub Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Forest Island",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/136.png"
+			}
+		},
+		{
+			"name": "Up-Ton",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Plains Island",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/137.png"
+			}
+		},
+		{
+			"name": "Wiz Arts",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Island Mountain",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/138.png"
+			}
+		},
+		{
+			"name": "Wildberry Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/139.png"
+			}
+		},
+		{
+			"name": "Castle Lemongrab",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/140.png"
+			}
+		},
+		{
+			"name": "Beautopia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/141.png"
+			}
+		},
+		{
+			"name": "Junktown",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Mountain Plains",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/142.png"
+			}
+		},
+		{
+			"name": "Slime Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/143.png"
+			}
+		},
+		{
+			"name": "Death, Soul Gardener",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Specter Avatar",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/144.png"
+			}
+		},
+		{
+			"name": "Wizard City",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/145.png"
+			}
+		},
+		{
+			"name": "Fire Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/146.png"
+			}
+		},
+		{
+			"name": "Gumbaldia",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/147.png"
+			}
+		},
+		{
+			"name": "Glass Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/148.png"
+			}
+		},
+		{
+			"name": "Candy Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/149.png"
+			}
+		},
+		{
+			"name": "Breakfast Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/150.png"
+			}
+		},
+		{
+			"name": "Box Kingdom",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Kingdom",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/151.png"
+			}
+		},
+		{
+			"name": "Balmy Beach",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/152.png"
+			}
+		},
+		{
+			"name": "Gloomy Wetland",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/153.png"
+			}
+		},
+		{
+			"name": "Remote Academy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain Plains",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/154.png"
+			}
+		},
+		{
+			"name": "Abyssal Hollow",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/155.png"
+			}
+		},
+		{
+			"name": "Subsuming Morass",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/156.png"
+			}
+		},
+		{
+			"name": "The Vampire King",
+			"rarity": "special",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Cat Vampire",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/157.png"
+			}
+		},
+		{
+			"name": "Dream Parisite",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/158.png"
+			}
+		},
+		{
+			"name": "Dancing Bug",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Insect Performer",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/159.png"
+			}
+		},
+		{
+			"name": "Grass Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Wizard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/160.png"
+			}
+		},
+		{
+			"name": "Huntress Wizard",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Plant Wizard",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/161.png"
+			}
+		},
+		{
+			"name": "Itchy-Butt Dragon",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/162.png"
+			}
+		},
+		{
+			"name": "Flame Jester",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/163.png"
+			}
+		},
+		{
+			"name": "Giuseppe's Signet",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/164.png"
+			}
+		},
+		{
+			"name": "Science, Sweet Familiar",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Candy Rat Scientist",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/165.png"
+			}
+		},
+		{
+			"name": "Syr Rattleballs",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact Creature — Candy Knight",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/166.png"
+			}
+		},
+		{
+			"name": "I'm Jaking It",
+			"rarity": "special",
+			"mana_cost": "{W/U}{W/U}",
+			"type": "Instant",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/167.png"
+			}
+		},
+		{
+			"name": "Earl of Lemongrab",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Candy Noble",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/168.png"
+			}
+		},
+		{
+			"name": "Entropic Amalgam",
+			"rarity": "special",
+			"mana_cost": "{6}{C}{C}",
+			"type": "Creature — Horror",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/169.png"
+			}
+		},
+		{
+			"name": "Probable Cause",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/170.png"
+			}
+		},
+		{
+			"name": "Seeded Digsite",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/171.png"
+			}
+		},
+		{
+			"name": "Breezy, Reluctant Heir",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Insect",
+			"collector_number": "9",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/172_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/172_front.png"
+			}
+		},
+		{
+			"name": "Mr. Cupcake",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/173.png"
+			}
+		},
+		{
+			"name": "Holotome",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/174.png"
+			}
+		},
+		{
+			"name": "Snooping Pastry",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Candy Rogue",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/175.png"
+			}
+		},
+		{
+			"name": "Astral Epiphany",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/176.png"
+			}
+		},
+		{
+			"name": "Captive Research",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Instant",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/177.png"
+			}
+		},
+		{
+			"name": "Overripe Banana Guards",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/178.png"
+			}
+		},
+		{
+			"name": "Dum Dum Juiced",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/179.png"
+			}
+		},
+		{
+			"name": "Inevitable Return",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/180.png"
+			}
+		},
+		{
+			"name": "Harrowing Premonition",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/181.png"
+			}
+		},
+		{
+			"name": "Grass Sword",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Enchantment — Aura",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/182.png"
+			}
+		},
+		{
+			"name": "Eerie Onlooker",
+			"rarity": "special",
+			"mana_cost": "{G/U}{G/U}",
+			"type": "Sorcery",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/183.png"
+			}
+		},
+		{
+			"name": "Susan Strong, Seeker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/184.png"
+			}
+		},
+		{
+			"name": "Honey Man",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/185.png"
+			}
+		},
+		{
+			"name": "Knife Storm",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/186.png"
+			}
+		},
+		{
+			"name": "Nudumancer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/187.png"
+			}
+		},
+		{
+			"name": "Blazing Rage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/188.png"
+			}
+		},
+		{
+			"name": "Strangle",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/189.png"
+			}
+		},
+		{
+			"name": "Psychic Stalemate",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/190.png"
+			}
+		},
+		{
+			"name": "Slime Princess",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Ooze Noble",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/191.png"
+			}
+		},
+		{
+			"name": "Haughty Glassware",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Golem Advisor",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/192.png"
+			}
+		},
+		{
+			"name": "Sabotage",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/193.png"
+			}
+		},
+		{
+			"name": "Duke of Nuts",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Plant Noble",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/194.png"
+			}
+		},
+		{
+			"name": "Breakfast in Bed",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/195.png"
+			}
+		},
+		{
+			"name": "Betty Grof, Magic Woman",
+			"rarity": "special",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/196.png"
+			}
+		},
+		{
+			"name": "Ricardio, The Heart Guy",
+			"rarity": "special",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Legendary Creature — Thrull Scientist",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/197.png"
+			}
+		},
+		{
+			"name": "Uncle Gumbald",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Candy Scientist",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/198.png"
+			}
+		},
+		{
+			"name": "Flametongue Newt in Boots",
+			"rarity": "special",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Salamander",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/199.png"
+			}
+		},
+		{
+			"name": "Up All Night Grinding",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/200.png"
+			}
+		},
+		{
+			"name": "Crystal Jailers",
+			"rarity": "special",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/201.png"
+			}
+		},
+		{
+			"name": "Skyhooks",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/202.png"
+			}
+		},
+		{
+			"name": "Echo of Eons",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/203.png"
+			}
+		},
+		{
+			"name": "Shower Thoughts",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/204.png"
+			}
+		},
+		{
+			"name": "Magic Man, Transmografier",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/205.png"
+			}
+		},
+		{
+			"name": "Breakfast Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Noble",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/206.png"
+			}
+		},
+		{
+			"name": "Shadow Ritual",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/207.png"
+			}
+		},
+		{
+			"name": "Clown Nurse",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Clown Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/208.png"
+			}
+		},
+		{
+			"name": "Flame King",
+			"rarity": "special",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/209.png"
+			}
+		},
+		{
+			"name": "Flamethrower",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/210.png"
+			}
+		},
+		{
+			"name": "Frightening Bolt",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/211.png"
+			}
+		},
+		{
+			"name": "50th Dead World",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/212.png"
+			}
+		},
+		{
+			"name": "Viral Outbreak",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/213.png"
+			}
+		},
+		{
+			"name": "Flute Duet",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/214.png"
+			}
+		},
+		{
+			"name": "Lyrical Duet",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/215.png"
+			}
+		},
+		{
+			"name": "String Duet",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/216.png"
+			}
+		},
+		{
+			"name": "Forge the Guardians",
+			"rarity": "special",
+			"mana_cost": "{10}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/217.png"
+			}
+		},
+		{
+			"name": "Vespertine Vista",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/218.png"
+			}
+		},
+		{
+			"name": "Patience's Patient Plan",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/219.png"
+			}
+		},
+		{
+			"name": "Bucket Knight",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Knight",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/220.png"
+			}
+		},
+		{
+			"name": "Nightmare Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Nightmare Noble",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/221.png"
+			}
+		},
+		{
+			"name": "Blastronaut",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/222.png"
+			}
+		},
+		{
+			"name": "Ice Scouts",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Creature — Elemental Scout",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/223.png"
+			}
+		},
+		{
+			"name": "Simon Petrikov",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Planeswalker — Simon",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/224.png"
+			}
+		},
+		{
+			"name": "Soul Stone",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/225.png"
+			}
+		},
+		{
+			"name": "Foodboys",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/226.png"
+			}
+		},
+		{
+			"name": "Frighten",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/227.png"
+			}
+		},
+		{
+			"name": "Tyranny to Transendentalism",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/228.png"
+			}
+		},
+		{
+			"name": "Confront the Past",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/229.png"
+			}
+		},
+		{
+			"name": "Tiny Tiller",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Peasant",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/230.png"
+			}
+		},
+		{
+			"name": "Improvised Heroism",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/231.png"
+			}
+		},
+		{
+			"name": "Sign Zombies",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/232.png"
+			}
+		},
+		{
+			"name": "Storytelling",
+			"rarity": "special",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/233.png"
+			}
+		},
+		{
+			"name": "Crab Demon",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Crab Demon",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/234.png"
+			}
+		},
+		{
+			"name": "Gumcrafting",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/235.png"
+			}
+		},
+		{
+			"name": "Raggedy Princess",
+			"rarity": "special",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact Creature — Scarecrow Noble",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/236.png"
+			}
+		},
+		{
+			"name": "Hateful Faeries",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/237.png"
+			}
+		},
+		{
+			"name": "Flame Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Elemental Noble",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/238.png"
+			}
+		},
+		{
+			"name": "Snow Golem",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Creature — Elemental Golem",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/239.png"
+			}
+		},
+		{
+			"name": "Tiny, Micro Manticore",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Manticore",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/240.png"
+			}
+		},
+		{
+			"name": "Pond Nymphs",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Nymph",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/241.png"
+			}
+		},
+		{
+			"name": "Gunter, The First Bearer",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Dinosaur",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/242.png"
+			}
+		},
+		{
+			"name": "Ghost Fly",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Spirit",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/243.png"
+			}
+		},
+		{
+			"name": "Giant Lemon Snail",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Candy Snail",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/244.png"
+			}
+		},
+		{
+			"name": "Lemoncrafting",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/245.png"
+			}
+		},
+		{
+			"name": "Unrelenting Raccoon",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Raccoon",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/246.png"
+			}
+		},
+		{
+			"name": "Overstretch",
+			"rarity": "special",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/247.png"
+			}
+		},
+		{
+			"name": "T.V., Pup Detective",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Creature — Dog Dectective",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/248.png"
+			}
+		},
+		{
+			"name": "Shelby",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Worm",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/249.png"
+			}
+		},
+		{
+			"name": "Jake, The Dog",
+			"rarity": "special",
+			"mana_cost": "{3}{R/G}{R/G}",
+			"type": "Legendary Creature — Dog Hero",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/250.png"
+			}
+		},
+		{
+			"name": "BMO",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Robot",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/251.png"
+			}
+		},
+		{
+			"name": "Space Lard",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Lard",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/252.png"
+			}
+		},
+		{
+			"name": "Bluescape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/253.png"
+			}
+		},
+		{
+			"name": "Greenscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/254.png"
+			}
+		},
+		{
+			"name": "Redscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/255.png"
+			}
+		},
+		{
+			"name": "Whitescape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/256.png"
+			}
+		},
+		{
+			"name": "Blackscape",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/257.png"
+			}
+		},
+		{
+			"name": "Hive of the Star",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/258.png"
+			}
+		},
+		{
+			"name": "Lub-Glubs",
+			"rarity": "special",
+			"mana_cost": "{6}{U}{U}",
+			"type": "Creature — Horror",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/259.png"
+			}
+		},
+		{
+			"name": "Cinnamon Bun, Half Baked",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/260_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/260_front.png"
+			}
+		},
+		{
+			"name": "Scarab, God Auditor",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Scarab",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/261.png"
+			}
+		},
+		{
+			"name": "Slumber Party",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/262.png"
+			}
+		},
+		{
+			"name": "Haphazard Excavation",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/263.png"
+			}
+		},
+		{
+			"name": "Old Wizards",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Wizard",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/264.png"
+			}
+		},
+		{
+			"name": "Hair Ape",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Ape",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/265.png"
+			}
+		},
+		{
+			"name": "Bubblegum's Command",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/266.png"
+			}
+		},
+		{
+			"name": "The Morrow",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Bird",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/267.png"
+			}
+		},
+		{
+			"name": "Fionna Campbell",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Planeswalker — Fiona",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/268.png"
+			}
+		},
+		{
+			"name": "Briberry",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Soldier",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/269.png"
+			}
+		},
+		{
+			"name": "Next-Level Super Organism",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Fungus",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/270.png"
+			}
+		},
+		{
+			"name": "Lemonhope, Sour Savior",
+			"rarity": "special",
+			"mana_cost": "{W/B}",
+			"type": "Legendary Creature — Candy Citizen",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/271.png"
+			}
+		},
+		{
+			"name": "Saltburn",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/272.png"
+			}
+		},
+		{
+			"name": "Abraham Lincoln",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Legendary Planeswalker — Abraham",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/273.png"
+			}
+		},
+		{
+			"name": "Giant Ant Creature",
+			"rarity": "special",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Insect",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/274.png"
+			}
+		},
+		{
+			"name": "Jake Junior, Bohemian",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Legendary Creature — Dog Rogue",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/275.png"
+			}
+		},
+		{
+			"name": "Cadebra, Novice Magician",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Wizard Performer",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/276.png"
+			}
+		},
+		{
+			"name": "Grassy Gatekeeper",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/277.png"
+			}
+		},
+		{
+			"name": "Party Pat",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Creature — Bear",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/278.png"
+			}
+		},
+		{
+			"name": "Charlie, Cardomancer",
+			"rarity": "special",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Legendary Creature — Dog Shaman",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/279.png"
+			}
+		},
+		{
+			"name": "Burn Down the Town",
+			"rarity": "special",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/280.png"
+			}
+		},
+		{
+			"name": "Lady Rainicorn",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Rainicorn",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/281.png"
+			}
+		},
+		{
+			"name": "Muscle Princess",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Creature — Warrior Noble",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/282.png"
+			}
+		},
+		{
+			"name": "Bugbear Brawlers",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Berserker",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/283.png"
+			}
+		},
+		{
+			"name": "Festive Nutler",
+			"rarity": "special",
+			"mana_cost": "{G/W}{G/W}",
+			"type": "Creature — Plant",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/284.png"
+			}
+		},
+		{
+			"name": "Grass Demon",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Plant Demon",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/285.png"
+			}
+		},
+		{
+			"name": "Darren, Ancient Sleeper",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/286.png"
+			}
+		},
+		{
+			"name": "Glass Boy",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Artifact Creature — Golem Bard",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/287.png"
+			}
+		},
+		{
+			"name": "Class Project",
+			"rarity": "special",
+			"mana_cost": "{X}{3}",
+			"type": "Creature — Egg Lesson",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/288.png"
+			}
+		},
+		{
+			"name": "The Enchiridion",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/289.png"
+			}
+		},
+		{
+			"name": "Viola, Aspiring Actress",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Dog Performer",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/290.png"
+			}
+		},
+		{
+			"name": "Jermaine, Abstract Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Dog Bard",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/291.png"
+			}
+		},
+		{
+			"name": "Lumpy Space Princess",
+			"rarity": "special",
+			"mana_cost": "{C}",
+			"type": "Legendary Creature — Lumpy Noble",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/292.png"
+			}
+		},
+		{
+			"name": "Citric Oppression",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/293.png"
+			}
+		},
+		{
+			"name": "Syr Slicer",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Knight",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/294.png"
+			}
+		},
+		{
+			"name": "Altar of GOLB",
+			"rarity": "special",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/295.png"
+			}
+		},
+		{
+			"name": "Banana Man",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Candy Artificer",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/296.png"
+			}
+		},
+		{
+			"name": "Hall of Egress",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/297.png"
+			}
+		},
+		{
+			"name": "Elise, Ailing Mother",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "201",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/298_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/298_front.png"
+			}
+		},
+		{
+			"name": "Lurking Guardian",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/299.png"
+			}
+		},
+		{
+			"name": "Magi of Life Giving",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/300.png"
+			}
+		},
+		{
+			"name": "Sea Lard",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Creature — Lard",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/301.png"
+			}
+		},
+		{
+			"name": "Wolf Lard Pack",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Artifact Creature — Wolf Lard",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/302.png"
+			}
+		},
+		{
+			"name": "Wildberry Princess",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Legendary Creature — Plant Noble",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/303.png"
+			}
+		},
+		{
+			"name": "Xergiok, The Flagelator",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Goblin Wizard",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/304.png"
+			}
+		},
+		{
+			"name": "Mo, Paternal Roboticist",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Scientist",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/305.png"
+			}
+		},
+		{
+			"name": "Starchy, The Gravedigger",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Candy",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/306.png"
+			}
+		},
+		{
+			"name": "Space Moth",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Alien Insect",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/307.png"
+			}
+		},
+		{
+			"name": "Spader Peterson, Star Pupil",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Wizard",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/308.png"
+			}
+		},
+		{
+			"name": "Warped Coyote",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Coyote Mutant",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/309.png"
+			}
+		},
+		{
+			"name": "Lemonjohn, Tart Titan",
+			"rarity": "special",
+			"mana_cost": "{4}{W/B}{W/B}",
+			"type": "Legendary Creature — Candy Giant",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/310.png"
+			}
+		},
+		{
+			"name": "Bufo, Former Dark Wizard",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Frog Wizard",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/311.png"
+			}
+		},
+		{
+			"name": "Billy, Hero of Legend",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/312.png"
+			}
+		},
+		{
+			"name": "Wizard Streets",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/313.png"
+			}
+		},
+		{
+			"name": "Inquisitive Looting",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/314.png"
+			}
+		},
+		{
+			"name": "Famished Moldos",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Fungus",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/315.png"
+			}
+		},
+		{
+			"name": "Fight King's Arena",
+			"rarity": "special",
+			"mana_cost": "{B}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/316.png"
+			}
+		},
+		{
+			"name": "The Drift",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Artifact Land",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/317.png"
+			}
+		},
+		{
+			"name": "Sweet P, Precious Boy",
+			"rarity": "special",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/318.png"
+			}
+		},
+		{
+			"name": "Grody Ghost",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment Creature — Spirit",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/319.png"
+			}
+		},
+		{
+			"name": "Bear",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bear",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/320.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/321.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/322.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/323.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/324.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/325.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/326.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/327.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/328.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/329.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/330.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/331.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/332.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/333.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/334.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/335.png"
+			}
+		},
+		{
+			"name": "Simon Petrikov",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Emblem — Simon",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/336.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Basic Land — Wastes",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/337.png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Goblin",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/338.png"
+			}
+		},
+		{
+			"name": "Vampire",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Vampire",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/339.png"
+			}
+		},
+		{
+			"name": "Bird Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Bird Army",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/340.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/341.png"
+			}
+		},
+		{
+			"name": "Robot",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/342.png"
+			}
+		},
+		{
+			"name": "Coyote Mutant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Coyote Mutant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/343.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Creature — Spirit",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/344.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/345.png"
+			}
+		},
+		{
+			"name": "Candy Citizen",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Candy Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/346.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/347.png"
+			}
+		},
+		{
+			"name": "Pacifism",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/348.png"
+			}
+		},
+		{
+			"name": "Equipment",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/349.png"
+			}
+		},
+		{
+			"name": "Candy Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Candy Soldier",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/350.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/351.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/352.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/353.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/354.png"
+			}
+		},
+		{
+			"name": "Clue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Clue",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/355.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/356.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/357.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/358.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/359.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/360.png"
+			}
+		},
+		{
+			"name": "Catpile",
+			"rarity": "special",
+			"mana_cost": "{G/W}",
+			"type": "Instant",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/361.png"
+			}
+		},
+		{
+			"name": "Devious Prank",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/362.png"
+			}
+		},
+		{
+			"name": "Floop the Pig",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/363.png"
+			}
+		},
+		{
+			"name": "Cripple",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/364.png"
+			}
+		},
+		{
+			"name": "Decapitate",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/365.png"
+			}
+		},
+		{
+			"name": "Feed the Swarm",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/366.png"
+			}
+		},
+		{
+			"name": "Snuff",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/367.png"
+			}
+		},
+		{
+			"name": "Searing Lick",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/368.png"
+			}
+		},
+		{
+			"name": "Banana Soloist",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/369.png"
+			}
+		},
+		{
+			"name": "Music",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Enchantment — Music",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/370.png"
+			}
+		},
+		{
+			"name": "Grapple",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/371.png"
+			}
+		},
+		{
+			"name": "New Death",
+			"rarity": "special",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Snake Specter",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/372.png"
+			}
+		},
+		{
+			"name": "Gloat",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/373.png"
+			}
+		},
+		{
+			"name": "Cross Blades",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/374.png"
+			}
+		},
+		{
+			"name": "Pulp Artist",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Candy",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/375.png"
+			}
+		},
+		{
+			"name": "Detective",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Detective",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/376.png"
+			}
+		},
+		{
+			"name": "Royal Regiment",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/377.png"
+			}
+		},
+		{
+			"name": "Finn, Seasoned Adventurer",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Legendary Creature — Human Hero",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/378.png"
+			}
+		},
+		{
+			"name": "DNA Seeker",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/379.png"
+			}
+		},
+		{
+			"name": "Aunt Lolly",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Candy Advisor",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/380.png"
+			}
+		},
+		{
+			"name": "Spider",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spider",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/381.png"
+			}
+		},
+		{
+			"name": "CANON MECHANICS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/382.png"
+			}
+		},
+		{
+			"name": "The Farm, Unwreckable",
+			"rarity": "special",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/383.png"
+			}
+		},
+		{
+			"name": "Wastes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Basic Land — Wastes",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/384.png"
+			}
+		},
+		{
+			"name": "James Baxter, Good Dude",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Horse Performer",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/385.png"
+			}
+		},
+		{
+			"name": "Flame Lord's Greeting",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/386.png"
+			}
+		},
+		{
+			"name": "Well of Power",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/387.png"
+			}
+		},
+		{
+			"name": "Talented Banana Guard",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Candy Soldier",
+			"collector_number": "46",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/388_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/388_front.png"
+			}
+		},
+		{
+			"name": "Princess Bubblegum",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Candy Scientist Noble",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/389.png"
+			}
+		},
+		{
+			"name": "Varmint",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Varmint",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/390.png"
+			}
+		},
+		{
+			"name": "King of Ooo",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Rogue",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/391.png"
+			}
+		},
+		{
+			"name": "Boneyfly",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Insect Skeleton",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/392.png"
+			}
+		},
+		{
+			"name": "Kim Kil Whan, Landlord",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dog Advisor",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/393.png"
+			}
+		},
+		{
+			"name": "Radiation",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/394.png"
+			}
+		},
+		{
+			"name": "Glimpse the Multiverse",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/395.png"
+			}
+		},
+		{
+			"name": "Nuclear Fallout",
+			"rarity": "special",
+			"mana_cost": "{X}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/396.png"
+			}
+		},
+		{
+			"name": "Mystic Virus",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Artifact",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/397.png"
+			}
+		},
+		{
+			"name": "Delivery Drone",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/398.png"
+			}
+		},
+		{
+			"name": "Royal Regiment",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/399.png"
+			}
+		},
+		{
+			"name": "Space Elves",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Alien Elf",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/400.png"
+			}
+		},
+		{
+			"name": "Wizard Streets",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/401.png"
+			}
+		},
+		{
+			"name": "Glassassin",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Golem Assassin",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/402.png"
+			}
+		},
+		{
+			"name": "Patience's Patient Plan",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/403.png"
+			}
+		},
+		{
+			"name": "Devious Prank",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/404.png"
+			}
+		},
+		{
+			"name": "Patience's Patient Plan",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/405.png"
+			}
+		},
+		{
+			"name": "Wizard Streets",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/406.png"
+			}
+		},
+		{
+			"name": "TWO COLOR ARCHETYPES",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/407.png"
+			}
+		},
+		{
+			"name": "CUSTOM MECHANICS",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/408.png"
+			}
+		},
+		{
+			"name": "Abstract Nightmare",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/409.png"
+			}
+		},
+		{
+			"name": "Petrikov's Descent",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/410.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/411.png"
+			}
+		},
+		{
+			"name": "Candy Giant",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Candy Giant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/412.png"
+			}
+		},
+		{
+			"name": "Dad's Holomessage",
+			"rarity": "special",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/413.png"
+			}
+		},
+		{
+			"name": "Risky Scrounging",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/414.png"
+			}
+		},
+		{
+			"name": "Mr. Pig",
+			"rarity": "special",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Boar",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/415.png"
+			}
+		},
+		{
+			"name": "Whisper Dan, The Silent King",
+			"rarity": "special",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Golem Noble",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/416.png"
+			}
+		},
+		{
+			"name": "Secret Wizard Handshake",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/417.png"
+			}
+		},
+		{
+			"name": "Olympus Mons",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/418.png"
+			}
+		},
+		{
+			"name": "Hot Dog Knights",
+			"rarity": "special",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Knight",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/419.png"
+			}
+		},
+		{
+			"name": "Marrow Muncher",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Horror",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/420.png"
+			}
+		},
+		{
+			"name": "Thrumming Worm",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Token Creature — Worm",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/421.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Arboreal Indoctrination
+	1 Bad Land Scavengers
+	1 Bureaucratic Burg
+	1 Chalk Outline
+	1 Confront the Forgotten
+	1 Conjecture Beast
+	1 Crabbit Familiar
+	1 Crucible of Worlds
+	1 Crystal Citadel
+	1 Death's Metal
+	1 Deed to The Treehouse
+	1 Depleted Field
+	1 Depressing Edict
+	1 Destroy Evil
+	1 The Dungeon Train
+	1 Finn's Tower
+	1 Repressed Duet
+	1 Frigid Caldera
+	1 Goo Skulls
+	1 Horde of Oozers
+	1 Ice Plague
+	1 Iced Lightning
+	1 Jagged Crag
+	1 Kick in the Boingloings
+	1 Lumpy Space
+	1 Me-Mow, Second Class
+	1 Mama Jiggler
+	1 Movie Night
+	1 Mountain Pass
+	1 Out Sick
+	1 Unlimited Party Energy
+	1 Pillowtown
+	1 Raid the Fridge
+	1 Rampant Regrowth
+	1 Reach Through Time
+	1 Risen Horde
+	1 Root Beer Guy
+	1 Roughousing
+	1 Somatic inversion
+	1 Special Sentient Sandwiches
+	1 Stuck Together
+	1 Horror
+	1 The Lich
+	1 The Treehouse
+	1 Thoughtseize
+	1 Thunder Boar
+	1 Toothy Sword
+	1 Vacant Valley
+	1 Volcanic Vision
+	1 Wizard City Po-Po
+	1 Shady Lagoon
+	1 Clearcut Patch
+	1 Martin, Slippery Scoundrel
+	1 Fruit Witch
+	1 Newborn Marauder
+	1 Lich Hand
+	1 Ruby Brain Beast
+	1 Glassassin
+	1 Ravenous Grumbo
+	1 Maja the Sky Witch
+	1 Peppermint Butler
+	1 Stylish Scorpion
+	1 Tree Trunks
+	1 Space Elves
+	1 Mother Varmint
+	1 Life, Soul Sculpter
+	1 Fireskull
+	1 Manish Man
+	1 Orb Wizard
+	1 Ice King
+	1 Octopolitician
+	1 Science Cat
+	1 Choose Goose
+	1 Con Wizard
+	1 Grand Wizard
+	1 Unsettling Reproductions
+	1 PB's Sweater
+	1 Volcanic Tutor
+	1 Weapon Head
+	1 Shell Slinger
+	1 Stickytongue Lizard
+	1 Trail of Spoor
+	1 Soul Suck
+	1 Signature Slam
+	1 Banana Guard 500
+	1 Y5, Formerly Y4
+	1 Bird Squadron
+	1 Annual Abduction
+	1 Bear Emcee
+	1 Sonic Blast
+	1 Catalyst Comet
+	1 Wrath of Grob Gob Glob Grod
+	1 Lemonshrieker
+	1 Fractalize
+	1 Mass Surveillance
+	1 Power Shriek
+	1 Thalassophobia
+	1 Breakfast Afterglow
+	1 Evil Ocean
+	1 N.E.P.T.R.
+	1 The Finn Sword
+	1 Flame Guards
+	1 Firecrown Berserker
+	1 Cliffside Treehouse
+	1 Coastal Fringe
+	1 Deepwater Rig
+	1 Cloudy Montane
+	1 Well Worn Road
+	1 Eroded Metropolis
+	1 Hostile Menagerie
+	1 Ice Kingdom
+	1 Library of Ooo
+	1 Fabled Passage
+	1 Son of Rap Bear
+	1 Lich's Influence
+	1 Hambo, Beloved Teddy
+	1 Ghost Ship Vortex
+	1 Mt. Cragdor
+	1 The Lich's Lair
+	1 The Verdant Plains
+	1 Death's Garden
+	1 The Nightosphere
+	1 Clumsy Skeleton
+	1 Bandit Princess
+	1 Turn to Seed
+	1 Canyon, Billy's Ex
+	1 Marceline, Vampire Queen
+	1 Spider Spewing
+	1 Inquisitive Whywolf
+	1 Industrial Seaport
+	1 The Porcelain Lamb
+	1 Gummy Bear
+	1 Heroic Tutor
+	1 Exhaustive Analysis
+	1 Finn, The Human
+	1 Bronwyn, Skater Pup
+	1 Hub Island
+	1 Up-Ton
+	1 Wiz Arts
+	1 Wildberry Kingdom
+	1 Castle Lemongrab
+	1 Beautopia
+	1 Junktown
+	1 Slime Kingdom
+	1 Death, Soul Gardener
+	1 Wizard City
+	1 Fire Kingdom
+	1 Gumbaldia
+	1 Glass Kingdom
+	1 Candy Kingdom
+	1 Breakfast Kingdom
+	1 Box Kingdom
+	1 Balmy Beach
+	1 Gloomy Wetland
+	1 Remote Academy
+	1 Abyssal Hollow
+	1 Subsuming Morass
+	1 The Vampire King
+	1 Dream Parisite
+	1 Dancing Bug
+	1 Grass Wizard
+	1 Huntress Wizard
+	1 Itchy-Butt Dragon
+	1 Flame Jester
+	1 Giuseppe's Signet
+	1 Science, Sweet Familiar
+	1 Syr Rattleballs
+	1 I'm Jaking It
+	1 Earl of Lemongrab
+	1 Entropic Amalgam
+	1 Probable Cause
+	1 Seeded Digsite
+	1 Breezy, Reluctant Heir
+	1 Mr. Cupcake
+	1 Holotome
+	1 Snooping Pastry
+	1 Astral Epiphany
+	1 Captive Research
+	1 Overripe Banana Guards
+	1 Dum Dum Juiced
+	1 Inevitable Return
+	1 Harrowing Premonition
+	1 Grass Sword
+	1 Eerie Onlooker
+	1 Susan Strong, Seeker
+	1 Honey Man
+	1 Knife Storm
+	1 Nudumancer
+	1 Blazing Rage
+	1 Strangle
+	1 Psychic Stalemate
+	1 Slime Princess
+	1 Haughty Glassware
+	1 Sabotage
+	1 Duke of Nuts
+	1 Breakfast in Bed
+	1 Betty Grof, Magic Woman
+	1 Ricardio, The Heart Guy
+	1 Uncle Gumbald
+	1 Flametongue Newt in Boots
+	1 Up All Night Grinding
+	1 Crystal Jailers
+	1 Skyhooks
+	1 Echo of Eons
+	1 Shower Thoughts
+	1 Magic Man, Transmografier
+	1 Breakfast Princess
+	1 Shadow Ritual
+	1 Clown Nurse
+	1 Flame King
+	1 Flamethrower
+	1 Frightening Bolt
+	1 50th Dead World
+	1 Viral Outbreak
+	1 Flute Duet
+	1 Lyrical Duet
+	1 String Duet
+	1 Forge the Guardians
+	1 Vespertine Vista
+	1 Patience's Patient Plan
+	1 Bucket Knight
+	1 Nightmare Princess
+	1 Blastronaut
+	1 Ice Scouts
+	1 Simon Petrikov
+	1 Soul Stone
+	1 Foodboys
+	1 Frighten
+	1 Tyranny to Transendentalism
+	1 Confront the Past
+	1 Tiny Tiller
+	1 Improvised Heroism
+	1 Sign Zombies
+	1 Storytelling
+	1 Crab Demon
+	1 Gumcrafting
+	1 Raggedy Princess
+	1 Hateful Faeries
+	1 Flame Princess
+	1 Snow Golem
+	1 Tiny, Micro Manticore
+	1 Pond Nymphs
+	1 Gunter, The First Bearer
+	1 Ghost Fly
+	1 Giant Lemon Snail
+	1 Lemoncrafting
+	1 Unrelenting Raccoon
+	1 Overstretch
+	1 T.V., Pup Detective
+	1 Shelby
+	1 Jake, The Dog
+	1 BMO
+	1 Space Lard
+	1 Bluescape
+	1 Greenscape
+	1 Redscape
+	1 Whitescape
+	1 Blackscape
+	1 Hive of the Star
+	1 Lub-Glubs
+	1 Cinnamon Bun, Half Baked
+	1 Scarab, God Auditor
+	1 Slumber Party
+	1 Haphazard Excavation
+	1 Old Wizards
+	1 Hair Ape
+	1 Bubblegum's Command
+	1 The Morrow
+	1 Fionna Campbell
+	1 Briberry
+	1 Next-Level Super Organism
+	1 Lemonhope, Sour Savior
+	1 Saltburn
+	1 Abraham Lincoln
+	1 Giant Ant Creature
+	1 Jake Junior, Bohemian
+	1 Cadebra, Novice Magician
+	1 Grassy Gatekeeper
+	1 Party Pat
+	1 Charlie, Cardomancer
+	1 Burn Down the Town
+	1 Lady Rainicorn
+	1 Muscle Princess
+	1 Bugbear Brawlers
+	1 Festive Nutler
+	1 Grass Demon
+	1 Darren, Ancient Sleeper
+	1 Glass Boy
+	1 Class Project
+	1 The Enchiridion
+	1 Viola, Aspiring Actress
+	1 Jermaine, Abstract Artist
+	1 Lumpy Space Princess
+	1 Citric Oppression
+	1 Syr Slicer
+	1 Altar of GOLB
+	1 Banana Man
+	1 Hall of Egress
+	1 Elise, Ailing Mother
+	1 Lurking Guardian
+	1 Magi of Life Giving
+	1 Sea Lard
+	1 Wolf Lard Pack
+	1 Wildberry Princess
+	1 Xergiok, The Flagelator
+	1 Mo, Paternal Roboticist
+	1 Starchy, The Gravedigger
+	1 Space Moth
+	1 Spader Peterson, Star Pupil
+	1 Warped Coyote
+	1 Lemonjohn, Tart Titan
+	1 Bufo, Former Dark Wizard
+	1 Billy, Hero of Legend
+	1 Wizard Streets
+	1 Inquisitive Looting
+	1 Famished Moldos
+	1 Fight King's Arena
+	1 The Drift
+	1 Sweet P, Precious Boy
+	1 Grody Ghost
+	1 Catpile
+	1 Devious Prank
+	1 Floop the Pig
+	1 Cripple
+	1 Decapitate
+	1 Feed the Swarm
+	1 Snuff
+	1 Searing Lick
+	1 Banana Soloist
+	1 Grapple
+	1 New Death
+	1 Gloat
+	1 Cross Blades
+	1 Pulp Artist
+	1 Royal Regiment
+	1 Finn, Seasoned Adventurer
+	1 DNA Seeker
+	1 Aunt Lolly
+	1 The Farm, Unwreckable
+	1 James Baxter, Good Dude
+	1 Flame Lord's Greeting
+	1 Well of Power
+	1 Talented Banana Guard
+	1 Princess Bubblegum
+	1 King of Ooo
+	1 Boneyfly
+	1 Kim Kil Whan, Landlord
+	1 Glimpse the Multiverse
+	1 Nuclear Fallout
+	1 Mystic Virus
+	1 Delivery Drone
+	1 Abstract Nightmare
+	1 Petrikov's Descent
+	1 Risky Scrounging
+	1 Mr. Pig
+	1 Whisper Dan, The Silent King
+	1 Secret Wizard Handshake
+	1 Olympus Mons
+	1 Hot Dog Knights
+	1 Marrow Muncher
