@@ -1,4 +1,145 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+
+Cousin Chicle removed.
+GOLB, Entropy Manifest removed.
+Prismo, The Wishmaster removed.
+Settle Beyond Reality removed.
+Bypass removed.
+Comedic Slip removed.
+Complex Equation removed.
+Ice-O-Pede removed.
+Portent of Calamity removed.
+Spectral Drop-Baller removed.
+Now removed.
+Bridge Shades removed.
+Dr. Gross, Gene Splicer removed.
+Malefic Tutor removed.
+Out of Options removed.
+Tragic Slip removed.
+Romantic Rendezvous removed.
+Secret Wizard Handshake removed.
+Sizzling Slap removed.
+Wizardlings removed.
+Battle Preperations removed.
+Donny, Beligerant Ogre removed.
+Downed removed.
+Stretch Around removed.
+Raze the Roof removed.
+Deathly Reunion removed.
+Ongoing Mystery removed.
+Fire removed.
+Life removed.
+Bubblegum's Rockets removed.
+CGO, Bootleg Bot removed.
+Dad's Holomessage removed.
+Feral Pageling removed.
+GOLB's Bauble removed.
+Mom's Holomessage removed.
+Olive, Service Droid removed.
+Olympus Mons removed.
+Thrumming Worm removed.
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+
+Flame Lord's Greeting
+
+Well of Power
+
+Talented Banana Guard
+
+Princess Bubblegum
+
+Varmint
+
+King of Ooo
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Space Elves
+
+Wizard Streets
+
+Glassassin
+
+Patience's Patient Plan
+
+Devious Prank
+
+Patience's Patient Plan
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+rules_text: 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+special_text: 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Secret Wizard Handshake
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Thrumming Worm
+type: Creature — Worm => Token Creature — Worm
+
+
+VERSION 37 CHANGELOG
 ====================
 
 No changes.
