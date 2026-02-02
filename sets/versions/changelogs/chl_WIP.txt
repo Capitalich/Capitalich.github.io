@@ -1,4 +1,97 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Olympus Mons added.
+Downed added.
+Cousin Chicle added.
+
+Marrow Muncher removed.
+
+Prismo, The Wishmaster
+rules_text:  => Prismo enters with a loyalty counter for each color of mana spent to cast him
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand.
+
+Ice-O-Pede
+
+Ongoing Mystery
+
+Raze the Roof
+
+Deathly Reunion
+
+Comedic Slip
+
+GOLB, Entropy Manifest
+
+Out of Options
+
+Fire
+
+Donny, Beligerant Ogre
+rules_text: When Donny enters, it fights up to one target creature you don't control.
+Protection from Whywolves. => Protection from Whywolves
+When Donny enters, it fights up to one target creature you don't control.
+
+Now
+
+Battle Preperations
+
+Dad's Holomessage
+
+GOLB's Bauble
+
+Mom's Holomessage
+
+Dr. Gross, Gene Splicer
+rules_text: Pay 2 life, Sacrifice another creature: Draw a card.
+{B}{B}, Discard a card, Exile two creatures from your graveyard: Create a tapped token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card. => Pay 2 life, Sacrifice another creature: Draw a card.
+{3}, Discard a card, Exile two creatures from your graveyard: Create a tapped token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card.
+
+Bridge Shades
+
+Sizzling Slap
+
+Romantic Rendezvous
+
+Life
+
+Malefic Tutor
+
+Tragic Slip
+
+Complex Equation
+
+Stretch Around
+
+Feral Pageling
+
+Olive, Service Droid
+
+Secret Wizard Handshake
+
+Bypass
+
+Thrumming Worm
+rules_text: Whenever you cast a noncreature spell, create a token copy of this creature. => Whenever you discard a nonland card, create a token copy of this creature.
+
+Wizardlings
+
+Portent of Calamity
+
+Spectral Drop-Baller
+
+Bubblegum's Rockets
+
+CGO, Bootleg Bot
+
+Settle Beyond Reality
+
+Thrumming Worm
+rules_text: Whenever you cast a noncreature spell, create a token copy of this creature. => Whenever you discard a nonland card, create a token copy of this creature.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Tragic Slip added.

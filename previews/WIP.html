@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/WIP-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/WIP-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>WIP visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,123 +181,149 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/WIP-files/logo.png" />
-	<img class="preload-hidden" src="/sets/ATC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WIP-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/WIP-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ATC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WIP-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="WIP"><img src="/sets/WIP-files/icon.png">Adventure Time Cube WIP</a>
+		<a class="set-bar" href="../previews/WIP"><img src="../sets/WIP-files/icon.png">Adventure Time Cube WIP</a>
 	
-		<a class="set-bar inactive" href="ATC"><img src="/sets/ATC-files/icon.png">Adventure Time Cube</a>
+		<a class="set-bar inactive" href="../previews/ATC"><img src="../sets/ATC-files/icon.png">Adventure Time Cube</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/WIP-files/logo.png">
+		<img class="logo" src="../sets/WIP-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\3_Settle Beyond Reality.png" id="3_Settle Beyond Reality" data-flag="@X" onclick="openSidebar('3_Settle Beyond Reality',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\4_Bypass.png" id="4_Bypass" data-flag="@X" onclick="openSidebar('4_Bypass',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\11_Bridge Shades.png" id="11_Bridge Shades" data-flag="@X" onclick="openSidebar('11_Bridge Shades',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\17_Romantic Rendezvous.png" id="17_Romantic Rendezvous" data-flag="@X" onclick="openSidebar('17_Romantic Rendezvous',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\21_Battle Preperations.png" id="21_Battle Preperations" data-flag="@X" onclick="openSidebar('21_Battle Preperations',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\5_Comedic Slip.png" id="5_Comedic Slip" data-flag="@X" onclick="openSidebar('5_Comedic Slip',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\12_Dr. Gross, Gene Splicer.png" id="12_Dr. Gross, Gene Splicer" data-flag="@X" onclick="openSidebar('12_Dr. Gross, Gene Splicer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\18_Secret Wizard Handshake.png" id="18_Secret Wizard Handshake" data-flag="@X" onclick="openSidebar('18_Secret Wizard Handshake',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\22_Donny, Beligerant Ogre.png" id="22_Donny, Beligerant Ogre" data-flag="@X" onclick="openSidebar('22_Donny, Beligerant Ogre',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\6_Complex Equation.png" id="6_Complex Equation" data-flag="@X" onclick="openSidebar('6_Complex Equation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\13_Malefic Tutor.png" id="13_Malefic Tutor" data-flag="@X" onclick="openSidebar('13_Malefic Tutor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\19_Sizzling Slap.png" id="19_Sizzling Slap" data-flag="@X" onclick="openSidebar('19_Sizzling Slap',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\23_Stretch Around.png" id="23_Stretch Around" data-flag="@X" onclick="openSidebar('23_Stretch Around',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\7_Ice-O-Pede.png" id="7_Ice-O-Pede" data-flag="@X" onclick="openSidebar('7_Ice-O-Pede',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\14_Out of Options.png" id="14_Out of Options" data-flag="@X" onclick="openSidebar('14_Out of Options',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\20_Wizardlings.png" id="20_Wizardlings" data-flag="@X" onclick="openSidebar('20_Wizardlings',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\8_Portent of Calamity.png" id="8_Portent of Calamity" data-flag="@X" onclick="openSidebar('8_Portent of Calamity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\15_Thrumming Worm.png" id="15_Thrumming Worm" data-flag="@X" onclick="openSidebar('15_Thrumming Worm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\9_Spectral Drop-Baller.png" id="9_Spectral Drop-Baller" data-flag="@X" onclick="openSidebar('9_Spectral Drop-Baller',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\16_Tragic Slip.png" id="16_Tragic Slip" data-flag="@X" onclick="openSidebar('16_Tragic Slip',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\10_Now.png" id="10_Now" data-flag="@X" onclick="openSidebar('10_Now',true)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\WIP-files\img\34.png" id="WIP_34" data-flag="@X" onclick="openSidebar('WIP_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\27.png" id="WIP_27" data-flag="@X" onclick="openSidebar('WIP_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\16.png" id="WIP_16" data-flag="@X" onclick="openSidebar('WIP_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\18.png" id="WIP_18" data-flag="@X" onclick="openSidebar('WIP_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\11.png" id="WIP_11" data-flag="@X" onclick="openSidebar('WIP_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\5.png" id="WIP_5" data-flag="@X" onclick="openSidebar('WIP_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\15.png" id="WIP_15" data-flag="@X" onclick="openSidebar('WIP_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\26.png" id="WIP_26" data-flag="@X" onclick="openSidebar('WIP_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\9.png" id="WIP_9" data-flag="@X" onclick="openSidebar('WIP_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\22.png" id="WIP_22" data-flag="@X" onclick="openSidebar('WIP_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\20.png" id="WIP_20" data-flag="@X" onclick="openSidebar('WIP_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\17.png" id="WIP_17" data-flag="@X" onclick="openSidebar('WIP_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\37.png" id="WIP_37" data-flag="@X" onclick="openSidebar('WIP_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\1.png" id="WIP_1" data-flag="@X" onclick="openSidebar('WIP_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\7.png" id="WIP_7" data-flag="@X" onclick="openSidebar('WIP_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\29.png" id="WIP_29" data-flag="@X" onclick="openSidebar('WIP_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\23.png" id="WIP_23" data-flag="@X" onclick="openSidebar('WIP_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\30.png" id="WIP_30" data-flag="@X" onclick="openSidebar('WIP_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\28.png" id="WIP_28" data-flag="@X" onclick="openSidebar('WIP_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\31.png" id="WIP_31" data-flag="@X" onclick="openSidebar('WIP_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\21.png" id="WIP_21" data-flag="@X" onclick="openSidebar('WIP_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\10.png" id="WIP_10" data-flag="@X" onclick="openSidebar('WIP_10',true)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\24_Marrow Muncher.png" id="24_Marrow Muncher" data-flag="@X" onclick="openSidebar('24_Marrow Muncher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\25_Raze the Roof.png" id="25_Raze the Roof" data-flag="@X" onclick="openSidebar('25_Raze the Roof',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\26_Deathly Reunion.png" id="26_Deathly Reunion" data-flag="@X" onclick="openSidebar('26_Deathly Reunion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\28_Fire.png" id="28_Fire" data-flag="@X" onclick="openSidebar('28_Fire',true)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\29_Life.png" id="29_Life" data-flag="@X" onclick="openSidebar('29_Life',true)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\27_Ongoing Mystery.png" id="27_Ongoing Mystery" data-flag="@X" onclick="openSidebar('27_Ongoing Mystery',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\38.png" id="WIP_38" data-flag="@X" onclick="openSidebar('WIP_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\3.png" id="WIP_3" data-flag="@X" onclick="openSidebar('WIP_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\4.png" id="WIP_4" data-flag="@X" onclick="openSidebar('WIP_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\8.png" id="WIP_8" data-flag="@X" onclick="openSidebar('WIP_8',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\19.png" id="WIP_19" data-flag="@X" onclick="openSidebar('WIP_19',true)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\2.png" id="WIP_2" data-flag="@X" onclick="openSidebar('WIP_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\1_GOLB, Entropy Manifest.png" id="1_GOLB, Entropy Manifest" data-flag="@X" onclick="openSidebar('1_GOLB, Entropy Manifest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\2_Prismo, The Wishmaster.png" id="2_Prismo, The Wishmaster" data-flag="@X" onclick="openSidebar('2_Prismo, The Wishmaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\30_Bubblegum's Rockets.png" id="30_Bubblegums Rockets" data-flag="@X" onclick="openSidebar('30_Bubblegums Rockets',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\31_CGO, Bootleg Bot.png" id="31_CGO, Bootleg Bot" data-flag="@X" onclick="openSidebar('31_CGO, Bootleg Bot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\32_Dad's Holomessage.png" id="32_Dads Holomessage" data-flag="@X" onclick="openSidebar('32_Dads Holomessage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\33_Feral Pageling.png" id="33_Feral Pageling" data-flag="@X" onclick="openSidebar('33_Feral Pageling',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\34_GOLB's Bauble.png" id="34_GOLBs Bauble" data-flag="@X" onclick="openSidebar('34_GOLBs Bauble',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\35_Mom's Holomessage.png" id="35_Moms Holomessage" data-flag="@X" onclick="openSidebar('35_Moms Holomessage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\36_Olive, Service Droid.png" id="36_Olive, Service Droid" data-flag="@X" onclick="openSidebar('36_Olive, Service Droid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\6.png" id="WIP_6" data-flag="@X" onclick="openSidebar('WIP_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\0.png" id="WIP_0" data-flag="@X" onclick="openSidebar('WIP_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\32.png" id="WIP_32" data-flag="@X" onclick="openSidebar('WIP_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\33.png" id="WIP_33" data-flag="@X" onclick="openSidebar('WIP_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\12.png" id="WIP_12" data-flag="@X" onclick="openSidebar('WIP_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\24.png" id="WIP_24" data-flag="@X" onclick="openSidebar('WIP_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\13.png" id="WIP_13" data-flag="@X" onclick="openSidebar('WIP_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\14.png" id="WIP_14" data-flag="@X" onclick="openSidebar('WIP_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\25.png" id="WIP_25" data-flag="@X" onclick="openSidebar('WIP_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\36.png" id="WIP_36" data-flag="@X" onclick="openSidebar('WIP_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\WIP-files\img\1t_Thrumming Worm.png" id="1t_Thrumming Worm" data-flag="@X" onclick="openSidebar('1t_Thrumming Worm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\WIP-files\img\35.png" id="WIP_35" data-flag="@X" onclick="openSidebar('WIP_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="WIP_e" data-flag="@E" onclick="openSidebar('WIP_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="WIP_er" data-flag="@E" onclick="openSidebar('WIP_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -303,19 +336,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -350,13 +475,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -510,16 +638,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -529,7 +657,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>
