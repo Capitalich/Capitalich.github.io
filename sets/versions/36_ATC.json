@@ -1,10 +1,11 @@
 ﻿{
     "name": "Adventure Time Cube",
     "formats": "",
-    "trimmed": "n",
     "image_type": "png",
     "draft_structure": "cube",
     "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
     "cards": [
         {
             "card_name": "Arboreal Indoctrination",
@@ -22,6 +23,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E04 \u2014 Up a Tree",
+            "alias": "",
+            "position": "0",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -40,6 +44,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E09 \u2014 The Other Tarts",
+            "alias": "",
+            "position": "1",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -58,6 +65,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E08 \u2014 Business Time",
+            "alias": "",
+            "position": "2",
             "card_name2": "Business Zombies",
             "color2": "B",
             "type2": "Creature \u2014 Zombie",
@@ -68,6 +77,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S01E08 \u2014 Business Time",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -86,6 +98,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E25 \u2014 Candy Streets",
+            "alias": "",
+            "position": "3",
+            "rotated": false,
             "notes": "!tag reprint"
         },
         {
@@ -104,6 +119,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E18 \u2014 Susan Strong",
+            "alias": "",
+            "position": "4",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -122,6 +140,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E18 \u2014 Dungeon",
+            "alias": "",
+            "position": "5",
             "card_name2": "Approximate",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -132,6 +152,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -150,6 +173,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E29 \u2014 Sky Witch",
+            "alias": "",
+            "position": "6",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -168,6 +194,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E02 \u2014 Jake the Dog",
+            "alias": "",
+            "position": "7",
+            "rotated": false,
             "notes": "!tag reprint"
         },
         {
@@ -186,6 +215,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E52 \u2014 Billy's Bucket List",
+            "alias": "",
+            "position": "8",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -204,6 +236,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E17 \u2014 Death In Bloom",
+            "alias": "",
+            "position": "9",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -222,6 +257,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E12 \u2014 Ocarina",
+            "alias": "",
+            "position": "10",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -240,6 +278,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E35 \u2014 Grables 1000 Plus",
+            "alias": "",
+            "position": "11",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -258,6 +299,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E21 \u2014 Belly of the Beast",
+            "alias": "",
+            "position": "12",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag edict\n\u201cAll those bears... are gonna turn into The Stuff...\u201d"
         },
         {
@@ -276,6 +320,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E25 \u2014 Dad's Dungeon",
+            "alias": "",
+            "position": "13",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-enchantment\n!tag reprint"
         },
         {
@@ -294,6 +341,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E26 \u2014 Dungeon Train",
+            "alias": "",
+            "position": "14",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -312,6 +362,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E04 \u2014 The Tower",
+            "alias": "",
+            "position": "15",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -330,6 +383,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E25 \u2014 I Remember You",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -348,6 +404,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E19 \u2014 Lady and Peebles",
+            "alias": "",
+            "position": "17",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -366,6 +425,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E12 \u2014 Vault of Bones",
+            "alias": "",
+            "position": "18",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-enchantment\n!tag removal-artifact\n!tag removal-flying"
         },
         {
@@ -384,6 +446,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E42 \u2014 James",
+            "alias": "",
+            "position": "19",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -402,6 +467,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E24 \u2014 What Have You Done",
+            "alias": "",
+            "position": "20",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -420,6 +488,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E02 \u2014 Jake the Dog",
+            "alias": "",
+            "position": "21",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -438,6 +509,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E21 \u2014 The Suitor",
+            "alias": "",
+            "position": "22",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -456,6 +530,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E03 \u2014 Memory of a Memory",
+            "alias": "",
+            "position": "23",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-planeswalker\n!tag removal-creature"
         },
         {
@@ -474,6 +551,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E02 \u2014 Trouble in Lumpy Space",
+            "alias": "",
+            "position": "24",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -492,6 +572,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E16 \u2014 Jake vs. Memow",
+            "alias": "",
+            "position": "25",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -510,6 +593,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E06 \u2014 The Jiggler",
+            "alias": "",
+            "position": "26",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -528,6 +614,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E24 \u2014 Another Five More Short Graybles",
+            "alias": "",
+            "position": "27",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -546,6 +635,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E16 \u2014 Joshua and Margerett Investigations",
+            "alias": "",
+            "position": "28",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -564,6 +656,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E05 \u2014 Storytelling",
+            "alias": "",
+            "position": "29",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -582,6 +677,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E07 \u2014 Power Animal",
+            "alias": "",
+            "position": "30",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -600,6 +698,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E16 \u2014 Puhoy",
+            "alias": "",
+            "position": "31",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -618,6 +719,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E06 \u2014 Daddy's Little Monster",
+            "alias": "",
+            "position": "32",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -636,6 +740,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E06 \u2014 Breezy",
+            "alias": "",
+            "position": "33",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -654,6 +761,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E48 \u2014 Betty",
+            "alias": "",
+            "position": "34",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -672,6 +782,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E01 \u2014 Slumber Party Panic",
+            "alias": "",
+            "position": "35",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -690,6 +803,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E43 \u2014 Root Beer Guy",
+            "alias": "",
+            "position": "36",
             "card_name2": "Dirt Beer Guy",
             "color2": "W",
             "type2": "Legendary Creature \u2014 Candy Zombie",
@@ -700,6 +815,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S07E03 \u2014 Cherry Cream Soda",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -718,6 +836,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E10 \u2014 Memories of Boom Boom Mountain",
+            "alias": "",
+            "position": "37",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag fight"
         },
         {
@@ -736,6 +857,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E20 \u2014 Freak City",
+            "alias": "",
+            "position": "38",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -754,6 +878,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E17 \u2014 Angel Face",
+            "alias": "",
+            "position": "39",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -772,6 +899,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E15 \u2014 No One Can Hear You",
+            "alias": "",
+            "position": "40",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -790,6 +920,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E16 \u2014 Ocean of Fear",
+            "alias": "",
+            "position": "41",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -800,7 +933,7 @@
             "number": 121,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "",
+            "rules_text": "[+1]: Draw a card, then you get two rad counters.\n[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.\n[-7]: Put any number of creatures you own in exile onto the battlefield.\nEscape\u2014{B}{B}{B}, Exile four other cards from your graveyard.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Draw a card, then you get two rad counters.\n[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.\n[-7]: Put any number of creatures you own in exile onto the battlefield.\nEscape\u2014{B}{B}{B}, Exile four other cards from your graveyard.",
@@ -808,6 +941,9 @@
             "set": "ATC",
             "loyalty": "3",
             "artist": "S01E25 \u2014 His Hero",
+            "alias": "",
+            "position": "42",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -826,6 +962,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E06 \u2014 The Jiggler",
+            "alias": "",
+            "position": "43",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -844,6 +983,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E24 \u2014 Mortal Folly",
+            "alias": "",
+            "position": "44",
+            "rotated": false,
             "notes": "!tag reprint"
         },
         {
@@ -862,6 +1004,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E25 \u2014 Flute Spell",
+            "alias": "",
+            "position": "45",
             "card_name2": "Boar Hunt",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -872,6 +1016,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -890,6 +1037,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E18 \u2014 King Worm",
+            "alias": "",
+            "position": "46",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -908,6 +1058,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E29 \u2014 Dark Purple",
+            "alias": "",
+            "position": "47",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -926,6 +1079,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E23 \u2014 Rainy Day",
+            "alias": "",
+            "position": "48",
+            "rotated": false,
             "notes": "!tag sweeper\n!tag reprint"
         },
         {
@@ -944,6 +1100,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E26 \u2014 Wizards Only, Fools",
+            "alias": "",
+            "position": "49",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -962,6 +1121,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E11 \u2014 Take Her Back",
+            "alias": "",
+            "position": "50",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -980,6 +1142,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E13 \u2014 Reboot",
+            "alias": "",
+            "position": "51",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -998,6 +1163,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E27 \u2014 The Visitor",
+            "alias": "",
+            "position": "52",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1016,6 +1184,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E25 -- Dad's Dungeon",
+            "alias": "",
+            "position": "53",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1034,6 +1205,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E10 \u2014 Something Big",
+            "alias": "",
+            "position": "54",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1052,6 +1226,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E13 \u2014 Whispers",
+            "alias": "",
+            "position": "55",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1070,6 +1247,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E04 \u2014 Tree Trunks",
+            "alias": "",
+            "position": "56",
             "card_name2": "Cognitoxin",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -1080,6 +1259,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1098,6 +1280,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "57",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1116,6 +1301,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E01 -- The Wild Hunt",
+            "alias": "",
+            "position": "58",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -1134,6 +1322,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E10 \u2014 Something Big",
+            "alias": "",
+            "position": "59",
+            "rotated": false,
             "notes": "X \u2014 Payoff (Legendary relic sac)"
         },
         {
@@ -1152,6 +1343,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E20 \u2014 Jake the Brick",
+            "alias": "",
+            "position": "60",
+            "rotated": false,
             "notes": "I would like better art for this."
         },
         {
@@ -1170,6 +1364,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "61",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1188,6 +1385,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "62",
+            "rotated": false,
             "notes": "X \u2014 Ramp, Relic Maker"
         },
         {
@@ -1206,6 +1406,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "63",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1224,6 +1427,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E02 \u2014 Varmints",
+            "alias": "",
+            "position": "64",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1242,6 +1448,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "65",
             "card_name2": "Life's Molding",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -1252,6 +1460,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1270,6 +1481,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "66",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1288,6 +1502,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "67",
             "card_name2": "Quest Prep",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -1298,6 +1514,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RG \u2014 Enabler"
         },
         {
@@ -1316,6 +1535,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E36 \u2014 Dungeon Train",
+            "alias": "",
+            "position": "68",
             "card_name2": "Observe the Orb",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -1326,6 +1547,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1344,6 +1568,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E24 \u2014 What Have You Done (PH)",
+            "alias": "",
+            "position": "69",
+            "rotated": false,
             "notes": "UR \u2014 Enabler"
         },
         {
@@ -1362,6 +1589,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E18 \u2014 President Porpoise is Missing",
+            "alias": "",
+            "position": "70",
             "card_name2": "Motion to Adjourn",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -1372,6 +1601,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -1390,6 +1622,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E05 -- I Am a Sword",
+            "alias": "",
+            "position": "71",
+            "rotated": false,
             "notes": "Not sure whether the limit is necessary."
         },
         {
@@ -1408,6 +1643,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E45 \u2014 Blade of Grass",
+            "alias": "",
+            "position": "72",
+            "rotated": false,
             "notes": "X \u2014 Looter"
         },
         {
@@ -1426,6 +1664,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "73",
+            "rotated": false,
             "notes": "Looting effect\nthief effect (draw card on hit)\nmadness"
         },
         {
@@ -1444,6 +1685,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E26 \u2014 Wizards Only, Fool",
+            "alias": "",
+            "position": "74",
             "card_name2": "Gather the Circle",
             "color2": "U",
             "type2": "Sorcery \u2014 Adventure",
@@ -1454,6 +1697,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UR"
         },
         {
@@ -1472,6 +1718,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E23 \u2014 Imaginary Resources",
+            "alias": "",
+            "position": "75",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1490,6 +1739,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E24 \u2014 Mortal Folly",
+            "alias": "",
+            "position": "76",
+            "rotated": false,
             "notes": "!tag trick"
         },
         {
@@ -1508,6 +1760,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E22 \u2014 Ignition Point",
+            "alias": "",
+            "position": "77",
+            "rotated": false,
             "notes": "Needs puncuation help."
         },
         {
@@ -1526,6 +1781,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "78",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1544,6 +1802,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "79",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1562,6 +1823,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "80",
             "card_name2": "Snatching Slurp",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -1572,6 +1835,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1590,6 +1856,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E01 \u2014 The Wild Hunt",
+            "alias": "",
+            "position": "81",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1608,6 +1877,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "82",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -1626,6 +1898,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E13 \u2014 Reboot",
+            "alias": "",
+            "position": "83",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag bite"
         },
         {
@@ -1644,6 +1919,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "84",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1662,6 +1940,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "85",
             "card_name2": "Impromptu Rescue",
             "color2": "W",
             "type2": "Instant \u2014 Adventure",
@@ -1672,6 +1952,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1690,6 +1973,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E13 \u2014 The Great Bird Man",
+            "alias": "",
+            "position": "86",
             "card_name2": "Zen Moment",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -1700,6 +1985,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1718,6 +2006,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E17 \u2014 High Strangeness",
+            "alias": "",
+            "position": "87",
+            "rotated": false,
             "notes": "!tag flicker"
         },
         {
@@ -1736,6 +2027,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E21 \u2014 Belly of the Beast",
+            "alias": "",
+            "position": "88",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1754,6 +2048,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E20 \u2014 You Made Me",
+            "alias": "",
+            "position": "89",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -1772,6 +2069,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E39 \u2014 Be Sweet",
+            "alias": "",
+            "position": "90",
+            "rotated": false,
             "notes": "!tag sweeper"
         },
         {
@@ -1790,6 +2090,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E25 -- Astral Plane",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
             "notes": "!tag sweeper"
         },
         {
@@ -1808,6 +2111,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E09 \u2014 All Your Fault",
+            "alias": "",
+            "position": "92",
             "card_name2": "Horrid Visage",
             "color2": "W",
             "type2": "Instant \u2014 Adventure",
@@ -1818,6 +2123,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -1836,6 +2144,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 -- Wizard City",
+            "alias": "",
+            "position": "93",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -1854,6 +2165,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E22 \u2014 The Cooler",
+            "alias": "",
+            "position": "94",
+            "rotated": false,
             "notes": "Add to make more powerful:\nWhen Mass Surveillance enters, Surveil X, where X is the number of creatures on the battlefield."
         },
         {
@@ -1872,6 +2186,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E08 \u2014 Wizard Battle",
+            "alias": "",
+            "position": "95",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -1890,6 +2207,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E52 \u2014 Billy's Bucket List",
+            "alias": "",
+            "position": "96",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1908,6 +2228,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E12 \u2014 Her Parents",
+            "alias": "",
+            "position": "97",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1926,6 +2249,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E25 \u2014 His Hero",
+            "alias": "",
+            "position": "98",
             "card_name2": "Wave of Horror",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -1936,6 +2261,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -1954,6 +2282,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E01 \u2014 Hot to the Touch",
+            "alias": "",
+            "position": "99",
+            "rotated": false,
             "notes": "WU \u2014 Payoff (Mana Sink)"
         },
         {
@@ -1972,6 +2303,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E09 \u2014 Is That You",
+            "alias": "",
+            "position": "100",
             "card_name2": "Fern, Mossy Mirror",
             "color2": "G",
             "type2": "Legendary Creature \u2014 Plant",
@@ -1982,6 +2315,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S08E20 \u2014 The Invitation",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2000,6 +2336,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E32 \u2014 Earth and Water",
+            "alias": "",
+            "position": "101",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2018,6 +2357,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E36 \u2014 Dungeon Train",
+            "alias": "",
+            "position": "102",
             "card_name2": "Battle Lust",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -2028,6 +2369,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2046,6 +2390,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E25 \u2014 Flute Spell",
+            "alias": "",
+            "position": "103",
+            "rotated": false,
             "notes": "!tag triome\n\nMaybe only count basic lands?\n\nOnly enters untapped if you only have forest island and or mountain"
         },
         {
@@ -2064,6 +2411,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E13 \u2014 Reboot",
+            "alias": "",
+            "position": "104",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2082,6 +2432,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E11 \u2014 Daddy-Daughter Card Wars",
+            "alias": "",
+            "position": "105",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2100,6 +2453,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E05 \u2014 I Am a Sword",
+            "alias": "",
+            "position": "106",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2118,6 +2474,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08 \u2014 Do No Harm",
+            "alias": "",
+            "position": "107",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2136,6 +2495,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "108",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2154,6 +2516,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "109",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2172,6 +2537,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E11 \u2014 Chamber of the Frozen Blades",
+            "alias": "",
+            "position": "110",
+            "rotated": false,
             "notes": "UR \u2014 Payoff (Discard trigger)"
         },
         {
@@ -2190,6 +2558,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E12 \u2014 Gotcha!",
+            "alias": "",
+            "position": "111",
+            "rotated": false,
             "notes": "X \u2014 Sub-Game\n\nThere are alternative arts."
         },
         {
@@ -2208,6 +2579,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E04 \u2014 Blood Under the Skin",
+            "alias": "",
+            "position": "112",
+            "rotated": false,
             "notes": "!tag fetch\n!tag reprint"
         },
         {
@@ -2226,6 +2600,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E03 \u2014 Son of Rap Bear",
+            "alias": "",
+            "position": "113",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2244,6 +2621,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "114",
+            "rotated": false,
             "notes": "!tag removal\n!theft-creature"
         },
         {
@@ -2262,6 +2642,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E03 \u2014 Memory of a Memory",
+            "alias": "",
+            "position": "115",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2280,6 +2663,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E02 \u2014 The Eyes",
+            "alias": "",
+            "position": "116",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2298,6 +2684,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "117",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2316,6 +2705,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E13 \u2014 Whispers",
+            "alias": "",
+            "position": "118",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2334,6 +2726,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E20 \u2014 Go With Me",
+            "alias": "",
+            "position": "119",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2352,6 +2747,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02\\S02E17 \u2014 Death in Bloom",
+            "alias": "",
+            "position": "120",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2370,6 +2768,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E05 \u2014 Return to the Nightosphere",
+            "alias": "",
+            "position": "121",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2388,6 +2789,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E12 \u2014 Vault of Bones",
+            "alias": "",
+            "position": "122",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2406,6 +2810,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E05 \u2014 I Am a Sword",
+            "alias": "",
+            "position": "123",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2424,6 +2831,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "124",
+            "rotated": false,
             "notes": "I just wish I could have seen The Treehouse one more time."
         },
         {
@@ -2442,6 +2852,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E04 \u2014 Mama Said",
+            "alias": "",
+            "position": "125",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2460,6 +2873,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E10 \u2014 What Was Missing",
+            "alias": "",
+            "position": "126",
+            "rotated": false,
             "notes": "BR \u2014 Enabler"
         },
         {
@@ -2478,6 +2894,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E03 \u2014 Web Weirdos",
+            "alias": "",
+            "position": "127",
+            "rotated": false,
             "notes": "BG \u2014 Payoff\n\nIt's so wordy, it's so r/custommagicy, but the play pattern sounds sick.\n\nSpider Spawning 4G\nSorcery\nCreate a 1/2 green Spider creature token with reach for each creature card in your graveyard.\nFlashback 6B (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
         },
         {
@@ -2496,6 +2915,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E21 \u2014 Donny",
+            "alias": "",
+            "position": "128",
             "card_name2": "Bloodlusted Whywolf",
             "color2": "R",
             "type2": "Creature \u2014 Whywolf",
@@ -2506,6 +2927,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S01E21 \u2014 Donny",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -2524,6 +2948,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E06 \u2014 Ring of Fire",
+            "alias": "",
+            "position": "129",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -2542,6 +2969,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E11 \u2014 Beyond This Earthly Realm",
+            "alias": "",
+            "position": "130",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -2560,6 +2990,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E08 -- Hero Heart",
+            "alias": "",
+            "position": "131",
+            "rotated": false,
             "notes": "!tag payoff-activate"
         },
         {
@@ -2578,6 +3011,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E52 \u2014 Billy's Bucket List",
+            "alias": "",
+            "position": "132",
+            "rotated": false,
             "notes": "X \u2014 Tutor"
         },
         {
@@ -2596,6 +3032,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E02 \u2014 Five Short Graybles",
+            "alias": "",
+            "position": "133",
+            "rotated": false,
             "notes": "UG \u2014 AIO (Draw, Clue Gen, Relic Sac Outlet)\n\nCould also be a deep analysis reprint"
         },
         {
@@ -2614,6 +3053,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E18 \u2014 Dungeon (PH)",
+            "alias": "",
+            "position": "134",
             "card_name2": "Traverse Ooo",
             "color2": "WR",
             "type2": "Sorcery \u2014 Adventure",
@@ -2624,6 +3065,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RW \u2014 Payoff\n\nNot happy with art"
         },
         {
@@ -2642,6 +3086,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E16 \u2014 Wheels",
+            "alias": "",
+            "position": "135",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2660,6 +3107,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E24 \u2014 Hide and Seek",
+            "alias": "",
+            "position": "136",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2678,6 +3128,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E03 \u2014 Cake the Cat",
+            "alias": "",
+            "position": "137",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2696,6 +3149,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "138",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2714,6 +3170,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E08 \u2014 Furniture & Meat",
+            "alias": "",
+            "position": "139",
             "card_name2": "Forceful Generosity",
             "color2": "RG",
             "type2": "Instant \u2014 Adventure",
@@ -2724,6 +3182,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2742,6 +3203,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E51 \u2014 Lemonhope (2)",
+            "alias": "",
+            "position": "140",
             "card_name2": "Sinister Spotlight",
             "color2": "WB",
             "type2": "Sorcery \u2014 Adventure",
@@ -2752,6 +3215,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2770,6 +3236,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E14 \u2014 Beautopia",
+            "alias": "",
+            "position": "141",
             "card_name2": "Mysterous Hatch",
             "color2": "UG",
             "type2": "Instant \u2014 Adventure",
@@ -2780,6 +3248,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2798,6 +3269,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E01 \u2014 Finn the Human",
+            "alias": "",
+            "position": "142",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2816,6 +3290,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E08 \u2014 Elemental",
+            "alias": "",
+            "position": "143",
             "card_name2": "Peruse the Ooze",
             "color2": "BG",
             "type2": "Sorcery \u2014 Adventure",
@@ -2826,6 +3302,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2844,6 +3323,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S00E07 \u2014 The Gift, that Reaps Giving",
+            "alias": "",
+            "position": "144",
             "card_name2": "Death's Harvest",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -2854,6 +3335,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2872,6 +3356,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "145",
             "card_name2": "Wizards Only, Fools!",
             "color2": "UR",
             "type2": "Instant \u2014 Adventure",
@@ -2882,6 +3368,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2900,6 +3389,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E26 \u2014 Incendium",
+            "alias": "",
+            "position": "146",
             "card_name2": "Court of Flame",
             "color2": "BR",
             "type2": "Sorcery \u2014 Adventure",
@@ -2910,6 +3401,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2928,6 +3422,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E12 \u2014 Gumbaldia",
+            "alias": "",
+            "position": "147",
             "card_name2": "Sweet Subterfuge",
             "color2": "UB",
             "type2": "Instant \u2014 Adventure",
@@ -2938,6 +3434,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2956,6 +3455,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "148",
             "card_name2": "Heroic Reenactment",
             "color2": "WR",
             "type2": "Instant \u2014 Adventure",
@@ -2966,6 +3467,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -2984,6 +3488,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "149",
             "card_name2": "Candy Jubilee",
             "color2": "WU",
             "type2": "Sorcery \u2014 Adventure",
@@ -2994,6 +3500,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3012,6 +3521,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E04 \u2014 Hitman",
+            "alias": "",
+            "position": "150",
             "card_name2": "Royal Feast",
             "color2": "WG",
             "type2": "Sorcery \u2014 Adventure",
@@ -3022,6 +3533,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3040,6 +3554,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E37 \u2014 The Box Prince",
+            "alias": "",
+            "position": "151",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3058,6 +3575,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E20 \u2014 The Invitation",
+            "alias": "",
+            "position": "152",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -3076,6 +3596,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E13 \u2014 Whispers",
+            "alias": "",
+            "position": "153",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -3094,6 +3617,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E11 \u2014 Wizard",
+            "alias": "",
+            "position": "154",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -3112,6 +3638,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E01 \u2014 Bonnie and Neddy",
+            "alias": "",
+            "position": "155",
+            "rotated": false,
             "notes": "!tag convokeland"
         },
         {
@@ -3130,6 +3659,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E01 \u2014 Bonnie and Neddy",
+            "alias": "",
+            "position": "156",
+            "rotated": false,
             "notes": "!tag triome"
         },
         {
@@ -3148,6 +3680,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E08 \u2014 Vamps About",
+            "alias": "",
+            "position": "157",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3166,6 +3701,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "158",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3184,6 +3722,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E07 \u2014 Power Animal",
+            "alias": "",
+            "position": "159",
+            "rotated": false,
             "notes": "BR \u2014 Enabler"
         },
         {
@@ -3202,6 +3743,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E45 \u2014 Blade of Grass",
+            "alias": "",
+            "position": "160",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3220,6 +3764,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS02E01",
+            "alias": "",
+            "position": "161",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3238,6 +3785,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E10 \u2014 Memories of Boom Boom Mountain",
+            "alias": "",
+            "position": "162",
             "card_name2": "Scratch the Itch",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -3248,6 +3797,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -3266,6 +3818,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03\\S03E26 \u2014 Incendium",
+            "alias": "",
+            "position": "163",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3284,6 +3839,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E13 \u2014 Thanks for the Crabapples, Giuseppe",
+            "alias": "",
+            "position": "164",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3302,6 +3860,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E13 \u2014 From Bad to Worse",
+            "alias": "",
+            "position": "165",
+            "rotated": false,
             "notes": "WU"
         },
         {
@@ -3320,6 +3881,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E46 \u2014 Rattleballs",
+            "alias": "",
+            "position": "166",
             "card_name2": "Shadowless Thrust",
             "color2": "W",
             "type2": "Instant \u2014 Adventure",
@@ -3330,6 +3893,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3348,6 +3914,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "Meme",
+            "alias": "",
+            "position": "167",
+            "rotated": false,
             "notes": "Twiddle"
         },
         {
@@ -3366,6 +3935,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E05 \u2014 Too Young",
+            "alias": "",
+            "position": "168",
+            "rotated": false,
             "notes": "WB \u2014 Payoff"
         },
         {
@@ -3384,6 +3956,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "169",
             "card_name2": "Rampant Razing",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -3394,6 +3968,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3412,6 +3989,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "170",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3430,6 +4010,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "171",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3448,6 +4031,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E06 \u2014 Breezy",
+            "alias": "",
+            "position": "172",
             "card_name2": "Breezy, Ascendant",
             "color2": "W",
             "type2": "Legendary Creature \u2014 Insect Noble",
@@ -3458,6 +4043,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S06E06 \u2014 Breezy",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3476,6 +4064,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E20 \u2014 The Invitation",
+            "alias": "",
+            "position": "173",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3494,6 +4085,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "174",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3512,6 +4106,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "175",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3530,6 +4127,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E25 \u2014 Astral Plane",
+            "alias": "",
+            "position": "176",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell\n!tag cantrip"
         },
         {
@@ -3548,6 +4148,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E32 \u2014 Earth and Water",
+            "alias": "",
+            "position": "177",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -3566,6 +4169,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E01 \u2014 Bonnie and Neddy",
+            "alias": "",
+            "position": "178",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3584,6 +4190,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E04 \u2014 Bonnibel Bubblegum",
+            "alias": "",
+            "position": "179",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -3602,6 +4211,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E24 \u2014 Mortal Folly",
+            "alias": "",
+            "position": "180",
+            "rotated": false,
             "notes": "Probably better art"
         },
         {
@@ -3620,6 +4232,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E08 \u2014 Elemental",
+            "alias": "",
+            "position": "181",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -3638,6 +4253,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E45 \u2014 Blade of Grass",
+            "alias": "",
+            "position": "182",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag bite"
         },
         {
@@ -3656,6 +4274,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E02 \u2014 The Eyes",
+            "alias": "",
+            "position": "183",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3674,6 +4295,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E26 \u2014 Helpers",
+            "alias": "",
+            "position": "184",
+            "rotated": false,
             "notes": "UG \u2014 AIO, (Clue gen, relic counting)"
         },
         {
@@ -3692,6 +4316,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S00E13 \u2014 Frog Seasons Spring (Again)",
+            "alias": "",
+            "position": "185",
             "card_name2": "Gilded Harvest",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -3702,6 +4328,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "freestyle"
         },
         {
@@ -3720,6 +4349,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E23 \u2014 Rainy Day Daydream",
+            "alias": "",
+            "position": "186",
+            "rotated": false,
             "notes": "!tag sweeper"
         },
         {
@@ -3738,6 +4370,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E10 \u2014 Memories of Boom Boom Mountain",
+            "alias": "",
+            "position": "187",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3756,6 +4391,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E07 \u2014 Happy Warrior",
+            "alias": "",
+            "position": "188",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3774,6 +4412,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E07 \u2014 The Star",
+            "alias": "",
+            "position": "189",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag reprint"
         },
         {
@@ -3792,6 +4433,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E10 \u2014 Goliad",
+            "alias": "",
+            "position": "190",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -3810,6 +4454,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E35 \u2014 Love Games",
+            "alias": "",
+            "position": "191",
             "card_name2": "Slimey Subterfuge",
             "color2": "G",
             "type2": "Instant \u2014 Adventure",
@@ -3820,6 +4466,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-relic"
         },
         {
@@ -3838,6 +4487,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "192",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3856,6 +4508,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "193",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell\n!tag removal-relic"
         },
         {
@@ -3874,6 +4529,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E19 \u2014 The Duke",
+            "alias": "",
+            "position": "194",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3892,6 +4550,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E04 -- Hitman",
+            "alias": "",
+            "position": "195",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3910,6 +4571,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E03 \u2014 Bespoken For",
+            "alias": "",
+            "position": "196",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3928,6 +4592,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E07 \u2014 Ricardio the Heart Guy",
+            "alias": "",
+            "position": "197",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3946,6 +4613,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E02 \u2014 Always BMO Closing",
+            "alias": "",
+            "position": "198",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -3964,6 +4634,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E16 \u2014 Ocean of Fear",
+            "alias": "",
+            "position": "199",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -3982,6 +4655,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E25 \u2014 Flute Spell",
+            "alias": "",
+            "position": "200",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4000,6 +4676,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E08 \u2014 Crystals Have Power",
+            "alias": "",
+            "position": "201",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4018,6 +4697,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E02 \u2014 Skyhooks",
+            "alias": "",
+            "position": "202",
+            "rotated": false,
             "notes": "There's gotta be a more clever card than color shifted essense reliquery"
         },
         {
@@ -4036,6 +4718,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E04 \u2014 Prismo the Wish Master",
+            "alias": "",
+            "position": "203",
+            "rotated": false,
             "notes": "!tag reprint"
         },
         {
@@ -4054,6 +4739,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E22 \u2014 The Party's Over, Isla de Senorita",
+            "alias": "",
+            "position": "204",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4072,6 +4760,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E20 \u2014 Freak City",
+            "alias": "",
+            "position": "205",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4090,6 +4781,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E14 \u2014 Princess Day",
+            "alias": "",
+            "position": "206",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4108,6 +4802,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E21 \u2014 The Suitor",
+            "alias": "",
+            "position": "207",
+            "rotated": false,
             "notes": "BR \u2014 AIO"
         },
         {
@@ -4126,6 +4823,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E23 \u2014 Another Way",
+            "alias": "",
+            "position": "208",
             "card_name2": "Clown Kisses",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -4136,6 +4835,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag regrowth"
         },
         {
@@ -4154,6 +4856,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E26 \u2014 Incendium",
+            "alias": "",
+            "position": "209",
+            "rotated": false,
             "notes": "Picture could be better."
         },
         {
@@ -4172,6 +4877,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E05 \u2014 Destiny",
+            "alias": "",
+            "position": "210",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -4190,6 +4898,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E12 \u2014 Checkmate",
+            "alias": "",
+            "position": "211",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -4208,6 +4919,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "212",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4226,6 +4940,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E26 \u2014 Helpers",
+            "alias": "",
+            "position": "213",
+            "rotated": false,
             "notes": "!tag sweeper"
         },
         {
@@ -4244,6 +4961,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E25 \u2014 Flute Spell",
+            "alias": "",
+            "position": "214",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4262,6 +4982,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E03 \u2014 Son of Rap Bear",
+            "alias": "",
+            "position": "215",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4280,6 +5003,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "216",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -4298,6 +5024,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E34 \u2014 The Vault",
+            "alias": "",
+            "position": "217",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4316,6 +5045,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E08 \u2014 Jerry",
+            "alias": "",
+            "position": "218",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -4334,6 +5066,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E19 \u2014 Jelly Beans Have Power",
+            "alias": "",
+            "position": "219",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4352,6 +5087,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E18 \u2014 Dungeon",
+            "alias": "",
+            "position": "220",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4370,6 +5108,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E01 \u2014 Orb",
+            "alias": "",
+            "position": "221",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4388,6 +5129,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E04 \u2014 Hitman",
+            "alias": "",
+            "position": "222",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4406,6 +5150,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E06 \u2014 The Winter King",
+            "alias": "",
+            "position": "223",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4416,7 +5163,7 @@
             "number": 87,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "",
+            "rules_text": "Simon enters with a number of loyalty counters on him equal to the number of relics you control.\n[+1]: Create a Clue token.\n[-3]: The next time you activate an ability this turn, copy it.\n[-10]: You get an emblem that says \u201cAbilities you activate cost {\u221e} less.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Simon enters with a number of loyalty counters on him equal to the number of relics you control.\n[+1]: Create a Clue token.\n[-3]: The next time you activate an ability this turn, copy it.\n[-10]: You get an emblem that says \u201cAbilities you activate cost {\u221e} less.\u201d",
@@ -4424,6 +5171,9 @@
             "set": "ATC",
             "loyalty": "0",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "224",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4442,6 +5192,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E21 \u2014 The Suitor",
+            "alias": "",
+            "position": "225",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4460,6 +5213,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E31 \u2014 Walnuts and Rain",
+            "alias": "",
+            "position": "226",
             "card_name2": "Succulant Tribute",
             "color2": "W",
             "type2": "Sorcery \u2014 Adventure",
@@ -4470,6 +5225,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4488,6 +5246,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E12 \u2014 Evicted!",
+            "alias": "",
+            "position": "227",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag cantrip"
         },
         {
@@ -4506,6 +5267,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E13 \u2014 The Great Bird Man",
+            "alias": "",
+            "position": "228",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -4524,6 +5288,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E34 \u2014 The Vault",
+            "alias": "",
+            "position": "229",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4542,6 +5309,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E06 \u2014 The Monster",
+            "alias": "",
+            "position": "230",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4560,6 +5330,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E25 \u2014 Mortal Recoil",
+            "alias": "",
+            "position": "231",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -4578,6 +5351,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E04 \u2014 Tree Trunks",
+            "alias": "",
+            "position": "232",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4596,6 +5372,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E06 \u2014 Jake the Dad",
+            "alias": "",
+            "position": "233",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4614,6 +5393,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E38 \u2014 Red Starved",
+            "alias": "",
+            "position": "234",
             "card_name2": "Crumbling Light",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -4624,6 +5405,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4642,6 +5426,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E04 \u2014 Bonnibel Bubblegum",
+            "alias": "",
+            "position": "235",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4660,6 +5447,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S00E11 -- Frog Seasons Autumn",
+            "alias": "",
+            "position": "236",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4678,6 +5468,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "237",
             "card_name2": "Senicide",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -4688,6 +5480,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -4706,6 +5501,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E47 \u2014 The Red Throne",
+            "alias": "",
+            "position": "238",
             "card_name2": "Fiery Passion",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -4716,6 +5513,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4734,6 +5534,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E03 \u2014 Prisoners of Love",
+            "alias": "",
+            "position": "239",
             "card_name2": "Snowbank Slip",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -4744,6 +5546,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4762,6 +5567,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E11 \u2014 Temple of Mars",
+            "alias": "",
+            "position": "240",
+            "rotated": false,
             "notes": "Should he be legendary?"
         },
         {
@@ -4780,6 +5588,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E07 \u2014 Power Animal",
+            "alias": "",
+            "position": "241",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4798,6 +5609,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E24 \u2014 Evergreen",
+            "alias": "",
+            "position": "242",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4816,6 +5630,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E17 \u2014 Ghost Fly",
+            "alias": "",
+            "position": "243",
             "card_name2": "Insectile Possession",
             "color2": "U",
             "type2": "Enchantment \u2014 Aura",
@@ -4826,6 +5642,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S06E17 \u2014 Ghost Fly",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -4844,6 +5663,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E09 \u2014 All Your Fault",
+            "alias": "",
+            "position": "244",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4862,6 +5684,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E09 \u2014 All Your Fault",
+            "alias": "",
+            "position": "245",
+            "rotated": false,
             "notes": "Could be a token"
         },
         {
@@ -4880,6 +5705,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E39 \u2014 Be Sweet",
+            "alias": "",
+            "position": "246",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4898,6 +5726,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E22 -- The Limit",
+            "alias": "",
+            "position": "247",
+            "rotated": false,
             "notes": "!tag removal\n!tag bounce"
         },
         {
@@ -4916,6 +5747,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "248",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4934,6 +5768,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E09 \u2014 My Two Favorite People",
+            "alias": "",
+            "position": "249",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -4952,6 +5789,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E17 \u2014 When Wedding Bells Thaw (PH)",
+            "alias": "",
+            "position": "250",
+            "rotated": false,
             "notes": "RG \u2014 Payoff\n\nPlaceholder Art"
         },
         {
@@ -4970,6 +5810,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E05 \u2014 Football",
+            "alias": "",
+            "position": "251",
+            "rotated": false,
             "notes": "Art doesn't feel perfect."
         },
         {
@@ -4988,6 +5831,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "252",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5006,6 +5852,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E10 \u2014 Jake the Starchild",
+            "alias": "",
+            "position": "253",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -5024,6 +5873,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E02 \u2014 The Crocodile Who Bit a Log",
+            "alias": "",
+            "position": "254",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -5042,6 +5894,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E15 \u2014 Sons of Mars",
+            "alias": "",
+            "position": "255",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -5060,6 +5915,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E01 \u2014 Broke His Crown",
+            "alias": "",
+            "position": "256",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -5078,6 +5936,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E07 \u2014 The Star",
+            "alias": "",
+            "position": "257",
+            "rotated": false,
             "notes": "!tag fetch"
         },
         {
@@ -5096,6 +5957,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E07 \u2014 The Star",
+            "alias": "",
+            "position": "258",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5114,6 +5978,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E14 \u2014 Beautopia",
+            "alias": "",
+            "position": "259",
+            "rotated": false,
             "notes": "UG \u2014 AIO"
         },
         {
@@ -5132,6 +5999,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "260",
             "card_name2": "Syr Bun, Twice Baked",
             "color2": "R",
             "type2": "Legendary Creature \u2014 Candy Knight",
@@ -5142,6 +6011,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S09E07 \u2014 Happy Warrior",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag synergy-exilecast"
         },
         {
@@ -5152,7 +6024,7 @@
             "number": 38,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
-            "rules_text": "",
+            "rules_text": "[+1]: Surveil 1.\n[0]: Until your next turn, creatures your opponents control enter tapped.\n[-2]: Exile target nonland permanent until Scarab leaves the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "[+1]: Surveil 1.\n[0]: Until your next turn, creatures your opponents control enter tapped.\n[-2]: Exile target nonland permanent until Scarab leaves the battlefield.",
@@ -5160,6 +6032,9 @@
             "set": "ATC",
             "loyalty": "4",
             "artist": "FCS01E10 \u2014 Cheers",
+            "alias": "",
+            "position": "261",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -5178,6 +6053,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E23 \u2014 The Pajama War",
+            "alias": "",
+            "position": "262",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5196,6 +6074,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E02 \u2014 Varmints",
+            "alias": "",
+            "position": "263",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-relic"
         },
         {
@@ -5214,6 +6095,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E11 \u2014 Wizard",
+            "alias": "",
+            "position": "264",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5232,6 +6116,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E36 \u2014 Dungeon Train",
+            "alias": "",
+            "position": "265",
             "card_name2": "Frizzap",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
@@ -5242,6 +6128,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -5260,6 +6149,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E26 \u2014 The Thin Yellow Line",
+            "alias": "",
+            "position": "266",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -5278,6 +6170,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E17 \u2014 Death in Bloom",
+            "alias": "",
+            "position": "267",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5288,7 +6183,7 @@
             "number": 203,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "",
+            "rules_text": "When Fionna enters and after your draw step, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.\n[+1]: Untap target permanent.\n[-3]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "When Fionna enters and after your draw step, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.\n[+1]: Untap target permanent.\n[-3]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature.",
@@ -5296,6 +6191,9 @@
             "set": "ATC",
             "loyalty": "3",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "268",
+            "rotated": false,
             "notes": "Needs better art"
         },
         {
@@ -5314,6 +6212,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E08 \u2014 Furniture & Meat",
+            "alias": "",
+            "position": "269",
             "card_name2": "Loot Overflow",
             "color2": "G",
             "type2": "Instant \u2014 Adventure",
@@ -5324,6 +6224,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5342,6 +6245,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E04 \u2014 Mama Said",
+            "alias": "",
+            "position": "270",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5360,6 +6266,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E50 \u2014 Lemonhope (1)",
+            "alias": "",
+            "position": "271",
+            "rotated": false,
             "notes": "Maybe figure of destiny type card instead"
         },
         {
@@ -5378,6 +6287,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E06 \u2014 Slow Love",
+            "alias": "",
+            "position": "272",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker"
         },
         {
@@ -5388,7 +6300,7 @@
             "number": 144,
             "color_identity": "R",
             "cost": "{R}{R}{R}",
-            "rules_text": "",
+            "rules_text": "Whenever you cast a red spell, put a loyalty counter on Abraham.\n[+0]: Create a treasure token.\n[-3]: Abraham deals X damage to target creature, where X is your devotion to red as this ability is activated. Excess damage is dealt to that creature's controller instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Whenever you cast a red spell, put a loyalty counter on Abraham.\n[+0]: Create a treasure token.\n[-3]: Abraham deals X damage to target creature, where X is your devotion to red as this ability is activated. Excess damage is dealt to that creature's controller instead.",
@@ -5396,6 +6308,9 @@
             "set": "ATC",
             "loyalty": "3",
             "artist": "S04E15 \u2014 Sons of Mars",
+            "alias": "",
+            "position": "273",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -5414,6 +6329,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E21 \u2014 The Suitor",
+            "alias": "",
+            "position": "274",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5432,6 +6350,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E12 \u2014 Ocarina",
+            "alias": "",
+            "position": "275",
             "card_name2": "Wild Childhood",
             "color2": "R",
             "type2": "Sorcery \u2014 Adventure",
@@ -5442,6 +6362,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "freestyle"
         },
         {
@@ -5460,6 +6383,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 -- Wizard City",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
             "notes": "There's gotta be better art"
         },
         {
@@ -5478,6 +6404,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E15 Do No Harm",
+            "alias": "",
+            "position": "277",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5496,6 +6425,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E21 \u2014 Belly of the Beast",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5514,6 +6446,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E11 \u2014 Daddy-Daughter Card Wars",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5532,6 +6467,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E01 \u2014 Hot to the Touch",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5550,6 +6488,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E09 \u2014 My Two Favorite People",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
             "notes": "Better picture?"
         },
         {
@@ -5568,6 +6509,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E10 \u2014 To Cut a Woman's Hair",
+            "alias": "",
+            "position": "282",
             "card_name2": "Muscle Power",
             "color2": "G",
             "type2": "Sorcery \u2014 Adventure",
@@ -5578,6 +6521,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag bite"
         },
         {
@@ -5596,6 +6542,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E18 \u2014 Dungeon",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5614,6 +6563,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E22 \u2014 Henchman",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5632,6 +6584,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E13 \u2014 Whispers",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5650,6 +6605,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E10 \u2014 Something Big",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -5668,6 +6626,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
             "notes": "freestyle"
         },
         {
@@ -5686,6 +6647,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
             "notes": "Class project could also create three eggs"
         },
         {
@@ -5704,6 +6668,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5722,6 +6689,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E16 \u2014 Summer Showers",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5740,6 +6710,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E10 \u2014 Abstract",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5758,7 +6731,10 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E02 \u2014 Trouble in Lumpy Space",
-            "notes": "6\n\n\n\n\n\n\n\n"
+            "alias": "",
+            "position": "292",
+            "rotated": false,
+            "notes": "6\n\n\n\n\n\n\n"
         },
         {
             "card_name": "Citric Oppression",
@@ -5776,6 +6752,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E50 \u2014 Lemonhope (1)",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5794,6 +6773,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E04 \u2014 Blood Under the Skin",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5812,6 +6794,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5830,6 +6815,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E39 \u2014 We Fixed a Truck",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5848,6 +6836,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E24 \u2014 The Hall of Egress",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5866,6 +6857,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "298",
             "card_name2": "Marcy's Map",
             "color2": "",
             "type2": "Legendary Artifact \u2014 Map",
@@ -5876,6 +6869,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "DLE02 \u2014 Obsidian",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5894,6 +6890,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E25 \u2014 Min & Marty",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5912,6 +6911,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E10 \u2014 Little Dude",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5930,6 +6932,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5948,6 +6953,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E12 \u2014 Preboot",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
             "notes": "The high endurance of a Sea Lard, combined with the blood-thirsty killer instincts of a Sea Lard."
         },
         {
@@ -5966,6 +6974,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E16 \u2014 Jake vs. Memow",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -5984,6 +6995,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E14 \u2014 The Silent King",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6002,6 +7016,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E28 \u2014 Be More",
+            "alias": "",
+            "position": "305",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6020,6 +7037,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E01 \u2014 Slumber Party Panic",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
             "notes": "!tag regrowth"
         },
         {
@@ -6038,6 +7058,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "307",
             "card_name2": "See the Stars",
             "color2": "",
             "type2": "Sorcery \u2014 Adventure",
@@ -6048,6 +7070,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -6066,6 +7091,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "308",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6084,6 +7112,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "309",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6102,6 +7133,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E09 \u2014 All Your Fault",
+            "alias": "",
+            "position": "310",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6120,6 +7154,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "311",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6138,6 +7175,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E25 \u2014 His Hero",
+            "alias": "",
+            "position": "312",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6156,6 +7196,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "313",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6174,6 +7217,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E14 \u2014 Simon & Marcy",
+            "alias": "",
+            "position": "314",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6192,6 +7238,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E22 \u2014 Paper Pete",
+            "alias": "",
+            "position": "315",
             "card_name2": "Bibliophagy",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -6202,6 +7250,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-relic"
         },
         {
@@ -6220,6 +7271,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E02 \u2014 Morituri te Slutamus",
+            "alias": "",
+            "position": "316",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6238,6 +7292,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E04 \u2014 Prismo the Wish Master",
+            "alias": "",
+            "position": "317",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6256,6 +7313,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E26 \u2014 Gold Stars",
+            "alias": "",
+            "position": "318",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6274,6 +7334,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E11 \u2014 Beyond This Earthly Realm",
+            "alias": "",
+            "position": "319",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6292,6 +7355,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E21 \u2014 Belly of the Beast",
+            "alias": "",
+            "position": "320",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6310,6 +7376,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E28 \u2014 The Mountain",
+            "alias": "",
+            "position": "321",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6328,6 +7397,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E38 \u2014 Red Starved",
+            "alias": "",
+            "position": "322",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6346,6 +7418,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E38 \u2014 You Forgot Your Floaties",
+            "alias": "",
+            "position": "323",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6364,6 +7439,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E16 \u2014 Ocean of Fear",
+            "alias": "",
+            "position": "324",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6382,6 +7460,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E04 \u2014 Winter Light",
+            "alias": "",
+            "position": "325",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6400,6 +7481,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E22 \u2014 The Party's Over, Isla de Senorita",
+            "alias": "",
+            "position": "326",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6418,6 +7502,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "327",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6436,6 +7523,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "328",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6454,6 +7544,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E23 \u2014 The Hard Easy",
+            "alias": "",
+            "position": "329",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6472,6 +7565,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E27 \u2014 Jake Suit",
+            "alias": "",
+            "position": "330",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6490,6 +7586,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E08 \u2014 Hug Wolf",
+            "alias": "",
+            "position": "331",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6508,6 +7607,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E26 \u2014 Gut Grinder",
+            "alias": "",
+            "position": "332",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6526,6 +7628,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E17 \u2014 BMO Lost",
+            "alias": "",
+            "position": "333",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6544,6 +7649,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S09E12 \u2014 Fionna and Cake and Fionna",
+            "alias": "",
+            "position": "334",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6562,6 +7670,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E13 \u2014 Reboot",
+            "alias": "",
+            "position": "335",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6580,6 +7691,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "336",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6598,6 +7712,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "337",
+            "rotated": false,
             "notes": "Could be full art to match other tokens, but this gives you a good visual reminder of what it taps for"
         },
         {
@@ -6616,6 +7733,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E14 \u2014 The Silent King",
+            "alias": "",
+            "position": "338",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6634,6 +7754,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E07 \u2014 The Star",
+            "alias": "",
+            "position": "339",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6652,6 +7775,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "340",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6670,6 +7796,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E11 \u2014 Wizard",
+            "alias": "",
+            "position": "341",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6688,6 +7817,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "342",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6706,6 +7838,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "343",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6724,6 +7859,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "344",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6742,6 +7880,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E22 \u2014 Ignition Point",
+            "alias": "",
+            "position": "345",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6760,6 +7901,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E19 \u2014 James Baxter the Horse",
+            "alias": "",
+            "position": "346",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6778,6 +7922,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E12 \u2014 Her Parents",
+            "alias": "",
+            "position": "347",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6796,6 +7943,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E25 \u2014 His Hero",
+            "alias": "",
+            "position": "348",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6814,6 +7964,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E25 \u2014 His Hero",
+            "alias": "",
+            "position": "349",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6832,6 +7985,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E23 -- One Last Job",
+            "alias": "",
+            "position": "350",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6850,6 +8006,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E34 \u2014 The Vault",
+            "alias": "",
+            "position": "351",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6868,6 +8027,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E14 \u2014 Beautopia",
+            "alias": "",
+            "position": "352",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6886,6 +8048,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E24 \u2014 Another Five More Short Graybles",
+            "alias": "",
+            "position": "353",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6904,6 +8069,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E01 -- The Wild Hunt",
+            "alias": "",
+            "position": "354",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6922,6 +8090,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E25 \u2014 I Remember You",
+            "alias": "",
+            "position": "355",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6940,6 +8111,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E11 \u2014 Apple Thief",
+            "alias": "",
+            "position": "356",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6958,6 +8132,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E25 \u2014 Flute Spell",
+            "alias": "",
+            "position": "357",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6976,6 +8153,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E16 \u2014 Burning Low",
+            "alias": "",
+            "position": "358",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -6994,6 +8174,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E15 \u2014 Sons of Mars",
+            "alias": "",
+            "position": "359",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7012,6 +8195,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S00E13 \u2014 Frog Seasons Spring (Again)",
+            "alias": "",
+            "position": "360",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7030,6 +8216,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E37 \u2014 The Box Prince",
+            "alias": "",
+            "position": "361",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7048,6 +8237,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E19 \u2014 Mystery Train",
+            "alias": "",
+            "position": "362",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell\n!tag restock"
         },
         {
@@ -7066,6 +8258,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E14 \u2014 Card Wars",
+            "alias": "",
+            "position": "363",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7084,6 +8279,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E15 \u2014 No One Can Hear You",
+            "alias": "",
+            "position": "364",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -7102,6 +8300,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "365",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker"
         },
         {
@@ -7120,6 +8321,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E04 \u2014 Tree Trunks",
+            "alias": "",
+            "position": "366",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -7138,6 +8342,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E02 \u2014 Escape from the Citadel",
+            "alias": "",
+            "position": "367",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker"
         },
         {
@@ -7156,6 +8363,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "368",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -7174,6 +8384,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E26 \u2014 The Thin Yellow Line",
+            "alias": "",
+            "position": "369",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7192,6 +8405,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E10 \u2014 What Was Missing",
+            "alias": "",
+            "position": "370",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7210,6 +8426,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E21 \u2014 Who Would Win",
+            "alias": "",
+            "position": "371",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag bite"
         },
         {
@@ -7228,6 +8447,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "372",
             "card_name2": "Afterlife Purge",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -7238,6 +8459,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -7256,6 +8480,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E14 \u2014 Card Wars",
+            "alias": "",
+            "position": "373",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -7274,6 +8501,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E11 \u2014 Chamber of the Frozen Blades",
+            "alias": "",
+            "position": "374",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -7292,6 +8522,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E28 \u2014 The Mountain",
+            "alias": "",
+            "position": "375",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7310,6 +8543,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E25 \u2014 Candy Streets",
+            "alias": "",
+            "position": "376",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7328,6 +8564,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "377",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7346,6 +8585,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "378",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7364,6 +8606,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E20 \u2014 The Invitation",
+            "alias": "",
+            "position": "379",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7382,6 +8627,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E07 \u2014 Marcy & Hunson",
+            "alias": "",
+            "position": "380",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7400,6 +8648,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E12 \u2014 Gumbaldia",
+            "alias": "",
+            "position": "381",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7418,6 +8669,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E03 \u2014 Web Weirdos",
+            "alias": "",
+            "position": "382",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7436,6 +8690,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "383",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7454,6 +8711,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E21 \u2014 Who Would Win",
+            "alias": "",
+            "position": "384",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7472,6 +8732,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "385",
+            "rotated": false,
             "notes": "Could be full art to match other tokens, but this gives you a good visual reminder of what it taps for"
         },
         {
@@ -7490,6 +8753,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E19 \u2014 James Baxter",
+            "alias": "",
+            "position": "386",
             "card_name2": "Cheer for All",
             "color2": "WR",
             "type2": "Instant \u2014 Adventure",
@@ -7500,6 +8765,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7518,6 +8786,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E47 \u2014 The Red Throne",
+            "alias": "",
+            "position": "387",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7536,6 +8807,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E24 \u2014 Mortal Folly",
+            "alias": "",
+            "position": "388",
+            "rotated": false,
             "notes": "BG \u2014 Enabler (Mana Rock)"
         },
         {
@@ -7554,6 +8828,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E26 \u2014 The Thin Yellow Line",
+            "alias": "",
+            "position": "389",
             "card_name2": "Bonnie's Unconditional Love",
             "color2": "W",
             "type2": "Legendary Enchantment",
@@ -7564,6 +8840,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S07E26 \u2014 The Thin Yellow Line",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7582,6 +8861,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S04E02 \u2014 Five Short Graybles (PH)",
+            "alias": "",
+            "position": "390",
+            "rotated": false,
             "notes": "WU \u2014 Enabler (Cost reduction)"
         },
         {
@@ -7600,6 +8882,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E02 \u2014 Varmints",
+            "alias": "",
+            "position": "391",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7618,6 +8903,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E42 \u2014 Hot Diggity Doom",
+            "alias": "",
+            "position": "392",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7636,6 +8924,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E04 \u2014 Tree Trunks",
+            "alias": "",
+            "position": "393",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7654,6 +8945,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E16 \u2014 Wheels",
+            "alias": "",
+            "position": "394",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7672,6 +8966,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E08 \u2014 Elemental",
+            "alias": "",
+            "position": "395",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7690,6 +8987,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E23 \u2014 Crossover",
+            "alias": "",
+            "position": "396",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7708,6 +9008,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E02 \u2014 Jake the Dog",
+            "alias": "",
+            "position": "397",
+            "rotated": false,
             "notes": "!tag sweeper\n!tag reprint"
         },
         {
@@ -7726,6 +9029,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E01 -- Broke His Crown",
+            "alias": "",
+            "position": "398",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -7744,6 +9050,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E29 \u2014 Dark Purple",
+            "alias": "",
+            "position": "399",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7762,6 +9071,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "400",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7780,6 +9092,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "401",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7798,6 +9113,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "402",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7816,6 +9134,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE02 \u2014 Obsidian",
+            "alias": "",
+            "position": "403",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7834,6 +9155,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E19 \u2014 Jelly Beans Have Power",
+            "alias": "",
+            "position": "404",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7852,6 +9176,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E19 \u2014 Mystery Train",
+            "alias": "",
+            "position": "405",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell\n!tag restock"
         },
         {
@@ -7870,6 +9197,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E19 \u2014 Jelly Beans Have Power",
+            "alias": "",
+            "position": "406",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7888,6 +9218,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "407",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7906,6 +9239,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "408",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7924,6 +9260,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "409",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7942,6 +9281,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE03 \u2014 Together Again",
+            "alias": "",
+            "position": "410",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7952,7 +9294,7 @@
             "number": 77,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "",
+            "rules_text": "\nI \u2014 Draw three cards and create a Treasure token.\nII \u2014 Discard a card.\nIII \u2014 Discard two cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "\nI \u2014 Draw three cards and create a Treasure token.\nII \u2014 Discard a card.\nIII \u2014 Discard two cards.",
@@ -7960,6 +9302,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E20 \u2014 Holly Jolly Secrets (2)",
+            "alias": "",
+            "position": "411",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7978,6 +9323,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E02 \u2014 Simon Petrikov",
+            "alias": "",
+            "position": "412",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -7996,6 +9344,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "413",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8014,6 +9365,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E25 \u2014 Dad's Dungeon",
+            "alias": "",
+            "position": "414",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8032,6 +9386,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E14 \u2014 Simon & Marcy",
+            "alias": "",
+            "position": "415",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8050,6 +9407,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E02 \u2014 Escape from the Citadel",
+            "alias": "",
+            "position": "416",
+            "rotated": false,
             "notes": "not happy with the art"
         },
         {
@@ -8068,6 +9428,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E14 \u2014 The Silent King",
+            "alias": "",
+            "position": "417",
+            "rotated": false,
             "notes": "X \u2014 Flicker Synergy"
         },
         {
@@ -8086,6 +9449,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E13 \u2014 Thanks for the Crabapples, Giuseppe",
+            "alias": "",
+            "position": "418",
+            "rotated": false,
             "notes": "Considering a new prowess keyword that includes copies."
         },
         {
@@ -8104,6 +9470,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E38 \u2014 You Forgot Your Floaties",
+            "alias": "",
+            "position": "419",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8122,6 +9491,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E22 \u2014 The Limit",
+            "alias": "",
+            "position": "420",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8140,6 +9512,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "421",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8150,7 +9525,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "{X}{3}",
-            "rules_text": "",
+            "rules_text": "Prismo enters with a loyalty counter for each color of mana spent to cast him\n[+1]: Add one mana of any color.\n[-3]: Reveal a card you own from outside the game and put it into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "Prismo enters with a loyalty counter for each color of mana spent to cast him\n[+1]: Add one mana of any color.\n[-3]: Reveal a card you own from outside the game and put it into your hand.",
@@ -8158,6 +9533,9 @@
             "set": "ATC",
             "loyalty": "0",
             "artist": "S06E01 \u2014 Wake Up",
+            "alias": "",
+            "position": "422",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8176,6 +9554,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E02 \u2014 Escape from the Citadel",
+            "alias": "",
+            "position": "423",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag flicker"
         },
         {
@@ -8194,6 +9575,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E20 \u2014 Freak City",
+            "alias": "",
+            "position": "424",
+            "rotated": false,
             "notes": "!tag removal\n!tag counterspell"
         },
         {
@@ -8212,6 +9596,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E09 \u2014 Blenanas",
+            "alias": "",
+            "position": "425",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8230,6 +9617,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E01 \u2014 Slumber Party Panic",
+            "alias": "",
+            "position": "426",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8248,6 +9638,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E15 \u2014 What is Life?",
+            "alias": "",
+            "position": "427",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8266,6 +9659,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E24 \u2014 Evergreen",
+            "alias": "",
+            "position": "428",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8284,6 +9680,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E04 \u2014 Blood Under the Skin",
+            "alias": "",
+            "position": "429",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8302,6 +9701,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E25 \u2014 Min & Marty",
+            "alias": "",
+            "position": "430",
             "card_name2": "Then",
             "color2": "U",
             "type2": "Instant",
@@ -8312,6 +9713,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -8330,6 +9734,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E23 -- Another Way",
+            "alias": "",
+            "position": "431",
             "card_name2": "Underside Ambush",
             "color2": "U",
             "type2": "Instant \u2014 Adventure",
@@ -8340,6 +9746,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8358,6 +9767,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S08E26 -- Helpers",
+            "alias": "",
+            "position": "432",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8376,6 +9788,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "433",
+            "rotated": false,
             "notes": "There are a couple really good options for this art\n\n\nSearch could count\nInstant, sorcery, adventures\nor\nnumber of cards in graveyard\n\nCould also be a straight up search card\n\nCould also just look for instants and sorceries"
         },
         {
@@ -8394,6 +9809,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S10E13 \u2014 Come Along With Me",
+            "alias": "",
+            "position": "434",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -8412,6 +9830,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "435",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8430,6 +9851,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E36 \u2014 Hoots",
+            "alias": "",
+            "position": "436",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature"
         },
         {
@@ -8448,6 +9872,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S07E18 \u2014 President Porpoise is Missing",
+            "alias": "",
+            "position": "437",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8466,6 +9893,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E13 \u2014 Thanks for the Crabapples, Giuseppe",
+            "alias": "",
+            "position": "438",
+            "rotated": false,
             "notes": "Considering a new prowess keyword that includes copies."
         },
         {
@@ -8484,6 +9914,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E26 \u2014 Incendium",
+            "alias": "",
+            "position": "439",
+            "rotated": false,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn"
         },
         {
@@ -8502,6 +9935,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE04 \u2014 Wizard City",
+            "alias": "",
+            "position": "440",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8520,6 +9956,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E16 \u2014 Joshua and Margerett Investigations",
+            "alias": "",
+            "position": "441",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8538,6 +9977,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E21 \u2014 Donny",
+            "alias": "",
+            "position": "442",
             "card_name2": "Obnoxygen Cloud",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -8548,6 +9989,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "X \u2014 Flametongue"
         },
         {
@@ -8566,6 +10010,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "443",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8584,6 +10031,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S01E05 \u2014 The Enchiridion!",
+            "alias": "",
+            "position": "444",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8602,6 +10052,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E14 \u2014 Beautopia",
+            "alias": "",
+            "position": "445",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8620,6 +10073,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E20 \u2014 Shh!",
+            "alias": "",
+            "position": "446",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8638,6 +10094,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E24 \u2014 Ghost Princess",
+            "alias": "",
+            "position": "447",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8656,6 +10115,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S02E19 \u2014 Mystery Train",
+            "alias": "",
+            "position": "448",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8674,6 +10136,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E30 \u2014 Frost & Fire",
+            "alias": "",
+            "position": "449",
             "card_name2": "Ice",
             "color2": "U",
             "type2": "Instant",
@@ -8684,6 +10148,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "S05E30 \u2014 Frost & Fire",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": "!tag removal\n!tag removal-creature\n!tag removal-planeswalker\n!tag burn\n!tag cantrip"
         },
         {
@@ -8702,6 +10169,8 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S00E12 \u2014 Frog Seasons Winter",
+            "alias": "",
+            "position": "450",
             "card_name2": "Death",
             "color2": "B",
             "type2": "Sorcery",
@@ -8712,6 +10181,9 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
             "notes": ""
         },
         {
@@ -8730,6 +10202,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E26 \u2014 Incendium",
+            "alias": "",
+            "position": "451",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8748,6 +10223,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "452",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8766,6 +10244,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S03E25 \u2014 Dad's Dungeon",
+            "alias": "",
+            "position": "453",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8784,6 +10265,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E09 \u2014 Casper & Nova",
+            "alias": "",
+            "position": "454",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8802,6 +10286,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "FCS01E04 \u2014 Prismo the Wish Master",
+            "alias": "",
+            "position": "455",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8820,6 +10307,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S05E06 \u2014 Jake the Dad",
+            "alias": "",
+            "position": "456",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8838,6 +10328,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "DLE01 \u2014 BMO",
+            "alias": "",
+            "position": "457",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8856,6 +10349,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "S06E38 \u2014 You Forgot Your Floaties",
+            "alias": "",
+            "position": "458",
+            "rotated": false,
             "notes": ""
         },
         {
@@ -8874,6 +10370,9 @@
             "set": "ATC",
             "loyalty": "",
             "artist": "",
+            "alias": "",
+            "position": "459",
+            "rotated": false,
             "notes": ""
         }
     ]

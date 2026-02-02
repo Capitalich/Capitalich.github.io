@@ -1,4 +1,920 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+
+
+Arboreal Indoctrination
+
+Bad Land Scavengers
+
+Bureaucratic Burg
+
+Chalk Outline
+
+Confront the Forgotten
+
+Conjecture Beast
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+
+Destroy Evil
+
+The Dungeon Train
+
+Finn's Tower
+
+Repressed Duet
+
+Frigid Caldera
+
+Goo Skulls
+
+Horde of Oozers
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mama Jiggler
+
+Movie Night
+
+Mountain Pass
+
+Out Sick
+
+Unlimited Party Energy
+
+Pillowtown
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Reach Through Time
+
+Risen Horde
+
+Root Beer Guy
+
+Roughousing
+
+Somatic inversion
+
+Special Sentient Sandwiches
+
+Stuck Together
+
+Horror
+
+The Lich
+rules_text:  => [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard.
+
+The Treehouse
+
+Thoughtseize
+
+Thunder Boar
+
+Toothy Sword
+
+Vacant Valley
+
+Volcanic Vision
+
+Wizard City Po-Po
+
+Shady Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+
+Fruit Witch
+
+Newborn Marauder
+
+Lich Hand
+
+Ruby Brain Beast
+
+Glassassin
+
+Ravenous Grumbo
+
+Maja the Sky Witch
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+
+Life, Soul Sculpter
+
+Fireskull
+
+Manish Man
+
+Orb Wizard
+
+Ice King
+
+Octopolitician
+
+Science Cat
+
+Choose Goose
+
+Con Wizard
+
+Grand Wizard
+
+Unsettling Reproductions
+
+PB's Sweater
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+
+Stickytongue Lizard
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Banana Guard 500
+
+Y5, Formerly Y4
+
+Bird Squadron
+
+Annual Abduction
+
+Bear Emcee
+
+Sonic Blast
+
+Catalyst Comet
+
+Wrath of Grob Gob Glob Grod
+
+Lemonshrieker
+
+Fractalize
+
+Mass Surveillance
+
+Power Shriek
+
+Thalassophobia
+
+Breakfast Afterglow
+
+Evil Ocean
+
+N.E.P.T.R.
+
+The Finn Sword
+
+Flame Guards
+
+Firecrown Berserker
+
+Cliffside Treehouse
+
+Coastal Fringe
+
+Deepwater Rig
+
+Cloudy Montane
+
+Well Worn Road
+
+Eroded Metropolis
+
+Hostile Menagerie
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+Hambo, Beloved Teddy
+
+Ghost Ship Vortex
+
+Mt. Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Clumsy Skeleton
+
+Bandit Princess
+
+Turn to Seed
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+Industrial Seaport
+
+The Porcelain Lamb
+
+Gummy Bear
+
+Heroic Tutor
+
+Exhaustive Analysis
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Remote Academy
+
+Abyssal Hollow
+
+Subsuming Morass
+
+The Vampire King
+
+Dream Parisite
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Syr Rattleballs
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Entropic Amalgam
+
+Probable Cause
+
+Seeded Digsite
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+
+Holotome
+
+Snooping Pastry
+
+Astral Epiphany
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+
+Nudumancer
+
+Blazing Rage
+
+Strangle
+
+Psychic Stalemate
+
+Slime Princess
+
+Haughty Glassware
+
+Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Echo of Eons
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Breakfast Princess
+
+Shadow Ritual
+
+Clown Nurse
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Bucket Knight
+
+Nightmare Princess
+
+Blastronaut
+
+Ice Scouts
+
+Simon Petrikov
+rules_text:  => Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Improvised Heroism
+
+Sign Zombies
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+Flame Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Unrelenting Raccoon
+
+Overstretch
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+rules_text:  => [+1]: Surveil 1.
+[0]: Until your next turn, creatures your opponents control enter tapped.
+[-2]: Exile target nonland permanent until Scarab leaves the battlefield.
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fionna Campbell
+rules_text:  => When Fionna enters and after your draw step, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.
+[+1]: Untap target permanent.
+[-3]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature.
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Abraham Lincoln
+rules_text:  => Whenever you cast a red spell, put a loyalty counter on Abraham.
+[+0]: Create a treasure token.
+[-3]: Abraham deals X damage to target creature, where X is your devotion to red as this ability is activated. Excess damage is dealt to that creature's controller instead.
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Lady Rainicorn
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+Glass Boy
+
+Class Project
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Famished Moldos
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Candy Citizen
+
+Food
+
+Pacifism
+
+Equipment
+
+Candy Soldier
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Music
+
+Grapple
+
+New Death
+
+Gloat
+
+Cross Blades
+
+Pulp Artist
+
+Detective
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Cousin Chicle
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+
+Flame Lord's Greeting
+
+Well of Power
+
+Talented Banana Guard
+
+Princess Bubblegum
+
+Varmint
+
+King of Ooo
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Space Elves
+
+Wizard Streets
+
+Glassassin
+
+Patience's Patient Plan
+
+Devious Prank
+
+Patience's Patient Plan
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+rules_text:  => 
+I — Draw three cards and create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Secret Wizard Handshake
+
+Olympus Mons
+
+Hot Dog Knights
+
+GOLB, Entropy Manifest
+
+Prismo, The Wishmaster
+rules_text:  => Prismo enters with a loyalty counter for each color of mana spent to cast him
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand.
+
+Settle Beyond Reality
+
+Bypass
+
+Comedic Slip
+
+Complex Equation
+
+Ice-O-Pede
+
+Portent of Calamity
+
+Spectral Drop-Baller
+
+Now
+
+Bridge Shades
+
+Dr. Gross, Gene Splicer
+
+Malefic Tutor
+
+Out of Options
+
+Thrumming Worm
+
+Tragic Slip
+
+Romantic Rendezvous
+
+Secret Wizard Handshake
+
+Sizzling Slap
+
+Wizardlings
+
+Battle Preperations
+
+Donny, Beligerant Ogre
+
+Downed
+
+Stretch Around
+
+Marrow Muncher
+
+Raze the Roof
+
+Deathly Reunion
+
+Ongoing Mystery
+
+Fire
+
+Life
+
+Bubblegum's Rockets
+
+CGO, Bootleg Bot
+
+Dad's Holomessage
+
+Feral Pageling
+
+GOLB's Bauble
+
+Mom's Holomessage
+
+Olive, Service Droid
+
+Olympus Mons
+
+Thrumming Worm
+
+
+VERSION 35 CHANGELOG
 ====================
 
 Echo of Eons added.
