@@ -1,4 +1,84 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+Fealty to Bubblegum added.
+
+Talented Banana Guard removed.
+
+Roughousing
+cost: {X}{X}{G}{G} => {2}{G}{G}
+rules_text: When you cast this spell, copy it X times. You may choose new targets for the copies.
+Put a +1/+1 counter on target creature you control, then it fights target creature you don't control. => Creatures you control must be blocked this turn if able and can't be blocked by more than one creature.
+
+Con Wizard
+cost: {1}{U} => {2}{U}
+rules_text: Whenever this creature deals damage to an opponent, draw a card.
+Discard a card: This creature can't be blocked this turn. => Prowess
+Whenever this creature deals damage to an opponent, draw a card.
+Discard a card: This creature can't be blocked this turn.
+pt: 1/1 => 2/1
+
+Shell Slinger
+rules_text: When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+When this creature attacks, you may unattach an equipment from it. If you do, it deals 2 damage to any target. => When this creature enters, gear up.
+When this creature attacks, you may sacrifice an equipment attached to it. If you do, it deals 2 damage to any target.
+
+The Finn Sword
+
+The Vampire King
+rules_text: Flying
+{1}, Sacrifice another non-Vampire creature, discard a card: Draw a card.
+[i]Conniving[/i] — Whenever you discard a nonland card, create a 1/1 black Vampire creature token with lifelink. => Flying
+{1}, Sacrifice another non-Vampire creature, discard a card: Draw a card.
+Whenever you discard a nonland card, create a 1/1 black Vampire creature token with lifelink.
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+rules_text: When Uncle Gumbald enters, draw two cards, then discard a card unless you sacrifice a relic.
+[i]Conniving[/i] — Whenever you discard a nonland card, confect. => When Uncle Gumbald enters, draw two cards, then discard two cards.
+Whenever you discard a nonland card, create a clue token.
+
+Cinnamon Bun, Half Baked
+
+Viola, Aspiring Actress
+pt: 2/2 => 1/1
+
+Syr Slicer
+rules_text: When Syr Slicer enters, you may draw a card, then discard a card.
+[i]Conniving[/i] — Whenever you discard a nonland card, gear up. => Modified creatures you control have menace. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+Whenever you cast a noncreature spell, gear up.
+
+Spader Peterson, Star Pupil
+cost: {2}{U} => {3}{U}
+rules_text: [i]Conniving[/i] — Whenever you discard a nonland card, Wizards you control gain +1/+1 until end of turn.
+Madness {1}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Whenever you cast a noncreature spell, Wizards you control gain +1/+1 until end of turn.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+pt: 2/1 => 3/2
+
+Fight King's Arena
+rules_text: After your draw step, you draw a card and you lose 2 life. => After your draw step, you draw a card and you lose 2 life.
+When Fight King's Arena leaves the battlefield, you gain 3 life.
+
+Banana Soloist
+type: Creature — Candy Soldier => Creature — Candy Bard
+
+Flame Lord's Greeting
+rules_text: [i]Conniving[/i] — Whenever you discard a nonland card, create a 3/1 red Elemental creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Whenever you cast a noncreature spell, create a 3/1 red Elemental creature token with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Well of Power
+rules_text: Well of power enters tapped.
+{T}: Add {C}{C}. You get a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead. => {T}: Add {C}{C}. You get a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead.
+
+Marrow Muncher
+rules_text: When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Exile a two cards from your graveyard: Put a +1/+1 counter on this creature. => When this creature enters, surveil 2.
+Exile a two cards from your graveyard: Put a +1/+1 counter on this creature.
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
