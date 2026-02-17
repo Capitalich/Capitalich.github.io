@@ -816,12 +816,12 @@
         "position": "27"
     },
     {
-        "card_name": "Horde of Oozers",
+        "card_name": "Horror",
         "number": 116,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "19"
+        "position": "41"
     },
     {
         "card_name": "Honey Man",
@@ -856,12 +856,12 @@
         "position": "70"
     },
     {
-        "card_name": "Horror",
+        "card_name": "Inevitable Return",
         "number": 117,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "41"
+        "position": "180"
     },
     {
         "card_name": "Itchy-Butt Dragon",
@@ -896,12 +896,12 @@
         "position": "68"
     },
     {
-        "card_name": "Inevitable Return",
+        "card_name": "King of Ooo",
         "number": 118,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "180"
+        "position": "391"
     },
     {
         "card_name": "Jake Junior, Bohemian",
@@ -936,12 +936,12 @@
         "position": "29"
     },
     {
-        "card_name": "King of Ooo",
+        "card_name": "The Lich",
         "number": 119,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "ATC",
         "rotated": false,
-        "position": "391"
+        "position": "42"
     },
     {
         "card_name": "Jermaine, Abstract Artist",
@@ -976,12 +976,12 @@
         "position": "247"
     },
     {
-        "card_name": "The Lich",
+        "card_name": "Lich Hand",
         "number": 120,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "42"
+        "position": "55"
     },
     {
         "card_name": "Kick in the Boingloings",
@@ -1016,12 +1016,12 @@
         "position": "219"
     },
     {
-        "card_name": "Lich Hand",
+        "card_name": "Maja the Sky Witch",
         "number": 121,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "55"
+        "position": "59"
     },
     {
         "card_name": "Knife Storm",
@@ -1056,12 +1056,12 @@
         "position": "410"
     },
     {
-        "card_name": "Maja the Sky Witch",
+        "card_name": "Me-Mow, Second Class",
         "number": 122,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "59"
+        "position": "25"
     },
     {
         "card_name": "Magic Man, Transmografier",
@@ -1096,12 +1096,12 @@
         "position": "95"
     },
     {
-        "card_name": "Me-Mow, Second Class",
+        "card_name": "New Death",
         "number": 123,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "25"
+        "position": "372"
     },
     {
         "card_name": "Manish Man",
@@ -1136,12 +1136,12 @@
         "position": "170"
     },
     {
-        "card_name": "New Death",
+        "card_name": "Newborn Marauder",
         "number": 124,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "372"
+        "position": "54"
     },
     {
         "card_name": "Marceline, Vampire Queen",
@@ -1176,12 +1176,12 @@
         "position": "190"
     },
     {
-        "card_name": "Newborn Marauder",
+        "card_name": "Nightmare Princess",
         "number": 125,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "54"
+        "position": "221"
     },
     {
         "card_name": "Nudumancer",
@@ -1216,12 +1216,12 @@
         "position": "34"
     },
     {
-        "card_name": "Nightmare Princess",
+        "card_name": "Nuclear Fallout",
         "number": 126,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "221"
+        "position": "396"
     },
     {
         "card_name": "Old Wizards",
@@ -1256,12 +1256,12 @@
         "position": "71"
     },
     {
-        "card_name": "Nuclear Fallout",
+        "card_name": "Oozer Infestation",
         "number": 127,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "396"
+        "position": "19"
     },
     {
         "card_name": "Sabotage",
@@ -3251,7 +3251,7 @@
     },
     {
         "card_name": "Clue",
-        "number": 30,
+        "number": 29,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3259,7 +3259,7 @@
     },
     {
         "card_name": "Clue",
-        "number": 31,
+        "number": 30,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3267,15 +3267,15 @@
     },
     {
         "card_name": "Clue",
-        "number": 32,
+        "number": 31,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "352"
+        "position": "353"
     },
     {
         "card_name": "Clue",
-        "number": 33,
+        "number": 32,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3283,15 +3283,15 @@
     },
     {
         "card_name": "Clue",
-        "number": 34,
+        "number": 33,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "353"
+        "position": "352"
     },
     {
         "card_name": "Dad's Holomessage",
-        "number": 35,
+        "number": 34,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3299,7 +3299,7 @@
     },
     {
         "card_name": "Equipment",
-        "number": 36,
+        "number": 35,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3307,7 +3307,7 @@
     },
     {
         "card_name": "Food",
-        "number": 37,
+        "number": 36,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3315,7 +3315,7 @@
     },
     {
         "card_name": "Robot",
-        "number": 38,
+        "number": 37,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3323,7 +3323,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 39,
+        "number": 38,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3331,11 +3331,19 @@
     },
     {
         "card_name": "Treasure",
-        "number": 40,
+        "number": 39,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
         "position": "360"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 40,
+        "shape": "token",
+        "set": "ATC",
+        "rotated": false,
+        "position": "356"
     },
     {
         "card_name": "Treasure",
@@ -3354,16 +3362,8 @@
         "position": "358"
     },
     {
-        "card_name": "Treasure",
-        "number": 43,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
-        "position": "356"
-    },
-    {
         "card_name": "Wastes",
-        "number": 44,
+        "number": 43,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3371,7 +3371,7 @@
     },
     {
         "card_name": "Wastes",
-        "number": 45,
+        "number": 44,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3379,7 +3379,7 @@
     },
     {
         "card_name": "Simon Petrikov",
-        "number": 46,
+        "number": 45,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3439,7 +3439,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "403"
+        "position": "405"
     },
     {
         "card_name": "Patience's Patient Plan",
@@ -3447,7 +3447,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "405"
+        "position": "403"
     },
     {
         "card_name": "Bird Army",
@@ -3466,16 +3466,8 @@
         "position": "402"
     },
     {
-        "card_name": "Thrumming Worm",
-        "number": 16,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
-        "position": "421"
-    },
-    {
         "card_name": "Vampire",
-        "number": 17,
+        "number": 16,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3483,7 +3475,7 @@
     },
     {
         "card_name": "Zombie",
-        "number": 18,
+        "number": 17,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3491,7 +3483,7 @@
     },
     {
         "card_name": "Elemental",
-        "number": 19,
+        "number": 18,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3499,7 +3491,7 @@
     },
     {
         "card_name": "Goblin",
-        "number": 20,
+        "number": 19,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3507,11 +3499,19 @@
     },
     {
         "card_name": "Wizard",
-        "number": 21,
+        "number": 20,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
         "position": "341"
+    },
+    {
+        "card_name": "Wizard Streets",
+        "number": 21,
+        "shape": "token",
+        "set": "ATC",
+        "rotated": false,
+        "position": "406"
     },
     {
         "card_name": "Wizard Streets",
@@ -3522,16 +3522,8 @@
         "position": "401"
     },
     {
-        "card_name": "Wizard Streets",
-        "number": 23,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
-        "position": "406"
-    },
-    {
         "card_name": "Bear",
-        "number": 24,
+        "number": 23,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3539,7 +3531,7 @@
     },
     {
         "card_name": "Coyote Mutant",
-        "number": 25,
+        "number": 24,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3547,7 +3539,7 @@
     },
     {
         "card_name": "Space Elves",
-        "number": 26,
+        "number": 25,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3555,7 +3547,7 @@
     },
     {
         "card_name": "Spider",
-        "number": 27,
+        "number": 26,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3563,7 +3555,7 @@
     },
     {
         "card_name": "Varmint",
-        "number": 28,
+        "number": 27,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3571,11 +3563,14 @@
     },
     {
         "card_name": "Detective",
-        "number": 29,
+        "number": 28,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
         "position": "376"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

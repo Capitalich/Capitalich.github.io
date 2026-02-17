@@ -1,4 +1,142 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+Oozer Infestation added.
+
+Horde of Oozers removed.
+Thrumming Worm removed.
+
+The Lich
+rules_text: [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. => [+1]: You may exile a creature card from your graveyard. If you do, you may destroy target creature.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+special_text: [+1]: Draw a card, then you get two rad counters.
+[-1]: You may exile a creature card from your graveyard. If you do, destroy target creature with equal or lesser mana value.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. => [+1]: You may exile a creature card from your graveyard. If you do, you may destroy target creature.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Ravenous Grumbo
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature, then create a Clue token for each creature that has died this turn. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature an opponent controls, then create a Clue token for each creature that has died this turn.
+
+Hambo, Beloved Teddy
+
+Death's Garden
+
+Marceline, Vampire Queen
+rules_text: Flying, haste
+Whenever Marceline deals damage to an opponent, create a Music token. [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i]
+Whenever you cast a red spell, add {C}. => Flying, haste
+Whenever Marceline deals damage to an opponent, create a Music token.
+Whenever you cast a red spell, add {C}.
+
+Gummy Bear
+rules_text: Vigilance
+Other candy creatures you control have vigilance.
+{5}: Creatures you control get +1/+1 until end of turn. => {T}, Discard a card: Untap each other creature you control. Activate as a sorcery.
+
+Candy Kingdom
+
+Flame Jester
+
+Earl of Lemongrab
+rules_text: {3}: Each opponent loses 1 life. Spend only mana produced by Candy creatures to activate this ability. => Tap three untapped Candy creatures you control: Earl of Lemongrab deals 1 damage to target player.
+
+Slime Princess
+rules_text: {G}: Exile target card from a graveyard. If it was a relic card, put a +1/+1 counter on Slime Princess. Otherwise, you gain 1 life. => {1}, {T}: Exile target card from a graveyard. Put a +1/+1 counter on Slime Princess if the exiled card was a relic. Activate as a sorcery.
+
+Crystal Jailers
+rules_text: Flash
+Vigilance
+When this creature enters, exile target creature spell.
+When this creature leaves the battlefield, put the exiled card onto the battlefield tapped under its owners control. => Flash
+When this creature enters, exile target creature spell.
+When this creature leaves the battlefield, put the exiled card onto the battlefield tapped under its owners control.
+
+Simon Petrikov
+rules_text: Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+special_text: Simon enters with a number of loyalty counters on him equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.” => Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {∞} less.”
+
+Lemoncrafting
+rules_text: [i]Sentimental[/i] — After your draw step, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, confect. => [i]Sentimental[/i] — After your draw step, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life.
+
+Unrelenting Raccoon
+rules_text: Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever one or more creatures enters under your control, if it entered from your graveyard, manifest dread. => Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever a creature card leaves your graveyard, remove a -1/-1 counter from this creature.
+pt: 2/2 => 2/3
+
+Shelby
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control, add {G}. Then if this is the second time this ability has resolved this turn, create a Music token. [i](It's a Music enchantment with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”)[/i] => [i]Landfall[/i] — Whenever a land enters under your control, add {G} and you gain 1 life.
+pt: 1/1 => 0/1
+
+Grassy Gatekeeper
+rules_text: This spell can't be countered.
+Vigilance, Trample
+Whenever this creature enters or attacks, you may mill two cards, then return target land from your graveyard to the battlefield. => This spell can't be countered.
+Vigilance, Trample
+Whenever this creature enters or attacks, return target land from your graveyard to the battlefield.
+
+Glass Boy
+rules_text: Haste
+Whenever Glass Boy attacks with another creature with greater power, put a +1/+1 counter on him.
+Remove a +1/+1 counter from Glass Boy: Exile the top card of your library. You may play that card this turn. => Haste
+Training [i](Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)[/i]
+Remove a +1/+1 counter from Glass Boy: Exile the top card of your library. You may play that card this turn.
+
+Class Project
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on another target creature you control.
+{2}: Viola becomes a copy of target modified creature you control for as long as you control that creature, except it has this ability, is named Viola, Aspiring Actress, and is legendary. => When Viola enters, put a +1/+1 counter on another target creature you control.
+{4}, {T}: Viola becomes a copy of target modified creature you control for as long as you control that creature, is named Viola, Aspiring Actress, and is legendary.
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Warped Coyote
+rules_text: When this creature enters, draw a card and create a 1/1 green Coyote Mutant creature token.
+Scavenge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters, create a 1/1 green Coyote Mutant creature token.
+Scavenge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Gloat
+
+The Farm, Unwreckable
+rules_text: Trample
+At the beginning of each end step, The Farm fights another target creature that entered this turn. => Trample
+After attackers are declared on an opponent's combat step, The Farm fights each attacking creature. [i](You choose the order of fights.)[/i]
+
+Whisper Dan, The Silent King
+rules_text: When Whisper Dan enters, reveal cards from the top of the library until you reveal a land card, put it onto the battlefield tapped, put the rest on the bottom of your library in a random order, then create a 1/1 red Goblin creature token for each Kingdom you control. => When Whisper Dan enters, search your library for a Kingdom card, put it onto the battlefield, then shuffle.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, create a 1/1 red goblin creature token.
+
+Marrow Muncher
+rules_text: When this creature enters, surveil 2.
+Exile a two cards from your graveyard: Put a +1/+1 counter on this creature. => When this creature enters, create a Clue token.
+Sacrifice a relic: Put a +1/+1 counter on this creature. [i](Noncreature artifacts and enchantments are relics.)[/i]
+pt: 2/2 => 1/1
+
+
+VERSION 40 CHANGELOG
 ====================
 
 Fealty to Bubblegum added.
