@@ -495,7 +495,7 @@ Create a Clue token.</text>
 			<name>Mountain Pass</name>
 			<text>({T}: Add {R} or {G}.)
 As this land enters, you may tap an untapped creature you control. If you don&apos;t, it enters tapped.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/28.png" num="341">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/28.png" num="342">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -651,7 +651,7 @@ Finality (If this permanent would enter a graveyard from the battlefield, exile 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Roughousing</name>
+			<name>Roughhousing</name>
 			<text>Creatures you control must be blocked this turn if able and can&apos;t be blocked by more than one creature.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/37.png" num="216">ATC</set>
 			<prop>
@@ -2081,10 +2081,10 @@ Ghost Ship Vortex enters tapped if you control another legendary land.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Mt. Cragdor</name>
+			<name>Mount Cragdor</name>
 			<text>({T}: Add {R} or {G}.)
-Mt. Cragdor enters tapped if you control another legendary land.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/117.png" num="342">ATC</set>
+Mount Cragdor enters tapped if you control another legendary land.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/117.png" num="341">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5476,7 +5476,7 @@ If Wildberry Princess would be damaged or destroyed while she has one or more co
 		<card>
 			<name>Xergiok, The Flagelator</name>
 			<text>Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
-Sacrifice another Goblin: Each opponent loses 1 life.</text>
+Sacrifice another Goblin: Xergiok deals 1 damage to target player.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/304.png" num="142">ATC</set>
 			<prop>
 				<layout>normal</layout>

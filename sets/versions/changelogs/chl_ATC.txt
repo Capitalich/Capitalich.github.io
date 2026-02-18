@@ -1,4 +1,21 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+Roughhousing added.
+Mount Cragdor added.
+
+Roughousing removed.
+Mt. Cragdor removed.
+
+Greenscape
+
+Xergiok, The Flagelator
+rules_text: Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+Sacrifice another Goblin: Each opponent loses 1 life. => Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+Sacrifice another Goblin: Xergiok deals 1 damage to target player.
+
+
+VERSION 41 CHANGELOG
 ====================
 
 Oozer Infestation added.

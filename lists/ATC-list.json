@@ -1072,7 +1072,7 @@
         "position": "205"
     },
     {
-        "card_name": "Roughousing",
+        "card_name": "Roughhousing",
         "number": 216,
         "shape": "normal",
         "set": "ATC",
@@ -2608,12 +2608,12 @@
         "position": "146"
     },
     {
-        "card_name": "Mountain Pass",
+        "card_name": "Mount Cragdor",
         "number": 341,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "28"
+        "position": "117"
     },
     {
         "card_name": "Breakfast Kingdom",
@@ -2648,12 +2648,12 @@
         "position": "22"
     },
     {
-        "card_name": "Mt. Cragdor",
+        "card_name": "Mountain Pass",
         "number": 342,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "117"
+        "position": "28"
     },
     {
         "card_name": "Clearcut Patch",

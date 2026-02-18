@@ -285,7 +285,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "341",
+			"collector_number": "342",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/28.png"
 			}
@@ -371,7 +371,7 @@
 			}
 		},
 		{
-			"name": "Roughousing",
+			"name": "Roughhousing",
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
@@ -1171,11 +1171,11 @@
 			}
 		},
 		{
-			"name": "Mt. Cragdor",
+			"name": "Mount Cragdor",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Land — Mountain Forest",
-			"collector_number": "342",
+			"collector_number": "341",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/117.png"
 			}
@@ -4264,7 +4264,7 @@
 	1 Reach Through Time
 	1 Risen Horde
 	1 Root Beer Guy
-	1 Roughousing
+	1 Roughhousing
 	1 Somatic inversion
 	1 Special Sentient Sandwiches
 	1 Stuck Together
@@ -4344,7 +4344,7 @@
 	1 Lich's Influence
 	1 Hambo, Beloved Teddy
 	1 Ghost Ship Vortex
-	1 Mt. Cragdor
+	1 Mount Cragdor
 	1 The Lich's Lair
 	1 The Verdant Plains
 	1 Death's Garden
