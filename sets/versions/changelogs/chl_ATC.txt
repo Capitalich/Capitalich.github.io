@@ -1,4 +1,36 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 45 CHANGELOG
+====================
+
+Prismo, The Wishmaster added.
+GOLB, Entropy Manifest added.
+
+Negate removed.
+Out of Options removed.
+Stasis Talismen removed.
+Stretch Around removed.
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+cost: {1}{R} => {1}{UR}
+rules_text: Return target instant or sorcery card from your graveyard to your hand.
+Overload {3}{R}{R} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Return target instant or sorcery card from your graveyard to your hand.
+Overload {3}{UR}{UR} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Fiery Temper
+
+Mr. Fox, Loneliest Being
+
+
+type: Enchantment => Sorcery
+cost: {5}{G} => {2}{WB}{WB}
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Permanents you control have “{T}: Add {G}.” => Destroy all creatures with mana value 3 or less.
+
+
+VERSION 44 CHANGELOG
 ====================
 
 
