@@ -1,4 +1,22 @@
-﻿VERSION 46 CHANGELOG
+﻿VERSION 47 CHANGELOG
+====================
+
+
+
+Root Beer Guy
+
+Ghost Fly
+
+Fealty to Bubblegum
+
+
+type: Enchantment => Sorcery
+cost: {5}{G} => {2}{WB}{WB}
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Permanents you control have “{T}: Add {G}.” => Destroy all creatures with mana value 3 or less.
+
+
+VERSION 46 CHANGELOG
 ====================
 
 Thrumming Worm added.
