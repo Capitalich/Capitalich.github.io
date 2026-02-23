@@ -1,4 +1,17 @@
-﻿VERSION 45 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+Thrumming Worm added.
+
+
+
+type: Enchantment => Sorcery
+cost: {5}{G} => {2}{WB}{WB}
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Permanents you control have “{T}: Add {G}.” => Destroy all creatures with mana value 3 or less.
+
+
+VERSION 45 CHANGELOG
 ====================
 
 Prismo, The Wishmaster added.
