@@ -1,4 +1,18 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+
+
+Bureaucratic Burg
+
+The Finn Sword
+
+Inquisitive Whywolf
+
+Cinnamon Bun, Half Baked
+
+
+VERSION 43 CHANGELOG
 ====================
 
 Blaze of Rage added.
