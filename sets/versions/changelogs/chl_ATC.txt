@@ -1,4 +1,708 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+Dream Parasite added.
+Pull Down added.
+Malefic Tutor added.
+Tidal Wave added.
+Betty's Schemes added.
+Fiery Temper added.
+Mr. Fox, Loneliest Being added.
+Dead World Descent added.
+Prismo, The Wishmaster added.
+GOLB, Entropy Manifest added.
+Thrumming Worm added.
+
+Cliffside Treehouse removed.
+Coastal Fringe removed.
+Deepwater Rig removed.
+Cloudy Montane removed.
+Well Worn Road removed.
+Eroded Metropolis removed.
+Hostile Menagerie removed.
+Industrial Seaport removed.
+Remote Academy removed.
+Subsuming Morass removed.
+Dream Parisite removed.
+
+Mama Jiggler
+rules_text: Other creatures you control get +1/+1.
+At the beginning of you end step, create two 0/0 white Jiggler creature tokens.
+When this creature dies, creatures you control get +1/+1 until end of turn. => Jigglers you control get +1/+1.
+When this creature enters and after your draw step, create two 0/0 white Jiggler creature tokens.
+
+Rampant Regrowth
+cost: {2}{G}{G} => {G}{G}
+rules_text: Choose one or both —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand. => Choose one —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+
+Ravenous Grumbo
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature an opponent controls, then create a Clue token for each creature that has died this turn. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature an opponent controls, then create a number of Clue tokens equal to this creature's power.
+pt: 2/2 => 1/1
+
+Tree Trunks
+rules_text: {T}: Add {C} or {G}.
+{T}, Sacrifice a Food: Add {C}{G}.
+{2}, {T}: Create a Food token. => {T}: Add {C}.
+{T}, Sacrifice a Food: Add {C}{C}.
+{4}, {T}: Create a Food token.
+
+Wrath of Grob Gob Glob Grod
+rules_text: Choose one —
+• Destroy all artifacts.
+• Destroy all creatures.
+• Destroy all enchantments.
+• Destroy all planeswalkers.
+Entwine {2} [i](Choose all if you pay the entwine cost.)[/i] => Choose one —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with power 2 or less.
+• Destroy all creatures with power 3 or greater.
+Entwine {2} [i](Choose all if you pay the entwine cost.)[/i]
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+Hambo, Beloved Teddy
+
+Ghost Ship Vortex
+
+Mount Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Clumsy Skeleton
+
+Bandit Princess
+
+Turn to Seed
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+
+Spider Spewing
+
+Inquisitive Whywolf
+
+The Porcelain Lamb
+
+Gummy Bear
+
+Heroic Tutor
+
+Exhaustive Analysis
+
+Finn, The Human
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Junktown
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Abyssal Hollow
+
+The Vampire King
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+Itchy-Butt Dragon
+
+Flame Jester
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Syr Rattleballs
+
+I'm Jaking It
+
+Earl of Lemongrab
+
+Entropic Amalgam
+
+Probable Cause
+
+Seeded Digsite
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+
+Holotome
+
+Snooping Pastry
+
+Astral Epiphany
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+
+Nudumancer
+
+Blaze of Rage
+
+Strangle
+
+Psychic Stalemate
+
+Slime Princess
+
+Haughty Glassware
+
+Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Echo of Eons
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Breakfast Princess
+
+Shadow Ritual
+rules_text: Add {B}.
+Draw a card, then you lose 1 life. => Add {B}.
+Draw a card, then you lose 2 life.
+
+Clown Nurse
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+cost: {10}{W}{W} => {8}{W}{W}
+rules_text: Affinity for Candy, Nobles, and Kingdoms [i](Candy Nobles count twice.)[/i]
+Create two 4/4 blue Candy Giant artifact creatures. => Affinity for Candy
+Affinity for Kingdoms
+Affinity for Nobles
+Create two 4/4 blue Candy Giant artifact creatures.
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Bucket Knight
+
+Nightmare Princess
+
+Blastronaut
+
+Ice Scouts
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Improvised Heroism
+
+Sign Zombies
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+Flame Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Unrelenting Raccoon
+rules_text: Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever a creature card leaves your graveyard, remove a -1/-1 counter from this creature. => Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Whenever one or more creature cards leave your graveyard, put a +1/+1 counter on this creature.
+pt: 2/3 => 3/2
+
+Overstretch
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fionna Campbell
+
+Briberry
+
+Next-Level Super Organism
+rules_text: Flying, vigilance
+Devour relic 2 [i](As this enters the battlefield, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, create a Food token for each relic it devoured. => Flying, vigilance
+Devour relic 2 [i](As this enters the battlefield, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, you gain life equal to its power.
+pt: 1/1 => 0/0
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Lady Rainicorn
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+Glass Boy
+
+Class Project
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+rules_text: When Banana Man enters, create a Clue token.
+{2}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield. => When Banana Man enters, create a Clue token.
+{3}, {T}, Sacrifice an artifact: Return target artifact card with mana value 3 or less from your graveyard to the battlefield tapped.
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+rules_text: Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Modified creatures you control can't be blocked by more than one creature. => Persist [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i]
+Modified creatures you control can't be blocked by more than one creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+cost: {1}{B} => {B}{B}
+rules_text: Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+Sacrifice another Goblin: Xergiok deals 1 damage to target player. => Whenever you cast a noncreature spell, create a 1/1 red Goblin creature token.
+{1}, Sacrifice another Goblin: Xergiok deals 1 damage to target player.
+
+Mo, Paternal Roboticist
+rules_text: When Mo enters, create a Clue token.
+{4}, {T}, Sacrifice a relic: Create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.” [i](Noncreature artifacts and enchantments are relics.)[/i] => [i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each artifact you control.”
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Famished Moldos
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Candy Citizen
+
+Food
+
+Pacifism
+
+Equipment
+
+Candy Soldier
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Music
+
+Grapple
+
+New Death
+
+Gloat
+rules_text: Gloat deals 4 damage to any target. Up to one target creature must attack during its controller's next turn if able. => Gloat deals 4 damage to target creature. That creature's controller must attack next turn if able.
+
+Cross Blades
+
+Pulp Artist
+
+Detective
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+
+Flame Lord's Greeting
+
+Well of Power
+
+Fealty to Bubblegum
+rules_text: {3}: Put an awe counter on this enchantment, then create a 2/2 white Candy creature token. Then if this enchantment has three or more awe counters on it, transform it. Activate only as a sorcery. => When this enchantment enters, create a 2/2 white Candy Soldier creature token.
+{5}: This enchantment transforms.
+
+Princess Bubblegum
+
+Varmint
+
+King of Ooo
+rules_text: King of Ooo can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, they may sacrifice a nontoken permanent. If they don't, draw a card and confect. => King of Ooo can't be blocked by tokens.
+Whenever a Rogue you control deals damage to an opponent, they may sacrifice a nontoken permanent. If they don't, draw a card.
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Space Elves
+
+Wizard Streets
+
+Glassassin
+
+Patience's Patient Plan
+
+Devious Prank
+
+Patience's Patient Plan
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+rules_text: {W}{U}: [b]CONFECT[/b] Gather a crowd of loyal candy citizens, then overwhelm your opponent with powerful activated abilities.
+{U}{B}: [b]PROWESS[/b] Use a bevy of cheap noncreature spells to temporarily buff your creatures and manipulate the battlefield.
+{B}{R}: [b]MATHEMATICAL [/b]Cast as many spells as you can with freestyle, then drop a mathematical haymaker.
+{R}{G}: [b]MODIFIED[/b] Build up your creatures with equipment, auras, and counters to beat down.
+{G}{W}: [b]GROW WIDE RAMP[/b] Ramp into an army of creatures, then use team buffs to swing in for lethal damage.
+{W}{B}: [b]SACRIFICE [/b]Sacrifice various permanent types for value and to trigger aristocrat abilities.
+{U}{R}: [b]MADNESS[/b] Turn discarding into advantage with a council of insane wizards.
+{B}{G}: [b]GRAVEYARD[/b] Get cards into your graveyard, then use them for value with abilities like delve and disturb.
+{R}{W}: [b]ADVENTUROUS[/b] Form a band of adventurers that reduce the cost of cards you play from exile.
+{G}{U}: [b]RELICS [/b]Unearth the secrets of the past, accumulating clues to overwhelm your opponent with value. => {W}{U}: [b]CANDY CONTROL [/b]Gather a crowd of loyal candy citizens and overwhelm your opponent with incremental advantage.
+{U}{B}: [b]PROWESS[/b] Use a bevy of cheap noncreature spells to trigger abilities.
+{B}{R}: [b]MATHEMATICAL [/b]Cast as many spells as you can with Music tokens and cantrips, then drop a mathematical haymaker.
+{R}{G}: [b]MODIFIED[/b] Build up your creatures with equipment, auras, and counters to beat down.
+{G}{W}: [b]GROW WIDE RAMP[/b] Ramp into an army of creatures, then use team buffs to swing in for lethal damage.
+{W}{B}: [b]SACRIFICE [/b]Sacrifice various permanent types for value and to trigger aristocrat abilities.
+{U}{R}: [b]MADNESS[/b] Turn discarding into advantage with a council of insane wizards.
+{B}{G}: [b]GRAVEYARD[/b] Get cards into your graveyard, then use it as a resource with abilities like delve and disturb.
+{R}{W}: [b]EXILE CASTING[/b] Form a band of adventurers that reduce the cost of cards you play from exile.
+{G}{U}: [b]RELICS [/b]Hoard the secrets of the past to power up your creatures.
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+
+VERSION 49 CHANGELOG
 ====================
 
 
