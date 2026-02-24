@@ -1,4 +1,29 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+
+
+Bureaucratic Burg
+
+Root Beer Guy
+
+The Finn Sword
+
+Son of Rap Bear
+rules_text: Whenever you cast a spell on your turn, exile the top card of your library. You may play that card this turn.
+Whenever you play a land from exile, each opponent loses 1 life for each spell you've cast this turn. => Whenever you cast a spell from exile on your turn, exile the top card of your library. You may play that card this turn.
+Whenever you play a land from exile, each opponent loses 1 life for each spell you've cast this turn.
+
+Inquisitive Whywolf
+
+Ghost Fly
+
+Cinnamon Bun, Half Baked
+
+Fealty to Bubblegum
+
+
+VERSION 48 CHANGELOG
 ====================
 
 Cliffside Treehouse added.
