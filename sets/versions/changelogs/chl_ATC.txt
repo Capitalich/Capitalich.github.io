@@ -1,4 +1,536 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+Finn Sword added.
+Astral Epiphany added.
+
+The Finn Sword removed.
+Sublime Epiphany removed.
+
+Exhaustive Analysis
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +3/+3.
+{5}{G}, Exile Grass Sword from the battlefield or your graveyard: Transform target artifact named The Finn Sword. => Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+When Grass Sword leaves your graveyard, draw a card.
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+
+Nudumancer
+
+Blaze of Rage
+
+Strangle
+
+Psychic Stalemate
+
+Slime Princess
+
+Haughty Glassware
+
+Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Echo of Eons
+
+Shower Thoughts
+
+Magic Man, Transmografier
+rules_text: When Magic Man enters or leaves the battlefield, exile another target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.
+Madness {2}{R} => When Magic Man enters or leaves the battlefield, you may exile another target creature. That creature's controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles the rest into their library.
+Madness {2}{R}
+
+Breakfast Princess
+
+Shadow Ritual
+
+Clown Nurse
+
+Flame King
+rules_text: Menace
+Whenever Flame King enters or attacks, create two 3/1 red Elemental creature tokens with decayed. => Menace
+Whenever Flame King enters or attacks, create two 3/1 red Elemental creature tokens with decayed. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Bucket Knight
+
+Nightmare Princess
+
+Blastronaut
+
+Ice Scouts
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Improvised Heroism
+
+Sign Zombies
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+Flame Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Unrelenting Raccoon
+
+Overstretch
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+rules_text: {RG}: Jake gains reach until end of turn.
+{RG}: Counter target spell that targets only Jake unless its owner pays {1}.
+{1}: Jake gets +1/-1 or -1/+1 until end of turn. => {RG}: Jake gains reach or trample until end of turn.
+{RG}: Counter target spell or ability that targets only Jake unless its owner pays {1}.
+{1}: Jake gets +1/-1 or -1/+1 until end of turn.
+
+BMO
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fionna Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Cardomancer
+
+Burn Down the Town
+
+Lady Rainicorn
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+Glass Boy
+
+Class Project
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Syr Slicer
+
+Altar of GOLB
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+rules_text: [i]Sentimental[/i] — {3}, Discard a card: Put two +1/+1 counters on target relic. If the permanent was legendary, put four +1/+1 counters on it instead. It becomes a creature in addition to its other types. => When Magi of Life Giving enters, up to one target relic you control becomes a 4/4 blue creature in addition to its other types for as long as you control Magi of Life Giving.
+Madness {1}{U}
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+cost: {2}{W} => {W}
+rules_text: [i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each Robot you control.” => [i]Adventurous[/i] — Whenever Mo or another permanent with an adventure enters under your control, populate [i](Create a token that's a copy of a creature token you control.)[/i]
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Famished Moldos
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+rules_text: When Sweet P enters, search your library for up to two creature cards with mana value 1 or less, put them onto the battlefield tapped, then shuffle. Those creatures enter with a +1/+1 counter on them.
+Other modified creatures you control have hexproof. [i](Equipment, Auras you control, and counters are modifications.)[/i] => When Sweet P enters, search your library for up to two creature cards with mana value 2 or less, put them onto the battlefield, then shuffle.
+Creatures you control with mana value 2 or less have hexproof.
+
+Grody Ghost
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Food
+
+Pacifism
+
+Equipment
+type: Token Artifact — Treasure => Token Artifact — Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Music
+
+Grapple
+
+New Death
+
+Gloat
+rules_text: Gloat deals 4 damage to target creature. That creature's controller must attack next turn if able. => Gloat deals 4 damage to target creature. That creature's controller must attack you next turn if able.
+
+Frozen Blades
+type: Instant => Snow Instant
+
+Pulp Artist
+
+Detective
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+rules_text: Trample
+After attackers are declared on an opponent's combat step, The Farm fights each attacking creature. [i](You choose the order of fights.)[/i] => Trample
+Whenever a creature attacks you, The Farm fights that creature.
+
+James Baxter, Good Dude
+
+Flame Lord's Greeting
+
+Well of Power
+
+Fealty to Bubblegum
+
+Princess Bubblegum
+
+Varmint
+
+King of Ooo
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Space Elves
+
+Glassassin
+
+Patience's Patient Plan
+
+Devious Prank
+
+Patience's Patient Plan
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards. Create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards.
+II — Discard a card.
+III — Discard two cards. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Draw three cards. Create a Treasure token.
+II — Discard a card.
+III — Discard two cards.
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+
+Fiery Temper
+
+Dead World Descent
+
+Prismo, The Wishmaster
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Saccharine Anthem
+rules_text: Creatures you control get +1/+1 and are Candies in addition to their other types => Creatures you control get +1/+1 and are Candies in addition to their other types.
+
+Candy Soldier
+
+Candy Citizen
+
+
+VERSION 51 CHANGELOG
 ====================
 
 Sublime Epiphany added.
