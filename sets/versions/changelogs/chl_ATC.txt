@@ -1,4 +1,229 @@
-﻿VERSION 52 CHANGELOG
+﻿VERSION 53 CHANGELOG
+====================
+
+Duress added.
+
+Thoughtseize removed.
+Space Elves removed.
+
+Rampant Regrowth
+cost: {2}{G}{G} => {G}{G}
+rules_text: Choose one or both —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand. => Choose one —
+• Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+• Return target card from your graveyard to your hand.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i]
+
+The Lich
+rules_text: [+1]: You may exile a creature card from your graveyard. If you do, you may destroy target creature.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => You can't lose life from radiation.
+[+1]: Each player gets a rad counter.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard.
+special_text: [+1]: You may exile a creature card from your graveyard. If you do, you may destroy target creature.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => You can't lose life from radiation.
+[+1]: Each player gets a rad counter.
+[-7]: Put any number of creatures you own in exile onto the battlefield.
+Escape—{B}{B}{B}, Exile four other cards from your graveyard.
+loyalty: 3 => 4
+
+Lich Hand
+pt: 3/2 => 3/1
+
+Ravenous Grumbo
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, destroy target creature an opponent controls, then create a number of Clue tokens equal to this creature's power. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, target creature an opponent controls gets -X/-X where X is twice this creature's power, then create a number of Clue tokens equal to this creature's power.
+pt: 1/1 => 0/1
+
+Space Elves
+rules_text: Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+{T}: Add {C}. => {T}: Add {C}.
+
+Manish Man
+rules_text: Trample
+Equip abilities you activate cost {1} less to activate. => Equip abilities you activate cost {1} less to activate.
+
+Grand Wizard
+rules_text: {1}, Discard a card: Wizards you control gain flying until end of turn. => Discard a card: Wizards you control gain flying until end of turn.
+
+Flame Guards
+rules_text: Double strike
+When this creature enters, gear up twice. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Double strike
+When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+pt: 1/1 => 1/2
+
+Gummy Bear
+rules_text: {T}, Discard a card: Untap each other creature you control. Activate as a sorcery. => Discard a card: Untap each creature you control. Activate as a sorcery and only once each turn.
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Slime Kingdom
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Breakfast Kingdom
+
+Itchy-Butt Dragon
+
+Entropic Amalgam
+rules_text: Annihilator 2 [i](Whenever this creature attacks, defending player sacrifices two permanents.)[/i] => Annihilator 1 [i](Whenever this creature attacks, defending player sacrifices a permanent.)[/i]
+
+Mr. Cupcake
+rules_text: When Mr. Cupcake enters or attacks, confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Mr. Cupcake power is equal to the number of creatures you control. => Whenever Mr. Cupcake attacks, confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Mr. Cupcake power is equal to the number of creatures you control.
+
+Inevitable Return
+cost: {2}{B}{B} => {3}{B}{B}
+
+Harrowing Premonition
+rules_text: Up to one target creature gets -3/-3 until end of turn. 
+{3}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. => Up to one target creature gets -2/-2 until end of turn. 
+{3}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. Activate as a sorcery
+
+Hive of the Star
+rules_text: {T}: Add {C}.
+{T}: Add X {B}, where X is the number of Swamps you control minus the number of non-Swamp land you control. [i](Including this one.)[/i] => {T}: Add {C}.
+{T}: Add X {B}, where X is the number of Swamps you control minus the number of non-Swamp lands you control. [i](Including this one.)[/i]
+
+Scarab, God Auditor
+rules_text: [+1]: Surveil 1.
+[0]: Until your next turn, creatures your opponents control enter tapped.
+[-2]: Exile target nonland permanent until Scarab leaves the battlefield. => [+1]: Surveil 1.
+[0]: Until your next turn, creatures your opponents control enter tapped.
+[-2]: Exile another target nonland permanent until Scarab leaves the battlefield.
+special_text: [+1]: Surveil 1.
+[0]: Until your next turn, creatures your opponents control enter tapped.
+[-2]: Exile target nonland permanent until Scarab leaves the battlefield. => [+1]: Surveil 1.
+[0]: Until your next turn, creatures your opponents control enter tapped.
+[-2]: Exile another target nonland permanent until Scarab leaves the battlefield.
+
+Muscle Princess
+pt: 6/5 => 4/4
+
+Darren, Ancient Sleeper
+cost: {2}{B}{G} => {1}{B}{G}
+rules_text: When Darren enters, sacrifice it unless it escaped.
+Whenever Darren enters or attacks, destroy target nonland permanent with mana value 3 or less an opponent controls.
+Escape—{B}{B}{G}{G}, Exile five other cards from your graveyard => When Darren enters, sacrifice it unless it escaped.
+Whenever Darren enters or attacks, return target permanent card from your graveyard to your hand.
+Escape—{B}{B}{G}{G}, Exile five other cards from your graveyard
+
+Elise, Ailing Mother
+rules_text: When Elise enters or dies, surveil 2.
+Disturb {1}{G} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Elise enters, surveil 2.
+Disturb {3} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Lurking Guardian
+rules_text: Flash
+When this creature enters, choose target card with an Adventure in your graveyard or exile. You may cast it as an Adventure without paying its mana cost. => Flash
+When this creature enters, choose target card with an Adventure in your graveyard or you own in exile. You may cast it as an Adventure without paying its mana cost.
+
+Mo, Paternal Roboticist
+cost: {W} => {2}{W}
+
+Space Moth
+cost: {2}{W}{W} => {3}{W}
+
+Wizard Streets
+cost: {1}{R} => {2}{R}
+rules_text: Bundle 1
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Bundle 2
+Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard.
+
+New Death
+rules_text: New Death's power is equal to the number of creature cards in exile.
+When New Death dies, shuffle any number of creature cards you own in exile into your library. => New Death's power is equal to the number of creature cards in exile.
+When new death dies, shuffle any number of creature cards you own in exile into your library.
+
+Well of Power
+rules_text: {T}: Add {C}{C}. You get a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead. => {T}: Add {C}. You get a rad counter. [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+If you would draw a card while your library has no cards in it, you win the game instead.
+
+Glassassin
+
+Patience's Patient Plan
+
+Devious Prank
+
+Patience's Patient Plan
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+
+Fiery Temper
+
+Dead World Descent
+
+Prismo, The Wishmaster
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Astral Epiphany
+
+Saccharine Anthem
+
+Candy Soldier
+
+Candy Citizen
+
+
+VERSION 52 CHANGELOG
 ====================
 
 Finn Sword added.

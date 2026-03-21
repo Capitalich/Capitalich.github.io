@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "416"
+        "position": "415"
     },
     {
         "card_name": "Abstract Nightmare",
@@ -21,7 +21,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "394"
+        "position": "393"
     },
     {
         "card_name": "Abraham Lincoln",
@@ -309,7 +309,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "405"
+        "position": "404"
     },
     {
         "card_name": "Chalk Outline",
@@ -349,7 +349,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "410"
+        "position": "409"
     },
     {
         "card_name": "Confront the Forgotten",
@@ -416,12 +416,12 @@
         "position": "92"
     },
     {
-        "card_name": "Famished Moldos",
+        "card_name": "Duress",
         "number": 112,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "303"
+        "position": "44"
     },
     {
         "card_name": "Flame Guards",
@@ -456,12 +456,12 @@
         "position": "231"
     },
     {
-        "card_name": "Feed the Swarm",
+        "card_name": "Famished Moldos",
         "number": 113,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "352"
+        "position": "303"
     },
     {
         "card_name": "Flame Jester",
@@ -496,12 +496,12 @@
         "position": "73"
     },
     {
-        "card_name": "Fight King's Arena",
+        "card_name": "Feed the Swarm",
         "number": 114,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "304"
+        "position": "352"
     },
     {
         "card_name": "Flame King",
@@ -536,12 +536,12 @@
         "position": "223"
     },
     {
-        "card_name": "Frighten",
+        "card_name": "Fight King's Arena",
         "number": 115,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "215"
+        "position": "304"
     },
     {
         "card_name": "Flame Princess",
@@ -576,12 +576,12 @@
         "position": "230"
     },
     {
-        "card_name": "Fruit Witch",
+        "card_name": "Frighten",
         "number": 116,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "53"
+        "position": "215"
     },
     {
         "card_name": "Flamethrower",
@@ -616,12 +616,12 @@
         "position": "68"
     },
     {
-        "card_name": "Glassassin",
+        "card_name": "Fruit Witch",
         "number": 117,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "57"
+        "position": "53"
     },
     {
         "card_name": "Flametongue Newt in Boots",
@@ -656,12 +656,12 @@
         "position": "20"
     },
     {
-        "card_name": "Glimpse the Multiverse",
+        "card_name": "Glassassin",
         "number": 118,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "381"
+        "position": "57"
     },
     {
         "card_name": "Frightening Bolt",
@@ -696,12 +696,12 @@
         "position": "211"
     },
     {
-        "card_name": "Grody Ghost",
+        "card_name": "Glimpse the Multiverse",
         "number": 119,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "307"
+        "position": "381"
     },
     {
         "card_name": "Frozen Blades",
@@ -736,12 +736,12 @@
         "position": "302"
     },
     {
-        "card_name": "Harrowing Premonition",
+        "card_name": "Grody Ghost",
         "number": 120,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "169"
+        "position": "307"
     },
     {
         "card_name": "Glass Boy",
@@ -776,12 +776,12 @@
         "position": "247"
     },
     {
-        "card_name": "Hateful Faeries",
+        "card_name": "Harrowing Premonition",
         "number": 121,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "225"
+        "position": "169"
     },
     {
         "card_name": "Gloat",
@@ -816,12 +816,12 @@
         "position": "288"
     },
     {
-        "card_name": "Horror",
+        "card_name": "Hateful Faeries",
         "number": 122,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "41"
+        "position": "225"
     },
     {
         "card_name": "Hair Ape",
@@ -856,12 +856,12 @@
         "position": "93"
     },
     {
-        "card_name": "Inevitable Return",
+        "card_name": "Horror",
         "number": 123,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "168"
+        "position": "41"
     },
     {
         "card_name": "Honey Man",
@@ -896,12 +896,12 @@
         "position": "27"
     },
     {
-        "card_name": "King of Ooo",
+        "card_name": "Inevitable Return",
         "number": 124,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "377"
+        "position": "168"
     },
     {
         "card_name": "Itchy-Butt Dragon",
@@ -917,7 +917,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "400"
+        "position": "399"
     },
     {
         "card_name": "Kim Kil Whan, Landlord",
@@ -936,12 +936,12 @@
         "position": "69"
     },
     {
-        "card_name": "The Lich",
+        "card_name": "King of Ooo",
         "number": 125,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "42"
+        "position": "377"
     },
     {
         "card_name": "Jake Junior, Bohemian",
@@ -976,12 +976,12 @@
         "position": "67"
     },
     {
-        "card_name": "Lich Hand",
+        "card_name": "The Lich",
         "number": 126,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "ATC",
         "rotated": false,
-        "position": "55"
+        "position": "42"
     },
     {
         "card_name": "Jermaine, Abstract Artist",
@@ -1016,12 +1016,12 @@
         "position": "29"
     },
     {
-        "card_name": "Maja the Sky Witch",
+        "card_name": "Lich Hand",
         "number": 127,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "59"
+        "position": "55"
     },
     {
         "card_name": "Kick in the Boingloings",
@@ -1056,12 +1056,12 @@
         "position": "235"
     },
     {
-        "card_name": "Malefic Tutor",
+        "card_name": "Maja the Sky Witch",
         "number": 128,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "407"
+        "position": "59"
     },
     {
         "card_name": "Knife Storm",
@@ -1077,7 +1077,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "406"
+        "position": "405"
     },
     {
         "card_name": "Mama Jiggler",
@@ -1096,12 +1096,12 @@
         "position": "207"
     },
     {
-        "card_name": "Me-Mow, Second Class",
+        "card_name": "Malefic Tutor",
         "number": 129,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "25"
+        "position": "406"
     },
     {
         "card_name": "Magic Man, Transmografier",
@@ -1133,15 +1133,15 @@
         "shape": "saga",
         "set": "ATC",
         "rotated": false,
-        "position": "395"
+        "position": "394"
     },
     {
-        "card_name": "New Death",
+        "card_name": "Me-Mow, Second Class",
         "number": 130,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "358"
+        "position": "25"
     },
     {
         "card_name": "Manish Man",
@@ -1157,7 +1157,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "399"
+        "position": "398"
     },
     {
         "card_name": "The Morrow",
@@ -1176,12 +1176,12 @@
         "position": "94"
     },
     {
-        "card_name": "Newborn Marauder",
+        "card_name": "New Death",
         "number": 131,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "54"
+        "position": "358"
     },
     {
         "card_name": "Marceline, Vampire Queen",
@@ -1216,12 +1216,12 @@
         "position": "159"
     },
     {
-        "card_name": "Nightmare Princess",
+        "card_name": "Newborn Marauder",
         "number": 132,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "209"
+        "position": "54"
     },
     {
         "card_name": "Nudumancer",
@@ -1256,12 +1256,12 @@
         "position": "178"
     },
     {
-        "card_name": "Nuclear Fallout",
+        "card_name": "Nightmare Princess",
         "number": 133,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "382"
+        "position": "209"
     },
     {
         "card_name": "Old Wizards",
@@ -1296,12 +1296,12 @@
         "position": "34"
     },
     {
-        "card_name": "Oozer Infestation",
+        "card_name": "Nuclear Fallout",
         "number": 134,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "19"
+        "position": "382"
     },
     {
         "card_name": "Sabotage",
@@ -1336,12 +1336,12 @@
         "position": "70"
     },
     {
-        "card_name": "Peppermint Butler",
+        "card_name": "Oozer Infestation",
         "number": 135,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "60"
+        "position": "19"
     },
     {
         "card_name": "Saltburn",
@@ -1376,12 +1376,12 @@
         "position": "154"
     },
     {
-        "card_name": "Pulp Artist",
+        "card_name": "Peppermint Butler",
         "number": 136,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "361"
+        "position": "60"
     },
     {
         "card_name": "Searing Lick",
@@ -1416,12 +1416,12 @@
         "position": "289"
     },
     {
-        "card_name": "Raid the Fridge",
+        "card_name": "Pulp Artist",
         "number": 137,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "32"
+        "position": "361"
     },
     {
         "card_name": "Shell Slinger",
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "417"
+        "position": "416"
     },
     {
         "card_name": "Seeded Digsite",
@@ -1456,12 +1456,12 @@
         "position": "160"
     },
     {
-        "card_name": "Ravenous Grumbo",
+        "card_name": "Raid the Fridge",
         "number": 138,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "58"
+        "position": "32"
     },
     {
         "card_name": "Stickytongue Lizard",
@@ -1496,12 +1496,12 @@
         "position": "192"
     },
     {
-        "card_name": "Risen Horde",
+        "card_name": "Ravenous Grumbo",
         "number": 139,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "35"
+        "position": "58"
     },
     {
         "card_name": "Storytelling",
@@ -1536,12 +1536,12 @@
         "position": "212"
     },
     {
-        "card_name": "Ruby Brain Beast",
+        "card_name": "Risen Horde",
         "number": 140,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "56"
+        "position": "35"
     },
     {
         "card_name": "Strangle",
@@ -1576,12 +1576,12 @@
         "position": "190"
     },
     {
-        "card_name": "Shadow Ritual",
+        "card_name": "Ruby Brain Beast",
         "number": 141,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "195"
+        "position": "56"
     },
     {
         "card_name": "Thunder Boar",
@@ -1616,12 +1616,12 @@
         "position": "164"
     },
     {
-        "card_name": "Snuff",
+        "card_name": "Shadow Ritual",
         "number": 142,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "353"
+        "position": "195"
     },
     {
         "card_name": "Tiny, Micro Manticore",
@@ -1656,12 +1656,12 @@
         "position": "227"
     },
     {
-        "card_name": "Soul Suck",
+        "card_name": "Snuff",
         "number": 143,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "81"
+        "position": "353"
     },
     {
         "card_name": "Toothy Sword",
@@ -1696,12 +1696,12 @@
         "position": "38"
     },
     {
-        "card_name": "Special Sentient Sandwiches",
+        "card_name": "Soul Suck",
         "number": 144,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "39"
+        "position": "81"
     },
     {
         "card_name": "Unlimited Party Energy",
@@ -1736,12 +1736,12 @@
         "position": "296"
     },
     {
-        "card_name": "Syr Slicer",
+        "card_name": "Special Sentient Sandwiches",
         "number": 145,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "282"
+        "position": "39"
     },
     {
         "card_name": "Volcanic Tutor",
@@ -1776,12 +1776,12 @@
         "position": "95"
     },
     {
-        "card_name": "Thoughtseize",
+        "card_name": "Syr Slicer",
         "number": 146,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "44"
+        "position": "282"
     },
     {
         "card_name": "Volcanic Vision",
@@ -1813,7 +1813,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "408"
+        "position": "407"
     },
     {
         "card_name": "The Vampire King",
@@ -1909,7 +1909,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "415"
+        "position": "414"
     },
     {
         "card_name": "e"
@@ -1981,7 +1981,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "414"
+        "position": "413"
     },
     {
         "card_name": "Lyrical Duet",
@@ -2061,7 +2061,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "404"
+        "position": "403"
     },
     {
         "card_name": "Bandit Princess",
@@ -2228,7 +2228,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "411"
+        "position": "410"
     },
     {
         "card_name": "Betty Grof, Magic Woman",
@@ -2276,7 +2276,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "409"
+        "position": "408"
     },
     {
         "card_name": "Mother Varmint",
@@ -2332,7 +2332,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "403"
+        "position": "402"
     },
     {
         "card_name": "Eerie Onlooker",
@@ -2422,7 +2422,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "413"
+        "position": "412"
     },
     {
         "card_name": "Lumpy Space Princess",
@@ -2438,7 +2438,7 @@
         "shape": "planeswalker",
         "set": "ATC",
         "rotated": false,
-        "position": "412"
+        "position": "411"
     },
     {
         "card_name": "Altar of GOLB",
@@ -2542,7 +2542,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "401"
+        "position": "400"
     },
     {
         "card_name": "e"
@@ -2593,7 +2593,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "402"
+        "position": "401"
     },
     {
         "card_name": "Hall of Egress",
@@ -3178,7 +3178,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "393"
+        "position": "392"
     },
     {
         "card_name": "Music",
@@ -3202,11 +3202,11 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "392"
+        "position": "391"
     },
     {
         "card_name": "Clue",
-        "number": 28,
+        "number": 27,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3214,15 +3214,15 @@
     },
     {
         "card_name": "Clue",
-        "number": 29,
+        "number": 28,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "339"
+        "position": "340"
     },
     {
         "card_name": "Clue",
-        "number": 30,
+        "number": 29,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3230,7 +3230,7 @@
     },
     {
         "card_name": "Clue",
-        "number": 31,
+        "number": 30,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3238,23 +3238,23 @@
     },
     {
         "card_name": "Clue",
+        "number": 31,
+        "shape": "token",
+        "set": "ATC",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "Dad's Holomessage",
         "number": 32,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "340"
-    },
-    {
-        "card_name": "Dad's Holomessage",
-        "number": 33,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
-        "position": "398"
+        "position": "397"
     },
     {
         "card_name": "Equipment",
-        "number": 34,
+        "number": 33,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3262,7 +3262,7 @@
     },
     {
         "card_name": "Food",
-        "number": 35,
+        "number": 34,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3270,11 +3270,19 @@
     },
     {
         "card_name": "Robot",
-        "number": 36,
+        "number": 35,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
         "position": "330"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 36,
+        "shape": "token",
+        "set": "ATC",
+        "rotated": false,
+        "position": "345"
     },
     {
         "card_name": "Treasure",
@@ -3290,7 +3298,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "344"
+        "position": "343"
     },
     {
         "card_name": "Treasure",
@@ -3298,7 +3306,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "345"
+        "position": "344"
     },
     {
         "card_name": "Treasure",
@@ -3306,19 +3314,11 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "343"
-    },
-    {
-        "card_name": "Treasure",
-        "number": 41,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
         "position": "342"
     },
     {
         "card_name": "Wastes",
-        "number": 42,
+        "number": 41,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3326,7 +3326,7 @@
     },
     {
         "card_name": "Wastes",
-        "number": 43,
+        "number": 42,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3334,7 +3334,7 @@
     },
     {
         "card_name": "Simon Petrikov",
-        "number": 44,
+        "number": 43,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3346,7 +3346,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "419"
+        "position": "418"
     },
     {
         "card_name": "Candy Soldier",
@@ -3354,7 +3354,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "418"
+        "position": "417"
     },
     {
         "card_name": "Pacifism",
@@ -3378,7 +3378,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "397"
+        "position": "396"
     },
     {
         "card_name": "Devious Prank",
@@ -3386,7 +3386,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "389"
+        "position": "388"
     },
     {
         "card_name": "Patience's Patient Plan",
@@ -3394,7 +3394,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "388"
+        "position": "387"
     },
     {
         "card_name": "Patience's Patient Plan",
@@ -3402,7 +3402,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "390"
+        "position": "389"
     },
     {
         "card_name": "Bird Army",
@@ -3418,7 +3418,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "387"
+        "position": "386"
     },
     {
         "card_name": "Vampire",
@@ -3434,7 +3434,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "396"
+        "position": "395"
     },
     {
         "card_name": "Elemental",
@@ -3466,7 +3466,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "391"
+        "position": "390"
     },
     {
         "card_name": "Bear",
@@ -3485,16 +3485,8 @@
         "position": "331"
     },
     {
-        "card_name": "Space Elves",
-        "number": 24,
-        "shape": "token",
-        "set": "ATC",
-        "rotated": false,
-        "position": "386"
-    },
-    {
         "card_name": "Spider",
-        "number": 25,
+        "number": 24,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3502,7 +3494,7 @@
     },
     {
         "card_name": "Varmint",
-        "number": 26,
+        "number": 25,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
@@ -3510,11 +3502,14 @@
     },
     {
         "card_name": "Detective",
-        "number": 27,
+        "number": 26,
         "shape": "token",
         "set": "ATC",
         "rotated": false,
         "position": "362"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
