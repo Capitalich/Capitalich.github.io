@@ -1,4 +1,259 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+Grand Master Wizard added.
+Fractal Reggression added.
+Wizard Streets added.
+Space Elves added.
+
+Grand Wizard removed.
+Fractalize removed.
+Devious Prank removed.
+
+Depressing Edict
+cost: {2}{B} => {1}{B}
+rules_text: Each opponent sacrifices a creature. If that permanent was a token, its controller loses 2 life.
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i] => Each player sacrifices a creature.
+Mathematical! [i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+
+Goo Skulls
+rules_text: When this creature enters, destroy target artifact, enchantment, or creature with flying.
+Scavenge {2}{G}{G} [i]({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i] => When this creature enters, destroy target relic.
+Scavenge {2}{G}{G} [i]({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Mama Jiggler
+rules_text: Jigglers you control get +1/+1.
+When this creature enters and after your draw step, create two 0/0 white Jiggler creature tokens. => Jigglers you control get +1/+1.
+When this creature enters and at the beginning of your upkeep, create a 0/0 white Jiggler creature token.
+pt: 3/4 => 3/3
+
+Wizard City Po-Po
+rules_text: When this creature enters, you may return another target creature to its owners hand.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature enters, you may return target creature an opponent controls to its owners hand.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Peppermint Butler
+cost: {1}{B}{B} => {B}{B}{B}
+pt: 3/3 => 2/2
+
+Space Elves
+rules_text: {T}: Add {C}. => Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+{T}: Add {C}.
+
+Science Cat
+rules_text: Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana. => When this creature enters, create a Clue token.
+Abilities you activate cost {1} less to activate. This effect can't reduce the cost to less than one mana.
+pt: 1/3 => 2/3
+
+Lemonshrieker
+rules_text:  => Whenever this creature attacks, you may pay {1}. If you do, tap target creature.
+
+Ice Kingdom
+rules_text: {T}: Add {U}.
+Whenever you discard a card, untap Ice Kingdom. => {T}: Add {U}.
+Whenever you discard Ice Kingdom, discard it into exile. You may play it from exile until end of turn.
+
+Hambo, Beloved Teddy
+cost: {0} => {1}
+
+Clumsy Skeleton
+rules_text: {3}{B}: Return this creature and up to one target relic with mana value 1 or less from your graveyard to the battlefield. They both enter tapped. [i](Noncreature artifacts and enchantments are relics.)[/i] => When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{3}{B}: Return this creature from your graveyard to the battlefield tapped.
+
+Science, Sweet Familiar
+rules_text: When Science enters, create a Clue token.
+Whenever you activate an ability, you may pay {3}. If you do, copy that ability. You may choose new targets for the copy. => When Science enters, create a Clue token.
+{T}, Sacrifice a relic: Copy target activated or triggered ability you control. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Breezy, Reluctant Heir
+rules_text: Flying
+[i]Sentimental[/i] — {2}, Sacrifice a relic: You gain 3 life. If the sacrificed relic was legendary, transform Breezy. [i](Noncreature artifacts and enchantments are relics.)[/i] => Flying
+[i]Snack[/i] — Whenever you gain your third life each turn, transform Breezy.
+
+Tyranny to Transendentalism
+rules_text: Exile target creature an opponent controls. Its controller discovers 3. [i](They exile cards from the top of their library until they exile a nonland card with mana value 3 or less. They cast it without paying its mana cost or put it into their hand. They put the rest on the bottom in a random order.)[/i] => Exile target creature an opponent controls. Its controller gains life equal to the highest number among its power, toughness, or mana value.
+
+Snow Golem
+cost: {2}{U} => {3}{U}
+
+Ghost Fly
+rules_text: Flying
+After your draw step, mill a card. If a noncreature, nonland card was was milled this way, put a +1/+1 counter on this creature.
+Disturb {2}{U} => Flying
+At the beginning of your precombat main phase, mill a card. If a noncreature, nonland card was was milled this way, put a +1/+1 counter on this creature.
+Disturb {2}{U}
+
+Lemoncrafting
+rules_text: [i]Sentimental[/i] — After your draw step, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life. => [i]Sentimental[/i] — At the beginning of your precombat main phase, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life.
+
+Cinnamon Bun, Half Baked
+type: Legendary Creature — Candy => Legendary Creature — Candy Citizen
+rules_text: [i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, Cinnamon Bun transforms. => {T}: Add {C}. You can't spend this mana to cast spells from your hand.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, Cinnamon Bun transforms.
+
+The Morrow
+rules_text: Flying
+Whenever The Morrow attacks, create a 2/2 white Candy Soldier creature token if you control a Noble. => Flying
+Whenever The Morrow attacks, you may cast a copy of it's adventure.
+
+Fionna Campbell
+rules_text: When Fionna enters and after your draw step, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.
+[+1]: Untap target permanent.
+[-3]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature. => [+1]: Untap target permanent.
+[+0]: Create a legendary 2/1 green Cat creature token with haste named Cake.
+[-2]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature.
+special_text: When Fionna enters and after your draw step, you may create a tapped legendary 1/1 green Cat creature token with haste named Cake.
+[+1]: Untap target permanent.
+[-3]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature. => [+1]: Untap target permanent.
+[+0]: Create a legendary 2/1 green Cat creature token with haste named Cake.
+[-2]: Put two +1/+1 counters on target creature you control. If the creature's name is Cake, you may have it fight another target creature.
+
+Lady Rainicorn
+
+Magi of Life Giving
+pt: 2/1 => 1/1
+
+Mo, Paternal Roboticist
+cost: {2}{W} => {W}{U}
+rules_text: [i]Adventurous[/i] — Whenever Mo or another permanent with an adventure enters under your control, populate [i](Create a token that's a copy of a creature token you control.)[/i] => Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each Robot you control.”
+{T}: Each player draws a card.
+pt: 0/1 => 0/2
+
+Space Moth
+
+Spader Peterson, Star Pupil
+cost: {3}{U} => {2}{U}
+rules_text: Whenever you cast a noncreature spell, Wizards you control gain +1/+1 until end of turn.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Whenever you cast a noncreature spell, Spader gets +2/+2 until end of turn and other Wizards you control get +1/+1 until end of turn.
+Madness {1}{U}
+pt: 3/2 => 2/1
+
+Fight King's Arena
+rules_text: After your draw step, you draw a card and you lose 2 life.
+When Fight King's Arena leaves the battlefield, you gain 3 life. => At the beginning of your draw step, you lose 2 life and you draw an additional card.
+When Fight King's Arena leaves the battlefield, you gain 3 life.
+
+Devious Prank
+cost: {3}{U}{U} => {2}{U}{U}
+rules_text: Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+Convoke
+Counter target spell. You may shuffle up to four target cards from your graveyard into your library. => Convoke
+Counter target spell. Shuffle Devious Prank and up to three target cards from your graveyard into your library.
+
+Flame Lord's Greeting
+cost: {U}{R} => {1}{U}{R}
+
+Delivery Drone
+cost: {1}{W}{U} => {1}{W}{W}
+pt: 2/1 => 1/1
+
+Patience's Patient Plan
+
+Wizard Streets
+cost: {1}{R} => {2}{R}
+rules_text: Create a 2/1 red Wizard creature token with prowess.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard.
+
+CUSTOM MECHANICS
+rules_text: [b]BUNDLE X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+CONFECT (CREATE A 0/1 WHITE CANDY CITIZEN CREATURE TOKEN WITH “{T}: ADD {C}. YOU CAN'T SPEND this MANA TO CAST SPELLS from your hand.”) [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[b]Music Token[/b]
+[b]GEAR UP[/b]
+[b]MATHEMATICAL![/b]
+[b]RELIC[/b] => [b]Bundle X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]Confect[/b] [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[b]Music Token [/b][i](An enchantment token with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”[/i]
+[b]Gear up [/b][i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip 2.)[/i]
+[b]Mathematical! [/b][i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+[b]Relic [/b][i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Abstract Nightmare
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+rules_text: Roll two d20.
+[b]1-8 [/b]|Create a 2/2 black Zombie creature token.
+9[b]-17 [/b]| Create a Clue token.
+[b]18-20 [/b]| Create a Food token.[b]
+[/b]Flashback {4}{G}{G} => Create a 2/2 black Zombie creature token, then roll a d20.
+[b]1-10 [/b]|Create a Treasure token.
+11[b]-17 [/b]| Create a Clue token.
+[b]18-20 [/b]| Create a Food token.[b]
+[/b]Flashback {4}{G}{G}
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+rules_text: Return target instant or sorcery card from your graveyard to your hand.
+Overload {3}{UR}{UR} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i] => Return target instant or sorcery card from your graveyard to your hand.
+Overload {4}{UR}{UR} [i](You may cast this spell for its overload cost. If you do, change “target” in its text to “each.”)[/i]
+
+Fiery Temper
+
+Dead World Descent
+
+Prismo, The Wishmaster
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Astral Epiphany
+
+Saccharine Anthem
+
+Candy Soldier
+
+Candy Citizen
+
+TWO COLOR ARCHETYPES
+rules_text: {W}{U}: [b]CANDY CONTROL [/b]Gather a crowd of loyal candy citizens and overwhelm your opponent with incremental advantage.
+{U}{B}: [b]PROWESS[/b] Use a bevy of cheap noncreature spells to trigger abilities.
+{B}{R}: [b]MATHEMATICAL [/b]Cast as many spells as you can with Music tokens and cantrips, then drop a mathematical haymaker.
+{R}{G}: [b]MODIFIED[/b] Build up your creatures with equipment, auras, and counters to beat down.
+{G}{W}: [b]GROW WIDE RAMP[/b] Ramp into an army of creatures, then use team buffs to swing in for lethal damage.
+{W}{B}: [b]SACRIFICE [/b]Sacrifice various permanent types for value and to trigger aristocrat abilities.
+{U}{R}: [b]MADNESS[/b] Turn discarding into advantage with a council of insane wizards.
+{B}{G}: [b]GRAVEYARD[/b] Get cards into your graveyard, then use it as a resource with abilities like delve and disturb.
+{R}{W}: [b]EXILE CASTING[/b] Form a band of adventurers that reduce the cost of cards you play from exile.
+{G}{U}: [b]RELICS [/b]Hoard the secrets of the past to power up your creatures. => {W}{U}: [b]CANDY CONTROL [/b]Gather a crowd of loyal candy citizens and overwhelm your opponent with incremental advantage.
+{U}{B}: [b]PROWESS[/b] Use a bevy of cheap noncreature spells to trigger abilities.
+{B}{R}: [b]MATHEMATICAL [/b]Cast as many spells as you can with Music tokens and cantrips, then drop a mathematical haymaker.
+{R}{G}: [b]MODIFIED[/b] Build up your creatures with equipment, auras, and counters to beat down.
+{G}{W}: [b]SNACKING[/b] Use food and lifelink to gain 3 life in a turn to trigger abilities.
+{W}{B}: [b]SACRIFICE [/b]Sacrifice various permanent types for value and to trigger aristocrat abilities.
+{U}{R}: [b]MADNESS[/b] Turn discarding into advantage with a council of insane wizards.
+{B}{G}: [b]GRAVEYARD[/b] Get cards into your graveyard, then use it as a resource with abilities like delve and disturb.
+{R}{W}: [b]EXILE CASTING[/b] Form a band of adventurers that reduce the cost of cards you play from exile.
+{G}{U}: [b]RELICS [/b]Gather secrets of the past to power up your creatures.
+
+
+VERSION 53 CHANGELOG
 ====================
 
 Duress added.
