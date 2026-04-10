@@ -1,4 +1,331 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+Fractal Regression added.
+Dad's Holomessage added.
+Dad's Holomessage added.
+
+Fractal Reggression removed.
+Altar of GOLB removed.
+
+Ice Plague
+rules_text: Tap X target creatures. Put a stun counter on each of them.
+Madness {X}{X}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Tap X target creatures. Put a stun counter on each of them.
+Madness {X}{U}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Me-Mow, Second Class
+rules_text: Ninjutsu {2}{B}
+Deathtouch
+Whenever Me-Mow deals combat damage to a player, they get two poison counters, then put a bounty counter on target creature they control.
+Creatures with bounty counters on them get -1/-1 for each poison counter their controller has. => Ninjutsu {2}{B}
+Deathtouch
+Whenever Me-Mow deals combat damage to a player, they get one poison counter, then put a bounty counter on target creature they control.
+Creatures with bounty counters on them get -1/-1 for each poison counter their controller has.
+
+Ravenous Grumbo
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, target creature an opponent controls gets -X/-X where X is twice this creature's power, then create a number of Clue tokens equal to this creature's power. => Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, target creature an opponent controls gets -X/-X where X is this creature's power, then create half X Clue tokens, rounded down.
+pt: 0/1 => 0/0
+
+Science Cat
+pt: 2/3 => 1/3
+
+Banana Guard 500
+rules_text: Flying
+When this creature enters, create a 2/2 white Candy Soldier creature token. => Flying
+
+Science, Sweet Familiar
+cost: {1}{U} => {1}{WU}
+rules_text: When Science enters, create a Clue token.
+{T}, Sacrifice a relic: Copy target activated or triggered ability you control. [i](Noncreature artifacts and enchantments are relics.)[/i] => When Science enters, create a Clue token.
+{2}, {T}: Copy target activated or triggered ability you control.
+
+Breakfast Princess
+rules_text: When Breakfast Princess enters, create a Food token for each Noble and Kingdom you control.
+[i]Snack[/i]—Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control. => [i]Snack[/i]—Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control.
+
+Forge the Guardians
+rules_text: Affinity for Candy
+Affinity for Kingdoms
+Affinity for Nobles
+Create two 4/4 blue Candy Giant artifact creatures. => Affinity for Candy
+Affinity for Kingdoms
+Create two 4/4 blue Candy Giant artifact creatures.
+
+Giant Lemon Snail
+rules_text: When this creature enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i] => Vigilance
+pt: 2/3 => 1/3
+
+Haphazard Excavation
+cost: {W} => {1}{W}
+rules_text: Choose one —
+• Destroy target relic.
+• Return target relic card from your graveyard to your hand.
+Entwine {2} [i](Choose both if you pay the entwine cost.)[/i] => Escalate {1} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one —
+• Destroy target relic.
+• Create a clue token.
+• Return target relic card from your graveyard to your hand.
+
+Burn Down the Town
+rules_text: Wheneve you cast or copy this spell, choose one —
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical! => Whenever you cast or copy this spell, choose one —
+• Create two 1/1 red Goblin creature tokens.
+• Burn Down the Town deals 1 damage to each creature.
+Mathematical!
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+cost: {W}{U} => {U}
+rules_text: Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each Robot you control.”
+{T}: Each player draws a card. => When Mo enters, create a Clue token.
+Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each Robot you control.”
+pt: 0/2 => 0/1
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Famished Moldos
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Food
+
+Pacifism
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Music
+
+Grapple
+
+New Death
+
+Gloat
+
+Frozen Blades
+
+Pulp Artist
+
+Detective
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+rules_text: Creature tokens you control have haste. => Creature tokens you control get +1/+1.
+
+Flame Lord's Greeting
+
+Well of Power
+cost: {1}{B}{G} => {B}{G}
+
+Fealty to Bubblegum
+
+Princess Bubblegum
+pt: 1/3 => 2/4
+
+Varmint
+
+King of Ooo
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Glassassin
+
+Patience's Patient Plan
+
+Patience's Patient Plan
+
+Wizard Streets
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+
+Fiery Temper
+cost: {R} => {2}{R}
+
+Dead World Descent
+
+Prismo, The Wishmaster
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Astral Epiphany
+
+Saccharine Anthem
+
+Candy Soldier
+
+Candy Citizen
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+Space Elves
+
+
+VERSION 54 CHANGELOG
 ====================
 
 Grand Master Wizard added.
