@@ -827,8 +827,8 @@
 		{
 			"name": "Soul Suck",
 			"rarity": "special",
-			"mana_cost": "{X}{B}{B}",
-			"type": "Sorcery",
+			"mana_cost": "{5}{B}",
+			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/81.png"
@@ -1261,8 +1261,8 @@
 		{
 			"name": "Heroic Tutor",
 			"rarity": "special",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Sorcery",
+			"mana_cost": "{W}",
+			"type": "Legendary Instant",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/123.png"
@@ -1669,7 +1669,7 @@
 			"name": "Holotome",
 			"rarity": "special",
 			"mana_cost": "{3}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "306",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/163.png"
@@ -2433,7 +2433,7 @@
 			}
 		},
 		{
-			"name": "BMO",
+			"name": "BMO, Little Wanderer",
 			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact Creature — Robot",
@@ -2720,7 +2720,7 @@
 			}
 		},
 		{
-			"name": "Charlie, Cardomancer",
+			"name": "Charlie, Card Reader",
 			"rarity": "special",
 			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Legendary Creature — Dog Shaman",
@@ -4515,7 +4515,7 @@
 	1 T.V., Pup Detective
 	1 Shelby
 	1 Jake, The Dog
-	1 BMO
+	1 BMO, Little Wanderer
 	1 Space Lard
 	1 Bluescape
 	1 Greenscape
@@ -4543,7 +4543,7 @@
 	1 Cadebra, Novice Magician
 	1 Grassy Gatekeeper
 	1 Party Pat
-	1 Charlie, Cardomancer
+	1 Charlie, Card Reader
 	1 Burn Down the Town
 	1 Lady Rainicorn
 	1 Muscle Princess

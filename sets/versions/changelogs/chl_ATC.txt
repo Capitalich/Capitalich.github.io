@@ -1,4 +1,43 @@
-﻿VERSION 55 CHANGELOG
+﻿VERSION 56 CHANGELOG
+====================
+
+BMO, Little Wanderer added.
+Charlie, Card Reader added.
+
+BMO removed.
+Charlie, Cardomancer removed.
+
+The Dungeon Train
+
+Soul Suck
+type: Sorcery => Instant
+cost: {X}{B}{B} => {5}{B}
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Soul Suck deals X damage to target creature. You gain X life. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+Soul Suck deals 3 damage to any target. You gain 3 life.
+
+Finn Sword
+
+Heroic Tutor
+type: Legendary Sorcery => Legendary Instant
+cost: {1}{W} => {W}
+
+Abyssal Hollow
+
+Holotome
+type: Artifact => Artifact — Book
+
+Flame Princess
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a 3/1 red Elemental creature token decayed. => [i]Landfall[/i] — Whenever a land you control enters, create a 3/1 red Elemental creature token with decayed.
+
+Ember Wolves
+
+Tidal Wave
+
+Thrumming Worm
+
+
+VERSION 55 CHANGELOG
 ====================
 
 Fractal Regression added.

@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-04-10</releasedate>
+			<releasedate>2026-05-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1494,15 +1494,15 @@ Gain control of target artifact until end of turn. Untap it. It gains haste unti
 		<card>
 			<name>Soul Suck</name>
 			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
-Soul Suck deals X damage to target creature. You gain X life.</text>
+Soul Suck deals 3 damage to any target. You gain 3 life.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/81.png" num="144">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>XBB</manacost>
-				<cmc>2</cmc>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
@@ -2286,10 +2286,10 @@ Search your library for a legendary card, reveal it, put it into your hand, then
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<type>Legendary Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -3044,7 +3044,7 @@ Mr. Cupcake power is equal to the number of creatures you control.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact</type>
+				<type>Artifact — Book</type>
 				<maintype>Artifact</maintype>
 				<manacost>3</manacost>
 				<cmc>3</cmc>
@@ -4148,7 +4148,7 @@ Destroy target creature with mana value 1 or less.</text>
 		</card>
 		<card>
 			<name>Flame Princess // Fiery Passion</name>
-			<text>Landfall — Whenever a land you control enters, create a 3/1 red Elemental creature token decayed.
+			<text>Landfall — Whenever a land you control enters, create a 3/1 red Elemental creature token with decayed.
 
 ---
 
@@ -4414,7 +4414,7 @@ The owner of target nonland permanent puts it into their library second from the
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BMO</name>
+			<name>BMO, Little Wanderer</name>
 			<text>When BMO enters, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 {2}{W}{U}{B}{R}{G}: Exile the top five cards of your library. You may cast a spell from among the exiled cards without paying it&apos;s mana cost. Put the rest on the bottom of your library in a random order.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/239.png" num="298">ATC</set>
@@ -4942,7 +4942,7 @@ When Party Pat enters, create a 2/2 green Bear creature token, then for each tok
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Charlie, Cardomancer</name>
+			<name>Charlie, Card Reader</name>
 			<text>When Charlie enters, create a Clue token.
 If you would draw a card for the first time each turn, instead surveil 1, then draw a card.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/267.png" num="296">ATC</set>
