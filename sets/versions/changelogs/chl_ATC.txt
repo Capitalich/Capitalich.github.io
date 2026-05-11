@@ -1,4 +1,508 @@
-﻿VERSION 56 CHANGELOG
+﻿VERSION 57 CHANGELOG
+====================
+
+The Mother Gum added.
+
+I'm Jaking It removed.
+
+Huntress Wizard
+
+Earl of Lemongrab
+
+Entropic Amalgam
+
+Probable Cause
+
+Seeded Digsite
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+
+Holotome
+
+Snooping Pastry
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Honey Man
+
+Knife Storm
+
+Nudumancer
+
+Blaze of Rage
+
+Strangle
+
+Psychic Stalemate
+
+Slime Princess
+
+Haughty Glassware
+
+Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Echo of Eons
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Breakfast Princess
+
+Shadow Ritual
+
+Clown Nurse
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Bucket Knight
+
+Nightmare Princess
+
+Blastronaut
+
+Ice Scouts
+
+Simon Petrikov
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transendentalism
+
+Confront the Past
+
+Tiny Tiller
+
+Improvised Heroism
+
+Sign Zombies
+
+Storytelling
+
+Crab Demon
+
+Gumcrafting
+
+Raggedy Princess
+
+Hateful Faeries
+
+Flame Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Ghost Fly
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Unrelenting Raccoon
+
+Overstretch
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, The Dog
+
+BMO, Little Wanderer
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Hair Ape
+
+Bubblegum's Command
+
+The Morrow
+
+Fionna Campbell
+
+Briberry
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Abraham Lincoln
+
+Giant Ant Creature
+
+Jake Junior, Bohemian
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Charlie, Card Reader
+
+Burn Down the Town
+
+Lady Rainicorn
+
+Muscle Princess
+
+Bugbear Brawlers
+
+Festive Nutler
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+Glass Boy
+
+Class Project
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Syr Slicer
+
+Banana Man
+
+Hall of Egress
+
+Elise, Ailing Mother
+
+Lurking Guardian
+
+Magi of Life Giving
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+
+Starchy, The Gravedigger
+
+Space Moth
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Famished Moldos
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Bear
+
+Simon Petrikov
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Food
+
+Pacifism
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Music
+
+Grapple
+
+New Death
+
+Gloat
+
+Frozen Blades
+
+Pulp Artist
+
+Detective
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Aunt Lolly
+
+Spider
+
+CANON MECHANICS
+
+The Farm, Unwreckable
+
+James Baxter, Good Dude
+
+Flame Lord's Greeting
+
+Well of Power
+
+Fealty to Bubblegum
+
+Princess Bubblegum
+
+Varmint
+
+King of Ooo
+
+Boneyfly
+
+Kim Kil Whan, Landlord
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Royal Regiment
+
+Glassassin
+
+Patience's Patient Plan
+
+Patience's Patient Plan
+
+Wizard Streets
+
+CUSTOM MECHANICS
+
+Abstract Nightmare
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+
+Fiery Temper
+
+Dead World Descent
+
+Prismo, The Wishmaster
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Astral Epiphany
+
+Saccharine Anthem
+
+Candy Soldier
+
+Candy Citizen
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+Space Elves
+
+Dad's Holomessage
+
+Dad's Holomessage
+
+
+VERSION 56 CHANGELOG
 ====================
 
 BMO, Little Wanderer added.

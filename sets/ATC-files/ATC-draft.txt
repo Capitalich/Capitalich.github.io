@@ -15,7 +15,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Creature — Rogue",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/1.png"
 			}
@@ -102,7 +102,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/9.png"
 			}
@@ -222,7 +222,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
 			"type": "Snow Sorcery",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/21.png"
 			}
@@ -1076,7 +1076,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Bear Bard",
-			"collector_number": "251",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/105.png"
 			}
@@ -1086,7 +1086,7 @@
 			"rarity": "special",
 			"mana_cost": "{7}{U}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/106.png"
 			}
@@ -1293,7 +1293,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Dog",
-			"collector_number": "264",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/126.png"
 			}
@@ -1589,23 +1589,13 @@
 			}
 		},
 		{
-			"name": "I'm Jaking It",
-			"rarity": "special",
-			"mana_cost": "{W/U}{W/U}",
-			"type": "Instant",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/156.png"
-			}
-		},
-		{
 			"name": "Earl of Lemongrab",
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Candy Noble",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/157.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/156.png"
 			}
 		},
 		{
@@ -1615,7 +1605,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/158.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/157.png"
 			}
 		},
 		{
@@ -1625,7 +1615,7 @@
 			"type": "Instant",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/159.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/158.png"
 			}
 		},
 		{
@@ -1635,7 +1625,7 @@
 			"type": "Enchantment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/160.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/159.png"
 			}
 		},
 		{
@@ -1648,11 +1638,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/161_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/160_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/161_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/160_front.png"
 			}
 		},
 		{
@@ -1662,7 +1652,7 @@
 			"type": "Legendary Creature — Candy",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/162.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/161.png"
 			}
 		},
 		{
@@ -1672,7 +1662,7 @@
 			"type": "Artifact — Book",
 			"collector_number": "306",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/163.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/162.png"
 			}
 		},
 		{
@@ -1682,7 +1672,7 @@
 			"type": "Creature — Candy Rogue",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/164.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/163.png"
 			}
 		},
 		{
@@ -1692,7 +1682,7 @@
 			"type": "Instant",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/165.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/164.png"
 			}
 		},
 		{
@@ -1702,7 +1692,7 @@
 			"type": "Creature — Candy Soldier",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/166.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/165.png"
 			}
 		},
 		{
@@ -1712,7 +1702,7 @@
 			"type": "Sorcery",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/167.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/166.png"
 			}
 		},
 		{
@@ -1722,7 +1712,7 @@
 			"type": "Sorcery",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/168.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/167.png"
 			}
 		},
 		{
@@ -1732,7 +1722,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/169.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/168.png"
 			}
 		},
 		{
@@ -1742,7 +1732,7 @@
 			"type": "Legendary Enchantment — Aura",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/170.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/169.png"
 			}
 		},
 		{
@@ -1752,7 +1742,7 @@
 			"type": "Sorcery",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/171.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/170.png"
 			}
 		},
 		{
@@ -1762,7 +1752,7 @@
 			"type": "Legendary Creature — Human Scout",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/172.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/171.png"
 			}
 		},
 		{
@@ -1772,7 +1762,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/173.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/172.png"
 			}
 		},
 		{
@@ -1782,7 +1772,7 @@
 			"type": "Sorcery",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/174.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/173.png"
 			}
 		},
 		{
@@ -1792,7 +1782,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/175.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/174.png"
 			}
 		},
 		{
@@ -1802,7 +1792,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/176.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/175.png"
 			}
 		},
 		{
@@ -1812,7 +1802,7 @@
 			"type": "Sorcery",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/177.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/176.png"
 			}
 		},
 		{
@@ -1822,7 +1812,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/178.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/177.png"
 			}
 		},
 		{
@@ -1832,7 +1822,7 @@
 			"type": "Legendary Creature — Ooze Noble",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/179.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/178.png"
 			}
 		},
 		{
@@ -1842,7 +1832,7 @@
 			"type": "Artifact Creature — Golem Advisor",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/180.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/179.png"
 			}
 		},
 		{
@@ -1852,7 +1842,7 @@
 			"type": "Instant",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/181.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/180.png"
 			}
 		},
 		{
@@ -1862,7 +1852,7 @@
 			"type": "Legendary Creature — Plant Noble",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/182.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/181.png"
 			}
 		},
 		{
@@ -1872,7 +1862,7 @@
 			"type": "Enchantment",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/183.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/182.png"
 			}
 		},
 		{
@@ -1882,7 +1872,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/184.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/183.png"
 			}
 		},
 		{
@@ -1892,7 +1882,7 @@
 			"type": "Legendary Creature — Thrull Scientist",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/185.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/184.png"
 			}
 		},
 		{
@@ -1900,9 +1890,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Candy Scientist",
-			"collector_number": "272",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/186.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/185.png"
 			}
 		},
 		{
@@ -1912,7 +1902,7 @@
 			"type": "Creature — Salamander",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/187.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/186.png"
 			}
 		},
 		{
@@ -1922,7 +1912,7 @@
 			"type": "Enchantment",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/188.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/187.png"
 			}
 		},
 		{
@@ -1930,9 +1920,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "273",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/189.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/188.png"
 			}
 		},
 		{
@@ -1942,7 +1932,7 @@
 			"type": "Artifact",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/190.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/189.png"
 			}
 		},
 		{
@@ -1952,7 +1942,7 @@
 			"type": "Sorcery",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/191.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/190.png"
 			}
 		},
 		{
@@ -1962,7 +1952,7 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/192.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/191.png"
 			}
 		},
 		{
@@ -1972,7 +1962,7 @@
 			"type": "Legendary Creature — Wizard",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/193.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/192.png"
 			}
 		},
 		{
@@ -1980,9 +1970,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Noble",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/194.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/193.png"
 			}
 		},
 		{
@@ -1992,7 +1982,7 @@
 			"type": "Sorcery",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/195.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/194.png"
 			}
 		},
 		{
@@ -2002,7 +1992,7 @@
 			"type": "Creature — Clown Cleric",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/196.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/195.png"
 			}
 		},
 		{
@@ -2012,7 +2002,7 @@
 			"type": "Legendary Creature — Elemental Noble",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/197.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/196.png"
 			}
 		},
 		{
@@ -2022,7 +2012,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/198.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/197.png"
 			}
 		},
 		{
@@ -2032,7 +2022,7 @@
 			"type": "Instant",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/199.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/198.png"
 			}
 		},
 		{
@@ -2042,7 +2032,7 @@
 			"type": "Legendary Land",
 			"collector_number": "311",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/200.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/199.png"
 			}
 		},
 		{
@@ -2052,7 +2042,7 @@
 			"type": "Sorcery",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/201.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/200.png"
 			}
 		},
 		{
@@ -2060,9 +2050,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/202.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/201.png"
 			}
 		},
 		{
@@ -2070,9 +2060,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/203.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/202.png"
 			}
 		},
 		{
@@ -2080,9 +2070,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/204.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/203.png"
 			}
 		},
 		{
@@ -2092,7 +2082,7 @@
 			"type": "Sorcery",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/205.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/204.png"
 			}
 		},
 		{
@@ -2102,7 +2092,7 @@
 			"type": "Land",
 			"collector_number": "356",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/206.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/205.png"
 			}
 		},
 		{
@@ -2112,7 +2102,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/207.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/206.png"
 			}
 		},
 		{
@@ -2122,7 +2112,7 @@
 			"type": "Artifact Creature — Knight",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/208.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/207.png"
 			}
 		},
 		{
@@ -2132,7 +2122,7 @@
 			"type": "Legendary Creature — Nightmare Noble",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/209.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/208.png"
 			}
 		},
 		{
@@ -2142,7 +2132,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/210.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/209.png"
 			}
 		},
 		{
@@ -2152,7 +2142,7 @@
 			"type": "Snow Creature — Elemental Scout",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/211.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/210.png"
 			}
 		},
 		{
@@ -2162,7 +2152,7 @@
 			"type": "Legendary Planeswalker — Simon",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/212.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/211.png"
 			}
 		},
 		{
@@ -2172,7 +2162,7 @@
 			"type": "Artifact",
 			"collector_number": "309",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/213.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/212.png"
 			}
 		},
 		{
@@ -2182,7 +2172,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/214.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/213.png"
 			}
 		},
 		{
@@ -2192,7 +2182,7 @@
 			"type": "Instant",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/215.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/214.png"
 			}
 		},
 		{
@@ -2202,7 +2192,7 @@
 			"type": "Instant",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/216.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/215.png"
 			}
 		},
 		{
@@ -2212,7 +2202,7 @@
 			"type": "Instant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/217.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/216.png"
 			}
 		},
 		{
@@ -2222,7 +2212,7 @@
 			"type": "Creature — Peasant",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/218.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/217.png"
 			}
 		},
 		{
@@ -2232,7 +2222,7 @@
 			"type": "Instant",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/219.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/218.png"
 			}
 		},
 		{
@@ -2242,7 +2232,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/220.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/219.png"
 			}
 		},
 		{
@@ -2252,7 +2242,7 @@
 			"type": "Enchantment",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/221.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/220.png"
 			}
 		},
 		{
@@ -2262,7 +2252,7 @@
 			"type": "Creature — Crab Demon",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/222.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/221.png"
 			}
 		},
 		{
@@ -2272,7 +2262,7 @@
 			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/223.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/222.png"
 			}
 		},
 		{
@@ -2282,7 +2272,7 @@
 			"type": "Legendary Artifact Creature — Scarecrow Noble",
 			"collector_number": "308",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/224.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/223.png"
 			}
 		},
 		{
@@ -2292,7 +2282,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/225.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/224.png"
 			}
 		},
 		{
@@ -2302,7 +2292,7 @@
 			"type": "Legendary Creature — Elemental Noble",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/226.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/225.png"
 			}
 		},
 		{
@@ -2312,7 +2302,7 @@
 			"type": "Snow Creature — Elemental Golem",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/227.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/226.png"
 			}
 		},
 		{
@@ -2322,7 +2312,7 @@
 			"type": "Legendary Creature — Manticore",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/228.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/227.png"
 			}
 		},
 		{
@@ -2332,7 +2322,7 @@
 			"type": "Enchantment Creature — Nymph",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/229.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/228.png"
 			}
 		},
 		{
@@ -2342,7 +2332,7 @@
 			"type": "Legendary Creature — Dinosaur",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/230.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/229.png"
 			}
 		},
 		{
@@ -2355,11 +2345,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/231_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/230_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/231_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/230_front.png"
 			}
 		},
 		{
@@ -2369,7 +2359,7 @@
 			"type": "Creature — Candy Snail",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/232.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/231.png"
 			}
 		},
 		{
@@ -2379,7 +2369,7 @@
 			"type": "Enchantment",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/233.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/232.png"
 			}
 		},
 		{
@@ -2389,7 +2379,7 @@
 			"type": "Creature — Raccoon",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/234.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/233.png"
 			}
 		},
 		{
@@ -2399,7 +2389,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/235.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/234.png"
 			}
 		},
 		{
@@ -2409,7 +2399,7 @@
 			"type": "Legendary Creature — Dog Dectective",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/236.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/235.png"
 			}
 		},
 		{
@@ -2419,7 +2409,7 @@
 			"type": "Legendary Creature — Worm",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/237.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/236.png"
 			}
 		},
 		{
@@ -2429,7 +2419,7 @@
 			"type": "Legendary Creature — Dog Hero",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/238.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/237.png"
 			}
 		},
 		{
@@ -2439,7 +2429,7 @@
 			"type": "Legendary Artifact Creature — Robot",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/239.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/238.png"
 			}
 		},
 		{
@@ -2449,7 +2439,7 @@
 			"type": "Creature — Lard",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/240.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/239.png"
 			}
 		},
 		{
@@ -2459,7 +2449,7 @@
 			"type": "Land",
 			"collector_number": "316",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/241.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/240.png"
 			}
 		},
 		{
@@ -2469,7 +2459,7 @@
 			"type": "Land",
 			"collector_number": "333",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/242.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/241.png"
 			}
 		},
 		{
@@ -2479,7 +2469,7 @@
 			"type": "Land",
 			"collector_number": "349",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/243.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/242.png"
 			}
 		},
 		{
@@ -2489,7 +2479,7 @@
 			"type": "Land",
 			"collector_number": "357",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/244.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/243.png"
 			}
 		},
 		{
@@ -2499,7 +2489,7 @@
 			"type": "Land",
 			"collector_number": "315",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/245.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/244.png"
 			}
 		},
 		{
@@ -2509,7 +2499,7 @@
 			"type": "Legendary Land",
 			"collector_number": "336",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/246.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/245.png"
 			}
 		},
 		{
@@ -2519,7 +2509,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/247.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/246.png"
 			}
 		},
 		{
@@ -2532,11 +2522,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/248_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/247_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/248_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/247_front.png"
 			}
 		},
 		{
@@ -2546,7 +2536,7 @@
 			"type": "Legendary Planeswalker — Scarab",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/249.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/248.png"
 			}
 		},
 		{
@@ -2556,7 +2546,7 @@
 			"type": "Enchantment",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/250.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/249.png"
 			}
 		},
 		{
@@ -2566,7 +2556,7 @@
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/251.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/250.png"
 			}
 		},
 		{
@@ -2576,7 +2566,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/252.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/251.png"
 			}
 		},
 		{
@@ -2586,7 +2576,7 @@
 			"type": "Creature — Ape",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/253.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/252.png"
 			}
 		},
 		{
@@ -2596,7 +2586,7 @@
 			"type": "Sorcery",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/254.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/253.png"
 			}
 		},
 		{
@@ -2606,7 +2596,7 @@
 			"type": "Legendary Creature — Bird",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/255.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/254.png"
 			}
 		},
 		{
@@ -2616,7 +2606,7 @@
 			"type": "Legendary Planeswalker — Fiona",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/256.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/255.png"
 			}
 		},
 		{
@@ -2626,7 +2616,7 @@
 			"type": "Creature — Plant Soldier",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/257.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/256.png"
 			}
 		},
 		{
@@ -2634,9 +2624,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Fungus",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/258.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/257.png"
 			}
 		},
 		{
@@ -2646,7 +2636,7 @@
 			"type": "Legendary Creature — Candy Citizen",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/259.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/258.png"
 			}
 		},
 		{
@@ -2656,7 +2646,7 @@
 			"type": "Instant",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/260.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/259.png"
 			}
 		},
 		{
@@ -2666,7 +2656,7 @@
 			"type": "Legendary Planeswalker — Abraham",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/261.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/260.png"
 			}
 		},
 		{
@@ -2676,7 +2666,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/262.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/261.png"
 			}
 		},
 		{
@@ -2686,7 +2676,7 @@
 			"type": "Legendary Creature — Dog Rogue",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/263.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/262.png"
 			}
 		},
 		{
@@ -2696,7 +2686,7 @@
 			"type": "Legendary Creature — Wizard Performer",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/264.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/263.png"
 			}
 		},
 		{
@@ -2706,7 +2696,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/265.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/264.png"
 			}
 		},
 		{
@@ -2716,7 +2706,7 @@
 			"type": "Legendary Creature — Bear",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/266.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/265.png"
 			}
 		},
 		{
@@ -2726,7 +2716,7 @@
 			"type": "Legendary Creature — Dog Shaman",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/267.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/266.png"
 			}
 		},
 		{
@@ -2736,7 +2726,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/268.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/267.png"
 			}
 		},
 		{
@@ -2746,7 +2736,7 @@
 			"type": "Legendary Creature — Rainicorn",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/269.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/268.png"
 			}
 		},
 		{
@@ -2756,7 +2746,7 @@
 			"type": "Legendary Creature — Warrior Noble",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/270.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/269.png"
 			}
 		},
 		{
@@ -2766,7 +2756,7 @@
 			"type": "Creature — Goblin Berserker",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/271.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/270.png"
 			}
 		},
 		{
@@ -2776,7 +2766,7 @@
 			"type": "Creature — Plant",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/272.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/271.png"
 			}
 		},
 		{
@@ -2786,7 +2776,7 @@
 			"type": "Enchantment Creature — Plant Demon",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/273.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/272.png"
 			}
 		},
 		{
@@ -2794,9 +2784,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Legendary Creature — Elder Giant",
-			"collector_number": "262",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/274.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/273.png"
 			}
 		},
 		{
@@ -2806,7 +2796,7 @@
 			"type": "Legendary Artifact Creature — Golem Bard",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/275.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/274.png"
 			}
 		},
 		{
@@ -2816,7 +2806,7 @@
 			"type": "Creature — Egg Lesson",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/276.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/275.png"
 			}
 		},
 		{
@@ -2826,7 +2816,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "303",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/277.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/276.png"
 			}
 		},
 		{
@@ -2836,7 +2826,7 @@
 			"type": "Legendary Creature — Dog Performer",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/278.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/277.png"
 			}
 		},
 		{
@@ -2846,7 +2836,7 @@
 			"type": "Legendary Creature — Dog Bard",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/279.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/278.png"
 			}
 		},
 		{
@@ -2856,7 +2846,7 @@
 			"type": "Legendary Creature — Lumpy Noble",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/280.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/279.png"
 			}
 		},
 		{
@@ -2866,7 +2856,7 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/281.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/280.png"
 			}
 		},
 		{
@@ -2876,7 +2866,7 @@
 			"type": "Legendary Creature — Knight",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/282.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/281.png"
 			}
 		},
 		{
@@ -2886,7 +2876,7 @@
 			"type": "Legendary Creature — Candy Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/283.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/282.png"
 			}
 		},
 		{
@@ -2896,7 +2886,7 @@
 			"type": "Legendary Land",
 			"collector_number": "335",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/284.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/283.png"
 			}
 		},
 		{
@@ -2909,11 +2899,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/285_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/284_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/285_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/284_front.png"
 			}
 		},
 		{
@@ -2921,9 +2911,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Artifact Creature — Robot",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/286.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/285.png"
 			}
 		},
 		{
@@ -2933,7 +2923,7 @@
 			"type": "Legendary Creature — Wizard",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/287.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/286.png"
 			}
 		},
 		{
@@ -2943,7 +2933,7 @@
 			"type": "Creature — Lard",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/288.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/287.png"
 			}
 		},
 		{
@@ -2951,9 +2941,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Artifact Creature — Wolf Lard",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/289.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/288.png"
 			}
 		},
 		{
@@ -2963,7 +2953,7 @@
 			"type": "Legendary Creature — Plant Noble",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/290.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/289.png"
 			}
 		},
 		{
@@ -2973,7 +2963,7 @@
 			"type": "Legendary Creature — Goblin Wizard",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/291.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/290.png"
 			}
 		},
 		{
@@ -2983,7 +2973,7 @@
 			"type": "Legendary Creature — Human Scientist",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/292.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/291.png"
 			}
 		},
 		{
@@ -2993,7 +2983,7 @@
 			"type": "Legendary Creature — Candy",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/293.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/292.png"
 			}
 		},
 		{
@@ -3003,7 +2993,7 @@
 			"type": "Creature — Alien Insect",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/294.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/293.png"
 			}
 		},
 		{
@@ -3013,7 +3003,7 @@
 			"type": "Legendary Creature — Wizard",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/295.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/294.png"
 			}
 		},
 		{
@@ -3023,7 +3013,7 @@
 			"type": "Creature — Coyote Mutant",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/296.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/295.png"
 			}
 		},
 		{
@@ -3033,7 +3023,7 @@
 			"type": "Legendary Creature — Candy Giant",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/297.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/296.png"
 			}
 		},
 		{
@@ -3041,9 +3031,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Legendary Creature — Frog Wizard",
-			"collector_number": "270",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/298.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/297.png"
 			}
 		},
 		{
@@ -3053,7 +3043,7 @@
 			"type": "Legendary Creature — Giant Warrior",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/299.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/298.png"
 			}
 		},
 		{
@@ -3063,7 +3053,7 @@
 			"type": "Sorcery",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/300.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/299.png"
 			}
 		},
 		{
@@ -3073,7 +3063,7 @@
 			"type": "Sorcery",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/301.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/300.png"
 			}
 		},
 		{
@@ -3083,7 +3073,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/302.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/301.png"
 			}
 		},
 		{
@@ -3093,7 +3083,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/303.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/302.png"
 			}
 		},
 		{
@@ -3103,7 +3093,7 @@
 			"type": "Legendary Artifact Land",
 			"collector_number": "325",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/304.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/303.png"
 			}
 		},
 		{
@@ -3113,7 +3103,7 @@
 			"type": "Legendary Creature — Giant",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/305.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/304.png"
 			}
 		},
 		{
@@ -3123,7 +3113,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/306.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/305.png"
 			}
 		},
 		{
@@ -3133,27 +3123,7 @@
 			"type": "Token Creature — Bear",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/307.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "361",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/308.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "362",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/309.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/306.png"
 			}
 		},
 		{
@@ -3163,7 +3133,27 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "363",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/310.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/307.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/308.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/309.png"
 			}
 		},
 		{
@@ -3171,9 +3161,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "364",
+			"collector_number": "366",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/311.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/310.png"
 			}
 		},
 		{
@@ -3183,7 +3173,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "365",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/312.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/311.png"
 			}
 		},
 		{
@@ -3191,7 +3181,17 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "366",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/312.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "368",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/313.png"
 			}
@@ -3211,17 +3211,17 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "368",
+			"collector_number": "369",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/315.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Mountain",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "369",
+			"type": "Basic Land — Mountain",
+			"collector_number": "372",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/316.png"
 			}
@@ -3241,17 +3241,17 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "372",
+			"collector_number": "370",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/318.png"
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Forest",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "370",
+			"type": "Basic Land — Forest",
+			"collector_number": "374",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/319.png"
 			}
@@ -3271,19 +3271,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "374",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/321.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
 			"collector_number": "373",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/322.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/321.png"
 			}
 		},
 		{
@@ -3293,7 +3283,7 @@
 			"type": "Emblem — Simon",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/323.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/322.png"
 			}
 		},
 		{
@@ -3303,7 +3293,7 @@
 			"type": "Token Basic Land — Wastes",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/324.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/323.png"
 			}
 		},
 		{
@@ -3313,7 +3303,7 @@
 			"type": "Token Creature — Goblin",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/325.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/324.png"
 			}
 		},
 		{
@@ -3323,7 +3313,7 @@
 			"type": "Token Creature — Vampire",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/326.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/325.png"
 			}
 		},
 		{
@@ -3333,7 +3323,7 @@
 			"type": "Token Creature — Bird Army",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/327.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/326.png"
 			}
 		},
 		{
@@ -3343,7 +3333,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/328.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/327.png"
 			}
 		},
 		{
@@ -3353,7 +3343,7 @@
 			"type": "Token Artifact Creature — Robot",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/329.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/328.png"
 			}
 		},
 		{
@@ -3363,7 +3353,7 @@
 			"type": "Token Creature — Coyote Mutant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/330.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/329.png"
 			}
 		},
 		{
@@ -3373,7 +3363,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/331.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/330.png"
 			}
 		},
 		{
@@ -3383,7 +3373,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/332.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/331.png"
 			}
 		},
 		{
@@ -3393,7 +3383,7 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/333.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/332.png"
 			}
 		},
 		{
@@ -3403,7 +3393,7 @@
 			"type": "Token Enchantment — Aura",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/334.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/333.png"
 			}
 		},
 		{
@@ -3413,7 +3403,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/335.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/334.png"
 			}
 		},
 		{
@@ -3423,7 +3413,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/336.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/335.png"
 			}
 		},
 		{
@@ -3433,7 +3423,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/337.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/336.png"
 			}
 		},
 		{
@@ -3443,7 +3433,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/338.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/337.png"
 			}
 		},
 		{
@@ -3453,7 +3443,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/339.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/338.png"
 			}
 		},
 		{
@@ -3463,7 +3453,7 @@
 			"type": "Token Artifact — Clue",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/340.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/339.png"
 			}
 		},
 		{
@@ -3473,7 +3463,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/341.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/340.png"
 			}
 		},
 		{
@@ -3483,7 +3473,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/342.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/341.png"
 			}
 		},
 		{
@@ -3493,7 +3483,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/343.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/342.png"
 			}
 		},
 		{
@@ -3503,7 +3493,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/344.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/343.png"
 			}
 		},
 		{
@@ -3513,7 +3503,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/345.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/344.png"
 			}
 		},
 		{
@@ -3523,7 +3513,7 @@
 			"type": "Instant",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/346.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/345.png"
 			}
 		},
 		{
@@ -3533,7 +3523,7 @@
 			"type": "Instant",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/347.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/346.png"
 			}
 		},
 		{
@@ -3543,7 +3533,7 @@
 			"type": "Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/348.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/347.png"
 			}
 		},
 		{
@@ -3553,7 +3543,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/349.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/348.png"
 			}
 		},
 		{
@@ -3563,7 +3553,7 @@
 			"type": "Sorcery",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/350.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/349.png"
 			}
 		},
 		{
@@ -3573,7 +3563,7 @@
 			"type": "Sorcery",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/351.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/350.png"
 			}
 		},
 		{
@@ -3583,7 +3573,7 @@
 			"type": "Instant",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/352.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/351.png"
 			}
 		},
 		{
@@ -3593,7 +3583,7 @@
 			"type": "Instant",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/353.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/352.png"
 			}
 		},
 		{
@@ -3603,7 +3593,7 @@
 			"type": "Creature — Candy Bard",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/354.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/353.png"
 			}
 		},
 		{
@@ -3613,7 +3603,7 @@
 			"type": "Token Enchantment — Music",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/355.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/354.png"
 			}
 		},
 		{
@@ -3623,7 +3613,7 @@
 			"type": "Instant",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/356.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/355.png"
 			}
 		},
 		{
@@ -3633,7 +3623,7 @@
 			"type": "Legendary Creature — Snake Specter",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/357.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/356.png"
 			}
 		},
 		{
@@ -3643,7 +3633,7 @@
 			"type": "Sorcery",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/358.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/357.png"
 			}
 		},
 		{
@@ -3653,7 +3643,7 @@
 			"type": "Snow Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/359.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/358.png"
 			}
 		},
 		{
@@ -3663,7 +3653,7 @@
 			"type": "Creature — Candy",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/360.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/359.png"
 			}
 		},
 		{
@@ -3673,7 +3663,7 @@
 			"type": "Token Creature — Detective",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/361.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/360.png"
 			}
 		},
 		{
@@ -3683,7 +3673,7 @@
 			"type": "Instant",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/362.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/361.png"
 			}
 		},
 		{
@@ -3691,9 +3681,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{G}{W}",
 			"type": "Legendary Creature — Human Hero",
-			"collector_number": "271",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/363.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/362.png"
 			}
 		},
 		{
@@ -3701,9 +3691,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/364.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/363.png"
 			}
 		},
 		{
@@ -3711,9 +3701,9 @@
 			"rarity": "special",
 			"mana_cost": "{W}{B}",
 			"type": "Legendary Creature — Candy Advisor",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/365.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/364.png"
 			}
 		},
 		{
@@ -3723,7 +3713,7 @@
 			"type": "Token Creature — Spider",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/366.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/365.png"
 			}
 		},
 		{
@@ -3733,7 +3723,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/367.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/366.png"
 			}
 		},
 		{
@@ -3741,9 +3731,9 @@
 			"rarity": "special",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Giant Warrior",
-			"collector_number": "252",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/368.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/367.png"
 			}
 		},
 		{
@@ -3753,7 +3743,7 @@
 			"type": "Token Basic Land — Wastes",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/369.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/368.png"
 			}
 		},
 		{
@@ -3761,9 +3751,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Horse Performer",
-			"collector_number": "265",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/370.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/369.png"
 			}
 		},
 		{
@@ -3771,9 +3761,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/371.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/370.png"
 			}
 		},
 		{
@@ -3781,9 +3771,9 @@
 			"rarity": "special",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Artifact",
-			"collector_number": "263",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/372.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/371.png"
 			}
 		},
 		{
@@ -3796,11 +3786,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://Capitalich.github.io/sets/ATC-files/img/373_back.png"
+					"en": "https://Capitalich.github.io/sets/ATC-files/img/372_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/373_front.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/372_front.png"
 			}
 		},
 		{
@@ -3808,9 +3798,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Candy Scientist Noble",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/374.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/373.png"
 			}
 		},
 		{
@@ -3820,7 +3810,7 @@
 			"type": "Token Creature — Varmint",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/375.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/374.png"
 			}
 		},
 		{
@@ -3830,7 +3820,7 @@
 			"type": "Legendary Creature — Rogue",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/376.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/375.png"
 			}
 		},
 		{
@@ -3840,7 +3830,7 @@
 			"type": "Creature — Insect Skeleton",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/377.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/376.png"
 			}
 		},
 		{
@@ -3850,7 +3840,7 @@
 			"type": "Legendary Creature — Dog Advisor",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/378.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/377.png"
 			}
 		},
 		{
@@ -3860,7 +3850,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/379.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/378.png"
 			}
 		},
 		{
@@ -3870,7 +3860,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/380.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/379.png"
 			}
 		},
 		{
@@ -3880,7 +3870,7 @@
 			"type": "Sorcery",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/381.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/380.png"
 			}
 		},
 		{
@@ -3888,9 +3878,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Artifact",
-			"collector_number": "269",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/382.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/381.png"
 			}
 		},
 		{
@@ -3900,7 +3890,7 @@
 			"type": "Artifact Creature — Robot",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/383.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/382.png"
 			}
 		},
 		{
@@ -3910,7 +3900,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/384.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/383.png"
 			}
 		},
 		{
@@ -3920,7 +3910,7 @@
 			"type": "Artifact Creature — Golem Assassin",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/385.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/384.png"
 			}
 		},
 		{
@@ -3930,7 +3920,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/386.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/385.png"
 			}
 		},
 		{
@@ -3940,7 +3930,7 @@
 			"type": "Legendary Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/387.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/386.png"
 			}
 		},
 		{
@@ -3950,7 +3940,7 @@
 			"type": "Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/388.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/387.png"
 			}
 		},
 		{
@@ -3960,7 +3950,7 @@
 			"type": "",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/389.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/388.png"
 			}
 		},
 		{
@@ -3970,7 +3960,7 @@
 			"type": "Enchantment",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/390.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/389.png"
 			}
 		},
 		{
@@ -3980,7 +3970,7 @@
 			"type": "Enchantment — Saga",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/391.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/390.png"
 			}
 		},
 		{
@@ -3990,7 +3980,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/392.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/391.png"
 			}
 		},
 		{
@@ -4000,7 +3990,7 @@
 			"type": "Token Creature — Candy Giant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/393.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/392.png"
 			}
 		},
 		{
@@ -4010,7 +4000,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/394.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/393.png"
 			}
 		},
 		{
@@ -4020,7 +4010,7 @@
 			"type": "Sorcery",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/395.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/394.png"
 			}
 		},
 		{
@@ -4030,7 +4020,7 @@
 			"type": "Legendary Creature — Boar",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/396.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/395.png"
 			}
 		},
 		{
@@ -4040,7 +4030,7 @@
 			"type": "Legendary Artifact Creature — Golem Noble",
 			"collector_number": "310",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/397.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/396.png"
 			}
 		},
 		{
@@ -4050,7 +4040,7 @@
 			"type": "Legendary Land",
 			"collector_number": "347",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/398.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/397.png"
 			}
 		},
 		{
@@ -4060,7 +4050,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/399.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/398.png"
 			}
 		},
 		{
@@ -4070,7 +4060,7 @@
 			"type": "Creature — Horror",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/400.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/399.png"
 			}
 		},
 		{
@@ -4080,7 +4070,7 @@
 			"type": "Creature — Elemental Wolf",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/401.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/400.png"
 			}
 		},
 		{
@@ -4090,7 +4080,7 @@
 			"type": "Instant",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/402.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/401.png"
 			}
 		},
 		{
@@ -4100,7 +4090,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/403.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/402.png"
 			}
 		},
 		{
@@ -4110,7 +4100,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/404.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/403.png"
 			}
 		},
 		{
@@ -4120,7 +4110,7 @@
 			"type": "Sorcery",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/405.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/404.png"
 			}
 		},
 		{
@@ -4130,7 +4120,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/406.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/405.png"
 			}
 		},
 		{
@@ -4140,7 +4130,7 @@
 			"type": "Sorcery",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/407.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/406.png"
 			}
 		},
 		{
@@ -4150,7 +4140,7 @@
 			"type": "Legendary Planeswalker — Prismo",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/408.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/407.png"
 			}
 		},
 		{
@@ -4160,7 +4150,7 @@
 			"type": "Legendary Creature — Avatar God",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/409.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/408.png"
 			}
 		},
 		{
@@ -4168,9 +4158,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Worm",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/410.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/409.png"
 			}
 		},
 		{
@@ -4180,7 +4170,7 @@
 			"type": "Creature — Wizard",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/411.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/410.png"
 			}
 		},
 		{
@@ -4190,7 +4180,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/412.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/411.png"
 			}
 		},
 		{
@@ -4200,7 +4190,7 @@
 			"type": "Enchantment",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/413.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/412.png"
 			}
 		},
 		{
@@ -4210,7 +4200,7 @@
 			"type": "Token Creature — Candy Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/414.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/413.png"
 			}
 		},
 		{
@@ -4220,7 +4210,7 @@
 			"type": "Token Creature — Candy Citizen",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/415.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/414.png"
 			}
 		},
 		{
@@ -4230,7 +4220,7 @@
 			"type": "Sorcery",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/416.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/415.png"
 			}
 		},
 		{
@@ -4240,7 +4230,7 @@
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/417.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/416.png"
 			}
 		},
 		{
@@ -4250,7 +4240,7 @@
 			"type": "Creature — Alien Elf",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/418.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/417.png"
 			}
 		},
 		{
@@ -4260,7 +4250,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/419.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/418.png"
 			}
 		},
 		{
@@ -4269,6 +4259,16 @@
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue",
 			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/419.png"
+			}
+		},
+		{
+			"name": "The Mother Gum",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Artifact — Candy",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/420.png"
 			}
@@ -4432,7 +4432,6 @@
 	1 Giuseppe's Signet
 	1 Science, Sweet Familiar
 	1 Syr Rattleballs
-	1 I'm Jaking It
 	1 Earl of Lemongrab
 	1 Entropic Amalgam
 	1 Probable Cause
@@ -4636,3 +4635,4 @@
 	1 Astral Epiphany
 	1 Saccharine Anthem
 	1 Dad's Holomessage
+	1 The Mother Gum
