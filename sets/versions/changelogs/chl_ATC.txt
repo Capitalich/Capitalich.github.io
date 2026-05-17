@@ -1,4 +1,39 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+Reign of Gunters added.
+
+Movie Night removed.
+
+Ice King
+
+Science Cat
+
+Fractal Regression
+
+Finn, The Human
+
+Jake, The Dog
+
+Class Project
+rules_text: This creature enters with the indicated counter on it for each color of mana spent to cast it:
+• {W} — Lifelink • {U} — Flying
+• {B} — Menace • {R} — Haste
+• {G} — Deathtouch => This creature is every color.
+This creature enters with the indicated counter on it for each color of mana spent to cast it:
+• {W} — Lifelink • {U} — Flying
+• {B} — Menace • {R} — Haste
+• {G} — Deathtouch
+
+Bird Army
+rules_text: [i](Penguins can't fly)[/i] => 
+
+Princess Bubblegum
+
+Mystic Virus
+
+
+VERSION 57 CHANGELOG
 ====================
 
 The Mother Gum added.

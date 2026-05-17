@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-11</releasedate>
+			<releasedate>2026-05-16</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -493,21 +493,21 @@ When this creature enters and at the beginning of your upkeep, create a 0/0 whit
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Movie Night</name>
-			<text>Amass Birds X (Put X +1/+1 counters on an Army you control. It&apos;s also a Bird. If you don&apos;t control an Army, create a 0/0 black Bird Army creature token first.)
-Create a Clue token.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/27.png" num="77">ATC</set>
+			<name>Reign of Gunters</name>
+			<text>When this enchantment enters, amass Birds 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Bird. If you don&apos;t control an Army, create a 0/0 black Bird Army creature token first.)
+Whenever you sacrifice a relic, return this enchantment to its owners hand.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/27.png" num="87">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>XU</manacost>
-				<cmc>1</cmc>
+				<type>Snow Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Mountain Pass</name>
@@ -528,7 +528,7 @@ As this land enters, you may tap an untapped creature you control. If you don&ap
 		<card>
 			<name>Out Sick</name>
 			<text>Counter target creature or Adventure spell.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/29.png" num="80">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/29.png" num="79">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -616,7 +616,7 @@ Entwine {2} (Choose both if you pay the entwine cost.)</text>
 			<name>Reach Through Time</name>
 			<text>As a cost to cast, sacrifice a relic.
 Sentimental — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/34.png" num="87">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/34.png" num="86">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1235,7 +1235,7 @@ When this creature dies, create a Clue token.
 ---
 
 Scry 1 five times.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/67.png" num="79">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/67.png" num="78">ATC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1275,7 +1275,7 @@ Madness {1}{U} (If you discard this card, discard it into exile. When you do, ca
 ---
 
 Counter target spell unless its controller pays {1}.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/69.png" num="78">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/69.png" num="77">ATC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -1733,7 +1733,7 @@ When this enchantment leaves the battlefield, return up to three instant, sorcer
 			<name>Power Shriek</name>
 			<text>Replicate—Discard a card. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
 Counter target spell unless its controller pays {2}. If a copy was countered this way, draw a card.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/94.png" num="84">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/94.png" num="83">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2926,7 +2926,7 @@ Destroy target land, then its controller creates a Wastes token. Create a Wastes
 			<name>Probable Cause</name>
 			<text>Return target creature to its owners hand.
 Create a Clue token.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/158.png" num="85">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/158.png" num="84">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3282,7 +3282,7 @@ Mathematical! (When you cast this spell, copy it for each spell you cast before 
 			<name>Psychic Stalemate</name>
 			<text>If you control an Island, you may exile a nontoken creature you control rather than pay this spell&apos;s mana cost.
 Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/177.png" num="86">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/177.png" num="85">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3792,7 +3792,7 @@ Create two 4/4 blue Candy Giant artifact creatures.</text>
 			<name>Patience&apos;s Patient Plan</name>
 			<text>Bundle 2 (When you draft this card, you get two additional copies.)
 When Patience&apos;s Patient Plan is put into your graveyard from the battlefield, draw cards equal to the number of cards named Patience&apos;s Patient Plan in your graveyard.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/206.png" num="82">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/206.png" num="81">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4328,7 +4328,7 @@ Whenever one or more creature cards leave your graveyard, put a +1/+1 counter on
 			<name>Overstretch</name>
 			<text>This spell costs {1} less for each tapped creature your opponents control.
 The owner of target nonland permanent puts it into their library second from the top or on the bottom.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/234.png" num="81">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/234.png" num="80">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5092,7 +5092,8 @@ Remove a +1/+1 counter from Glass Boy: Exile the top card of your library. You m
 		</card>
 		<card>
 			<name>Class Project</name>
-			<text>This creature enters with the indicated counter on it for each color of mana spent to cast it:
+			<text>This creature is every color.
+This creature enters with the indicated counter on it for each color of mana spent to cast it:
 • {W} — Lifelink • {U} — Flying
 • {B} — Menace • {R} — Haste
 • {G} — Deathtouch</text>
@@ -5972,7 +5973,7 @@ This creature and enchanted creature can&apos;t block and can&apos;t be blocked.
 		</card>
 		<card>
 			<name>Bird Army ATC</name>
-			<text>(Penguins can&apos;t fly)</text>
+			<text></text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/326.png" num="13">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -7085,7 +7086,7 @@ When this creature deals damage to an opponent, you may return any number of tar
 I — Draw three cards. Create a Treasure token.
 II — Discard a card.
 III — Discard two cards.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/390.png" num="83">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/390.png" num="82">ATC</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
