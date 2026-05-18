@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-16</releasedate>
+			<releasedate>2026-05-18</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -2313,7 +2313,7 @@ Flashback {1}{U}, Sacrifice a relic. (Noncreature artifacts and enchantments are
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Finn, The Human // Traverse Ooo</name>
+			<name>Finn, the Human // Traverse Ooo</name>
 			<text>Whenever Finn attacks, choose a permanent you control that has an Adventure. Copy that Adventure. You may cast the copy.
 
 ---
@@ -4376,7 +4376,7 @@ The owner of target nonland permanent puts it into their library second from the
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Jake, The Dog</name>
+			<name>Jake, the Dog</name>
 			<text>{RG}: Jake gains reach or trample until end of turn.
 {RG}: Counter target spell or ability that targets only Jake unless its owner pays {1}.
 {1}: Jake gets +1/-1 or -1/+1 until end of turn.</text>

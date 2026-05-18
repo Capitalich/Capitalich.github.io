@@ -1279,7 +1279,7 @@
 			}
 		},
 		{
-			"name": "Finn, The Human",
+			"name": "Finn, the Human",
 			"rarity": "special",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Legendary Creature — Human Hero",
@@ -2413,7 +2413,7 @@
 			}
 		},
 		{
-			"name": "Jake, The Dog",
+			"name": "Jake, the Dog",
 			"rarity": "special",
 			"mana_cost": "{3}{R/G}{R/G}",
 			"type": "Legendary Creature — Dog Hero",
@@ -4401,7 +4401,7 @@
 	1 Gummy Bear
 	1 Heroic Tutor
 	1 Exhaustive Analysis
-	1 Finn, The Human
+	1 Finn, the Human
 	1 Bronwyn, Skater Pup
 	1 Hub Island
 	1 Up-Ton
@@ -4513,7 +4513,7 @@
 	1 Overstretch
 	1 T.V., Pup Detective
 	1 Shelby
-	1 Jake, The Dog
+	1 Jake, the Dog
 	1 BMO, Little Wanderer
 	1 Space Lard
 	1 Bluescape

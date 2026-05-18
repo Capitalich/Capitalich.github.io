@@ -1,4 +1,14 @@
-﻿VERSION 58 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+Finn, the Human added.
+Jake, the Dog added.
+
+Finn, The Human removed.
+Jake, The Dog removed.
+
+
+VERSION 58 CHANGELOG
 ====================
 
 Reign of Gunters added.
