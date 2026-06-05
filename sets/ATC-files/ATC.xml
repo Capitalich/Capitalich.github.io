@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-18</releasedate>
+			<releasedate>2026-06-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -339,7 +339,7 @@ As this land enters, you may tap an untapped creature you control. If you don&ap
 			<name>Goo Skulls</name>
 			<text>When this creature enters, destroy target relic.
 Scavenge {2}{G}{G} ({2}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/18.png" num="211">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/18.png" num="210">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -374,7 +374,7 @@ Flashback—{2}{B}{B}, Exile X creature cards from your graveyard.</text>
 			<name>Ice Plague</name>
 			<text>Tap X target creatures. Put a stun counter on each of them.
 Madness {X}{U}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/20.png" num="70">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/20.png" num="69">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -478,7 +478,7 @@ Creatures with bounty counters on them get -1/-1 for each poison counter their c
 			<name>Mama Jiggler</name>
 			<text>Jigglers you control get +1/+1.
 When this creature enters and at the beginning of your upkeep, create a 0/0 white Jiggler creature token.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/26.png" num="34">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/26.png" num="35">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -495,7 +495,7 @@ When this creature enters and at the beginning of your upkeep, create a 0/0 whit
 		<card>
 			<name>Reign of Gunters</name>
 			<text>When this enchantment enters, amass Birds 3. (Put three +1/+1 counters on an Army you control. It&apos;s also a Bird. If you don&apos;t control an Army, create a 0/0 black Bird Army creature token first.)
-Whenever you sacrifice a relic, return this enchantment to its owners hand.</text>
+Whenever you discard a card, return this enchantment to its owners hand.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/27.png" num="87">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -614,7 +614,7 @@ Entwine {2} (Choose both if you pay the entwine cost.)</text>
 		</card>
 		<card>
 			<name>Reach Through Time</name>
-			<text>As a cost to cast, sacrifice a relic.
+			<text>As an additional cost to cast this spell, sacrifice a relic.
 Sentimental — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/34.png" num="86">ATC</set>
 			<prop>
@@ -965,16 +965,19 @@ As this land enters, you may tap an untapped creature you control. If you don&ap
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Fruit Witch</name>
-			<text>When this creature enters, create a Food token.
-Snack — Whenever you gain your third life each turn, each opponent loses 2 life.</text>
+			<name>Fruit Witch // Tempting Taste</name>
+			<text>Snack — Whenever you gain your third life each turn, each opponent loses 2 life.
+
+---
+
+Create a Food token.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/53.png" num="117">ATC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Dryad Warlock</type>
+				<type>Creature — Dryad Warlock // Instant — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2B</manacost>
+				<manacost>2B // B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1020,18 +1023,18 @@ When this card leaves your graveyard, if you control a swamp, you may put it ont
 		</card>
 		<card>
 			<name>Ruby Brain Beast // Cognitoxin</name>
-			<text>This creature has deathtouch and lifelink as long as an opponent has two or fewer cards in their hand.
+			<text>As long as you have one or fewer cards in your hand, this creature has deathtouch and lifelink.
 
 ---
 
-Target player discards two cards.</text>
+Each player discards two cards.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/56.png" num="141">ATC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Creature — Snake Horror // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2BB // 3B</manacost>
+				<manacost>2BB // 1B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1115,7 +1118,7 @@ Sentimental — {3}{B}, {T}, Sacrifice a relic: Return target creature card from
 		<card>
 			<name>Stylish Scorpion</name>
 			<text>Deathtouch
-{2}, Exile this creature from your graveyard: Gear up. (Create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1.&quot; and Equip {2}.)</text>
+Scavenge {2} ({2}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/61.png" num="233">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1241,8 +1244,8 @@ Scry 1 five times.</text>
 				<side>front</side>
 				<type>Creature — Wizard // Instant — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2U // 2UU</manacost>
-				<cmc>3</cmc>
+				<manacost>1U // 1UU</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>2/1</pt>
@@ -1254,7 +1257,7 @@ Scry 1 five times.</text>
 			<text>Flying, protection from Nobles
 Discard a card: Put a stun counter on target creature.
 Madness {1}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/68.png" num="69">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/68.png" num="68">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1356,11 +1359,11 @@ Create two 2/1 red Wizard creature tokens with prowess.</text>
 				<side>front</side>
 				<type>Legendary Creature — Wizard // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>3UU // 5U</manacost>
-				<cmc>5</cmc>
+				<manacost>1U // 5U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>3/4</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1419,8 +1422,8 @@ Equip {2}</text>
 		<card>
 			<name>Weapon Head</name>
 			<text>Haste
-When Weapon Head attacks, you may attach any number of Equipment you control to it
-{1}{R}: Discard a card: Gear up twice.</text>
+When Weapon Head attacks, you may attach an Equipment you control to it.
+Discard a card: Gear up.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/77.png" num="195">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1567,21 +1570,20 @@ Exile target creature you control. For as long as that card remains exiled, its 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Bird Squadron // Zen Moment</name>
-			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
-Flying
+			<name>Bird Squadron // Togetherness</name>
+			<text>Flying
 
 ---
 
-Creatures you control gain vigilance until end of turn.</text>
+The next creature spell you cast this turn has convoke. (Each creature you tap while casting that spell pays for {1} or one mana of that creature&apos;s color.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/85.png" num="9">ATC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Creature — Bird // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>7W // 2W</manacost>
-				<cmc>8</cmc>
+				<manacost>W // W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>3/4</pt>
@@ -1681,7 +1683,7 @@ Entwine {2} (Choose all if you pay the entwine cost.)</text>
 		<card>
 			<name>Lemonshrieker</name>
 			<text>Whenever this creature attacks, you may pay {1}. If you do, tap target creature.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/91.png" num="33">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/91.png" num="34">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1716,7 +1718,7 @@ Madness {U}{U} (If you discard this card, discard it into exile. When you do, ca
 			<name>Mass Surveillance</name>
 			<text>Whenever a creature enters, surveil 1.
 When this enchantment leaves the battlefield, return up to three instant, sorcery, and/or relic cards from your graveyard to your hand. (Noncreature artifacts and enchantments are relics.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/93.png" num="75">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/93.png" num="74">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1826,7 +1828,7 @@ Equip {2}
 {4}{G}: Exile target noncreature enchantment from your graveyard. When you do, Finn Sword transforms.
 ---
 (Back): Fern, Mossy Mirror</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_front.png" num="209a">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_front.png" num="208a">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -1847,7 +1849,7 @@ Fern has all abilities of cards exiled with him.
 Finality (If this permanent would enter a graveyard from the battlefield, exile it instead.)
 ---
 (Front): Finn Sword</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_back.png" num="209b">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_back.png" num="208b">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -1881,19 +1883,16 @@ When this creature enters, gear up. (Create a colorless Equipment artifact token
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Firecrown Berserker // Battle Lust</name>
-			<text>When this creature dies, gear up. (Create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1.&quot; and Equip {2}.)
-
----
-
-Target creature gets +3/+0 until end of turn.</text>
+			<name>Firecrown Berserker</name>
+			<text>When this creature dies, gear up.
+Blitz {1}{R} (If you cast this spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/101.png" num="159">ATC</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Berserker // Instant — Adventure</type>
+				<type>Creature — Berserker</type>
 				<maintype>Creature</maintype>
-				<manacost>2R // 1R</manacost>
+				<manacost>2R</manacost>
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -2132,7 +2131,7 @@ Whenever Bandit Princess deals combat damage to an opponent, choose one —
 		</card>
 		<card>
 			<name>Turn to Seed</name>
-			<text>As a cost to cast, sacrifice a creature.
+			<text>As an additional cost to cast this spell, sacrifice a creature.
 You gain X life and draw X cards, where X is the sacrificed creature&apos;s power. Return up to one target land card from your graveyard to the battlefield.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/116.png" num="240">ATC</set>
 			<prop>
@@ -2263,8 +2262,9 @@ When The Porcelain Lamb leaves the battlefield, return the exiled card to the ba
 		</card>
 		<card>
 			<name>Gummy Bear</name>
-			<text>Discard a card: Untap each creature you control. Activate as a sorcery and only once each turn.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/122.png" num="25">ATC</set>
+			<text>Candy creatures you control have vigilance.
+{T}, Discard a card: Confect. (Create a 0/1 white Candy Citizen creature token with &quot;{T}: Add {C}. You can&apos;t spend this mana to cast spells from your hand.&quot;)</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/122.png" num="26">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2282,7 +2282,7 @@ When The Porcelain Lamb leaves the battlefield, return the exiled card to the ba
 			<name>Heroic Tutor</name>
 			<text>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
 Search your library for a legendary card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/123.png" num="28">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/123.png" num="29">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2440,9 +2440,9 @@ Destroy target creature with mana value 1 or less.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Beautopia // Mysterous Hatch</name>
+			<name>Beautopia // Mysterious Hatch</name>
 			<text>Beautopia enters tapped.
-{T}: Add {G} or {U}
+{T}: Add {G} or {U}.
 
 ---
 
@@ -2501,7 +2501,7 @@ Put target permanent card from your graveyard on top of your library.</text>
 
 ---
 
-As a cost to cast, sacrifice a nontoken creature.
+As an additional cost to cast this spell, sacrifice a nontoken creature.
 Draw two cards.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/135.png" num="108">ATC</set>
 			<prop>
@@ -2544,7 +2544,7 @@ Discard three cards, then draw a card.</text>
 
 ---
 
-Create a 3/1 red Elemental creature token decayed.</text>
+Create a 3/1 red Elemental creature token with decayed.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/137.png" num="328">ATC</set>
 			<prop>
 				<layout>adventure</layout>
@@ -2776,14 +2776,14 @@ Whenever this creature is blocked, create a Music token. (It&apos;s a Music ench
 		<card>
 			<name>Huntress Wizard</name>
 			<text>Reach, trample
-{1}, Discard a card: Huntress Wizard explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+Discard a card: Huntress Wizard explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/150.png" num="217">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Plant Wizard</type>
 				<maintype>Creature</maintype>
-				<manacost>2GG</manacost>
+				<manacost>3G</manacost>
 				<cmc>4</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -2849,13 +2849,13 @@ Scratch the Itch deals 2 damage to any target.</text>
 			<name>Science, Sweet Familiar</name>
 			<text>When Science enters, create a Clue token.
 {2}, {T}: Copy target activated or triggered ability you control.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/154.png" num="275">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/154.png" num="247">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Creature — Candy Rat Scientist</type>
 				<maintype>Creature</maintype>
-				<manacost>1W/U</manacost>
+				<manacost>WU</manacost>
 				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>
@@ -3201,7 +3201,7 @@ Create a Treasure token.</text>
 				<side>front</side>
 				<type>Creature — Elemental // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>1R // R</manacost>
+				<manacost>1R // 1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
@@ -3319,7 +3319,7 @@ Destroy target relic. (Noncreature artifacts and enchantments are relics.)</text
 		<card>
 			<name>Haughty Glassware</name>
 			<text>Whenever an opponent casts a spell during your turn, draw a card.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/179.png" num="27">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/179.png" num="28">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3863,7 +3863,7 @@ Whenever a swamp you control enters, draw a card and you lose 1 life.</text>
 			<name>Ice Scouts</name>
 			<text>Prowess, prowess (Each instance of prowess triggers separately.)
 Madness {1}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/210.png" num="71">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/210.png" num="70">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3914,17 +3914,15 @@ When this artifact leaves the battlefield, draw a card.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>Foodboys // Succulant Tribute</name>
-			<text>---
-
-Create a Food token.</text>
+			<name>Foodboys</name>
+			<text>Snack — Whenever you gain your third life each turn, put a +1/+1 counter on this creature.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/213.png" num="22">ATC</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Golem // Sorcery — Adventure</type>
+				<type>Artifact Creature — Golem</type>
 				<maintype>Creature</maintype>
-				<manacost>W // 1W</manacost>
+				<manacost>W</manacost>
 				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -3966,9 +3964,9 @@ Draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Confront the Past</name>
-			<text>Create a Clue token. You may mill cards equal to twice the number of relics you control, then you may return a creature or land card from your graveyard to your hand. (Noncreature artifacts and enchantments are relics.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/216.png" num="207">ATC</set>
+			<name>Grapple with the Past</name>
+			<text>Mill three cards, then you may return a creature or land card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/216.png" num="212">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4001,9 +3999,9 @@ This creature gets +1/+1 for each land card in your graveyard.</text>
 		</card>
 		<card>
 			<name>Improvised Heroism</name>
-			<text>As a cost to cast, sacrifice a relic. (Noncreature artifacts and enchantments are relics.)
+			<text>As an additional cost to cast this spell, sacrifice a relic. (Noncreature artifacts and enchantments are relics.)
 Sentimental — Exile target creature or planeswalker. It&apos;s controller gains life equal to its power unless the sacrificed permanent was legendary.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/218.png" num="29">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/218.png" num="30">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4017,16 +4015,19 @@ Sentimental — Exile target creature or planeswalker. It&apos;s controller gain
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Sign Zombies</name>
+			<name>Sign Zombies // From the Thicket</name>
 			<text>Deathtouch
-When this creature enters or dies, mill two cards.</text>
+
+---
+
+Mill seven cards. Then put a creature card from among the milled cards onto the battlefield.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/219.png" num="229">ATC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Zombie</type>
+				<type>Creature — Zombie // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>1G</manacost>
+				<manacost>1G // 5G</manacost>
 				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
@@ -4075,17 +4076,17 @@ Target player mills 3 cards, then exile up to three cards from among any number 
 		<card>
 			<name>Gumcrafting</name>
 			<text>Confect three times. (To confect, create a 0/1 white Candy Citizen creature token with &quot;{T}: Add {C}. You can&apos;t spend this mana to cast spells from your hand.&quot;)
-Flashback {6}{U}{U}</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/222.png" num="67">ATC</set>
+Flashback {6}{W}{W}</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/222.png" num="25">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1UU</manacost>
+				<manacost>1WW</manacost>
 				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
 		</card>
@@ -4133,7 +4134,7 @@ Destroy target creature with mana value 1 or less.</text>
 
 ---
 
-As a cost to cast, discard a card.
+As an additional cost to cast this spell, discard a card.
 Create two Music tokens.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/225.png" num="163">ATC</set>
 			<prop>
@@ -4150,19 +4151,16 @@ Create two Music tokens.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Snow Golem // Snowbank Slip</name>
-			<text>When this creature enters, you may put a stun counter on target tapped creature.
-
----
-
-Tap target creature and put a stun counter on it.</text>
+			<name>Snow Golem</name>
+			<text>When this creature enters, you may tap target creature an opponent controls and put a stun counter it.
+Madness {2}{U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/226.png" num="95">ATC</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Snow Creature — Elemental Golem // Instant — Adventure</type>
+				<type>Snow Creature — Elemental Golem</type>
 				<maintype>Creature</maintype>
-				<manacost>3U // 2U</manacost>
+				<manacost>3U</manacost>
 				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
@@ -4175,7 +4173,7 @@ Tap target creature and put a stun counter on it.</text>
 			<text>Flying, haste
 Tiny can&apos;t block.
 Tiny escapes with a +1/+1 counter on him.
-Escape—{R}{R}, Discard a card (You may cast this card from your graveyard for its escape cost.)</text>
+Escape—{R}, Discard a card (You may cast this card from your graveyard for its escape cost.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/227.png" num="190">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4211,8 +4209,8 @@ Enchanted creature gets +1/+1 and has &quot;{T}: Add one mana of any color.&quot
 		</card>
 		<card>
 			<name>Gunter, The First Bearer</name>
-			<text>When Gunter dies, you may discard a card. If you do, reveal a card you own from outside the game and put it into your hand.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/229.png" num="68">ATC</set>
+			<text>When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card unless you put a Snow card into your hand this way.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/229.png" num="67">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4293,7 +4291,7 @@ Confect twice.</text>
 		<card>
 			<name>Lemoncrafting</name>
 			<text>Sentimental — At the beginning of your precombat main phase, sacrifice a relic. When you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/232.png" num="32">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/232.png" num="33">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4520,7 +4518,7 @@ Whenever this creature attacks, you may exile another target creature you contro
 			<text>Affinity for relics (This spell costs {1} less to cast for each relic you control.)
 Flash
 When this creature enters, you may return target creature an opponent controls to its owners hand.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/246.png" num="73">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/246.png" num="72">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4599,7 +4597,7 @@ Hexproof from red
 		<card>
 			<name>Slumber Party</name>
 			<text>When this enchantment enters, confect twice. (To confect, create a 0/1 white Candy Citizen creature token with &quot;{T}: Add {C}. You can&apos;t spend this mana to cast spells from your hand.&quot;)
-Adventurous — Whenever a permanent with an adventure enters under you control, return this enchantment to its owners hand.</text>
+Adventurous — Whenever a permanent with an adventure enters under your control, return this enchantment to its owners hand.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/249.png" num="44">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -4615,19 +4613,18 @@ Adventurous — Whenever a permanent with an adventure enters under you control,
 		</card>
 		<card>
 			<name>Haphazard Excavation</name>
-			<text>Escalate {1} (Pay this cost for each mode chosen beyond the first.)
-Choose one —
+			<text>Choose one —
 • Destroy target relic.
-• Create a clue token.
-• Return target relic card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/250.png" num="26">ATC</set>
+• Return target relic card from your graveyard to your hand.
+Entwine {2}</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/250.png" num="27">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Instant</type>
 				<maintype>Instant</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -4701,16 +4698,16 @@ Whenever The Morrow attacks, you may cast a copy of it&apos;s adventure.
 ---
 
 Target creature gains flying until end of turn.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/254.png" num="35">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/254.png" num="76">ATC</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
 				<type>Legendary Creature — Bird // Instant — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>3WW // 1W</manacost>
+				<manacost>3UU // 1U</manacost>
 				<cmc>5</cmc>
-				<colors>W</colors>
-				<coloridentity>W</coloridentity>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
 				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -4720,7 +4717,7 @@ Target creature gains flying until end of turn.</text>
 			<text>[+1]: Untap target permanent.
 [+0]: Create a legendary 2/1 green Cat creature token with haste named Cake.
 [-2]: Put two +1/+1 counters on target creature you control. If the creature&apos;s name is Cake, you may have it fight another target creature.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/255.png" num="210">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/255.png" num="209">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4923,17 +4920,21 @@ When Party Pat enters, create a 2/2 green Bear creature token, then for each tok
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Charlie, Card Reader</name>
-			<text>When Charlie enters, create a Clue token.
-If you would draw a card for the first time each turn, instead surveil 1, then draw a card.</text>
+			<name>Charlie, Card Reader // Deal Three</name>
+			<text>You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library.
+
+---
+
+Scry 3.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/266.png" num="296">ATC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Legendary Creature — Dog Shaman</type>
+				<type>Legendary Creature — Dog Shaman // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>2G/UG/U</manacost>
-				<cmc>4</cmc>
+				<manacost>4G/U // G/U</manacost>
+				<cmc>5</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
 				<pt>3/4</pt>
@@ -4964,7 +4965,7 @@ Mathematical!</text>
 			<text>Flying, vigilance
 {2}: Add one mana of any color.
 {2}{W}{U}{B}{R}{G}: Lady Rainicorn gets +5/+5 until end of turn.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/268.png" num="31">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/268.png" num="32">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5018,15 +5019,17 @@ Modified creatures you control have haste. (Equipment, Auras you control, and co
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Festive Nutler</name>
-			<text>When this creature enters, create a Food token.</text>
+			<name>Festive Nutler // Mixed Nuts</name>
+			<text>---
+
+Create a Food token.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/271.png" num="284">ATC</set>
 			<prop>
-				<layout>normal</layout>
+				<layout>adventure</layout>
 				<side>front</side>
-				<type>Creature — Plant</type>
+				<type>Creature — Plant // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>G/WG/W</manacost>
+				<manacost>G/WG/W // G/W</manacost>
 				<cmc>2</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
@@ -5146,7 +5149,8 @@ This creature enters with the indicated counter on it for each color of mana spe
 		</card>
 		<card>
 			<name>Jermaine, Abstract Artist</name>
-			<text>{5}, {T}: Add {W}{U}{B}{R}{G}.</text>
+			<text>When Jermaine enters, create a treasure token.
+Treasures you control are lands in addition to their other types and have &quot;{T}: Add one mana of any color.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/278.png" num="174">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -5156,7 +5160,7 @@ This creature enters with the indicated counter on it for each color of mana spe
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
 				<colors>R</colors>
-				<coloridentity>WUBRG</coloridentity>
+				<coloridentity>R</coloridentity>
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -5225,7 +5229,7 @@ Whenever you cast a noncreature spell, gear up.</text>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>1/2</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5251,7 +5255,7 @@ Whenever you cast a noncreature spell, gear up.</text>
 Disturb {3} (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Marcy&apos;s Map</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/284_front.png" num="208a">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/284_front.png" num="207a">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5272,7 +5276,7 @@ Disturb {3} (You may cast this card from your graveyard transformed for its dist
 Finality
 ---
 (Front): Elise, Ailing Mother</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/284_back.png" num="208b">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/284_back.png" num="207b">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5288,7 +5292,7 @@ Finality
 		<card>
 			<name>Lurking Guardian</name>
 			<text>Flash
-When this creature enters, choose target card with an Adventure in your graveyard or you own in exile. You may cast it as an Adventure without paying its mana cost.</text>
+When you cast this spell, choose target card with an Adventure in your graveyard or you own in exile. You may cast it as an Adventure without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/285.png" num="269">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -5307,7 +5311,7 @@ When this creature enters, choose target card with an Adventure in your graveyar
 			<name>Magi of Life Giving</name>
 			<text>When Magi of Life Giving enters, up to one target relic you control becomes a 4/4 blue creature in addition to its other types for as long as you control Magi of Life Giving.
 Madness {1}{U}</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/286.png" num="74">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/286.png" num="73">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5397,7 +5401,7 @@ If Wildberry Princess would be damaged or destroyed while she has one or more co
 			<name>Mo, Paternal Roboticist</name>
 			<text>When Mo enters, create a Clue token.
 Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with &quot;This creature gets +1/+1 for each Robot you control.&quot;</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/291.png" num="76">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/291.png" num="75">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5413,12 +5417,13 @@ Whenever you draw your second card each turn, create a 0/0 colorless Robot artif
 		</card>
 		<card>
 			<name>Starchy, The Gravedigger</name>
-			<text>When Starchy enters, return target creature card with mana value 3 or less from your graveyard to your hand.</text>
+			<text>When Starchy enters, exile target creature from your graveyard. You may cast that spell from exile as long as you control Starchy.
+{T}: Add {C}. You can&apos;t spend this mana to cast spells from your hand.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/292.png" num="48">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Candy</type>
+				<type>Legendary Creature — Candy Citizen</type>
 				<maintype>Creature</maintype>
 				<manacost>1W</manacost>
 				<cmc>2</cmc>
@@ -5541,8 +5546,9 @@ You may play an additional land each turn.</text>
 		</card>
 		<card>
 			<name>Wizard Streets</name>
-			<text>Bundle 2
-Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard.</text>
+			<text>Bundle 2 (When you draft this card, you get two additional copies.)
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R}</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/299.png" num="196">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -5560,7 +5566,7 @@ Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus
 			<name>Inquisitive Looting</name>
 			<text>Draw two cards, then discard two cards.
 Flashback {2}{U}</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/300.png" num="72">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/300.png" num="71">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5574,19 +5580,16 @@ Flashback {2}{U}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Famished Moldos // Bibliophagy</name>
+			<name>Famished Moldos</name>
 			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
-
----
-
-Target player sacrifices a relic. (Noncreature artifacts and enchantments are relics.)</text>
+When this creature enters, each player discards a card.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/301.png" num="113">ATC</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Fungus // Sorcery — Adventure</type>
+				<type>Creature — Fungus</type>
 				<maintype>Creature</maintype>
-				<manacost>B // B</manacost>
+				<manacost>B</manacost>
 				<cmc>1</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -6443,7 +6446,7 @@ Enchanted creature gets -3/-3</text>
 		<card>
 			<name>Grapple</name>
 			<text>Tap an untapped creature you control. When you do, it deals damage equal to its power to target creature or planeswalker you don&apos;t control.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/355.png" num="212">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/355.png" num="211">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6457,24 +6460,21 @@ Enchanted creature gets -3/-3</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>New Death // Afterlife Purge</name>
-			<text>New Death&apos;s power is equal to the number of creature cards in exile.
-When new death dies, shuffle any number of creature cards you own in exile into your library.
-
----
-
-Exile all creature cards from graveyards.</text>
+			<name>New Death</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+New Death gets +1/+1 for each creature card in exile.
+When new death leaves the battlefield, shuffle any number of creature cards you own in exile into your library.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/356.png" num="131">ATC</set>
 			<prop>
-				<layout>adventure</layout>
+				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Snake Specter // Instant — Adventure</type>
+				<type>Legendary Creature — Snake Specter</type>
 				<maintype>Creature</maintype>
-				<manacost>4BB // 1B</manacost>
+				<manacost>4BB</manacost>
 				<cmc>6</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>*/6</pt>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -6788,7 +6788,7 @@ If you would draw a card while your library has no cards in it, you win the game
 			<text>If you would create a Clue token or confect, instead do both.
 {C}, {T}, Sacrifice a clue: Create a tapped 2/2 white Candy Soldier creature token.
 {C}{C}{C}, {T}, Sacrifice three clues: Draw three cards.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/373.png" num="247">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/373.png" num="246">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6842,7 +6842,7 @@ Whenever a Rogue you control deals damage to an opponent, they may sacrifice a n
 			<name>Boneyfly</name>
 			<text>Flying
 When this creature enters or dies, mill two cards.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/376.png" num="103">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/376.png" num="102">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6860,7 +6860,7 @@ When this creature enters or dies, mill two cards.</text>
 			<name>Kim Kil Whan, Landlord</name>
 			<text>Vigilance
 Lands enter tapped.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/377.png" num="30">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/377.png" num="31">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7029,7 +7029,8 @@ When this creature deals damage to an opponent, you may return any number of tar
 		</card>
 		<card>
 			<name>Wizard Streets ATC</name>
-			<text>Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard.</text>
+			<text>Create a 2/1 red Wizard creature token with prowess.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/387.png" num="21">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -7065,9 +7066,10 @@ When this creature deals damage to an opponent, you may return any number of tar
 			<token>1</token>
 		</card>
 		<card>
-			<name>Abstract Nightmare</name>
-			<text>Sacrifice a creature, return this enchantment to your hand: Return target creature with mana value less than the sacrificed creature from your graveyard to the battlefield. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/389.png" num="102">ATC</set>
+			<name>Chthonian Nightmare</name>
+			<text>When this enchantment enters, you get {E}{E}{E} (three energy counters).
+Pay X {E}, Sacrifice a creature, Return this enchantment to its owner&apos;s hand: Return target creature card with mana value X from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/389.png" num="103">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7519,7 +7521,8 @@ Choose one or more —
 		</card>
 		<card>
 			<name>Wizard Streets ATC</name>
-			<text>Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard.</text>
+			<text>Create a 2/1 red Wizard creature token with prowess.
+Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/415.png" num="20">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -7613,13 +7616,13 @@ When this artifact enters, surveil 2.
 			<name>The Mother Gum</name>
 			<text>{T}: Add {C}.
 {WU}{WU}, {T}, Pay 1 Life: Create a 0/1 white Candy Citizen creature token.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/420.png" num="246">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/420.png" num="275">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Legendary Artifact — Candy</type>
 				<maintype>Artifact</maintype>
-				<manacost>WU</manacost>
+				<manacost>W/UW/U</manacost>
 				<cmc>2</cmc>
 				<colors>WU</colors>
 				<coloridentity>WU</coloridentity>

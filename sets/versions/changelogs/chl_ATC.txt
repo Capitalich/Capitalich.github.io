@@ -1,4 +1,219 @@
-﻿VERSION 59 CHANGELOG
+﻿VERSION 60 CHANGELOG
+====================
+
+Grapple with the Past added.
+Chthonian Nightmare added.
+
+Confront the Past removed.
+Abstract Nightmare removed.
+
+Reign of Gunters
+rules_text: When this enchantment enters, amass Birds 3. [i](Put three +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever you sacrifice a relic, return this enchantment to its owners hand. => When this enchantment enters, amass Birds 3. [i](Put three +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever you discard a card, return this enchantment to its owners hand.
+
+Reach Through Time
+rules_text: As a cost to cast, sacrifice a relic.
+[i]Sentimental[/i] — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary. => As an additional cost to cast this spell, sacrifice a relic.
+[i]Sentimental[/i] — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary.
+
+Fruit Witch
+rules_text: When this creature enters, create a Food token.
+[i]Snack[/i] — Whenever you gain your third life each turn, each opponent loses 2 life. => [i]Snack[/i] — Whenever you gain your third life each turn, each opponent loses 2 life.
+
+Ruby Brain Beast
+rules_text: This creature has deathtouch and lifelink as long as an opponent has two or fewer cards in their hand. => As long as you have one or fewer cards in your hand, this creature has deathtouch and lifelink.
+
+Ravenous Grumbo
+
+Stylish Scorpion
+rules_text: Deathtouch
+{2}, Exile this creature from your graveyard: Gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Deathtouch
+Scavenge {2} [i]({2}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+
+Orb Wizard
+cost: {2}{U} => {1}{U}
+
+Grand Master Wizard
+cost: {3}{U}{U} => {1}{U}
+pt: 3/4 => 1/2
+
+Weapon Head
+rules_text: Haste
+When Weapon Head attacks, you may attach any number of Equipment you control to it
+{1}{R}: Discard a card: Gear up twice. => Haste
+When Weapon Head attacks, you may attach an Equipment you control to it.
+Discard a card: Gear up.
+
+Bird Squadron
+cost: {7}{W} => {W}
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Flying => Flying
+
+Wrath of Grob Gob Glob Grod
+
+Firecrown Berserker
+rules_text: When this creature dies, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => When this creature dies, gear up.
+Blitz {1}{R} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+
+Turn to Seed
+rules_text: As a cost to cast, sacrifice a creature.
+You gain X life and draw X cards, where X is the sacrificed creature's power. Return up to one target land card from your graveyard to the battlefield. => As an additional cost to cast this spell, sacrifice a creature.
+You gain X life and draw X cards, where X is the sacrificed creature's power. Return up to one target land card from your graveyard to the battlefield.
+
+Gummy Bear
+rules_text: Discard a card: Untap each creature you control. Activate as a sorcery and only once each turn. => Candy creatures you control have vigilance.
+{T}, Discard a card: Confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+
+Beautopia
+rules_text: Beautopia enters tapped.
+{T}: Add {G} or {U} => Beautopia enters tapped.
+{T}: Add {G} or {U}.
+
+Death, Soul Gardener
+
+Fire Kingdom
+
+Huntress Wizard
+cost: {2}{G}{G} => {3}{G}
+rules_text: Reach, trample
+{1}, Discard a card: Huntress Wizard explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => Reach, trample
+Discard a card: Huntress Wizard explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i]
+
+Science, Sweet Familiar
+cost: {1}{WU} => {W}{U}
+
+Honey Man
+
+Breakfast in Bed
+
+Foodboys
+rules_text:  => [i]Snack[/i] — Whenever you gain your third life each turn, put a +1/+1 counter on this creature.
+
+Improvised Heroism
+rules_text: As a cost to cast, sacrifice a relic. [i](Noncreature artifacts and enchantments are relics.)[/i]
+[i]Sentimental[/i] — Exile target creature or planeswalker. It's controller gains life equal to its power unless the sacrificed permanent was legendary. => As an additional cost to cast this spell, sacrifice a relic. [i](Noncreature artifacts and enchantments are relics.)[/i]
+[i]Sentimental[/i] — Exile target creature or planeswalker. It's controller gains life equal to its power unless the sacrificed permanent was legendary.
+
+Sign Zombies
+rules_text: Deathtouch
+When this creature enters or dies, mill two cards. => Deathtouch
+
+Gumcrafting
+cost: {1}{U}{U} => {1}{W}{W}
+rules_text: Confect three times. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Flashback {6}{U}{U} => Confect three times. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Flashback {6}{W}{W}
+
+Raggedy Princess
+
+Flame Princess
+
+Snow Golem
+rules_text: When this creature enters, you may put a stun counter on target tapped creature. => When this creature enters, you may tap target creature an opponent controls and put a stun counter it.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Tiny, Micro Manticore
+rules_text: Flying, haste
+Tiny can't block.
+Tiny escapes with a +1/+1 counter on him.
+Escape—{R}{R}, Discard a card [i](You may cast this card from your graveyard for its escape cost.)[/i] => Flying, haste
+Tiny can't block.
+Tiny escapes with a +1/+1 counter on him.
+Escape—{R}, Discard a card [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+Gunter, The First Bearer
+rules_text: When Gunter dies, you may discard a card. If you do, reveal a card you own from outside the game and put it into your hand. => When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card unless you put a Snow card into your hand this way.
+
+Overstretch
+
+Slumber Party
+rules_text: When this enchantment enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under you control, return this enchantment to its owners hand. => When this enchantment enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owners hand.
+
+Haphazard Excavation
+cost: {1}{W} => {W}
+rules_text: Escalate {1} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one —
+• Destroy target relic.
+• Create a clue token.
+• Return target relic card from your graveyard to your hand. => Choose one —
+• Destroy target relic.
+• Return target relic card from your graveyard to your hand.
+Entwine {2}
+
+The Morrow
+cost: {3}{W}{W} => {3}{U}{U}
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Charlie, Card Reader
+cost: {2}{GU}{GU} => {4}{GU}
+rules_text: When Charlie enters, create a Clue token.
+If you would draw a card for the first time each turn, instead surveil 1, then draw a card. => You may look at the top card of your library at any time.
+You may cast creature spells from the top of your library.
+
+Festive Nutler
+rules_text: When this creature enters, create a Food token. => 
+
+Jermaine, Abstract Artist
+rules_text: {5}, {T}: Add {W}{U}{B}{R}{G}. => When Jermaine enters, create a treasure token.
+Treasures you control are lands in addition to their other types and have “{T}: Add one mana of any color.
+
+Banana Man
+pt: 1/2 => 2/2
+
+Lurking Guardian
+rules_text: Flash
+When this creature enters, choose target card with an Adventure in your graveyard or you own in exile. You may cast it as an Adventure without paying its mana cost. => Flash
+When you cast this spell, choose target card with an Adventure in your graveyard or you own in exile. You may cast it as an Adventure without paying its mana cost.
+
+Starchy, The Gravedigger
+type: Legendary Creature — Candy => Legendary Creature — Candy Citizen
+rules_text: When Starchy enters, return target creature card with mana value 3 or less from your graveyard to your hand. => When Starchy enters, exile target creature from your graveyard. You may cast that spell from exile as long as you control Starchy.
+{T}: Add {C}. You can't spend this mana to cast spells from your hand.
+
+Wizard Streets
+rules_text: Bundle 2
+Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R}
+
+Famished Moldos
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i] => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+When this creature enters, each player discards a card.
+
+Clue
+
+New Death
+rules_text: New Death's power is equal to the number of creature cards in exile.
+When new death dies, shuffle any number of creature cards you own in exile into your library. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+New Death gets +1/+1 for each creature card in exile.
+When new death leaves the battlefield, shuffle any number of creature cards you own in exile into your library.
+pt: */6 => 1/1
+
+Wizard Streets
+rules_text: Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard. => Create a 2/1 red Wizard creature token with prowess.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Zombie
+
+Candy Giant
+
+Candy Soldier
+
+Wizard Streets
+rules_text: Create a number of 2/1 red Wizard creature tokens with prowess equal to one plus the number of cards named Wizard Streets in your graveyard. => Create a 2/1 red Wizard creature token with prowess.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+The Mother Gum
+cost: {W}{U} => {WU}{WU}
+
+
+VERSION 59 CHANGELOG
 ====================
 
 Finn, the Human added.

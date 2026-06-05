@@ -192,7 +192,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Skeleton Ooze",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/18.png"
 			}
@@ -212,7 +212,7 @@
 			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Snow Sorcery",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/20.png"
 			}
@@ -272,7 +272,7 @@
 			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Jiggler",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/26.png"
 			}
@@ -687,7 +687,7 @@
 		{
 			"name": "Orb Wizard",
 			"rarity": "special",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Wizard",
 			"collector_number": "78",
 			"image_uris": {
@@ -699,7 +699,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Snow Creature — Wizard Noble",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/68.png"
 			}
@@ -747,7 +747,7 @@
 		{
 			"name": "Grand Master Wizard",
 			"rarity": "special",
-			"mana_cost": "{3}{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Wizard",
 			"collector_number": "66",
 			"image_uris": {
@@ -867,7 +867,7 @@
 		{
 			"name": "Bird Squadron",
 			"rarity": "special",
-			"mana_cost": "{7}{W}",
+			"mana_cost": "{W}",
 			"type": "Creature — Bird",
 			"collector_number": "9",
 			"image_uris": {
@@ -929,7 +929,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Candy",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/91.png"
 			}
@@ -949,7 +949,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/93.png"
 			}
@@ -1009,7 +1009,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "209",
+			"collector_number": "208",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1253,7 +1253,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Candy Bear",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/122.png"
 			}
@@ -1263,7 +1263,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Legendary Instant",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/123.png"
 			}
@@ -1531,7 +1531,7 @@
 		{
 			"name": "Huntress Wizard",
 			"rarity": "special",
-			"mana_cost": "{2}{G}{G}",
+			"mana_cost": "{3}{G}",
 			"type": "Legendary Creature — Plant Wizard",
 			"collector_number": "217",
 			"image_uris": {
@@ -1571,9 +1571,9 @@
 		{
 			"name": "Science, Sweet Familiar",
 			"rarity": "special",
-			"mana_cost": "{1}{W/U}",
+			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Candy Rat Scientist",
-			"collector_number": "275",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/154.png"
 			}
@@ -1830,7 +1830,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Golem Advisor",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/179.png"
 			}
@@ -2140,7 +2140,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Snow Creature — Elemental Scout",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/210.png"
 			}
@@ -2196,11 +2196,11 @@
 			}
 		},
 		{
-			"name": "Confront the Past",
+			"name": "Grapple with the Past",
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/216.png"
 			}
@@ -2220,7 +2220,7 @@
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/218.png"
 			}
@@ -2258,9 +2258,9 @@
 		{
 			"name": "Gumcrafting",
 			"rarity": "special",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/222.png"
 			}
@@ -2330,7 +2330,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Dinosaur",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/229.png"
 			}
@@ -2367,7 +2367,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/232.png"
 			}
@@ -2507,7 +2507,7 @@
 			"rarity": "special",
 			"mana_cost": "{6}{U}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/246.png"
 			}
@@ -2552,9 +2552,9 @@
 		{
 			"name": "Haphazard Excavation",
 			"rarity": "special",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/250.png"
 			}
@@ -2592,9 +2592,9 @@
 		{
 			"name": "The Morrow",
 			"rarity": "special",
-			"mana_cost": "{3}{W}{W}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Bird",
-			"collector_number": "35",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/254.png"
 			}
@@ -2604,7 +2604,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Fiona",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/255.png"
 			}
@@ -2712,7 +2712,7 @@
 		{
 			"name": "Charlie, Card Reader",
 			"rarity": "special",
-			"mana_cost": "{2}{G/U}{G/U}",
+			"mana_cost": "{4}{G/U}",
 			"type": "Legendary Creature — Dog Shaman",
 			"collector_number": "296",
 			"image_uris": {
@@ -2734,7 +2734,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Rainicorn",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/268.png"
 			}
@@ -2894,7 +2894,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Human",
-			"collector_number": "208",
+			"collector_number": "207",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2921,7 +2921,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Wizard",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/286.png"
 			}
@@ -2971,7 +2971,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Human Scientist",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/291.png"
 			}
@@ -2980,7 +2980,7 @@
 			"name": "Starchy, The Gravedigger",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Candy",
+			"type": "Legendary Creature — Candy Citizen",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/292.png"
@@ -3061,7 +3061,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/300.png"
 			}
@@ -3611,7 +3611,7 @@
 			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/355.png"
 			}
@@ -3798,7 +3798,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Candy Scientist Noble",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/373.png"
 			}
@@ -3828,7 +3828,7 @@
 			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect Skeleton",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/376.png"
 			}
@@ -3838,7 +3838,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Dog Advisor",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/377.png"
 			}
@@ -3954,11 +3954,11 @@
 			}
 		},
 		{
-			"name": "Abstract Nightmare",
+			"name": "Chthonian Nightmare",
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/389.png"
 			}
@@ -4266,9 +4266,9 @@
 		{
 			"name": "The Mother Gum",
 			"rarity": "special",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{W/U}{W/U}",
 			"type": "Legendary Artifact — Candy",
-			"collector_number": "246",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/420.png"
 			}
@@ -4492,7 +4492,7 @@
 	1 Foodboys
 	1 Frighten
 	1 Tyranny to Transendentalism
-	1 Confront the Past
+	1 Grapple with the Past
 	1 Tiny Tiller
 	1 Improvised Heroism
 	1 Sign Zombies
@@ -4613,7 +4613,7 @@
 	1 Nuclear Fallout
 	1 Mystic Virus
 	1 Delivery Drone
-	1 Abstract Nightmare
+	1 Chthonian Nightmare
 	1 Petrikov's Descent
 	1 Risky Scrounging
 	1 Mr. Pig

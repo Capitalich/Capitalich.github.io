@@ -16,12 +16,12 @@
         "position": "411"
     },
     {
-        "card_name": "Abstract Nightmare",
+        "card_name": "Boneyfly",
         "number": 102,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "389"
+        "position": "376"
     },
     {
         "card_name": "Abraham Lincoln",
@@ -56,12 +56,12 @@
         "position": "2"
     },
     {
-        "card_name": "Boneyfly",
+        "card_name": "Chthonian Nightmare",
         "number": 103,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "376"
+        "position": "389"
     },
     {
         "card_name": "Blastronaut",
@@ -386,18 +386,18 @@
     {
         "card_name": "Firecrown Berserker",
         "number": 159,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
         "position": "101"
     },
     {
-        "card_name": "Confront the Past",
+        "card_name": "Elise, Ailing Mother",
         "number": 207,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ATC",
         "rotated": false,
-        "position": "216"
+        "position": "284"
     },
     {
         "card_name": "Delivery Drone",
@@ -432,12 +432,12 @@
         "position": "100"
     },
     {
-        "card_name": "Elise, Ailing Mother",
+        "card_name": "Finn Sword",
         "number": 208,
         "shape": "transform double faced",
         "set": "ATC",
         "rotated": false,
-        "position": "284"
+        "position": "99"
     },
     {
         "card_name": "Destroy Evil",
@@ -458,7 +458,7 @@
     {
         "card_name": "Famished Moldos",
         "number": 113,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
         "position": "301"
@@ -472,12 +472,12 @@
         "position": "152"
     },
     {
-        "card_name": "Finn Sword",
+        "card_name": "Fionna Campbell",
         "number": 209,
-        "shape": "transform double faced",
+        "shape": "planeswalker",
         "set": "ATC",
         "rotated": false,
-        "position": "99"
+        "position": "255"
     },
     {
         "card_name": "Duke of Nuts",
@@ -512,12 +512,12 @@
         "position": "196"
     },
     {
-        "card_name": "Fionna Campbell",
+        "card_name": "Goo Skulls",
         "number": 210,
-        "shape": "planeswalker",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "255"
+        "position": "18"
     },
     {
         "card_name": "Dum Dum Juiced",
@@ -528,12 +528,12 @@
         "position": "166"
     },
     {
-        "card_name": "Gumcrafting",
+        "card_name": "Gunter, The First Bearer",
         "number": 67,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "222"
+        "position": "229"
     },
     {
         "card_name": "Fight King's Arena",
@@ -552,12 +552,12 @@
         "position": "225"
     },
     {
-        "card_name": "Goo Skulls",
+        "card_name": "Grapple",
         "number": 211,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "18"
+        "position": "355"
     },
     {
         "card_name": "Fealty to Bubblegum",
@@ -568,12 +568,12 @@
         "position": "372"
     },
     {
-        "card_name": "Gunter, The First Bearer",
+        "card_name": "Ice King",
         "number": 68,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "229"
+        "position": "68"
     },
     {
         "card_name": "Frighten",
@@ -592,12 +592,12 @@
         "position": "197"
     },
     {
-        "card_name": "Grapple",
+        "card_name": "Grapple with the Past",
         "number": 212,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "355"
+        "position": "216"
     },
     {
         "card_name": "Floop the Pig",
@@ -608,17 +608,17 @@
         "position": "347"
     },
     {
-        "card_name": "Ice King",
+        "card_name": "Ice Plague",
         "number": 69,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "68"
+        "position": "20"
     },
     {
         "card_name": "Fruit Witch",
         "number": 117,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
         "position": "53"
@@ -642,18 +642,18 @@
     {
         "card_name": "Foodboys",
         "number": 22,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
         "position": "213"
     },
     {
-        "card_name": "Ice Plague",
+        "card_name": "Ice Scouts",
         "number": 70,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "20"
+        "position": "210"
     },
     {
         "card_name": "Glassassin",
@@ -688,12 +688,12 @@
         "position": "204"
     },
     {
-        "card_name": "Ice Scouts",
+        "card_name": "Inquisitive Looting",
         "number": 71,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "210"
+        "position": "300"
     },
     {
         "card_name": "Glimpse the Multiverse",
@@ -728,12 +728,12 @@
         "position": "231"
     },
     {
-        "card_name": "Inquisitive Looting",
+        "card_name": "Lub-Glubs",
         "number": 72,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "300"
+        "position": "246"
     },
     {
         "card_name": "Grody Ghost",
@@ -760,20 +760,20 @@
         "position": "264"
     },
     {
-        "card_name": "Gummy Bear",
+        "card_name": "Gumcrafting",
         "number": 25,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "122"
+        "position": "222"
     },
     {
-        "card_name": "Lub-Glubs",
+        "card_name": "Magi of Life Giving",
         "number": 73,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "246"
+        "position": "286"
     },
     {
         "card_name": "Harrowing Premonition",
@@ -800,20 +800,20 @@
         "position": "150"
     },
     {
-        "card_name": "Haphazard Excavation",
+        "card_name": "Gummy Bear",
         "number": 26,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "250"
+        "position": "122"
     },
     {
-        "card_name": "Magi of Life Giving",
+        "card_name": "Mass Surveillance",
         "number": 74,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "286"
+        "position": "93"
     },
     {
         "card_name": "Hateful Faeries",
@@ -840,20 +840,20 @@
         "position": "120"
     },
     {
-        "card_name": "Haughty Glassware",
+        "card_name": "Haphazard Excavation",
         "number": 27,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "179"
+        "position": "250"
     },
     {
-        "card_name": "Mass Surveillance",
+        "card_name": "Mo, Paternal Roboticist",
         "number": 75,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "93"
+        "position": "291"
     },
     {
         "card_name": "Horror",
@@ -880,20 +880,20 @@
         "position": "65"
     },
     {
-        "card_name": "Heroic Tutor",
+        "card_name": "Haughty Glassware",
         "number": 28,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "123"
+        "position": "179"
     },
     {
-        "card_name": "Mo, Paternal Roboticist",
+        "card_name": "The Morrow",
         "number": 76,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
-        "position": "291"
+        "position": "254"
     },
     {
         "card_name": "Inevitable Return",
@@ -920,12 +920,12 @@
         "position": "395"
     },
     {
-        "card_name": "Improvised Heroism",
+        "card_name": "Heroic Tutor",
         "number": 29,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "218"
+        "position": "123"
     },
     {
         "card_name": "Octopolitician",
@@ -960,12 +960,12 @@
         "position": "269"
     },
     {
-        "card_name": "Kim Kil Whan, Landlord",
+        "card_name": "Improvised Heroism",
         "number": 30,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "377"
+        "position": "218"
     },
     {
         "card_name": "Orb Wizard",
@@ -1000,12 +1000,12 @@
         "position": "265"
     },
     {
-        "card_name": "Lady Rainicorn",
+        "card_name": "Kim Kil Whan, Landlord",
         "number": 31,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "268"
+        "position": "377"
     },
     {
         "card_name": "Out Sick",
@@ -1040,12 +1040,12 @@
         "position": "228"
     },
     {
-        "card_name": "Lemoncrafting",
+        "card_name": "Lady Rainicorn",
         "number": 32,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "232"
+        "position": "268"
     },
     {
         "card_name": "Overstretch",
@@ -1080,12 +1080,12 @@
         "position": "401"
     },
     {
-        "card_name": "Lemonshrieker",
+        "card_name": "Lemoncrafting",
         "number": 33,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "91"
+        "position": "232"
     },
     {
         "card_name": "Patience's Patient Plan",
@@ -1120,12 +1120,12 @@
         "position": "33"
     },
     {
-        "card_name": "Mama Jiggler",
+        "card_name": "Lemonshrieker",
         "number": 34,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "26"
+        "position": "91"
     },
     {
         "card_name": "Petrikov's Descent",
@@ -1160,12 +1160,12 @@
         "position": "394"
     },
     {
-        "card_name": "The Morrow",
+        "card_name": "Mama Jiggler",
         "number": 35,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "254"
+        "position": "26"
     },
     {
         "card_name": "Power Shriek",
@@ -1178,7 +1178,7 @@
     {
         "card_name": "New Death",
         "number": 131,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
         "position": "356"
@@ -1274,7 +1274,7 @@
     {
         "card_name": "Sign Zombies",
         "number": 229,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
         "position": "219"
@@ -1650,7 +1650,7 @@
     {
         "card_name": "Snow Golem",
         "number": 95,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
         "position": "226"
@@ -1968,12 +1968,12 @@
         "position": "193"
     },
     {
-        "card_name": "The Mother Gum",
+        "card_name": "Princess Bubblegum",
         "number": 246,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "420"
+        "position": "373"
     },
     {
         "card_name": "Thrumming Worm",
@@ -2008,12 +2008,12 @@
         "position": "257"
     },
     {
-        "card_name": "Princess Bubblegum",
+        "card_name": "Science, Sweet Familiar",
         "number": 247,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "373"
+        "position": "154"
     },
     {
         "card_name": "Crabbit Familiar",
@@ -2082,18 +2082,18 @@
     {
         "card_name": "Festive Nutler",
         "number": 284,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
         "position": "271"
     },
     {
-        "card_name": "Science, Sweet Familiar",
+        "card_name": "The Mother Gum",
         "number": 275,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "154"
+        "position": "420"
     },
     {
         "card_name": "Ricardio, The Heart Guy",
@@ -2297,7 +2297,7 @@
     {
         "card_name": "Charlie, Card Reader",
         "number": 296,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "ATC",
         "rotated": false,
         "position": "266"
