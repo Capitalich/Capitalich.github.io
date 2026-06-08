@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-05</releasedate>
+			<releasedate>2026-06-08</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -29,7 +29,7 @@ Permanents you control have &quot;{T}: Add {G}.&quot;</text>
 		<card>
 			<name>Bad Land Scavengers</name>
 			<text>Menace
-Each creature card in your graveyard has scavenge {X}{B}{G}, where X is that creature&apos;s power. ({X}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
+Each creature card in your graveyard has scavenge {X}{B}{G}, where X is that creature&apos;s power. (Exile a creature card from your graveyard and pay {X}{B}{G}. Put a number of +1/+1 counters equal to that card&apos;s power on target creature. Scavenge only as a sorcery.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/1.png" num="262">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -303,7 +303,7 @@ Mathematical! (When you cast this spell, copy it for each spell you cast before 
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Repressed Duet</name>
+			<name>Elegiac Duet</name>
 			<text>Create a Clue token and a Music token. (A Music token is an enchantment with &quot;{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.)
 Madness {UR}</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/16.png" num="291">ATC</set>
@@ -1582,8 +1582,8 @@ The next creature spell you cast this turn has convoke. (Each creature you tap w
 				<side>front</side>
 				<type>Creature — Bird // Sorcery — Adventure</type>
 				<maintype>Creature</maintype>
-				<manacost>W // W</manacost>
-				<cmc>1</cmc>
+				<manacost>5W // W</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>3/4</pt>
@@ -1822,10 +1822,10 @@ Counter target spell unless its controller pays {X}, where X is the number of Is
 		</card>
 		<card>
 			<name>Finn Sword</name>
-			<text>As Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.
+			<text>When Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.
 Equipped creature gets +2/+2
 Equip {2}
-{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, Finn Sword transforms.
+{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, transform Finn Sword.
 ---
 (Back): Fern, Mossy Mirror</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_front.png" num="208a">ATC</set>
@@ -1844,9 +1844,9 @@ Equip {2}
 		</card>
 		<card>
 			<name>Fern, Mossy Mirror</name>
-			<text>When Fern transforms, attach any Auras exiled with it to it.
+			<text>When this creature transforms into Fern, Mossy Mirror, put each Aura card exiled with him onto the battlefield under your control attached to Fern.
 Fern has all abilities of cards exiled with him.
-Finality (If this permanent would enter a graveyard from the battlefield, exile it instead.)
+Finality
 ---
 (Front): Finn Sword</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/99_back.png" num="208b">ATC</set>
@@ -4693,7 +4693,7 @@ Frizzap deals 1 damage to any target.</text>
 		<card>
 			<name>The Morrow // On the Morrow</name>
 			<text>Flying
-Whenever The Morrow attacks, you may cast a copy of it&apos;s adventure.
+Whenever The Morrow attacks, you may cast a copy of its adventure.
 
 ---
 

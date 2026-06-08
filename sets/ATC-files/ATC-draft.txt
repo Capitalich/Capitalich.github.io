@@ -168,7 +168,7 @@
 			}
 		},
 		{
-			"name": "Repressed Duet",
+			"name": "Elegiac Duet",
 			"rarity": "special",
 			"mana_cost": "{U/R}",
 			"type": "Sorcery",
@@ -867,7 +867,7 @@
 		{
 			"name": "Bird Squadron",
 			"rarity": "special",
-			"mana_cost": "{W}",
+			"mana_cost": "{5}{W}",
 			"type": "Creature — Bird",
 			"collector_number": "9",
 			"image_uris": {
@@ -4292,7 +4292,7 @@
 	1 Destroy Evil
 	1 The Dungeon Train
 	1 Finn's Tower
-	1 Repressed Duet
+	1 Elegiac Duet
 	1 Frigid Caldera
 	1 Goo Skulls
 	1 Oozer Infestation

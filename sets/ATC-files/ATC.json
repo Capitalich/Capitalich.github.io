@@ -36,7 +36,7 @@
             "number": 262,
             "color_identity": "BG",
             "cost": "{B}{G}",
-            "rules_text": "Menace\nEach creature card in your graveyard has scavenge {X}{B}{G}, where X is that creature's power. [i]({X}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]",
+            "rules_text": "Menace\nEach creature card in your graveyard has scavenge {X}{B}{G}, where X is that creature's power. [i](Exile a creature card from your graveyard and pay {X}{B}{G}. Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -368,7 +368,7 @@
             "notes": "!tag sacrifice-outlet-relic"
         },
         {
-            "card_name": "Repressed Duet",
+            "card_name": "Elegiac Duet",
             "color": "UR",
             "rarity": "cube",
             "type": "Sorcery",
@@ -1199,7 +1199,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "\n"
+            "notes": ""
         },
         {
             "card_name": "Newborn Marauder",
@@ -1967,7 +1967,7 @@
             "type": "Creature \u2014 Bird",
             "number": 9,
             "color_identity": "W",
-            "cost": "{W}",
+            "cost": "{5}{W}",
             "rules_text": "Flying",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
@@ -2286,7 +2286,7 @@
             "number": 208,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "As Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.\nEquipped creature gets +2/+2\nEquip {2}\n{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, Finn Sword transforms.",
+            "rules_text": "When Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.\nEquipped creature gets +2/+2\nEquip {2}\n{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, transform Finn Sword.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2300,7 +2300,7 @@
             "color2": "G",
             "type2": "Legendary Creature \u2014 Plant",
             "cost2": "",
-            "rules_text2": "When Fern transforms, attach any Auras exiled with it to it.\nFern has all abilities of cards exiled with him.\nFinality [i](If this permanent would enter a graveyard from the battlefield, exile it instead.)[/i]",
+            "rules_text2": "When this creature transforms into Fern, Mossy Mirror, put each Aura card exiled with him onto the battlefield under your control attached to Fern.\nFern has all abilities of cards exiled with him.\nFinality",
             "flavor_text2": "[i][/i]",
             "pt2": "5/5",
             "special_text2": "",
@@ -5901,7 +5901,7 @@
             "number": 76,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Flying\nWhenever The Morrow attacks, you may cast a copy of it's adventure.",
+            "rules_text": "Flying\nWhenever The Morrow attacks, you may cast a copy of its adventure.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -9521,5 +9521,5 @@
             "notes": ""
         }
     ],
-    "version": 60
+    "version": 61
 }
