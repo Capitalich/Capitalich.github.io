@@ -705,7 +705,7 @@ Finality (If this permanent would enter a graveyard from the battlefield, exile 
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Somatic inversion</name>
+			<name>Somatic Inversion</name>
 			<text>Switch target creature&apos;s power and toughness until end of turn.
 Draw a card.
 Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
@@ -1100,7 +1100,7 @@ Sentimental — {3}{B}, {T}, Sacrifice a relic: Return target creature card from
 		<card>
 			<name>Peppermint Butler</name>
 			<text>Sentimental — {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
-{X}{B}{B}{B}{B}: Exile the top X cards of target players library. You may cast spells exiled this way without paying their mana costs.</text>
+{B}{B}{B}{B}{B}{B}: Exile the top three cards of target player&apos;s library. You may cast a spell exiled this way without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/60.png" num="136">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3354,7 +3354,7 @@ Destroy target relic. (Noncreature artifacts and enchantments are relics.)</text
 		<card>
 			<name>Duke of Nuts</name>
 			<text>When Duke of Nuts enters, create a Food token.
-Snack—Whenever you gain your third life each turn, another target creature gains protection from the color of your choice until end of turn.</text>
+Snack — Whenever you gain your third life each turn, another target creature gains protection from the color of your choice until end of turn.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/181.png" num="18">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3372,7 +3372,7 @@ Snack—Whenever you gain your third life each turn, another target creature gai
 		<card>
 			<name>Breakfast in Bed</name>
 			<text>When this enchantment enters, create a Food token.
-Snack—Whenever you gain your third life each turn, you may tap target creature and put a stun counter on it.</text>
+Snack — Whenever you gain your third life each turn, you may tap target creature and put a stun counter on it.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/182.png" num="10">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -3565,7 +3565,7 @@ Madness {2}{R}</text>
 		</card>
 		<card>
 			<name>Breakfast Princess // Table for Two</name>
-			<text>Snack—Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control.
+			<text>Snack — Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control.
 
 ---
 
