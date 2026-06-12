@@ -665,7 +665,7 @@
 			}
 		},
 		{
-			"name": "Life, Soul Sculpter",
+			"name": "Life, Soul Sculptor",
 			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Snake Avatar",
@@ -2186,7 +2186,7 @@
 			}
 		},
 		{
-			"name": "Tyranny to Transendentalism",
+			"name": "Tyranny to Transcendentalism",
 			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
@@ -2396,7 +2396,7 @@
 			"name": "T.V., Pup Detective",
 			"rarity": "special",
 			"mana_cost": "{G}{G}",
-			"type": "Legendary Creature — Dog Dectective",
+			"type": "Legendary Creature — Dog Detective",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/235.png"
@@ -4341,7 +4341,7 @@
 	1 Tree Trunks
 	1 Space Elves
 	1 Mother Varmint
-	1 Life, Soul Sculpter
+	1 Life, Soul Sculptor
 	1 Manish Man
 	1 Orb Wizard
 	1 Ice King
@@ -4491,7 +4491,7 @@
 	1 Soul Stone
 	1 Foodboys
 	1 Frighten
-	1 Tyranny to Transendentalism
+	1 Tyranny to Transcendentalism
 	1 Grapple with the Past
 	1 Tiny Tiller
 	1 Improvised Heroism

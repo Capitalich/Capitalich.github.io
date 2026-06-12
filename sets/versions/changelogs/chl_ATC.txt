@@ -1,4 +1,310 @@
-﻿VERSION 62 CHANGELOG
+﻿VERSION 63 CHANGELOG
+====================
+
+Life, Soul Sculptor added.
+Tyranny to Transcendentalism added.
+
+Life, Soul Sculpter removed.
+Tyranny to Transendentalism removed.
+
+Bureaucratic Burg
+rules_text: This creature enters the battlefield with four ice counters on it
+Whenever you cast a noncreature spell, remove an ice counter from this creature. Then if it has no ice counters on it, transform it. => This creature enters with four ice counters on it
+Whenever you cast a noncreature spell, remove an ice counter from this creature. Then if it has no ice counters on it, transform it.
+
+Iced Lightning
+rules_text: Choose one —
+• Iced Lightning deals 3 damage to any target
+• Tap target permanent and put two stun counters on it.
+Madness {U}{R} => Choose one —
+• Iced Lightning deals 3 damage to any target.
+• Tap target permanent and put two stun counters on it.
+Madness {U}{R}
+
+Reign of Gunters
+rules_text: When this enchantment enters, amass Birds 3. [i](Put three +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever you discard a card, return this enchantment to its owners hand. => When this enchantment enters, amass Birds 3. [i](Put three +1/+1 counters on an Army you control. It's also a Bird. If you don't control an Army, create a 0/0 black Bird Army creature token first.)[/i]
+Whenever you discard a card, return this enchantment to its owner's hand.
+
+Wizard City Po-Po
+rules_text: When this creature enters, you may return target creature an opponent controls to its owners hand.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature enters, you may return target creature an opponent controls to its owner's hand.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Lich Hand
+rules_text: This creature can't block.
+When this card leaves your graveyard, if you control a swamp, you may put it onto the battlefield. If you do, you lose 1 life. => This creature can't block.
+When this card leaves your graveyard, if you control a Swamp, you may put it onto the battlefield. If you do, you lose 1 life.
+
+Glassassin
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this creature enters, surveil 1.
+When this creature deals damage to an opponent, you may return any number of target cards named Glassassin from your graveyard to your hand. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this creature attacks, return any number of target cards named Glassassin from your graveyard to the battlefield tapped and attacking.
+
+Maja the Sky Witch
+rules_text: Flying
+[i]Sentimental[/i] — {3}{B}, {T}, Sacrifice a relic: Return target creature card from your graveyard to the battlefield. You lose life equal to it's mana value unless the sacrificed permanent was legendary. Activate only as a sorcery. => Flying
+[i]Sentimental[/i] — {3}{B}, {T}, Sacrifice a relic: Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value unless the sacrificed permanent was legendary. Activate only as a sorcery.
+
+Space Elves
+rules_text: Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+{T}: Add {C}. => Bundle 1 [i](When you draft this card, you get an additional copy.)[/i]
+{T}: Add {C}.
+
+Octopolitician
+rules_text: When this creature enters, Surveil 2. => When this creature enters, surveil 2.
+
+Stickytongue Lizard
+rules_text: {1}, Sacrifice an Artifact: This creature deals 1 damage to target player. => {1}, Sacrifice an artifact: This creature deals 1 damage to target player.
+
+Evil Ocean
+rules_text: Defender
+The creature may attack as though it didn't have defender if you cast a noncreature spell this turn. => Defender
+This creature may attack as though it didn't have defender if you cast a noncreature spell this turn.
+
+Finn Sword
+rules_text: When Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.
+Equipped creature gets +2/+2
+Equip {2}
+{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, transform Finn Sword. => When Finn Sword enters, sacrifice it unless you exile a creature card from your graveyard.
+Equipped creature gets +2/+2.
+Equip {2}
+{4}{G}: Exile target noncreature enchantment from your graveyard. When you do, transform Finn Sword.
+
+Clumsy Skeleton
+rules_text: When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{3}{B}: Return this creature from your graveyard to the battlefield tapped. => When this creature enters, return target relic with mana value 1 or less from your graveyard to the battlefield.
+{3}{B}: Return this card from your graveyard to the battlefield tapped.
+
+Bandit Princess
+rules_text: Whenever Bandit Princess becomes blocked, she deals 1 damage to target creature blocking her.
+Whenever Bandit Princess deals combat damage to an opponent, choose one —
+• Create a treasure token.
+• Gear up. => Whenever Bandit Princess becomes blocked, she deals 1 damage to target creature blocking her.
+Whenever Bandit Princess deals combat damage to an opponent, choose one —
+• Create a Treasure token.
+• Gear up.
+
+Canyon, Billy's Ex
+rules_text: Ward {2}
+When Canyon enters or attacks, you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying it's mana cost. If that spell would be put into your graveyard, exile it instead. => Ward {2}
+When Canyon enters or attacks, you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
+
+The Porcelain Lamb
+rules_text: When The Porcelain Lamb enters, exile target creature you don't control.
+When The Porcelain Lamb leaves the battlefield, return the exiled card to the battlefield under its owners control. => When The Porcelain Lamb enters, exile target creature you don't control.
+When The Porcelain Lamb leaves the battlefield, return the exiled card to the battlefield under its owner's control.
+
+Bronwyn, Skater Pup
+rules_text: During your turn, Bronwyn has flying.
+Whenever Bronwyn attacks, you may exile target nontoken, nonland permanent. For as long as that card remains in exile, its owner may cast it from exile it without paying it's mana cost. => During your turn, Bronwyn has flying.
+Whenever Bronwyn attacks, you may exile target nontoken, nonland permanent. For as long as that card remains in exile, its owner may cast it from exile without paying its mana cost.
+
+Wiz Arts
+rules_text: [i]({T}: Add {U} or {R})[/i]
+Wiz Arts enters tapped if you control another legendary land. => [i]({T}: Add {U} or {R}.)[/i]
+Wiz Arts enters tapped if you control another legendary land.
+
+Slime Kingdom
+rules_text: Slime Kingdom land enters tapped.
+{T}: Add {B} or {G}. => Slime Kingdom enters tapped.
+{T}: Add {B} or {G}.
+
+Breakfast Kingdom
+
+Probable Cause
+rules_text: Return target creature to its owners hand.
+Create a Clue token. => Return target creature to its owner's hand.
+Create a Clue token.
+
+Seeded Digsite
+rules_text: At the beginning of your end step, choose one —
+• Return target relic card with mana value 1 or less from your graveyard to your hand.
+• Learn. [i](you may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i] => At the beginning of your end step, choose one —
+• Return target relic card with mana value 1 or less from your graveyard to your hand.
+• Learn. [i](You may reveal a Lesson card you own from outside the game and put it into your hand, or discard a card to draw a card.)[/i]
+
+Breezy, Reluctant Heir
+
+Mr. Cupcake
+rules_text: Whenever Mr. Cupcake attacks, confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Mr. Cupcake power is equal to the number of creatures you control. => Whenever Mr. Cupcake attacks, confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+Mr. Cupcake's power is equal to the number of creatures you control.
+
+Overripe Banana Guards
+rules_text: Outlast {2} [i]({2}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+{T}, Remove a +1/+1 counter from this creature: Put a +1/+1 counter on each other creature you control. Activate as a sorcery. => Outlast {2} [i]({2}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)[/i]
+{T}, Remove a +1/+1 counter from this creature: Put a +1/+1 counter on each other creature you control. Activate only as a sorcery.
+
+Harrowing Premonition
+rules_text: Up to one target creature gets -2/-2 until end of turn. 
+{3}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. Activate as a sorcery => Up to one target creature gets -2/-2 until end of turn. 
+{3}, Exile this card from your graveyard: Search your library for a card, put that card into your graveyard, then shuffle. Activate only as a sorcery
+
+Slime Princess
+rules_text: {2}: Exile target card from a graveyard. If it was a relic card, put +1/+1 counter on Slime Princess => {2}: Exile target card from a graveyard. If it was a relic card, put a +1/+1 counter on Slime Princess.
+
+Ricardio, The Heart Guy
+rules_text: When Ricardio enters, gain control of target creature. That creature can't attack or block. When Ricardio leaves the battlefield, return that creature to its owners hand. => When Ricardio enters, gain control of target creature. That creature can't attack or block. When Ricardio leaves the battlefield, return that creature to its owner's hand.
+
+Uncle Gumbald
+rules_text: When Uncle Gumbald enters, draw two cards, then discard two cards.
+Whenever you discard a nonland card, create a clue token. => When Uncle Gumbald enters, draw two cards, then discard two cards.
+Whenever you discard a nonland card, create a Clue token.
+
+Crystal Jailers
+rules_text: Flash
+Vigilance
+When this creature enters, exile target creature spell.
+When this creature leaves the battlefield, put the exiled card onto the battlefield tapped under its owners control. => Flash
+Vigilance
+When this creature enters, exile target creature spell.
+When this creature leaves the battlefield, put the exiled card onto the battlefield tapped under its owner's control.
+
+Frightening Bolt
+rules_text: [i]Morbid[/i] — This spell costs {2} less to cast if a creature died this turn.
+Frightening Bolt deals 3 damage to any target => [i]Morbid[/i] — This spell costs {2} less to cast if a creature died this turn.
+Frightening Bolt deals 3 damage to any target.
+
+Nightmare Princess
+rules_text: Flying
+Nightmare Princess's power and toughness are each equal to the number of Swamps you control.
+Whenever a swamp you control enters, draw a card and you lose 1 life. => Flying
+Nightmare Princess's power and toughness are each equal to the number of Swamps you control.
+Whenever a Swamp you control enters, draw a card and you lose 1 life.
+
+Storytelling
+rules_text: When this enchantment enters, discover 5.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owners hand. => When this enchantment enters, discover 5.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owner's hand.
+
+Crab Demon
+rules_text: When this creature enters, target opponent exiles a nonland card at random from their graveyard. You may cast it without paying it's mana cost. => When this creature enters, target opponent exiles a nonland card at random from their graveyard. You may cast it without paying its mana cost.
+
+Snow Golem
+rules_text: When this creature enters, you may tap target creature an opponent controls and put a stun counter it.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When this creature enters, you may tap target creature an opponent controls and put a stun counter on it.
+Madness {2}{U} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Ghost Fly
+rules_text: Flying
+At the beginning of your precombat main phase, mill a card. If a noncreature, nonland card was was milled this way, put a +1/+1 counter on this creature.
+Disturb {2}{U} => Flying
+At the beginning of your precombat main phase, mill a card. If a noncreature, nonland card was milled this way, put a +1/+1 counter on this creature.
+Disturb {2}{U}
+
+T.V., Pup Detective
+type: Legendary Creature — Dog Dectective => Legendary Creature — Dog Detective
+
+Jake, the Dog
+rules_text: {RG}: Jake gains reach or trample until end of turn.
+{RG}: Counter target spell or ability that targets only Jake unless its owner pays {1}.
+{1}: Jake gets +1/-1 or -1/+1 until end of turn. => {RG}: Jake gains reach or trample until end of turn.
+{RG}: Counter target spell or ability that targets only Jake unless its controller pays {1}.
+{1}: Jake gets +1/-1 or -1/+1 until end of turn.
+
+Lub-Glubs
+rules_text: Affinity for relics [i](This spell costs {1} less to cast for each relic you control.)[/i]
+Flash
+When this creature enters, you may return target creature an opponent controls to its owners hand. => Affinity for relics [i](This spell costs {1} less to cast for each relic you control.)[/i]
+Flash
+When this creature enters, you may return target creature an opponent controls to its owner's hand.
+
+Slumber Party
+rules_text: When this enchantment enters, confect twice. [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owners hand. => When this enchantment enters, confect twice.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owner's hand.
+
+Hair Ape
+rules_text: When this creature dies, create a treasure token. => When this creature dies, create a Treasure token.
+
+Next-Level Super Organism
+rules_text: Flying, vigilance
+Devour relic 2 [i](As this enters the battlefield, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, you gain life equal to its power. => Flying, vigilance
+Devour relic 2 [i](As this enters, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, you gain life equal to its power.
+
+Class Project
+rules_text: This creature is every color.
+This creature enters with the indicated counter on it for each color of mana spent to cast it:
+• {W} — Lifelink • {U} — Flying
+• {B} — Menace • {R} — Haste
+• {G} — Deathtouch => This creature enters with the indicated counter on it for each color of mana spent to cast it:
+• {W} — Lifelink • {U} — Flying
+• {B} — Menace • {R} — Haste
+• {G} — Deathtouch
+
+Jermaine, Abstract Artist
+rules_text: When Jermaine enters, create a treasure token.
+Treasures you control are lands in addition to their other types and have “{T}: Add one mana of any color. => When Jermaine enters, create a treasure token.
+Treasures you control have “{T}: Add one mana of any color.”
+
+Mo, Paternal Roboticist
+rules_text: When Mo enters, create a Clue token.
+Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with “This creature gets +1/+1 for each Robot you control.” => When Mo enters, create a Clue token.
+Whenever you draw your second card each turn, create a 0/0 colorless Robot artifact creature token with “This token gets +1/+1 for each Robot you control.”
+
+Robot
+rules_text: This creature gets +1/+1 for each artifact you control. => This token gets +1/+1 for each robot you control.
+
+New Death
+rules_text: Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+New Death gets +1/+1 for each creature card in exile.
+When new death leaves the battlefield, shuffle any number of creature cards you own in exile into your library. => Delve [i](Each card you exile from your graveyard while casting this spell pays for {1}.)[/i]
+New Death gets +1/+1 for each creature card in exile.
+When New Death leaves the battlefield, shuffle any number of creature cards you own in exile into your library.
+
+Royal Regiment
+rules_text: Bundle 1 [i](When you draft this card, you get additional copy.)[/i]
+Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order. => Bundle 1 [i](When you draft this card, you get an additional copy.)[/i]
+Look at the top six cards of your library. Put up to two creature cards with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+
+Fealty to Bubblegum
+rules_text: When this enchantment enters, create a 2/2 white Candy Soldier creature token.
+{5}: This enchantment transforms. => When this enchantment enters, create a 2/2 white Candy Soldier creature token.
+{5}: Transform this enchantment.
+
+Glimpse the Multiverse
+rules_text: Exile the top ten cards from each players library. For each player, you may cast a card exiled this way without paying it's mana cost. => Exile the top ten cards from each players library. For each player, you may cast a card exiled this way without paying its mana cost.
+
+CUSTOM MECHANICS
+rules_text: [b]Bundle X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]Confect[/b] [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[b]Music Token [/b][i](An enchantment token with “{1}, Sacrifice this enchantment: Exile the top card of your library. You may play that card this turn.”[/i]
+[b]Gear up [/b][i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip 2.)[/i]
+[b]Mathematical! [/b][i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+[b]Relic [/b][i](Noncreature artifacts and enchantments are relics.)[/i] => [b]Bundle X[/b] [i](When you draft this card, you get X additional copies.)[/i]
+[b]Confect[/b] [i](To confect, create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+[b]Music Token [/b][i](An enchantment token with “{1}, Sacrifice this token: Exile the top card of your library. You may play that card this turn.”[/i]
+[b]Gear up [/b][i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip 2.)[/i]
+[b]Mathematical! [/b][i](When you cast this spell, copy it for each spell you cast before it this turn.)[/i]
+[b]Relic [/b][i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Whisper Dan, The Silent King
+rules_text: When Whisper Dan enters, search your library for a Kingdom card, put it onto the battlefield, then shuffle.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, create a 1/1 red goblin creature token. => When Whisper Dan enters, search your library for a Kingdom card, put it onto the battlefield, then shuffle.
+[i]Adventurous[/i] — Whenever a permanent that has an Adventure enters under your control, create a 1/1 red goblin creature token.
+
+Thrumming Worm
+rules_text: Whenever you cast a noncreature spell, create a token copy of this creature. => Whenever you cast a noncreature spell, create a token that's a copy of this creature.
+
+Astral Epiphany
+rules_text: Escalate {C} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Counter target noncreature spell.
+• Put target attacking creature on top of its owners library.
+• Create a tapped token that's a copy of target creature you control.
+• Draw two cards, then discard a card. => Escalate {C} [i](Pay this cost for each mode chosen beyond the first.)[/i]
+Choose one or more —
+• Counter target noncreature spell.
+• Put target attacking creature on top of its owner's library.
+• Create a tapped token that's a copy of target creature you control.
+• Draw two cards, then discard a card.
+
+
+VERSION 62 CHANGELOG
 ====================
 
 Somatic Inversion added.
