@@ -25,7 +25,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "55",
+			"collector_number": "54",
 			"back": {
 				"name": "",
 				"type": "",
@@ -729,7 +729,7 @@
 			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Legendary Creature — Bird Peasant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/71.png"
 			}
@@ -739,7 +739,7 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Wizard Rogue",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/72.png"
 			}
@@ -1196,7 +1196,7 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Elemental Giant",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/117.png"
 			}
@@ -4174,23 +4174,13 @@
 			}
 		},
 		{
-			"name": "Astral Epiphany",
-			"rarity": "special",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
-			"collector_number": "54",
-			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/411.png"
-			}
-		},
-		{
 			"name": "Saccharine Anthem",
 			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/412.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/411.png"
 			}
 		},
 		{
@@ -4200,7 +4190,7 @@
 			"type": "Token Creature — Candy Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/413.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/412.png"
 			}
 		},
 		{
@@ -4210,7 +4200,7 @@
 			"type": "Token Creature — Candy Citizen",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/414.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/413.png"
 			}
 		},
 		{
@@ -4220,7 +4210,7 @@
 			"type": "Sorcery",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/415.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/414.png"
 			}
 		},
 		{
@@ -4230,7 +4220,7 @@
 			"type": "",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/416.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/415.png"
 			}
 		},
 		{
@@ -4240,7 +4230,7 @@
 			"type": "Creature — Alien Elf",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/417.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/416.png"
 			}
 		},
 		{
@@ -4250,7 +4240,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/418.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/417.png"
 			}
 		},
 		{
@@ -4260,7 +4250,7 @@
 			"type": "Artifact — Clue",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/419.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/418.png"
 			}
 		},
 		{
@@ -4270,7 +4260,7 @@
 			"type": "Legendary Artifact — Candy",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Capitalich.github.io/sets/ATC-files/img/420.png"
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/419.png"
 			}
 		},
 		{
@@ -4279,6 +4269,16 @@
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Cat",
 			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Capitalich.github.io/sets/ATC-files/img/420.png"
+			}
+		},
+		{
+			"name": "Confounding Riddle",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/421.png"
 			}
@@ -4642,7 +4642,7 @@
 	1 GOLB, Entropy Manifest
 	1 Thrumming Worm
 	1 Wizardlings
-	1 Astral Epiphany
 	1 Saccharine Anthem
 	1 Dad's Holomessage
 	1 The Mother Gum
+	1 Confounding Riddle

@@ -1,4 +1,47 @@
-﻿VERSION 64 CHANGELOG
+﻿VERSION 65 CHANGELOG
+====================
+
+Confounding Riddle added.
+
+Astral Epiphany removed.
+
+Crabbit Familiar
+rules_text: Flying
+Whenever you cast a noncreature spell, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Flying
+Whenever you cast a noncreature spell, surveil 1.
+
+Annual Abduction
+rules_text: Exile up to one target creature. For as long as that card remains in exile, its owner may cast it from exile without paying its mana cost.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i] => Exile up to one target creature. Return it to the battlefield at the beginning of the next end step. 
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+Snooping Pastry
+rules_text: This creature can't be blocked.
+{2}, {T}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {2}. => This creature can't be blocked.
+{3}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {2}.
+
+Saccharine Anthem
+
+Candy Soldier
+
+Candy Citizen
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+Space Elves
+
+Dad's Holomessage
+
+Dad's Holomessage
+
+The Mother Gum
+
+Cake
+
+
+VERSION 64 CHANGELOG
 ====================
 
 Starchy, the Gravedigger added.

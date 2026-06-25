@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-18</releasedate>
+			<releasedate>2026-06-24</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -50,7 +50,7 @@ Each creature card in your graveyard has scavenge {X}{B}{G}, where X is that cre
 Whenever you cast a noncreature spell, remove an ice counter from this creature. Then if it has no ice counters on it, transform it.
 ---
 (Back): Business Zombies</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/2_front.png" num="55a">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/2_front.png" num="54a">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -70,7 +70,7 @@ Whenever you cast a noncreature spell, remove an ice counter from this creature.
 			<text>Whenever this creature transforms into Business Zombies, tap all other creatures and put a stun counter on each of them.
 ---
 (Front): Bureaucratic Burg</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/2_back.png" num="55b">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/2_back.png" num="54b">ATC</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -141,7 +141,7 @@ Surveil 2.</text>
 		<card>
 			<name>Crabbit Familiar</name>
 			<text>Flying
-Whenever you cast a noncreature spell, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
+Whenever you cast a noncreature spell, surveil 1.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/6.png" num="275">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -1312,7 +1312,7 @@ Abilities you activate cost {1} less to activate. This effect can&apos;t reduce 
 		<card>
 			<name>Choose Goose</name>
 			<text>{T}, Discard two nonland cards that share a mana cost: Draw three cards. ({1}{U} and {U}{U} have different costs.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/71.png" num="57">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/71.png" num="56">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1330,7 +1330,7 @@ Abilities you activate cost {1} less to activate. This effect can&apos;t reduce 
 			<name>Con Wizard</name>
 			<text>Whenever this creature deals damage to an opponent, draw a card.
 Discard a card: This creature can&apos;t be blocked this turn.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/72.png" num="58">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/72.png" num="57">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1590,7 +1590,7 @@ The next creature spell you cast this turn has convoke. (Each creature you tap w
 		</card>
 		<card>
 			<name>Annual Abduction</name>
-			<text>Exile up to one target creature. For as long as that card remains in exile, its owner may cast it from exile without paying its mana cost.
+			<text>Exile up to one target creature. Return it to the battlefield at the beginning of the next end step. 
 Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/86.png" num="6">ATC</set>
 			<prop>
@@ -2152,7 +2152,7 @@ You gain X life and draw X cards, where X is the sacrificed creature&apos;s powe
 			<name>Canyon, Billy&apos;s Ex</name>
 			<text>Ward {2}
 When Canyon enters or attacks, you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/117.png" num="56">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/117.png" num="55">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3037,7 +3037,7 @@ Mr. Cupcake&apos;s power is equal to the number of creatures you control.</text>
 		<card>
 			<name>Snooping Pastry</name>
 			<text>This creature can&apos;t be blocked.
-{2}, {T}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {2}.</text>
+{3}, Sacrifice this creature: Counter target noncreature spell unless its controller pays {2}.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/163.png" num="94">ATC</set>
 			<prop>
 				<layout>normal</layout>
@@ -7448,30 +7448,9 @@ Madness {0} (If you discard this card, discard it into exile. When you do, cast 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Astral Epiphany</name>
-			<text>Escalate {C} (Pay this cost for each mode chosen beyond the first.)
-Choose one or more —
-• Counter target noncreature spell.
-• Put target attacking creature on top of its owner&apos;s library.
-• Create a tapped token that&apos;s a copy of target creature you control.
-• Draw two cards, then discard a card.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/411.png" num="54">ATC</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>1UU</manacost>
-				<cmc>3</cmc>
-				<colors>U</colors>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Saccharine Anthem</name>
 			<text>Creatures you control get +1/+1 and are Candies in addition to their other types.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/412.png" num="42">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/411.png" num="42">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7487,7 +7466,7 @@ Choose one or more —
 		<card>
 			<name>Candy Soldier ATC</name>
 			<text></text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/413.png" num="7">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/412.png" num="7">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7505,7 +7484,7 @@ Choose one or more —
 		<card>
 			<name>Candy Citizen ATC</name>
 			<text>{T}: Add {C}. You can&apos;t spend this mana to cast spells from your hand.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/414.png" num="6">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/413.png" num="6">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7524,7 +7503,7 @@ Choose one or more —
 			<name>Wizard Streets ATC</name>
 			<text>Create a 2/1 red Wizard creature token with prowess.
 Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/415.png" num="21">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/414.png" num="21">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7550,7 +7529,7 @@ Madness {R} (If you discard this card, discard it into exile. When you do, cast 
 {B}{G}: [b]GRAVEYARD[/b] Get cards into your graveyard, then use it as a resource with abilities like delve and disturb.
 {R}{W}: [b]EXILE CASTING[/b] Form a band of adventurers that reduce the cost of cards you play from exile.
 {G}{U}: [b]RELICS [/b]Gather secrets of the past to power up your creatures.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/416.png" num="5">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/415.png" num="5">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7566,7 +7545,7 @@ Madness {R} (If you discard this card, discard it into exile. When you do, cast 
 		<card>
 			<name>Space Elves ATC</name>
 			<text>{T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/417.png" num="25">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/416.png" num="25">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7586,7 +7565,7 @@ Madness {R} (If you discard this card, discard it into exile. When you do, cast 
 			<text>Bundle 2 (When you draft this card, you get two additional copies.)
 When this artifact enters, surveil 2.
 {2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/418.png" num="299">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/417.png" num="299">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7601,7 +7580,7 @@ When this artifact enters, surveil 2.
 			<name>Dad&apos;s Holomessage ATC</name>
 			<text>When this artifact enters, surveil 2.
 {2}, Sacrifice this artifact: Draw a card.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/419.png" num="35">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/418.png" num="35">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7617,7 +7596,7 @@ When this artifact enters, surveil 2.
 			<name>The Mother Gum</name>
 			<text>{T}: Add {C}.
 {WU}{WU}, {T}, Pay 1 Life: Create a 0/1 white Candy Citizen creature token.</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/420.png" num="274">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/419.png" num="274">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7633,7 +7612,7 @@ When this artifact enters, surveil 2.
 		<card>
 			<name>Cake ATC</name>
 			<text>Haste</text>
-			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/421.png" num="23">ATC</set>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/420.png" num="23">ATC</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7647,6 +7626,24 @@ When this artifact enters, surveil 2.
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Confounding Riddle</name>
+			<text>Choose one —
+• Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+• Counter target spell unless its controller pays {4}.</text>
+			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/421.png" num="58">ATC</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

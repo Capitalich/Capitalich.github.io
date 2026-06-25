@@ -8,12 +8,12 @@
         "position": "86"
     },
     {
-        "card_name": "Astral Epiphany",
+        "card_name": "Bureaucratic Burg",
         "number": 54,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "ATC",
         "rotated": false,
-        "position": "411"
+        "position": "2"
     },
     {
         "card_name": "Boneyfly",
@@ -48,12 +48,12 @@
         "position": "83"
     },
     {
-        "card_name": "Bureaucratic Burg",
+        "card_name": "Canyon, Billy's Ex",
         "number": 55,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "2"
+        "position": "117"
     },
     {
         "card_name": "Chthonian Nightmare",
@@ -88,12 +88,12 @@
         "position": "282"
     },
     {
-        "card_name": "Canyon, Billy's Ex",
+        "card_name": "Choose Goose",
         "number": 56,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "117"
+        "position": "71"
     },
     {
         "card_name": "Citric Oppression",
@@ -128,12 +128,12 @@
         "position": "85"
     },
     {
-        "card_name": "Choose Goose",
+        "card_name": "Con Wizard",
         "number": 57,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "71"
+        "position": "72"
     },
     {
         "card_name": "Clumsy Skeleton",
@@ -168,12 +168,12 @@
         "position": "182"
     },
     {
-        "card_name": "Con Wizard",
+        "card_name": "Confounding Riddle",
         "number": 58,
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "72"
+        "position": "421"
     },
     {
         "card_name": "Crab Demon",
@@ -1445,7 +1445,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "412"
+        "position": "411"
     },
     {
         "card_name": "Seeded Digsite",
@@ -2088,7 +2088,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "420"
+        "position": "419"
     },
     {
         "card_name": "Ricardio, The Heart Guy",
@@ -2457,7 +2457,7 @@
         "shape": "normal",
         "set": "ATC",
         "rotated": false,
-        "position": "418"
+        "position": "417"
     },
     {
         "card_name": "Deed to The Treehouse",
@@ -3202,7 +3202,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "416"
+        "position": "415"
     },
     {
         "card_name": "Clue",
@@ -3258,7 +3258,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "419"
+        "position": "418"
     },
     {
         "card_name": "Equipment",
@@ -3354,7 +3354,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "414"
+        "position": "413"
     },
     {
         "card_name": "Candy Soldier",
@@ -3362,7 +3362,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "413"
+        "position": "412"
     },
     {
         "card_name": "Pacifism",
@@ -3474,7 +3474,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "415"
+        "position": "414"
     },
     {
         "card_name": "Bear",
@@ -3490,7 +3490,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "421"
+        "position": "420"
     },
     {
         "card_name": "Coyote Mutant",
@@ -3506,7 +3506,7 @@
         "shape": "token",
         "set": "ATC",
         "rotated": false,
-        "position": "417"
+        "position": "416"
     },
     {
         "card_name": "Spider",
