@@ -221,7 +221,7 @@
 			"name": "Iced Lightning",
 			"rarity": "special",
 			"mana_cost": "{U}{R}",
-			"type": "Snow Sorcery",
+			"type": "Snow Instant",
 			"collector_number": "260",
 			"image_uris": {
 				"en": "https://Capitalich.github.io/sets/ATC-files/img/21.png"

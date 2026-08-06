@@ -1,4 +1,141 @@
-﻿VERSION 65 CHANGELOG
+﻿VERSION 66 CHANGELOG
+====================
+
+
+
+Iced Lightning
+type: Snow Sorcery => Snow Instant
+rules_text: Choose one —
+• Iced Lightning deals 3 damage to any target.
+• Tap target permanent and put two stun counters on it.
+Madness {U}{R} => Choose one —
+• Iced Lightning deals 3 damage to any target.
+• Tap target nonland permanent and put three stun counters on it.
+Entwine—Discard a card [i](Choose both if you pay the entwine cost.)[/i]
+
+Thunder Boar
+
+Ruby Brain Beast
+
+Manish Man
+
+Shell Slinger
+rules_text: When this creature enters, gear up.
+When this creature attacks, you may sacrifice an equipment attached to it. If you do, it deals 2 damage to any target. => When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i]
+When this creature attacks, you may sacrifice an equipment attached to it. If you do, it deals 2 damage to any target.
+
+Bear Emcee
+rules_text: Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+When this creature enters, create a 2/2 green Bear creature token and a Music token. => Convoke
+When this creature enters, create a 2/2 green Bear creature token and a Music token. [i](It's an enchantment with “{1}, Sacrifice this token: Exile the top card of your library. You may play that card this turn.”)[/i]
+
+Gumbaldia
+
+Dum Dum Juiced
+rules_text: Exile target creature. Its controller confects. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i] => Exile target creature. Its controller confects. [i](That player creates a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+
+Eerie Onlooker
+rules_text: Look at the top four cards of your library. Put one of them face down as 2/2 creature and the rest into your graveyard. Turn it face up at any time for its mana cost if its a creature card. => Look at the top four cards of your library. Manifest one of those cards and put the rest into your graveyard. [i](To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)[/i]
+
+Forge the Guardians
+rules_text: Affinity for Candy and Kingdoms [i](This spell costs {1} less to cast for each Candy and Kingdom you control.)[/i]
+Create two 4/4 blue Candy Giant artifact creatures. => Affinity for Candy and Kingdoms [i](This spell costs {1} less to cast for each Candy and/or Kingdom you control.)[/i]
+Create two 4/4 blue Candy Giant artifact creatures.
+
+Storytelling
+rules_text: When this enchantment enters, discover 5.
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owner's hand. => When this enchantment enters, discover 5. [i](Exile cards from the top of your library until you exile a nonland card with mana value 5 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+[i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, return this enchantment to its owner's hand.
+
+Raggedy Princess
+rules_text: {1}, {T}: Add one mana of any color.
+{2}: Put target card from a graveyard or exile on the bottom of its owners library. => {1}, {T}: Add one mana of any color.
+{2}: Put target card from a graveyard or exile on the bottom of its owner's library.
+
+Gunter, The First Bearer
+rules_text: When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card unless you put a Snow card into your hand this way. => When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card unless you put a snow card into your hand this way.
+
+Giant Lemon Snail
+
+Jake, the Dog
+
+Lub-Glubs
+rules_text: Affinity for relics [i](This spell costs {1} less to cast for each relic you control.)[/i]
+Flash
+When this creature enters, you may return target creature an opponent controls to its owner's hand. => Affinity for relics [i](This spell costs {1} less to cast for each relic you control. Noncreature artifacts and enchantments are relics.)[/i]
+Flash
+When this creature enters, you may return target creature an opponent controls to its owner's hand.
+
+Next-Level Super Organism
+rules_text: Flying, vigilance
+Devour relic 2 [i](As this enters, you may sacrifice any number of relics. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, you gain life equal to its power. => Flying, vigilance
+Devour relic 2 [i](As this enters, you may sacrifice any number of artifacts and enchantments. This creature enters the battlefield with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, you gain life equal to its power.
+
+Saltburn
+rules_text: Saltburn deals 2 damage to target creature or planeswalker. If that creature would go to the graveyard from the battlefield this turn, exile it instead. => Saltburn deals 2 damage to target creature or planeswalker. If that permanent would go to the graveyard from the battlefield this turn, exile it instead.
+
+Grass Demon
+rules_text: Bestow {1}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Whenever a modified creature you control deals damage to an opponent, draw a card. => Bestow {1}{G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+Whenever a modified creature you control deals damage to an opponent, draw a card. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Viola, Aspiring Actress
+rules_text: When Viola enters, put a +1/+1 counter on another target creature you control.
+{4}: Viola becomes a copy of target modified creature you control for as long as you control that creature, is named Viola, Aspiring Actress, and is legendary. => When Viola enters, put a +1/+1 counter on target creature you control.
+{2}: Viola becomes a copy of target modified creature you control, is named Viola, Aspiring Actress, is legendary, and has this ability.
+
+Starchy, the Gravedigger
+rules_text: When Starchy enters, exile target creature from your graveyard. You may cast that spell from exile as long as you control Starchy.
+{T}: Add {C}. You can't spend this mana to cast spells from your hand. => When Starchy enters, exile target creature card from your graveyard. You may cast that spell from exile as long as you control Starchy.
+{T}: Add {C}. You can't spend this mana to cast spells from your hand.
+
+Wizard Streets
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R} => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+Create a 2/1 red Wizard creature token with prowess.
+Madness {R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Kim Kil Whan, Landlord
+
+Tidal Wave
+rules_text: Return all nonland permanents to their owners hands. => Return all nonland permanents to their owner's hands.
+
+Prismo, The Wishmaster
+rules_text: Prismo enters with a loyalty counter for each color of mana spent to cast him
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand. => Prismo enters with a loyalty counter on him for each color of mana spent to cast him.
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand.
+special_text: Prismo enters with a loyalty counter for each color of mana spent to cast him
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand. => Prismo enters with a loyalty counter on him for each color of mana spent to cast him.
+[+1]: Add one mana of any color.
+[-3]: Reveal a card you own from outside the game and put it into your hand.
+
+GOLB, Entropy Manifest
+rules_text: Convoke, delve
+Flying, vigilance, trample, haste, indestructible
+If GOLB would be put into a graveyard from anywhere, instead exile it.
+You may cast GOLB from exile. => Convoke, delve
+Flying, vigilance, trample, haste, indestructible
+If GOLB would be put into a graveyard from anywhere, exile it instead.
+You may cast this card from exile.
+
+Thrumming Worm
+rules_text: Whenever you cast a noncreature spell, create a token that's a copy of this creature. => Whenever you discard a nonland card, create a token that's a copy of this creature.
+
+The Mother Gum
+rules_text: {T}: Add {C}.
+{WU}{WU}, {T}, Pay 1 Life: Create a 0/1 white Candy Citizen creature token. => {T}: Add {C}.
+{WU}{WU}, {T}, Pay 1 Life: Confect. [i](Create a 0/1 white Candy Citizen creature token with “{T}: Add {C}. You can't spend this mana to cast spells from your hand.”)[/i]
+
+Confounding Riddle
+
+
+VERSION 65 CHANGELOG
 ====================
 
 Confounding Riddle added.
