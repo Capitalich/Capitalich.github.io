@@ -10123,7 +10123,7 @@
             "number": 248,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
-            "rules_text": "Whenever you discard a nonland card, create a token that's a copy of this creature.",
+            "rules_text": "Whenever you cast a noncreature spell, create a token that's a copy of this creature.",
             "flavor_text": "[i]\u201cNo worms on the BED!\u201d\n\u2014Finn the Human[/i]",
             "pt": "1/1",
             "special_text": "",

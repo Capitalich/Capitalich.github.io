@@ -1,4 +1,13 @@
-﻿VERSION 66 CHANGELOG
+﻿VERSION 67 CHANGELOG
+====================
+
+
+
+Thrumming Worm
+rules_text: Whenever you discard a nonland card, create a token that's a copy of this creature. => Whenever you cast a noncreature spell, create a token that's a copy of this creature.
+
+
+VERSION 66 CHANGELOG
 ====================
 
 

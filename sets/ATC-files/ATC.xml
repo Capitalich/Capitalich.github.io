@@ -5,7 +5,7 @@
 			<name>ATC</name>
 			<longname>Adventure Time Cube</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-08-06</releasedate>
+			<releasedate>2026-08-10</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -7414,7 +7414,7 @@ You may cast this card from exile.</text>
 		</card>
 		<card>
 			<name>Thrumming Worm</name>
-			<text>Whenever you discard a nonland card, create a token that&apos;s a copy of this creature.</text>
+			<text>Whenever you cast a noncreature spell, create a token that&apos;s a copy of this creature.</text>
 			<set rarity="rare" picurl="https://Capitalich.github.io/sets/ATC-files/img/409.png" num="248">ATC</set>
 			<prop>
 				<layout>normal</layout>
