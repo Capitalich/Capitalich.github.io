@@ -1,4 +1,877 @@
-﻿VERSION 68 CHANGELOG
+﻿VERSION 69 CHANGELOG
+====================
+
+
+
+Chalk Outline
+
+Confront the Forgotten
+
+Crabbit Familiar
+
+Crucible of Worlds
+
+Crystal Citadel
+
+Death's Metal
+
+Deed to The Treehouse
+
+Depleted Field
+
+Depressing Edict
+
+Destroy Evil
+
+The Dungeon Train
+
+Finn's Tower
+
+Elegiac Duet
+
+Frigid Caldera
+
+Goo Skulls
+
+Oozer Infestation
+
+Ice Plague
+
+Iced Lightning
+
+Jagged Crag
+
+Kick in the Boingloings
+
+Lumpy Space
+
+Me-Mow, Second Class
+
+Mama Jiggler
+
+Reign of Gunters
+
+Mountain Pass
+
+Out Sick
+
+Unlimited Party Energy
+
+Pillowtown
+rules_text: Vanishing 2 [i](This permanent enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Pillowtown leaves the battlefield, if it had no time counters on it, draw a card.
+{T}: Add one mana of any color. => Vanishing 2 [i](This land enters with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+When Pillowtown leaves the battlefield, if it had no time counters on it, draw a card.
+{T}: Add one mana of any color.
+
+Raid the Fridge
+
+Rampant Regrowth
+
+Reach Through Time
+
+Risen Horde
+
+Roughhousing
+
+Somatic Inversion
+
+Special Sentient Sandwiches
+
+Stuck Together
+
+Horror
+
+The Treehouse
+
+Duress
+
+Toothy Sword
+
+Vacant Valley
+
+Volcanic Vision
+
+Wizard City Po-Po
+
+Shady Lagoon
+
+Clearcut Patch
+
+Martin, Slippery Scoundrel
+
+Newborn Marauder
+rules_text: When this creature enters, each player sacrifices a nontoken creature.
+Blitz {4}{B} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i] => When this creature enters, each player sacrifices a nontoken creature.
+Blitz {4}{B} [i](If you cast this spell for its blitz cost, it gains haste and “When this creature dies, draw a card.” Sacrifice it at the beginning of the next end step.)[/i]
+
+Lich Hand
+
+Glassassin
+
+Ravenous Grumbo
+rules_text: Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, target creature an opponent controls gets -X/-X where X is this creature's power, then create half X Clue tokens, rounded down. => Devour 2 [i](As this creature enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, target creature an opponent controls gets -X/-X where X is this creature's power, then create half X Clue tokens, rounded down.
+
+Maja the Sky Witch
+
+Peppermint Butler
+
+Stylish Scorpion
+
+Tree Trunks
+
+Space Elves
+
+Mother Varmint
+
+Ice King
+
+Science Cat
+
+Choose Goose
+
+Con Wizard
+
+Unsettling Reproductions
+
+PB's Sweater
+
+Volcanic Tutor
+
+Weapon Head
+
+Shell Slinger
+
+Trail of Spoor
+
+Soul Suck
+
+Signature Slam
+
+Bear Emcee
+
+Sonic Blast
+
+Catalyst Comet
+
+Wrath of Grob Gob Glob Grod
+
+Lemonshrieker
+
+Fractal Regression
+
+Mass Surveillance
+
+Power Shriek
+
+Thalassophobia
+
+Breakfast Afterglow
+
+N.E.P.T.R.
+
+Flame Guards
+
+Ice Kingdom
+
+Library of Ooo
+
+Fabled Passage
+
+Son of Rap Bear
+
+Lich's Influence
+
+Hambo, Beloved Teddy
+
+Ghost Ship Vortex
+
+Mount Cragdor
+
+The Lich's Lair
+
+The Verdant Plains
+
+Death's Garden
+
+The Nightosphere
+
+Bandit Princess
+
+Turn to Seed
+
+Canyon, Billy's Ex
+
+Marceline, Vampire Queen
+
+Spider Spewing
+
+The Porcelain Lamb
+
+Gummy Bear
+
+Heroic Tutor
+
+Exhaustive Analysis
+
+Bronwyn, Skater Pup
+
+Hub Island
+
+Up-Ton
+
+Wiz Arts
+
+Junktown
+
+Box Kingdom
+
+Balmy Beach
+
+Gloomy Wetland
+
+Abyssal Hollow
+
+The Vampire King
+
+Dream Parasite
+
+Dancing Bug
+
+Grass Wizard
+
+Huntress Wizard
+
+Flame Jester
+
+Giuseppe's Signet
+
+Science, Sweet Familiar
+
+Earl of Lemongrab
+
+Probable Cause
+
+Seeded Digsite
+
+Mr. Cupcake
+
+Holotome
+
+Snooping Pastry
+
+Captive Research
+
+Overripe Banana Guards
+
+Dum Dum Juiced
+
+Inevitable Return
+
+Harrowing Premonition
+
+Grass Sword
+
+Eerie Onlooker
+
+Susan Strong, Seeker
+
+Knife Storm
+
+Nudumancer
+
+Blaze of Rage
+
+Strangle
+
+Psychic Stalemate
+
+Sabotage
+
+Duke of Nuts
+
+Breakfast in Bed
+
+Betty Grof, Magic Woman
+
+Ricardio, The Heart Guy
+
+Uncle Gumbald
+
+Flametongue Newt in Boots
+
+Up All Night Grinding
+
+Crystal Jailers
+
+Skyhooks
+
+Echo of Eons
+
+Shower Thoughts
+
+Magic Man, Transmografier
+
+Shadow Ritual
+
+Flame King
+
+Flamethrower
+
+Frightening Bolt
+
+50th Dead World
+
+Viral Outbreak
+
+Flute Duet
+
+Lyrical Duet
+
+String Duet
+
+Forge the Guardians
+
+Vespertine Vista
+
+Patience's Patient Plan
+
+Bucket Knight
+
+Nightmare Princess
+
+Blastronaut
+
+Ice Scouts
+
+Soul Stone
+
+Foodboys
+
+Frighten
+
+Tyranny to Transcendentalism
+
+Grapple with the Past
+
+Tiny Tiller
+
+Improvised Heroism
+
+Storytelling
+
+Gumcrafting
+
+Raggedy Princess
+
+Snow Golem
+
+Tiny, Micro Manticore
+
+Pond Nymphs
+
+Gunter, The First Bearer
+
+Giant Lemon Snail
+
+Lemoncrafting
+
+Unrelenting Raccoon
+
+Overstretch
+
+T.V., Pup Detective
+
+Shelby
+
+Jake, the Dog
+
+BMO, Little Wanderer
+
+Space Lard
+
+Bluescape
+
+Greenscape
+
+Redscape
+
+Whitescape
+
+Blackscape
+
+Hive of the Star
+
+Lub-Glubs
+
+Slumber Party
+
+Haphazard Excavation
+
+Old Wizards
+
+Bubblegum's Command
+
+The Morrow
+
+Next-Level Super Organism
+
+Lemonhope, Sour Savior
+
+Saltburn
+
+Giant Ant Creature
+
+Cadebra, Novice Magician
+
+Grassy Gatekeeper
+
+Party Pat
+
+Burn Down the Town
+
+Lady Rainicorn
+
+Bugbear Brawlers
+
+Grass Demon
+
+Darren, Ancient Sleeper
+
+Glass Boy
+
+Class Project
+
+The Enchiridion
+
+Viola, Aspiring Actress
+
+Jermaine, Abstract Artist
+
+Lumpy Space Princess
+
+Citric Oppression
+
+Syr Slicer
+
+Banana Man
+
+Hall of Egress
+
+Lurking Guardian
+
+Sea Lard
+
+Wolf Lard Pack
+
+Wildberry Princess
+
+Xergiok, The Flagelator
+
+Mo, Paternal Roboticist
+
+Starchy, the Gravedigger
+
+Spader Peterson, Star Pupil
+
+Warped Coyote
+
+Lemonjohn, Tart Titan
+
+Bufo, Former Dark Wizard
+
+Billy, Hero of Legend
+
+Wizard Streets
+
+Inquisitive Looting
+
+Fight King's Arena
+
+The Drift
+
+Sweet P, Precious Boy
+
+Grody Ghost
+
+Simon Petrikov
+type: Legendary Planeswalker — Simon => Emblem — Simon
+cost: {1}{U} => 
+rules_text: Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {0}.” => Abilities you activate cost {∞} less.
+special_text: Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {0}.” => 
+loyalty: 0 => 
+
+Catpile
+
+Devious Prank
+
+Floop the Pig
+
+Cripple
+
+Decapitate
+
+Feed the Swarm
+
+Snuff
+
+Searing Lick
+
+Banana Soloist
+
+Grapple
+
+New Death
+
+Gloat
+
+Frozen Blades
+
+Pulp Artist
+
+Royal Regiment
+
+Finn, Seasoned Adventurer
+
+DNA Seeker
+
+Aunt Lolly
+
+The Farm, Unwreckable
+
+Flame Lord's Greeting
+
+Well of Power
+
+Princess Bubblegum
+
+King of Ooo
+
+Boneyfly
+
+Radiation
+
+Glimpse the Multiverse
+
+Nuclear Fallout
+
+Mystic Virus
+
+Delivery Drone
+
+Chthonian Nightmare
+
+Risky Scrounging
+
+Mr. Pig
+
+Whisper Dan, The Silent King
+
+Olympus Mons
+
+Hot Dog Knights
+
+Marrow Muncher
+
+Ember Wolves
+
+Pull Down
+
+Malefic Tutor
+
+Tidal Wave
+
+Betty's Schemes
+
+Fiery Temper
+
+Dead World Descent
+
+GOLB, Entropy Manifest
+
+Thrumming Worm
+
+Wizardlings
+
+Saccharine Anthem
+
+Dad's Holomessage
+rules_text: When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card. => Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card.
+
+The Mother Gum
+
+Confounding Riddle
+
+Cousin Chicle
+
+Dr. Gross, Gene Splicer
+
+The Notorius Pup Gang
+
+Stasis Talismen
+rules_text: Flash 
+When this enchantment enters, exile target tapped creature until this enchantment leaves the battlefield.
+Vanishing 3 [i](This permanent enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i] => Flash 
+When this enchantment enters, exile target tapped creature until this enchantment leaves the battlefield.
+Vanishing 3 [i](This enchantment enters with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)[/i]
+
+Haughty Glassware
+
+Angler Lard
+
+Bureaucratic Burg
+
+Conjecture Beast
+
+Root Beer Guy
+
+The Lich
+
+Thunder Boar
+
+Fruit Witch
+
+Ruby Brain Beast
+
+Life, Soul Sculptor
+
+Manish Man
+
+Orb Wizard
+
+Octopolitician
+
+Grand Master Wizard
+
+Stickytongue Lizard
+
+Banana Guard 500
+
+Y5, Formerly Y4
+
+Bird Squadron
+
+Evil Ocean
+
+Finn Sword
+
+Firecrown Berserker
+
+Inquisitive Whywolf
+
+Finn, the Human
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Itchy-Butt Dragon
+
+Syr Rattleballs
+
+Entropic Amalgam
+
+Breezy, Reluctant Heir
+
+Honey Man
+
+Slime Princess
+
+Breakfast Princess
+
+Clown Nurse
+
+Simon Petrikov
+type: Emblem — Simon => Legendary Planeswalker — Simon
+cost:  => {1}{U}
+rules_text: Abilities you activate cost {∞} less. => Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {0}.”
+special_text:  => Simon enters with a number of loyalty counters equal to the number of relics you control.
+[+1]: Create a Clue token.
+[-3]: The next time you activate an ability this turn, copy it.
+[-10]: You get an emblem that says “Abilities you activate cost {0}.”
+loyalty:  => 0
+
+Sign Zombies
+
+Crab Demon
+
+Hateful Faeries
+
+Flame Princess
+
+Ghost Fly
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+
+Hair Ape
+
+Fionna Campbell
+
+Briberry
+
+Abraham Lincoln
+
+Jake Junior, Bohemian
+
+Charlie, Card Reader
+
+Muscle Princess
+
+Festive Nutler
+
+Elise, Ailing Mother
+
+Space Moth
+
+Bear
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Food
+
+Pacifism
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Music
+
+Detective
+
+Spider
+
+CANON MECHANICS
+rules_text: [b]DEVOUR X[/b] [i](As this enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As this enters the battlefield, you may sacrifice any number of CARDTYPEs. That creature enters the battlefield with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB {T}{S}{C}O[/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK {T}{S}{C}O[/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS {T}{S}{C}O[/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b] [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+[b]SCAVENGE {T}{S}{C}O[/b] [i]({T}{S}{C}O, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b] => [b]DEVOUR X[/b] [i](As that creature enters, you may sacrifice any number of creatures. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DEVOUR CARDTYPE X[/b] [i](As that creature enters, you may sacrifice any number of CARDTYPEs. That creature enters with X times that many +1/+1 counters on it.)[/i]
+[b]DISTURB {T}{S}{C}O[/b] [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+[b]FLASHBACK {T}{S}{C}O[/b] [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+[b]MADNESS {T}{S}{C}O[/b] [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+[b]RAD COUNTER[/b] [i](At the beginning of your precombat main phase, if you have any rad counters, mill that many cards. For each nonland card milled this way, you lose 1 life and a rad counter.)[/i]
+[b]SCAVENGE {T}{S}{C}O[/b] [i]({T}{S}{C}O, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i][/b]
+
+James Baxter, Good Dude
+
+Fealty to Bubblegum
+
+Varmint
+
+Kim Kil Whan, Landlord
+
+Royal Regiment
+
+Glassassin
+
+Patience's Patient Plan
+
+Patience's Patient Plan
+
+Wizard Streets
+
+CUSTOM MECHANICS
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+rules_text: Bundle 2 [i](When you draft this card, you get two additional copies.)[/i]
+When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card. => When this artifact enters, surveil 2.
+{2}, Sacrifice this artifact: Draw a card.
+
+Prismo, The Wishmaster
+
+Candy Soldier
+
+Candy Citizen
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+Space Elves
+
+Dad's Holomessage
+
+Cake
+
+
+VERSION 68 CHANGELOG
 ====================
 
 Cousin Chicle added.
