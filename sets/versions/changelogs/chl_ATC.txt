@@ -1,4 +1,247 @@
-﻿VERSION 69 CHANGELOG
+﻿VERSION 70 CHANGELOG
+====================
+
+Lich's Whisper added.
+
+Duress removed.
+Ruby Brain Beast removed.
+
+Canyon, Billy's Ex
+rules_text: Ward {2}
+When Canyon enters or attacks, you may cast target instant or sorcery with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. => Ward {2}
+When Canyon enters or attacks, you may cast target noncreature spell with mana value 3 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.
+
+Dum Dum Juiced
+rules_text: Destroy target creature. Creates a 1/1 white Candy Citizen creature tokens. => Destroy target creature. They create a 1/1 white Candy Citizen creature token.
+
+Bucket Knight
+rules_text: Trample
+{6}{G}{G}: Double this creature's power until end of turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and enchantments are relics.)[/i] => Trample
+{6}{G}: Double this creature's power and toughness until end of turn. This ability costs {1} less to activate for each relic you control. [i](Noncreature artifacts and enchantments are relics.)[/i]
+
+Pond Nymphs
+rules_text: Bestow {G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+{T}: Add one mana of any color. Activate only if Pond Nymphs is a creature.
+Enchanted creature gets +1/+1 and has “{T}: Add one mana of any color.” => Bestow {G} [i](If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached.)[/i]
+{T}: Add one mana of any color. Activate only if Pond Nymphs is a creature.
+Enchanted creature has “{T}: Add one mana of any color.”
+
+T.V., Pup Detective
+pt: 2/3 => 3/2
+
+Life, Soul Sculptor
+
+Manish Man
+
+Orb Wizard
+
+Octopolitician
+
+Grand Master Wizard
+
+Stickytongue Lizard
+
+Banana Guard 500
+
+Y5, Formerly Y4
+
+Bird Squadron
+
+Evil Ocean
+
+Finn Sword
+
+Firecrown Berserker
+
+Inquisitive Whywolf
+pt: 2/2 => 3/3
+
+Finn, the Human
+
+Wildberry Kingdom
+
+Castle Lemongrab
+
+Beautopia
+
+Slime Kingdom
+
+Death, Soul Gardener
+
+Wizard City
+
+Fire Kingdom
+
+Gumbaldia
+
+Glass Kingdom
+
+Candy Kingdom
+
+Breakfast Kingdom
+
+Itchy-Butt Dragon
+
+Syr Rattleballs
+
+Entropic Amalgam
+
+Breezy, Reluctant Heir
+
+Honey Man
+
+Slime Princess
+
+Breakfast Princess
+rules_text: [i]Snack[/i] — Whenever you gain your third life each turn, put a +1/+1 counter on each creature you control. => [i]Snack[/i] — Whenever you gain your third life each turn, creatures you control get +2/+2 and gain haste and trample until end of turn.
+
+Clown Nurse
+
+Simon Petrikov
+
+Sign Zombies
+
+Crab Demon
+
+Hateful Faeries
+
+Flame Princess
+
+Cinnamon Bun, Half Baked
+
+Scarab, God Auditor
+
+Hair Ape
+
+Fionna Campbell
+
+Briberry
+
+Abraham Lincoln
+
+Jake Junior, Bohemian
+
+Charlie, Card Reader
+
+Muscle Princess
+pt: 4/4 => 5/5
+
+Festive Nutler
+
+Space Moth
+
+Bear
+
+Goblin
+
+Vampire
+
+Bird Army
+
+Wizard
+
+Robot
+
+Coyote Mutant
+
+Spirit
+
+Elemental
+
+Food
+
+Pacifism
+
+Equipment
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Clue
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Treasure
+
+Music
+
+Detective
+
+Spider
+
+CANON MECHANICS
+
+James Baxter, Good Dude
+
+Fealty to Bubblegum
+
+Varmint
+
+Kim Kil Whan, Landlord
+
+Royal Regiment
+
+Glassassin
+
+Patience's Patient Plan
+
+Patience's Patient Plan
+
+Wizard Streets
+
+CUSTOM MECHANICS
+
+Petrikov's Descent
+
+Zombie
+
+Candy Giant
+
+Dad's Holomessage
+
+Prismo, The Wishmaster
+
+Candy Soldier
+
+Candy Citizen
+
+Wizard Streets
+
+TWO COLOR ARCHETYPES
+
+Space Elves
+
+Dad's Holomessage
+
+Cake
+
+Ghost Fly
+type: Creature — Insect Spirit => Enchantment Creature — Insect
+rules_text: Flying
+At the beginning of your first main phase, mill a card. If a noncreature, nonland card was milled this way, put a +1/+1 counter on this creature.
+Disturb {2}{U} => Bestow {2}{U}
+Flying
+At the beginning of your upkeep, mill a card. If a noncreature, nonland card was milled this way, put a +1/+1 counter on this permanent.
+Enchanted creature has flying and gets +1/+1 for each +1/+1 counter on this Aura.
+
+Elise, Ailing Mother
+rules_text: When Elise enters, surveil 2.
+Disturb {3} [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => When Elise enters, surveil 2.
+When Elise dies, return target land card from your graveyard to your hand.
+
+
+VERSION 69 CHANGELOG
 ====================
 
 
