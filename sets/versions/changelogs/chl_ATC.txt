@@ -1,4 +1,9 @@
-﻿VERSION 73 CHANGELOG
+﻿VERSION 74 CHANGELOG
+====================
+
+No changes.
+
+VERSION 73 CHANGELOG
 ====================
 
 No changes.
