@@ -1,4 +1,9 @@
-﻿VERSION 70 CHANGELOG
+﻿VERSION 71 CHANGELOG
+====================
+
+No changes.
+
+VERSION 70 CHANGELOG
 ====================
 
 Lich's Whisper added.
