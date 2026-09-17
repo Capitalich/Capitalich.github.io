@@ -1,4 +1,119 @@
-﻿VERSION 74 CHANGELOG
+﻿VERSION 75 CHANGELOG
+====================
+
+
+
+Reach Through Time
+rules_text: As an additional cost to cast this spell, sacrifice a relic.
+[i]Sentimental[/i] — Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in a random order. Discard a card unless the sacrificed permanent was legendary. => As an additional cost to cast this spell, sacrifice a relic. [i](Noncreature artifacts and enchantments are relics.)[/i]
+If a nontoken permanent was sacrificed, scry 5. 
+Draw two cards.
+
+Maja the Sky Witch
+rules_text: Flying
+[i]Sentimental[/i] — {3}{B}, {T}, Sacrifice a relic: Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value unless the sacrificed permanent was legendary. Activate only as a sorcery. => Flying
+{3}{B}, {T}, Sacrifice a relic: Return target creature card from your graveyard to the battlefield. You lose life equal to its mana value if the sacrificed permanent was a token. Activate only as a sorcery.
+
+Peppermint Butler
+cost: {B}{B}{B} => {1}{B}{B}
+rules_text: [i]Sentimental[/i] — {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed relic was legendary, untap Peppermint Butler.
+{B}{B}{B}{B}{B}{B}: Exile the top three cards of target player's library. You may cast a spell exiled this way without paying its mana cost. => {B}, {T}, Sacrifice a relic: Add {B}{B}{B}. If the sacrificed permanent was nontoken, untap Peppermint Butler.
+{B}{B}{B}{B}{B}{B}: Exile the top three cards of target player's library. You may cast a spell exiled this way without paying its mana cost.
+
+Con Wizard
+cost: {2}{U} => {1}{U}
+
+Son of Rap Bear
+rules_text: Whenever you cast a spell, create a Music token. [i](It's an enchantment with “{1}, Sacrifice this token: Exile the top card of your library. You may play that card this turn.”)[/i]
+Whenever you play a land from exile, each opponent loses 1 life for each spell you've cast this turn. => Whenever you cast a spell, Exile the top card of your library. You may play that card this turn.
+Whenever you play a land from exile, each opponent loses 1 life for each spell you've cast this turn.
+
+Gummy Bear
+rules_text: Candy creatures you control have vigilance.
+{4}{W}: Candy creatures you control get +1/+1 until end of turn. => Candy creatures you control have vigilance.
+{4}{W}: Creatures you control get +1/+1 until end of turn.
+
+Bronwyn, Skater Pup
+cost: {2}{R}{W} => {1}{R}{W}
+rules_text: During your turn, Bronwyn has flying.
+Whenever Bronwyn attacks, you may exile target nontoken, nonland permanent. For as long as that card remains in exile, its owner may cast it from exile without paying its mana cost. => Whenever Bronwyn attacks, choose one —
+• Put a +1/+1 counter on Bronwyn. She gains flying until end of turn.
+• Exile target nonland permanent. Return it to the battlefield under its owner's control at the beginning of the next end step.
+pt: 3/3 => 2/2
+
+Grass Sword
+rules_text: Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+When Grass Sword leaves your graveyard, return it to your hand. => Flash
+Enchant creature
+Enchanted creature gets +2/+2 and has trample.
+When Grass Sword leaves your graveyard, draw a card
+
+Blastronaut
+rules_text: When this creature enters, gear up. [i](Create a colorless Equipment artifact token with “Equipped creature gets +1/+1.” and Equip {2}.)[/i] => Trample
+
+Improvised Heroism
+rules_text: As an additional cost to cast this spell, sacrifice a relic. [i](Noncreature artifacts and enchantments are relics.)[/i]
+[i]Sentimental[/i] — Exile target creature or planeswalker. Its controller gains life equal to its power unless the sacrificed permanent was legendary. => As an additional cost to cast this spell, sacrifice a relic. [i](Noncreature artifacts and enchantments are relics.)[/i]
+Exile target creature or planeswalker. Its controller gains 3 life if a token was sacrificed this way.
+
+Gunter, The First Bearer
+rules_text: When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card unless you put a snow card into your hand this way. => When Gunter dies, reveal a card you own from outside the game and put it into your hand, then discard a card.
+
+Lemoncrafting
+rules_text: [i]Sentimental[/i] — At the beginning of your first main phase, sacrifice a relic. If you do, create a 2/2 white Candy Soldier creature token. If the sacrificed permanent was legendary, you gain 3 life. => At the beginning of your first main phase, sacrifice a relic. If you do, create a 2/2 white Candy Soldier creature token. If a nontoken permanent was sacrificed this way, you gain 3 life.
+
+Old Wizards
+rules_text: Flying
+Prowess
+Madness {2}{R}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Flying
+Prowess
+Madness {2}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+Jermaine, Abstract Artist
+rules_text: When Jermaine enters, create a tapped Treasure token.
+Treasures you control have “{T}: Add {C}.” => Treasures you control have “{T}: Add {C}.”
+
+Sweet P, Precious Boy
+pt: 3/5 => 6/6
+
+Dr. Gross, Gene Splicer
+rules_text: Pay 1 life, Sacrifice another creature: Draw a card.
+{3}, Discard a card, Exile two creatures from your graveyard: Create a tapped token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card. => Pay 1 life, Sacrifice another creature: Draw a card.
+Pay 3 life, Discard a card, Exile two creature cards from your graveyard: Create a tapped token copy of one of the exiled cards except it has base power and toughness equal to the other exiled card.
+
+Haughty Glassware
+
+Manish Man
+
+Evil Ocean
+rules_text: Defender
+As long as you've cast a noncreature spell this turn, this creature can attack as though it didn't have defender. => Defender
+Discard a card: This creature can attack as though it didn't have defender until end of turn.
+
+Syr Rattleballs
+cost: {3}{W} => {2}{W}
+
+Breezy, Reluctant Heir
+cost: {W} => {1}{W}
+pt: 1/1 => 2/1
+
+Flame Princess
+
+Hair Ape
+cost: {1}{R} => {2}{R}
+pt: 2/1 => 3/2
+
+James Baxter, Good Dude
+cost: {1}{R}{W} => {R}{W}
+rules_text: Creature tokens you control get +1/+1. => [i]Adventurous[/i] — Whenever a permanent with an adventure enters under your control, roll a d20.
+[b]1-7 [/b]| Create two 1/1 red Goblin creature tokens.
+[b]8-14 [/b]| Create a 2/2 green Bear creature token.
+[b]15-20 [/b]| Create a 2/1 red Wizard creature token with prowess.
+
+
+VERSION 74 CHANGELOG
 ====================
 
 No changes.
